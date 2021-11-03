@@ -1,0 +1,38 @@
+module Bot::DiscordCommands
+    module Monsters
+      extend Discordrb::Commands::CommandContainer
+
+      command :Rebidiora do |msg|
+        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/63/FrontierGen-Rebidiora_Render_002.png/revision/latest?cb=20140404222258"
+    msg.respond "**Name:** Rebidiora / レビディオラ
+    **Title:** Thunder Pole Dragon / 雷極龍
+    **Rank:** G-Rank
+    **Weak to:** Water <:zwater:902635559967686756>, Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
+    **Ailments:** Magnet <:zmagnet:902638765477068882>
+    **Elements:** Thunder Pole <:zthunder:902635597305372752> <:zdragon:902635658819018783>
+    **Weak Spots:** ```
+    \n                                Standard
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Head          40    60     40      0      35     0    15    15   100  
+    \n   Belly         25    30     35      0       5     0     5    15     0  
+    \n   Back          30    25     35      0      10     0    10    10     0  
+    \n   Tail          55    35     45      0      10     0    35    15     0  
+    \n   Forelegs      30    30     30      0      15     0     5    15     0  
+    \n   Hindlegs      35    45     30      0       5     0    30    15     0  
+    \n   Wings         45    35     35      0      30     0    15    10     0   
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n                               Magnetised
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Head          40    60     40      0      35     0    15    15   100  
+    \n   Belly         25    30     35      0       5     0     5    15     0  
+    \n   Back          30    25     35      0      10     0    10    10     0  
+    \n   Tail          55    35     45      0      10     0    35    15     0  
+    \n   Forelegs      30    30     30      0      15     0     5    15     0  
+    \n   Hindlegs      35    45     30      0       5     0    30    15     0  
+    \n   Wings         45    35     35      0      30     0    15    10     0 
+    ```"
+      end
+    end
+end
