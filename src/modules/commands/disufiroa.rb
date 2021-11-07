@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Disufiroa do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Disufiroa_Render_001.png/revision/latest?cb=20140404221621"
-    msg.respond "**Name:** Disufiroa / ディスフィロア (Disufiroa)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Disufiroa_Render_001.png/revision/latest?cb=20140404221621"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200727779696700/disufiroa.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Disufiroa / ディスフィロア (Disufiroa)
     **Title:** Frozen Seraphim Dragon / 熾凍龍
     **Rank:** G-Rank-Conquest
     **Weak to:** Fire <:zfire:902602768525717534> on Tail, Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>

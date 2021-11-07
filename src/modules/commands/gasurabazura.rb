@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gasurabazura do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b1/FrontierGen-Gasurabazura_Render_001.png/revision/latest?cb=20150722093611"
-    msg.respond "**Name:** Gasurabazura / ガスラバズラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b1/FrontierGen-Gasurabazura_Render_001.png/revision/latest?cb=20150722093611"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207752894959678/gasurabazura.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gasurabazura / ガスラバズラ
     **Title:** Angry Appearance Wyvern / 怒貌竜
     **Rank:** HR5-Goushu
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gasurabazura_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7b/FrontierGen-Gasurabazura_Render_002.png/revision/latest?cb=20150722092854"
-    msg.respond "**Name:** Gasurabazura / ガスラバズラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7b/FrontierGen-Gasurabazura_Render_002.png/revision/latest?cb=20150722092854"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207752894959678/gasurabazura.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gasurabazura / ガスラバズラ
     **Title:** Angry Appearance Wyvern / 怒貌竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

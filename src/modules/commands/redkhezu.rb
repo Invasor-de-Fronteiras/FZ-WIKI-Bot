@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Red_Khezu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0d/MHF1-Red_Khezu_Render_001_%28Edited%29.png/revision/latest?cb=20140114145511"
-    msg.respond "**Name:** Red Khezu / フルフル（亜種）(Furufuru Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0d/MHF1-Red_Khezu_Render_001_%28Edited%29.png/revision/latest?cb=20140114145511"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Red Khezu / フルフル（亜種）(Furufuru Ashu)
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Red_Khezu_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/FrontierGen-HC_Red_Khezu_Render_001.png/revision/latest?cb=20131225224806"
-    msg.respond "**Name:** Red Khezu / フルフル（亜種）(Furufuru Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/FrontierGen-HC_Red_Khezu_Render_001.png/revision/latest?cb=20131225224806"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Red Khezu / フルフル（亜種）(Furufuru Ashu)
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR5
     **Weak to:** Water <:zwater:902635559967686756
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```" 
       end
       command :Red_Khezu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/MH4-Red_Khezu_Render_001.png/revision/latest?cb=20140106095810"
-    msg.respond "**Name:** Red Khezu / フルフル（亜種）(Furufuru Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/MH4-Red_Khezu_Render_001.png/revision/latest?cb=20140106095810"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Red Khezu / フルフル（亜種）(Furufuru Ashu)
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756

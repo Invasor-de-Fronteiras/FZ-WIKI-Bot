@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Shen_Gaoren do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
-    msg.respond "**Name:** Shen Gaoren / シェンガオレン
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906278047190253578/shengaoren.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shen Gaoren / シェンガオレン
     **Title:** Fortress Crab / 砦蟹
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Shen_Gaoren_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
-    msg.respond "**Name:** Shen Gaoren / シェンガオレン
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906277888704270406/shengaorenhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shen Gaoren / シェンガオレン
     **Title:** Fortress Crab / 砦蟹
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>

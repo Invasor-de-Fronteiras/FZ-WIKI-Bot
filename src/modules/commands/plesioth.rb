@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Plesioth do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9f/2ndGen-Plesioth_Render_001.png/revision/latest?cb=20150304005157"
-    msg.respond "**Name:** Plesioth / ガノトトス (Ganototosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9f/2ndGen-Plesioth_Render_001.png/revision/latest?cb=20150304005157"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256156962459668/plesioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Plesioth / ガノトトス (Ganototosu)
     **Title:** Water Wyvern / 水竜
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Plesioth_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/48/FrontierGen-HC_Plesioth_Render_001_%28Edited%29.png/revision/latest?cb=20140115184648"
-    msg.respond "**Name:** Plesioth / ガノトトス (Ganototosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/48/FrontierGen-HC_Plesioth_Render_001_%28Edited%29.png/revision/latest?cb=20140115184648"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256420943593512/plesiothhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Plesioth / ガノトトス (Ganototosu)
     **Title:** Water Wyvern / 水竜
     **Rank:** HR5
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Plesioth_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-Plesioth_Render_001.png/revision/latest?cb=20140118120510"
-    msg.respond "**Name:** Plesioth / ガノトトス (Ganototosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-Plesioth_Render_001.png/revision/latest?cb=20140118120510"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256156962459668/plesioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Plesioth / ガノトトス (Ganototosu)
     **Title:** Water Wyvern / 水竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>

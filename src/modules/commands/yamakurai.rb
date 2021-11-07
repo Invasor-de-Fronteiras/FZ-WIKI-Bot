@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Yamakurai do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/33/FrontierGen-Yama_Kurai_Render_001.png/revision/latest?cb=20150722092130"
-    msg.respond "**Name:** Yamakurai / ヤマクライ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/33/FrontierGen-Yama_Kurai_Render_001.png/revision/latest?cb=20150722092130"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yamakurai / ヤマクライ
     **Title:** Floating Peak Dragon / 浮峰龍
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -47,8 +49,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Yamakurai_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/13/Yama_Kurai.png/revision/latest?cb=20200319133104"
-    msg.respond "**Name:** Yamakurai / ヤマクライ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/13/Yama_Kurai.png/revision/latest?cb=20200319133104"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yamakurai / ヤマクライ
     **Title:** Floating Peak Dragon / 浮峰龍
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534>

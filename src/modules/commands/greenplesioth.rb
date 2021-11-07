@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Green_Plesioth do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/MH3U-Green_Plesioth_Render_001.png/revision/latest?cb=20130127182555"
-    msg.respond "**Name:** Green Plesioth / ガノトトス亜種 (Ganototosu Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/MH3U-Green_Plesioth_Render_001.png/revision/latest?cb=20130127182555"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906213487309647922/greenplesioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Green Plesioth / ガノトトス亜種 (Ganototosu Ashu)
     **Title:** Green Water Wyvern / 翠水竜
     **Rank:** HR1-4
     **Weak to:** Ice <:zice:902635629471469638> and Thunder <:zthunder:902635597305372752>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Green_Plesioth_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Green_Plesioth_Render_001.png/revision/latest?cb=20150411025452"
-    msg.respond "**Name:** Green Plesioth / ガノトトス亜種 (Ganototosu Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Green_Plesioth_Render_001.png/revision/latest?cb=20150411025452"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906213487309647922/greenplesioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Green Plesioth / ガノトトス亜種 (Ganototosu Ashu)
     **Title:** Green Water Wyvern / 翠水竜
     **Rank:** HR5
     **Weak to:** Ice <:zice:902635629471469638> and Thunder <:zthunder:902635597305372752>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Green_Plesioth_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Green_Plesioth_Render_001.png/revision/latest?cb=20150411025452"
-    msg.respond "**Name:** Green Plesioth / ガノトトス亜種 (Ganototosu Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Green_Plesioth_Render_001.png/revision/latest?cb=20150411025452"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906213487309647922/greenplesioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Green Plesioth / ガノトトス亜種 (Ganototosu Ashu)
     **Title:** Green Water Wyvern / 翠水竜
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638> and Thunder <:zthunder:902635597305372752>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gogomoa do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Gogomoa_Render_001.png/revision/latest?cb=20140106201408"
-    msg.respond "**Name:** Gogomoa / ゴゴモア (Gogomoa)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Gogomoa_Render_001.png/revision/latest?cb=20140106201408"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gogomoa / ゴゴモア (Gogomoa)
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
@@ -41,8 +43,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gogomoa_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-HC_Gogomoa_Render_001.png/revision/latest?cb=20140821070646"
-    msg.respond "**Name:** Gogomoa / ゴゴモア (Gogomoa)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-HC_Gogomoa_Render_001.png/revision/latest?cb=20140821070646"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gogomoa / ゴゴモア (Gogomoa)
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
@@ -79,8 +83,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gogomoa_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Gogomoa_Render_002.png/revision/latest?cb=20140106195051"
-    msg.respond "**Name:** Gogomoa / ゴゴモア (Gogomoa)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Gogomoa_Render_002.png/revision/latest?cb=20140106195051"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gogomoa / ゴゴモア (Gogomoa)
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)

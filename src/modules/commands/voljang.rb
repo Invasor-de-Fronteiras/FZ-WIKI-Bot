@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Voljang do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
-    msg.respond "**Name:** Voljang / ヴォージャン (Vu~ōjan)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906294032085434439/voljang.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Voljang / ヴォージャン (Vu~ōjan)
     **Title:** Crimson Lotus Lion / 紅蓮獅子
     **Rank:** HR5-Goushu
     **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
@@ -31,8 +33,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Voljang_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
-    msg.respond "**Name:** Voljang / ヴォージャン (Vu~ōjan)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906294032085434439/voljang.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Voljang / ヴォージャン (Vu~ōjan)
     **Title:** Crimson Lotus Lion / 紅蓮獅子
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>

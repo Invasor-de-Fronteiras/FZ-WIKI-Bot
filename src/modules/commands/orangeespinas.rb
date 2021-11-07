@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Orange_Espinas do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6c/FrontierGen-Espinas_Subspecies_Render_001.png/revision/latest?cb=20140906061556"
-    msg.respond "**Name:** Orange Espinas / エスピナス亜種
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6c/FrontierGen-Espinas_Subspecies_Render_001.png/revision/latest?cb=20140906061556"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906242249665413190/orangeespinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Orange Espinas / エスピナス亜種
     **Title:** Brown Thorn Wyvern / 棘茶竜
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756>
@@ -47,8 +49,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Orange_Espinas_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/38/FrontierGen-HC_Espinas_Subspecies_Render_001_%28Edited%29.png/revision/latest?cb=20140113192403"
-    msg.respond "**Name:** Orange Espinas / エスピナス亜種
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/38/FrontierGen-HC_Espinas_Subspecies_Render_001_%28Edited%29.png/revision/latest?cb=20140113192403"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906242249665413190/orangeespinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Orange Espinas / エスピナス亜種
     **Title:** Brown Thorn Wyvern / 棘茶竜
     **Rank:** HR5
     **Weak to:** Water <:zwater:902635559967686756>
@@ -91,8 +95,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Orange_Espinas_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Espinas_Subspecies_Render_002.png/revision/latest?cb=20151208205830"
-    msg.respond "**Name:** Orange Espinas / エスピナス亜種
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Espinas_Subspecies_Render_002.png/revision/latest?cb=20151208205830"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906242249665413190/orangeespinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Orange Espinas / エスピナス亜種
     **Title:** Brown Thorn Wyvern / 棘茶竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

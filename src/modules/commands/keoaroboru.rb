@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Keoaruboru do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-Keoaruboru_Render_001.png/revision/latest?cb=20170120045811"
-    msg.respond "**Name:** Keoaruboru / ケオアルボル
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-Keoaruboru_Render_001.png/revision/latest?cb=20170120045811"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906223325787877416/keoaruboru.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Keoaruboru / ケオアルボル
     **Title:** Blazing Peak Dragon / 焔嶽龍
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>

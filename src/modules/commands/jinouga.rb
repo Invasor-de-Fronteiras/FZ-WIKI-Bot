@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Jinouga do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/FrontierGen-Zinogre_Render_001.png/revision/latest?cb=20150722093909"
-    msg.respond "**Name:** Jinouga / Zinogre / ジンオウガ
+        #msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/FrontierGen-Zinogre_Render_001.png/revision/latest?cb=20150722093909"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906221323074818059/zinogre.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Jinouga / Zinogre / ジンオウガ
     **Title:** Thunder Wolf Wyvern / 雷狼竜
     **Rank:** HR5-Exotic
     **Weak to:** Ice <:zice:902635629471469638>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Jinouga_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHP3-Zinogre_Render_004.png/revision/latest?cb=20150722094135"
-    msg.respond "**Name:** Jinouga / Zinogre / ジンオウガ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHP3-Zinogre_Render_004.png/revision/latest?cb=20150722094135"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906221323074818059/zinogre.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Jinouga / Zinogre / ジンオウガ
     **Title:** Thunder Wolf Wyvern / 雷狼竜
     **Rank:** G-Rank-Exotic
     **Weak to:** Ice <:zice:902635629471469638>

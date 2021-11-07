@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gureadomosu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Gureadomosu_Render_001.png/revision/latest?cb=20150411043939"
-    msg.respond "**Name:** Gureadomosu / グレアドモス (Gureadomosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Gureadomosu_Render_001.png/revision/latest?cb=20150411043939"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215006255865906/gureadomosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gureadomosu / グレアドモス (Gureadomosu)
     **Title:** Water Fortress Wyvern / 水砦竜
     **Rank:** HR5-Goushu
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gureadomosu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-Gureadomosu_Render_002.png/revision/latest?cb=20150411043443"
-    msg.respond "**Name:** Gureadomosu / グレアドモス (Gureadomosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-Gureadomosu_Render_002.png/revision/latest?cb=20150411043443"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215006255865906/gureadomosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gureadomosu / グレアドモス (Gureadomosu)
     **Title:** Water Fortress Wyvern / 水砦竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :White_Monoblos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/MHF1-White_Monoblos_Render_001_%28Edited%29.png/revision/latest?cb=20140112111447"
-    msg.respond "**Name:** White Monoblos / モノブロス亜種 Monoburosu Ashu
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/MHF1-White_Monoblos_Render_001_%28Edited%29.png/revision/latest?cb=20140112111447"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296709821378600/whitemonoblos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** White Monoblos / モノブロス亜種 Monoburosu Ashu
     **Title:** White One Horn Wyvern / 白一角竜
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :White_Monoblos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-HC_White_Monoblos_Render_001.png/revision/latest?cb=20150722095234"
-    msg.respond "**Name:** White Monoblos / モノブロス亜種 Monoburosu Ashu
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-HC_White_Monoblos_Render_001.png/revision/latest?cb=20150722095234"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296709821378600/whitemonoblos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** White Monoblos / モノブロス亜種 Monoburosu Ashu
     **Title:** White One Horn Wyvern / 白一角竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752>

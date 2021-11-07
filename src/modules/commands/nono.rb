@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Nono do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c6/FrontierGen-Nono_Orugaron_Render_001.png/revision/latest?cb=20140906043219"
-    msg.respond "**Name:** Nono Orugaron / ノノ・オルガロン (Nono Orugaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c6/FrontierGen-Nono_Orugaron_Render_001.png/revision/latest?cb=20140906043219"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240846662336512/nonoorugaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Nono Orugaron / ノノ・オルガロン
     **Title:** Female Sound Wolf / 雌響狼 (Shikyōrō)
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756>
@@ -41,8 +43,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Nono_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6d/FrontierGen-HC_Nono_Orugaron_Render_001.png/revision/latest?cb=20140810165236"
-    msg.respond "**Name:** Nono Orugaron / ノノ・オルガロン (Nono Orugaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6d/FrontierGen-HC_Nono_Orugaron_Render_001.png/revision/latest?cb=20140810165236"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240846662336512/nonoorugaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Nono Orugaron / ノノ・オルガロン
     **Title:** Female Sound Wolf / 雌響狼 (Shikyōrō)
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756>
@@ -79,8 +83,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Nono_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0b/FrontierGen-Nono_Orugaron_Render_002.png/revision/latest?cb=20140906044820"
-    msg.respond "**Name:** Nono Orugaron / ノノ・オルガロン (Nono Orugaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0b/FrontierGen-Nono_Orugaron_Render_002.png/revision/latest?cb=20140906044820"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240846662336512/nonoorugaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Nono Orugaron / ノノ・オルガロン
     **Title:** Female Sound Wolf / 雌響狼 (Shikyōrō)
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Gasurabazura do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/Frontier_Gen-Zenith_Gasurabazura_Render_001.png/revision/latest?cb=20180406162212"
-    msg.respond "**Name:** Zenith Gasurabazura / 辿異種ガスラバズラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/Frontier_Gen-Zenith_Gasurabazura_Render_001.png/revision/latest?cb=20180406162212"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906339632898244618/zenith_gasurabazura.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Gasurabazura / 辿異種ガスラバズラ
     **Title:** Angry Appearance Wyvern / 怒貌竜
     **Rank:** Zenith
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

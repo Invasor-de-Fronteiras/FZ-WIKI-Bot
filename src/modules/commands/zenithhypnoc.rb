@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Hypnoc do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/76/FrontierGen-Zenith_Hypnocatrice_Render_001.png/revision/latest?cb=20160909114532"
-    msg.respond "**Name:** Zenith Hypnocatrice / 辿異種ヒプノック
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/76/FrontierGen-Zenith_Hypnocatrice_Render_001.png/revision/latest?cb=20160909114532"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906343300385103912/zenith_hypnoc.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Hypnocatrice / 辿異種ヒプノック
     **Title:** Sleep Bird / 眠鳥
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:902602768525717534>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :White_Hypnoc do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20140906074340"
-    msg.respond "**Name:** White Hypnoc / Silver Hypnocatrice / ヒプノック希少種 (Hipunokku Kishō-shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20140906074340"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296200939077662/whitehypnoc.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** White Hypnoc / Silver Hypnocatrice / ヒプノック希少種 (Hipunokku Kishō-shu)
     **Title:** Pale Sleep Bird / 蒼白眠鳥
     **Rank:** HR1-4
     **Weak to:** Ice <:zice:902635629471469638>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :White_Hypnoc_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-HC_Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20151208205956"
-    msg.respond "**Name:** White Hypnoc / Silver Hypnocatrice / ヒプノック希少種 (Hipunokku Kishō-shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-HC_Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20151208205956"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296200939077662/whitehypnoc.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** White Hypnoc / Silver Hypnocatrice / ヒプノック希少種 (Hipunokku Kishō-shu)
     **Title:** Pale Sleep Bird / 蒼白眠鳥
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638>

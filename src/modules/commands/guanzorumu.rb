@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Guanzorumu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
-    msg.respond "**Name:** Guanzorumu / グァンゾルム
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906214457926107136/guanzorumu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Guanzorumu / グァンゾルム
     **Title:** Emperor Conqueror Dragon / 帝征龍
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
@@ -58,8 +60,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Guanzorumu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
-    msg.respond "**Name:** Guanzorumu / グァンゾルム
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906214457926107136/guanzorumu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Guanzorumu / グァンゾルム
     **Title:** Emperor Conqueror Dragon / 帝征龍
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

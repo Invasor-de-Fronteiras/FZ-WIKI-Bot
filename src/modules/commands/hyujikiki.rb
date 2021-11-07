@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Hyujikiki do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/FrontierGen-Hyujikiki_Render_003.png/revision/latest?cb=20140118104433"
-    msg.respond "**Name:** Hyujikiki / ヒュジキキ (Hyujikiki)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/FrontierGen-Hyujikiki_Render_003.png/revision/latest?cb=20140118104433"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906219098394996756/hyujikiki.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Hyujikiki / ヒュジキキ (Hyujikiki)
     **Title:** Needle Wyvern / 針纏竜
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>

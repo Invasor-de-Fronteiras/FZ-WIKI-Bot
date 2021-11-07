@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Taikun_Zamuza do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7d/FrontierGen-Zenith_Taikun_Zamuza_Render_001.png/revision/latest?cb=20190123052633"
-    msg.respond "**Name:** Zenith Taikun Zamuza / 辿異種タイクンザムザ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7d/FrontierGen-Zenith_Taikun_Zamuza_Render_001.png/revision/latest?cb=20190123052633"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906347994524319754/zenith_taikunzamuza.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Taikun Zamuza / 辿異種タイクンザムザ
     **Title:** Multi-Shell Crab / 多殻蟹
     **Rank:** Zenith
     **Weak to:** Ice <:zice:902635629471469638> and Fire <:zfire:902602768525717534> (1st Form), Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638> (2nd Form)

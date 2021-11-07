@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Blangonga do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/FrontierGen-Zenith_Blangonga_Render_001.png/revision/latest?cb=20161105125122"
-    msg.respond "**Name:** Zenith Blangonga / 辿異種ドドブランゴ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/FrontierGen-Zenith_Blangonga_Render_001.png/revision/latest?cb=20161105125122"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906332481245020190/zenith_blangonga.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Blangonga / 辿異種ドドブランゴ
     **Title:** Snow Lion / 雪獅子
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:902602768525717534>

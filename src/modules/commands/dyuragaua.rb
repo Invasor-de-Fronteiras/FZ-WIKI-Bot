@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Dyuragaua do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/21/FrontierGen-Dyuragaua_Render_001.png/revision/latest?cb=20140903215114"
-    msg.respond "**Name:** Dyuragaua / デュラガウア (Dyuragaua)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/21/FrontierGen-Dyuragaua_Render_001.png/revision/latest?cb=20140903215114"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906203003650990190/dyuragaua.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Dyuragaua / デュラガウア (Dyuragaua)
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
@@ -47,8 +49,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Dyuragaua_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/99/FrontierGen-HC_Dyuragaua_Render_001.png/revision/latest?cb=20140902025350"
-    msg.respond "**Name:** Dyuragaua / デュラガウア (Dyuragaua)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/99/FrontierGen-HC_Dyuragaua_Render_001.png/revision/latest?cb=20140902025350"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906203003650990190/dyuragaua.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Dyuragaua / デュラガウア (Dyuragaua)
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** HR5
     **Weak to:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
@@ -91,8 +95,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Dyuragaua_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/FrontierGen-Dyuragaua_Render_003.png/revision/latest?cb=20140906015649"
-    msg.respond "**Name:** Dyuragaua / デュラガウア (Dyuragaua)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/FrontierGen-Dyuragaua_Render_003.png/revision/latest?cb=20140906015649"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906203003650990190/dyuragaua.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Dyuragaua / デュラガウア (Dyuragaua)
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>

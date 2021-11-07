@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Mi_Ru do |msg|
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904048955141283870/8a224a1cgy1gbu04xc28qj20px0c50vh-removebg-preview.png"
-        msg.respond "**Name:** Mysterious Mi Ru / 妖し化けるミ・ル
+        # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904048955141283870/8a224a1cgy1gbu04xc28qj20px0c50vh-removebg-preview.png"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906232698488631296/miru.png"
+        msg.respond "***Based on Cutting Damage! Hybrid Mode (White)***
+        **Name:** Mysterious Mi Ru / 妖し化けるミ・ル
     **Title:** Black Fox Wyvern / 黒狐竜
     **Rank:** Musou
     **Weak to:** Fire <:zfire:902602768525717534> (Fore Arms), Water <:zwater:902635559967686756> (Rear Legs), Thunder <:zthunder:902635597305372752> (Spine), Ice <:zice:902635629471469638> (Belly) and Dragon <:zdragon:902635658819018783> (Tail)

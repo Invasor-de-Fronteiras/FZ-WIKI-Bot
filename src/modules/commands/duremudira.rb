@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Duremudira do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/13/FrontierGen-Duremudira_Render_001.png/revision/latest?cb=20150710093248"
-    msg.respond "**Name:** Duremudira / ドゥレムディラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/13/FrontierGen-Duremudira_Render_001.png/revision/latest?cb=20150710093248"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906202147002138724/duremudirafirstdistrict.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Duremudira / ドゥレムディラ
     **Title:** Guardian of Sky Corridor / 天廊の番人
     **Rank:** G-Rank-Road and Tower
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>

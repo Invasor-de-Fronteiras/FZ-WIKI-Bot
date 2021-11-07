@@ -2,11 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Musou_Bogabadorumu do |msg|
-        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Peerless_Bogabadorumu_Render_001.png/revision/latest?cb=20190620102327"
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906694991609470996/musou_bogabadorumu.png"
+      command :Bogabadorumu do |msg|
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/de/FrontierGen-Bogabadorumu_Render_001.png/revision/latest?cb=20180914110330"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906694377525612614/zenith_bogabadorumu.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Bombardier Bogabadorumu / 極み襲うボガバドルム
+    **Name:** Bogabadorumu / ボガバドルム
     **Title:** Explosive Mist Wyvern / 爆霧竜
     **Rank:** Zenith
     **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
@@ -22,7 +22,7 @@ module Bot::DiscordCommands
     \n   Belly         25    30     15      5      15    10     5    10     0  
     \n   Forelegs      20    20     15      5      15    10     5    20     0  
     \n   Hindlegs      10    15     15      5      10    10     5     5     0  
-    \n   Tail          25    15     20      5      15    10     5    20     0      
+    \n   Tail          25    15     20      5      15    10     5    20     0     
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
     \n               Part destroyed or after triggering a blast				
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Silver_Rathalos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/MHF1-Silver_Rathalos_Render_001.png/revision/latest?cb=20150303050317"
-    msg.respond "**Name:** Silver Rathalos / リオレウス希少種 (Rioreusu Kishou Shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/MHF1-Silver_Rathalos_Render_001.png/revision/latest?cb=20150303050317"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282943486521414/silverrathalos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Silver Rathalos / リオレウス希少種 (Rioreusu Kishou Shu)
     **Title:** Silver Fire Wyvern / 銀火竜
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Silver_Rathalos_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-HC_Silver_Rathalos_Render_002.png/revision/latest?cb=20140423213326"
-    msg.respond "**Name:** Silver Rathalos / リオレウス希少種 (Rioreusu Kishou Shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-HC_Silver_Rathalos_Render_002.png/revision/latest?cb=20140423213326"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906283177444782172/silverrathaloshr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Silver Rathalos / リオレウス希少種 (Rioreusu Kishou Shu)
     **Title:** Silver Fire Wyvern / 銀火竜
     **Rank:** HR5
     **Weak to:** Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Silver_Rathalos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/MH4-Silver_Rathalos_Render_001.png/revision/latest?cb=20140116225450"
-    msg.respond "**Name:** Silver Rathalos / リオレウス希少種 (Rioreusu Kishou Shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/MH4-Silver_Rathalos_Render_001.png/revision/latest?cb=20140116225450"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282943486521414/silverrathalos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Silver Rathalos / リオレウス希少種 (Rioreusu Kishou Shu)
     **Title:** Silver Fire Wyvern / 銀火竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>

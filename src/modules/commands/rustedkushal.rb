@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Rusted_Kushal do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/2ndGen-Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20150303073214"
-    msg.respond "**Name:** Rusted Kushala Daora / 錆びたクシャルダオラ (Sabita Kusharudaora)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/2ndGen-Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20150303073214"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267015839379466/rustedkushaladaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rusted Kushala Daora / 錆びたクシャルダオラ (Sabita Kusharudaora)
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rusted_Kushal_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20140906152602"
-    msg.respond "**Name:** Rusted Kushala Daora / 錆びたクシャルダオラ (Sabita Kusharudaora)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20140906152602"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267015839379466/rustedkushaladaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rusted Kushala Daora / 錆びたクシャルダオラ (Sabita Kusharudaora)
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

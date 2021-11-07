@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Doragyurosu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Doragyurosu_Render_001.png/revision/latest?cb=20140903210832"
-    msg.respond "**Name:** Doragyurosu / ドラギュロス (Doragyurosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Doragyurosu_Render_001.png/revision/latest?cb=20140903210832"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906201564379754556/doragyurosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Doragyurosu / ドラギュロス (Doragyurosu)
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Doragyurosu_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/05/FrontierGen-Supremacy_Doragyurosu_Render_001.png/revision/latest?cb=20140821081442"
-    msg.respond "**Name:** Doragyurosu / ドラギュロス (Doragyurosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/05/FrontierGen-Supremacy_Doragyurosu_Render_001.png/revision/latest?cb=20140821081442"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906201564379754556/doragyurosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Doragyurosu / ドラギュロス (Doragyurosu)
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** HR5-Supremacy
     **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
@@ -90,8 +94,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Doragyurosu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f0/FrontierGen-HC_Doragyurosu_Render_001.png/revision/latest?cb=20140831213142"
-    msg.respond "**Name:** Doragyurosu / ドラギュロス (Doragyurosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f0/FrontierGen-HC_Doragyurosu_Render_001.png/revision/latest?cb=20140831213142"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906201564379754556/doragyurosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Doragyurosu / ドラギュロス (Doragyurosu)
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>

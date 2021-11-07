@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zerureusu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bd/FrontierGen-Zerureusu_Render_001.png/revision/latest?cb=20140324133444"
-    msg.respond "**Name:** Zerureusu / ゼルレウス (Zerureusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bd/FrontierGen-Zerureusu_Render_001.png/revision/latest?cb=20140324133444"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906351342841368646/zerureusu.png"
+    msg.respond "***Based on Cutting Damage! Adapted to Cut***
+    **Name:** Zerureusu / ゼルレウス (Zerureusu)
     **Title:** Bright Field Wyvern / 輝界竜
     **Rank:** HR5-Goushu
     **Weak to:** Darkness and Dragon <:zdragon:902635658819018783>
@@ -58,8 +60,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Zerureusu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Zerureusu_Render_003.png/revision/latest?cb=20140404222842"
-    msg.respond "**Name:** Zerureusu / ゼルレウス (Zerureusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Zerureusu_Render_003.png/revision/latest?cb=20140404222842"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906351342841368646/zerureusu.png"
+    msg.respond "***Based on Cutting Damage! Adapted to Cut***
+    **Name:** Zerureusu / ゼルレウス (Zerureusu)
     **Title:** Bright Field Wyvern / 輝界竜
     **Rank:** G-Rank
     **Weak to:** Darkness and Dragon <:zdragon:902635658819018783>

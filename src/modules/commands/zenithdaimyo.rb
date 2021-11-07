@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Daimyo do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d8/FrontierGen-Zenith_Daimyo_Hermitaur_Render_001.png/revision/latest?cb=20160909135003"
-    msg.respond "**Name:** Zenith Daimyo Hermitaur / 辿異種ダイミョウザザミ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d8/FrontierGen-Zenith_Daimyo_Hermitaur_Render_001.png/revision/latest?cb=20160909135003"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906334680599633920/zenith_daimyohermitaur.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Daimyo Hermitaur / 辿異種ダイミョウザザミ
     **Title:** Shield Crab / 盾蟹
     **Rank:** Zenith
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

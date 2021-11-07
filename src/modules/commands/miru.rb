@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Mi_Ru do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Mi_Ru_Render_001.png/revision/latest?cb=20200319135311"
-        msg.respond "**Name:** Mi Ru  / ミ・ル(Mi Ru)Ｇ級Ｕｎｋｎｏｗｎ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Mi_Ru_Render_001.png/revision/latest?cb=20200319135311"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906232698488631296/miru.png"
+        msg.respond "***Based on Cutting Damage! Hybrid Mode (White)***
+        **Name:** Mi Ru  / ミ・ル(Mi Ru)Ｇ級Ｕｎｋｎｏｗｎ
     **Title:** Black Fox Wyvern / 黒狐竜
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> (Fore Arms), Water <:zwater:902635559967686756> (Rear Legs), Thunder <:zthunder:902635597305372752> (Spine), Ice <:zice:902635629471469638> (Belly) and Dragon <:zdragon:902635658819018783> (Tail)

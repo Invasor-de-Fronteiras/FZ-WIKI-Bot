@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Seregios do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/24/MH4U-Seregios_Render_001.png/revision/latest?cb=20140906113402"
-    msg.respond "**Name:** Seregios / セルレギオス(Seruregiosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/24/MH4U-Seregios_Render_001.png/revision/latest?cb=20140906113402"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267827990822943/seregios.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Seregios / セルレギオス(Seruregiosu)
     **Title:** Thousand Blade Wyvern / 千刃竜
     **Rank:** HR5-Exotic
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Seregios_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/FrontierGen-Seregios_Render_001.png/revision/latest?cb=20180330122417"
-    msg.respond "**Name:** Seregios / セルレギオス(Seruregiosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/FrontierGen-Seregios_Render_001.png/revision/latest?cb=20180330122417"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267827990822943/seregios.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Seregios / セルレギオス(Seruregiosu)
     **Title:** Thousand Blade Wyvern / 千刃竜
     **Rank:** G-Rank-Exotic
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

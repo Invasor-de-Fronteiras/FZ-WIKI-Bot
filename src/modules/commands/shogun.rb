@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Shogun do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/2ndGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150303032835"
-    msg.respond "**Name:** Shogun Ceanataur / ショウグンギザミ (Shougun Gizami)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/2ndGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150303032835"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906281644271497248/shogunceanataur.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shogun Ceanataur / ショウグンギザミ (Shougun Gizami)
     **Title:** Sickle Crab / 鎌蟹
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
@@ -33,8 +35,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Shogun_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/FrontierGen-HC_Shogun_Ceanataur_Render_001.png/revision/latest?cb=20140902022337"
-    msg.respond "**Name:** Shogun Ceanataur / ショウグンギザミ (Shougun Gizami)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/FrontierGen-HC_Shogun_Ceanataur_Render_001.png/revision/latest?cb=20140902022337"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282180475486228/shogunceanataurhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shogun Ceanataur / ショウグンギザミ (Shougun Gizami)
     **Title:** Sickle Crab / 鎌蟹
     **Rank:** HR5
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
@@ -63,8 +67,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Shogun_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150903093537"
-    msg.respond "**Name:** Shogun Ceanataur / ショウグンギザミ (Shougun Gizami)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150903093537"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906281644271497248/shogunceanataur.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shogun Ceanataur / ショウグンギザミ (Shougun Gizami)
     **Title:** Sickle Crab / 鎌蟹
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

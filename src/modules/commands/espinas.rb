@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Espinas do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-Espinas_Render_002.png/revision/latest?cb=20140906060229"
-    msg.respond "**Name:** Espinas / エスピナス (Espinath / Esupinasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-Espinas_Render_002.png/revision/latest?cb=20140906060229"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906204615371030548/espinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Espinas / エスピナス (Espinath / Esupinasu)
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** HR1-4
     **Weak to:** Ice <:zice:902635629471469638>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Espinas_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-HC_Espinas_Render_001.png/revision/latest?cb=20140902030252"
-    msg.respond "**Name:** Espinas / エスピナス (Espinath / Esupinasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-HC_Espinas_Render_001.png/revision/latest?cb=20140902030252"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906204615371030548/espinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Espinas / エスピナス (Espinath / Esupinasu)
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** HR5
     **Weak to:** Ice <:zice:902635629471469638>
@@ -67,8 +71,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Espinas_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/eb/FrontierGen-Espinas_Render_004.png/revision/latest?cb=20131223200842"
-    msg.respond "**Name:** Espinas / エスピナス (Espinath / Esupinasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/eb/FrontierGen-Espinas_Render_004.png/revision/latest?cb=20131223200842"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906204615371030548/espinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Espinas / エスピナス (Espinath / Esupinasu)
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638>

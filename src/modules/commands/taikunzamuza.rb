@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Taikun_Zamuza do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/FrontierGen-Taikun_Zamuza_Render_001.png/revision/latest?cb=20140831164324"
-    msg.respond "**Name:** Taikun Zamuza / タイクンザムザ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/FrontierGen-Taikun_Zamuza_Render_001.png/revision/latest?cb=20140831164324"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906284727907020860/taikunzamuza.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Taikun Zamuza / タイクンザムザ
     **Title:** Multi-Shell Crab / 多殻蟹
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638> (1st Form), Ice <:zice:902635629471469638> and Fire <:zfire:902602768525717534> (2nd Form), Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638> (3rd Form)
@@ -43,8 +45,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Taikun_Zamuza_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/11/FrontierGen-Taikun_Zamuza_Render_002.png/revision/latest?cb=20140821094339"
-    msg.respond "**Name:** Taikun Zamuza / タイクンザムザ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/11/FrontierGen-Taikun_Zamuza_Render_002.png/revision/latest?cb=20140821094339"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906284727907020860/taikunzamuza.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Taikun Zamuza / タイクンザムザ
     **Title:** Multi-Shell Crab / 多殻蟹
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638> (1st Form), Ice <:zice:902635629471469638> and Fire <:zfire:902602768525717534> (2nd Form), Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638> (3rd Form)

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Diablos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bb/2ndGen-Diablos_Render_001.png/revision/latest?cb=20150304003211"
-    msg.respond "**Name:** Diablos / ディアブロス (Diaburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bb/2ndGen-Diablos_Render_001.png/revision/latest?cb=20150304003211"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906199107054481408/diablos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Diablos / ディアブロス (Diaburosu)
     **Title:** Horned Wyvern / 角竜
     **Rank:** HR1-4
     **Weak to:** Ice <:zice:902635629471469638>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Diablos_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2d/FrontierGen-HC_Diablos_Render_001_%28Edited%29.png/revision/latest?cb=20140114190237"
-    msg.respond "**Name:** Diablos / ディアブロス (Diaburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2d/FrontierGen-HC_Diablos_Render_001_%28Edited%29.png/revision/latest?cb=20140114190237"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906199380179177503/diabloshr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Diablos / ディアブロス (Diaburosu)
     **Title:** Horned Wyvern / 角竜
     **Rank:** HR5
     **Weak to:** Ice <:zice:902635629471469638>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Diablos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/Diablos.png/revision/latest?cb=20091205202122"
-    msg.respond "**Name:** Diablos / ディアブロス (Diaburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/Diablos.png/revision/latest?cb=20091205202122"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906199107054481408/diablos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Diablos / ディアブロス (Diaburosu)
     **Title:** Horned Wyvern / 角竜
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638>

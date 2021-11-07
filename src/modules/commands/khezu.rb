@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Khezu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/MHF2-Khezu_Render_001.png/revision/latest?cb=20150303010414"
-    msg.respond "**Name:** Khezu / フルフル (Furufuru)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/MHF2-Khezu_Render_001.png/revision/latest?cb=20150303010414"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226605360304158/khezu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Khezu / フルフル (Furufuru)
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Khezu_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ea/FrontierGen-HC_Khezu_Render_001.png/revision/latest?cb=20140906152107"
-    msg.respond "**Name:** Khezu / フルフル (Furufuru)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ea/FrontierGen-HC_Khezu_Render_001.png/revision/latest?cb=20140906152107"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226848822874172/khezuhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Khezu / フルフル (Furufuru)
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR5
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Khezu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/98/Khezu.png/revision/latest?cb=20091210213628"
-    msg.respond "**Name:** Khezu / フルフル (Furufuru)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/98/Khezu.png/revision/latest?cb=20091210213628"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226605360304158/khezu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Khezu / フルフル (Furufuru)
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534>

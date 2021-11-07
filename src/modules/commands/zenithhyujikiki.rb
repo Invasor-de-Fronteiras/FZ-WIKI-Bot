@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Hyujikiki do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b3/FrontierGen-Zenith_Hyujikiki_Render_001.png/revision/latest?cb=20170424072622"
-    msg.respond "**Name:** Zenith Hyujikiki / 辿異種ヒュジキキ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b3/FrontierGen-Zenith_Hyujikiki_Render_001.png/revision/latest?cb=20170424072622"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906343637569396796/zenith_hyujikiki.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Hyujikiki / 辿異種ヒュジキキ
     **Title:** Needle Wyvern / 針纏竜
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:902602768525717534>

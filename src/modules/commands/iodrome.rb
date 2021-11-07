@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Iodrome do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/25/MH1-Iodrome_and_Ioprey_Render_001.gif/revision/latest?cb=20131228013925"
-    msg.respond "**Name:** Iodrome / ドスイーオス (Dosuiosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/25/MH1-Iodrome_and_Ioprey_Render_001.gif/revision/latest?cb=20131228013925"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906219923150352424/iodrome.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Iodrome / ドスイーオス (Dosuiosu)
     **Title:** The Ioprey Leader / (?)
     **Weak to:** Thunder <:zthunder:902635597305372752> and Water <:zwater:902635559967686756>
     **Ailments:** Poison <:zpoison:902638513097408513>

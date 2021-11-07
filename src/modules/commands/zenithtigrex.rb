@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Tigrex do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Zenith_Tigrex_Render_001.png/revision/latest?cb=20161105121827"
-    msg.respond "**Name:** Zenith Tigrex / 辿異種ティガレックス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Zenith_Tigrex_Render_001.png/revision/latest?cb=20161105121827"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906348640493256704/zenith_tigrex.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Tigrex / 辿異種ティガレックス
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** Zenith
     **Weak to:** Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>

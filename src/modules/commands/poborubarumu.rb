@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Poborubarumu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Poborubarumu_Render_001.png/revision/latest?cb=20141118212106"
-    msg.respond "**Name:** Poborubarumu / ポボルバルム (Poborubarumu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Poborubarumu_Render_001.png/revision/latest?cb=20141118212106"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256825450651739/poborubarumu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Poborubarumu / ポボルバルム (Poborubarumu)
     **Title:** Creation Sound Wyvern / 創音竜
     **Rank:** HR5-Goushu
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Poborubarumu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/FrontierGen-Poborubarumu_Render_002.png/revision/latest?cb=20141118212429"
-    msg.respond "**Name:** Poborubarumu / ポボルバルム (Poborubarumu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/FrontierGen-Poborubarumu_Render_002.png/revision/latest?cb=20141118212429"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256825450651739/poborubarumu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Poborubarumu / ポボルバルム (Poborubarumu)
     **Title:** Creation Sound Wyvern / 創音竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Unknown do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_001.png/revision/latest?cb=20140324133338"
-    msg.respond "**Name:** Unknown / Ｕｎｋｎｏｗｎ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_001.png/revision/latest?cb=20140324133338"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906289374038200350/unknown.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Unknown / Ｕｎｋｎｏｗｎ
     **Title:** Black Flying Wyvern / 黒飛竜
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752>, Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
@@ -81,8 +83,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Unknown_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/90/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_002.png/revision/latest?cb=20150701171719"
-    msg.respond "**Name:** Unknown / Ｕｎｋｎｏｗｎ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/90/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_002.png/revision/latest?cb=20150701171719"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906289374038200350/unknown.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Unknown / Ｕｎｋｎｏｗｎ
     **Title:** Black Flying Wyvern / 黒飛竜
     **Rank:** HR5-Supremacy
     **Weak to:** Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752>, Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
@@ -171,8 +175,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Unknown_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/74/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_003.png/revision/latest?cb=20171202165712"
-    msg.respond "**Name:** Unknown / Ｕｎｋｎｏｗｎ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/74/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_003.png/revision/latest?cb=20171202165712"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906289374038200350/unknown.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Unknown / Ｕｎｋｎｏｗｎ
     **Title:** Black Flying Wyvern / 黒飛竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752>, Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Shagaru do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MH4-Shagaru_Magala_Render_001.png/revision/latest?cb=20150303004807"
-    msg.respond "**Name:** Shagaru Magala / シャガルマガラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MH4-Shagaru_Magala_Render_001.png/revision/latest?cb=20150303004807"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906271130577432576/shagarumagala.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shagaru Magala / シャガルマガラ
     **Title:** Heavenly Revolving / 天廻龍
     **Rank:** HR5-Exotic
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Shagaru_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/FrontierGen-Shagaru_Magala_%28True_Frenzy_Mode%29_Render_001.png/revision/latest?cb=20170407121850"
-    msg.respond "**Name:** Shagaru Magala / シャガルマガラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/FrontierGen-Shagaru_Magala_%28True_Frenzy_Mode%29_Render_001.png/revision/latest?cb=20170407121850"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906273216266399795/shagarumagalag.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shagaru Magala / シャガルマガラ
     **Title:** Heavenly Revolving / 天廻龍
     **Rank:** G-Rank-Exotic
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>

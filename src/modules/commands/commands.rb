@@ -27,11 +27,13 @@ _G após o nome do monstro apresentará seus valores para sua versão G-Rank. Ex
               
 Zenith_ no início do nome do monstro apresentará seus valores para sua versão Zenith. Ex: mh!Zenith_Rukodiora
               
-Musou_ no início do nome do monstro apresentará seus valores para sua versão Musou/Extreme. Ex: mh!Musou_Elzelion
+Musou_ no início do nome do monstro apresentará seus valores para sua versão Musou/Extreme. Ex: mh!Musou_Nargacuga
                 
 Use mh!Help para ver essa lista.
 
 Use mh!Monsters para ver a lista de monstros.
+
+Use mh!Elements para ver a lista de elementos que pode pesquisar.
 
 Qualquer erro ou problema relatar a Malckyor#8043 ou hantzu#8273.
           ```"

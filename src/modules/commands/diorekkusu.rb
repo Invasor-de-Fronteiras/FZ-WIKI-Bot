@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Diorekkusu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/FrontierGen-Diorekkusu_Render_001.png/revision/latest?cb=20140423203343"
-    msg.respond "**Name:** Diorekkusu / ディオレックス (Diorekkusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/FrontierGen-Diorekkusu_Render_001.png/revision/latest?cb=20140423203343"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200206415134801/diorex.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Diorekkusu / ディオレックス (Diorekkusu)
     **Title:** Thunder Roaring Wyvern / 雷轟竜
     **Rank:** HR5-Goushu
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
@@ -58,8 +60,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Diorekkusu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-Diorekkusu_Render_002.png/revision/latest?cb=20140423203802"
-    msg.respond "**Name:** Diorekkusu / ディオレックス (Diorekkusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-Diorekkusu_Render_002.png/revision/latest?cb=20140423203802"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200206415134801/diorex.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Diorekkusu / ディオレックス (Diorekkusu)
     **Title:** Thunder Roaring Wyvern / 雷轟竜
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>

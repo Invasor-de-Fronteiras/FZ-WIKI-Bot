@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
       
       command :Elzelion do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/FrontierGen-Eruzerion_Render_001.png/revision/latest?cb=20170731142105"
-    msg.respond "**Name:** Eruzerion / エルゼリオン
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/FrontierGen-Eruzerion_Render_001.png/revision/latest?cb=20170731142105"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906203764329943080/elzelion.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Eruzerion / エルゼリオン
     **Title:** Burning Zero Dragon / 灼零龍
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638>

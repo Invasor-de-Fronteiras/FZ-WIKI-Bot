@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Meraginasu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Meraginasu_Render_001.png/revision/latest?cb=20131220103725"
-    msg.respond "**Name:** Meraginasu / メラギナス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Meraginasu_Render_001.png/revision/latest?cb=20131220103725"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906231230943608863/meraginasu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Meraginasu / メラギナス
     **Title:** Black Drill Wyvern / 黒穿竜
     **Rank:** HR5-Goushu
     **Weak to:** Light and Fire <:zfire:902602768525717534>
@@ -47,8 +49,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Meraginasu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/FrontierGen-Meraginasu_Render_003.png/revision/latest?cb=20140205154728"
-    msg.respond "**Name:** Meraginasu / メラギナス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/FrontierGen-Meraginasu_Render_003.png/revision/latest?cb=20140205154728"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906231230943608863/meraginasu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Meraginasu / メラギナス
     **Title:** Black Drill Wyvern / 黒穿竜
     **Rank:** G-Rank
     **Weak to:** Light and Fire <:zfire:902602768525717534>

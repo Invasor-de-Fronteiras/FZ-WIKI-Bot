@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Farunokku do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/FrontierGen-Farunokku_Render_002.png/revision/latest?cb=20140118114323"
-    msg.respond "**Name:** Farunokku / ファルノック (Farunokku)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/FrontierGen-Farunokku_Render_002.png/revision/latest?cb=20140118114323"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906205120411353129/farunokku.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Farunokku / ファルノック (Farunokku)
     **Title:** Thunder Bird / 傾雷鳥
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>

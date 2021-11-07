@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Akura_Vashimu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Zenith_Akura_Vashimu_Render_001.png/revision/latest?cb=20161105120356"
-    msg.respond "**Name:** Zenith Akura Vashimu / 辿異種アクラ・ヴァシム
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Zenith_Akura_Vashimu_Render_001.png/revision/latest?cb=20161105120356"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906350381066514482/zenith_akuravashimu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Akura Vashimu / 辿異種アクラ・ヴァシム
     **Title:** Tail Crystal Scorpion / 尾晶蠍
     **Rank:** G-Rank
     **Weak to:** None

@@ -3,8 +3,9 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Giaorugu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/38/FrontierGen-Zenith_Giaorugu_Render_001.png/revision/latest?cb=20170424072624"
-        msg.respond "
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/38/FrontierGen-Zenith_Giaorugu_Render_001.png/revision/latest?cb=20170424072624"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906340927629590569/zenith_giaorugu.png"
+        msg.respond "***Based on Cutting Damage!***
     **Name:** Zenith Giaorugu / 辿異種ギアオルグ
     **Title:** Ice Fierce Wyvern / 氷獰竜
     **Rank:** G-Rank

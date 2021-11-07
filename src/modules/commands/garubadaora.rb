@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
       
       command :Garuba_Daora do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/FrontierGen-Garuba_Daora_Render_001.png/revision/latest?cb=20140718114258"
-    msg.respond "**Name:** Garuba Daora / ガルバダオラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/FrontierGen-Garuba_Daora_Render_001.png/revision/latest?cb=20140718114258"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207098474491914/garubadaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Garuba Daora / ガルバダオラ
     **Title:** Gold Dust Dragon / 金塵龍
     **Rank:** HR5-Goushu
     **Weak to:** Thunder <:zthunder:902635597305372752>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Garuba_Daora_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/FrontierGen-Garuba_Daora_Render_001.png/revision/latest?cb=20140718114258"
-    msg.respond "**Name:** Garuba Daora / ガルバダオラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/FrontierGen-Garuba_Daora_Render_001.png/revision/latest?cb=20140718114258"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207098474491914/garubadaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Garuba Daora / ガルバダオラ
     **Title:** Gold Dust Dragon / 金塵龍
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752>

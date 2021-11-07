@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Harudomerugu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/32/FrontierGen-Harudomerugu_Render_001.png/revision/latest?cb=20150411032524"
-    msg.respond "**Name:** Harudomerugu / ハルドメルグ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/32/FrontierGen-Harudomerugu_Render_001.png/revision/latest?cb=20150411032524"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906217499626971176/harudomerugu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Harudomerugu / ハルドメルグ
     **Title:** Silver Controlling Dragon / 司銀龍
     **Rank:** HR5-Goushu
     **Weak to:** Black Flame and Dragon <:zdragon:902635658819018783>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Harudomerugu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Harudomerugu_Render_003.png/revision/latest?cb=20200319135311"
-    msg.respond "**Name:** Harudomerugu / ハルドメルグ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Harudomerugu_Render_003.png/revision/latest?cb=20200319135311"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906217499626971176/harudomerugu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Harudomerugu / ハルドメルグ
     **Title:** Silver Controlling Dragon / 司銀龍
     **Rank:** G-Rank
     **Weak to:** Black Flame and Dragon <:zdragon:902635658819018783>

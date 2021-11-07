@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Varusaburosu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/FrontierGen-Varusaburosu_Render_001.png/revision/latest?cb=20141119154945"
-    msg.respond "**Name:** Varusaburosu / ヴァルサブロス (Varusaburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/FrontierGen-Varusaburosu_Render_001.png/revision/latest?cb=20141119154945"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290751506350141/varusaburosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Varusaburosu / ヴァルサブロス (Varusaburosu)
     **Title:** Flame Horn Wyvern / 炎角竜
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756>
@@ -47,8 +49,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Varusaburosu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Varusaburosu_Render_002.png/revision/latest?cb=20150218152719"
-    msg.respond "**Name:** Varusaburosu / ヴァルサブロス (Varusaburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Varusaburosu_Render_002.png/revision/latest?cb=20150218152719"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290751506350141/varusaburosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Varusaburosu / ヴァルサブロス (Varusaburosu)
     **Title:** Flame Horn Wyvern / 炎角竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

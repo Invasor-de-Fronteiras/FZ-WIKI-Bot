@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Rajang do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fd/2ndGen-Rajang_Render_001.png/revision/latest?cb=20150303050008"
-    msg.respond "**Name:** Rajang / ラージャン (Rājan)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fd/2ndGen-Rajang_Render_001.png/revision/latest?cb=20150303050008"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906258409400176670/rajang.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rajang / ラージャン (Rājan)
     **Title:** Gold Lion / 金獅子
     **Rank:** HR1-4
     **Weak to:** Ice <:zice:902635629471469638>
@@ -21,8 +23,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rajang_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5a/FrontierGen-HC_Rajang_Render_001.png/revision/latest?cb=20131225051515"
-    msg.respond "**Name:** Rajang / ラージャン (Rājan)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5a/FrontierGen-HC_Rajang_Render_001.png/revision/latest?cb=20131225051515"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906258665122709504/rajanghr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rajang / ラージャン (Rājan)
     **Title:** Gold Lion / 金獅子
     **Rank:** HR5
     **Weak to:** Ice <:zice:902635629471469638>
@@ -39,8 +43,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rajang_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/2ndGen-Rajang_Render_002.png/revision/latest?cb=20150303045649"
-    msg.respond "**Name:** Rajang / ラージャン (Rājan)
+       # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/2ndGen-Rajang_Render_002.png/revision/latest?cb=20150303045649"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906258409400176670/rajang.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rajang / ラージャン (Rājan)
     **Title:** Gold Lion / 金獅子
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638>

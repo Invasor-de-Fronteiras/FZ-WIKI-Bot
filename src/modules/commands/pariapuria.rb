@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Pariapuria do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Pariapuria_Render_001.png/revision/latest?cb=20140810150419"
-    msg.respond "**Name:** Pariapuria / パリアプリア (Pariapuria)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Pariapuria_Render_001.png/revision/latest?cb=20140810150419"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906243161079296020/pariapuria.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Pariapuria / パリアプリア
     **Title:** Swallowing Wyvern / 呑竜
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
@@ -31,8 +33,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Pariapuria_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/29/FrontierGen-Supremacy_Pariapuria_Render_001.png/revision/latest?cb=20180209190326"
-    msg.respond "**Name:** Pariapuria / パリアプリア (Pariapuria)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/29/FrontierGen-Supremacy_Pariapuria_Render_001.png/revision/latest?cb=20180209190326"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906243161079296020/pariapuria.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Pariapuria / パリアプリア
     **Title:** Swallowing Wyvern / 呑竜
     **Rank:** HR5-Supremacy
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
@@ -59,8 +63,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Pariapuria_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-HC_Pariapuria_Render_001.png/revision/latest?cb=20140112104307"
-    msg.respond "**Name:** Pariapuria / パリアプリア (Pariapuria)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-HC_Pariapuria_Render_001.png/revision/latest?cb=20140112104307"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906243161079296020/pariapuria.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Pariapuria / パリアプリア
     **Title:** Swallowing Wyvern / 呑竜
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>

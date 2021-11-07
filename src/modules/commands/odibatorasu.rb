@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Odibatorasu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/ff/FrontierGen-Odibatorasu_Render_001.png/revision/latest?cb=20140821085756"
-    msg.respond "**Name:** Odibatorasu / オディバトラス (Odibatorasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/ff/FrontierGen-Odibatorasu_Render_001.png/revision/latest?cb=20140821085756"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906241405167493120/odibatorasu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Odibatorasu / オディバトラス (Odibatorasu)
     **Title:** Cannon Rock Wyvern / 弩岩竜
     **Rank:** HR5-Goushu
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Odibatorasu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/62/FrontierGen-HC_Odibatorasu_Render_001.png/revision/latest?cb=20160129144138"
-    msg.respond "**Name:** Odibatorasu / オディバトラス (Odibatorasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/62/FrontierGen-HC_Odibatorasu_Render_001.png/revision/latest?cb=20160129144138"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906241405167493120/odibatorasu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Odibatorasu / オディバトラス (Odibatorasu)
     **Title:** Cannon Rock Wyvern / 弩岩竜
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>

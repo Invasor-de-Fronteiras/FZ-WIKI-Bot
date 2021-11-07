@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Inagami do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/26/FrontierGen-Zenith_Inagami_Render_002.png/revision/latest?cb=20171027165301"
-    msg.respond "**Name:** Zenith Inagami / 辿異種イナガミ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/26/FrontierGen-Zenith_Inagami_Render_002.png/revision/latest?cb=20171027165301"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906343974938214418/zenith_inagami.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Inagami / 辿異種イナガミ
     **Title:** Javon Dragon / 雅翁龍
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:902602768525717534>

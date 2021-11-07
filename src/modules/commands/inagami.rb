@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Inagami do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/FrontierGen-Inagami_Render_001.png/revision/latest?cb=20140718120741"
-    msg.respond "**Name:** Inagami / イナガミ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/FrontierGen-Inagami_Render_001.png/revision/latest?cb=20140718120741"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906219688550359120/inagami.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Inagami / イナガミ
     **Title:** Javon Dragon / 雅翁龍
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Inagami_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/ba/FrontierGen-Inagami_Render_003.png/revision/latest?cb=20140726105312"
-    msg.respond "**Name:** Inagami / イナガミ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/ba/FrontierGen-Inagami_Render_003.png/revision/latest?cb=20140726105312"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906219688550359120/inagami.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Inagami / イナガミ
     **Title:** Javon Dragon / 雅翁龍
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534>

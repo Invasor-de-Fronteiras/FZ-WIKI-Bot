@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Baruragaru do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/32/FrontierGen-Zenith_Baruragaru_Render_001.png/revision/latest?cb=20180909100008"
-    msg.respond "**Name:** Zenith Baruragaru / 辿異種バルラガル
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/32/FrontierGen-Zenith_Baruragaru_Render_001.png/revision/latest?cb=20180909100008"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906326961645813830/zenith_baruragaru.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Baruragaru / 辿異種バルラガル
     **Title:** Blood Eating Wyvern / 喰血竜
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>

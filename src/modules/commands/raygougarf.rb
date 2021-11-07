@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Ray_Gougarf do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
-    msg.respond "**Name:** Ray Gougarf / レイ・ゴウガルフ (Rei Gougarufu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906262843349946458/raygougarf.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Ray Gougarf / レイ・ゴウガルフ (Rei Gougarufu)
     **Title:** Blue Fighting Beast / 青闘獣
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -31,8 +33,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Ray_Gougarf_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
-    msg.respond "**Name:** Ray Gougarf / レイ・ゴウガルフ (Rei Gougarufu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906262843349946458/raygougarf.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Ray Gougarf / レイ・ゴウガルフ (Rei Gougarufu)
     **Title:** Blue Fighting Beast / 青闘獣
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534>

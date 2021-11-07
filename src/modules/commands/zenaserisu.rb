@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenaserisu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/af/FrontierGen-Zenaserisu_Render_001.png/revision/latest?cb=20160921063322"
-    msg.respond "**Name:** Zenaserisu / ゼナセリス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/af/FrontierGen-Zenaserisu_Render_001.png/revision/latest?cb=20160921063322"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906317289660481626/zenaserisu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenaserisu / ゼナセリス
     **Title:** Cracking Water Wyvern / 裂水竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752>

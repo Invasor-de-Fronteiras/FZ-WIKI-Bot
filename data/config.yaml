@@ -1,15 +1,15 @@
 ---
 # Bot ID
-client_id: 905598682093731860
+client_id: 901472520421658665
 
 # Bot Token
-token: OTA1NTk4NjgyMDkzNzMxODYw.YYMafw.L4_TEx45-wR9YZLVG1o6uJmxXpM
+token: OTAxNDcyNTIwNDIxNjU4NjY1.YXQXtQ.Y-36l1NaaMAMp84XDHxI5_UgfPw
 
 # Bot Prefix
-prefix: mhf!
+prefix: mh!
 
 # Owner ID
-owner: 397075844218224651, 602177336359518281
+owner: 397075844218224651
 
 # Status
-game: Monster Hunter Frontier Z
+game:

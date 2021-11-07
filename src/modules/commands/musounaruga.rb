@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Nargacuga do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/65/FrontierGen-Fleeting_Nargacuga_Render_001.png/revision/latest?cb=20180513151938"
-    msg.respond "**Name:** Blinking Nargacuga / 極み駆けるナルガクルガ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/65/FrontierGen-Fleeting_Nargacuga_Render_001.png/revision/latest?cb=20180513151938"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906238591611568128/blinkingnargacuga.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Blinking Nargacuga / 極み駆けるナルガクルガ
     **Title:** Swift Wyvern / 迅竜
     **Rank:** Musou
     **Weak to:** Thunder <:zthunder:902635597305372752>

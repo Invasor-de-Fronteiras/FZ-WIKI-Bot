@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Kamu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ec/FrontierGen-Kamu_Orugaron_Render_001.png/revision/latest?cb=20140906032225"
-    msg.respond "**Name:** Kamu Orugaron / カム・オルガロン (Kamu Orugaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ec/FrontierGen-Kamu_Orugaron_Render_001.png/revision/latest?cb=20140906032225"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906222414701142066/kamuorugaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kamu Orugaron / カム・オルガロン
     **Title:** Male Sound Wolf / 雄響狼 (Yūkyōrō)
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756>
@@ -41,8 +43,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kamu_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/FrontierGen-HC_Kamu_Orugaron_Render_001.png/revision/latest?cb=20140810164506"
-    msg.respond "**Name:** Kamu Orugaron / カム・オルガロン (Kamu Orugaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/FrontierGen-HC_Kamu_Orugaron_Render_001.png/revision/latest?cb=20140810164506"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906222414701142066/kamuorugaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kamu Orugaron / カム・オルガロン
     **Title:** Male Sound Wolf / 雄響狼 (Yūkyōrō)
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756>
@@ -79,8 +83,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kamu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-Kamu_Orugaron_Render_005.png/revision/latest?cb=20140906042337"
-    msg.respond "**Name:** Kamu Orugaron / カム・オルガロン (Kamu Orugaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-Kamu_Orugaron_Render_005.png/revision/latest?cb=20140906042337"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906222414701142066/kamuorugaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kamu Orugaron / カム・オルガロン
     **Title:** Male Sound Wolf / 雄響狼 (Yūkyōrō)
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

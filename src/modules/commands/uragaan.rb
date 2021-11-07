@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Uragaan do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/3rdGen-Uragaan_Render_001.png/revision/latest?cb=20150304044409"
-    msg.respond "**Name:** Uragaan / ウラガンキン (Uragankin)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/3rdGen-Uragaan_Render_001.png/revision/latest?cb=20150304044409"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290092488917042/uragaan.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Uragaan / ウラガンキン (Uragankin)
     **Title:** Burst Hammer Wyvern / 爆鎚竜
     **Rank:** HR5-Exotic
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Uragaan_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3d/FrontierGen-Uragaan_Render_001.png/revision/latest?cb=20160122150906"
-    msg.respond "**Name:** Uragaan / ウラガンキン (Uragankin)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3d/FrontierGen-Uragaan_Render_001.png/revision/latest?cb=20160122150906"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290092488917042/uragaan.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Uragaan / ウラガンキン (Uragankin)
     **Title:** Burst Hammer Wyvern / 爆鎚竜
     **Rank:** G-Rank-Exotic
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

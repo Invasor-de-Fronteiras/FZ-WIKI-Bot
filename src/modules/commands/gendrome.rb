@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gendrome do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MH1-Gendrome_and_Genprey_Render_001.gif/revision/latest?cb=20131226144302"
-    msg.respond "**Name:** Gendrome / ドスゲネポス (Dosugeneposu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MH1-Gendrome_and_Genprey_Render_001.gif/revision/latest?cb=20131226144302"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906208114649489438/gendrome.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gendrome / ドスゲネポス (Dosugeneposu)
     **Title:** Alpha Raptor / None
     **Weak to:** Ice <:zice:902635629471469638>, Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
     **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238> (HC)

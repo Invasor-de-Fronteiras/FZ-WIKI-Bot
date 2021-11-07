@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Lunastra do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a4/2ndGen-Lunastra_Render_001.png/revision/latest?cb=20150303040807"
-    msg.respond "**Name:** Lunastra / ナナ・テスカトリ (Nana Tesukatori)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a4/2ndGen-Lunastra_Render_001.png/revision/latest?cb=20150303040807"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906230339393978408/lunastra.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Lunastra / ナナ・テスカトリ (Nana Tesukatori)
     **Title:** Flame Queen Dragon / 炎妃龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Lunastra_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/FrontierGen-HC_Lunastra_Render_001.png/revision/latest?cb=20141118215930"
-    msg.respond "**Name:** Lunastra / ナナ・テスカトリ (Nana Tesukatori)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/FrontierGen-HC_Lunastra_Render_001.png/revision/latest?cb=20141118215930"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906230339393978408/lunastra.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Lunastra / ナナ・テスカトリ (Nana Tesukatori)
     **Title:** Flame Queen Dragon / 炎妃龍
     **Rank:** HR5-Goushu
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
@@ -67,8 +71,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Lunastra_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f8/MHW-Lunastra_Render_001.png/revision/latest?cb=20180530122508"
-    msg.respond "**Name:** Lunastra / ナナ・テスカトリ (Nana Tesukatori)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f8/MHW-Lunastra_Render_001.png/revision/latest?cb=20180530122508"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906230339393978408/lunastra.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Lunastra / ナナ・テスカトリ (Nana Tesukatori)
     **Title:** Flame Queen Dragon / 炎妃龍
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>

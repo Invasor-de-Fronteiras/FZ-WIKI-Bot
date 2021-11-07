@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Goruganosu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Goruganosu_Render_001.png/revision/latest?cb=20130515203511"
-    msg.respond "**Name:** Goruganosu / ゴルガノス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Goruganosu_Render_001.png/revision/latest?cb=20130515203511"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211875941916692/goruganosu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Goruganosu / ゴルガノス
     **Title:** Golden Piscine Wyvern / 黄金魚竜
     **Rank:** HR5-Goushu
     **Weak to:** Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>

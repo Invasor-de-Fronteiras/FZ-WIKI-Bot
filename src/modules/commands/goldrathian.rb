@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gold_Rathian do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1f/MHF1-Gold_Rathian_Render_001.png/revision/latest?cb=20140112101913"
-    msg.respond "**Name:** Gold Rathian / リオレイア希少種 (Rioreia Kishou Shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1f/MHF1-Gold_Rathian_Render_001.png/revision/latest?cb=20140112101913"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209962739519508/goldrathian.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gold Rathian / リオレイア希少種 (Rioreia Kishou Shu)
     **Title:** Gold Fire Wyvern / 金火竜
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752> and Water <:zwater:902635559967686756>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gold_Rathian_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-HC_Gold_Rathian_Render_001_%28Edited%29.png/revision/latest?cb=20140119100124"
-    msg.respond "**Name:** Gold Rathian / リオレイア希少種 (Rioreia Kishou Shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-HC_Gold_Rathian_Render_001_%28Edited%29.png/revision/latest?cb=20140119100124"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906210433420120124/goldrathianhr5_g.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gold Rathian / リオレイア希少種 (Rioreia Kishou Shu)
     **Title:** Gold Fire Wyvern / 金火竜
     **Rank:** HR5
     **Weak to:** Thunder <:zthunder:902635597305372752> and Water <:zwater:902635559967686756>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gold_Rathian_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-HC_Gold_Rathian_Render_002.png/revision/latest?cb=20140817141831"
-    msg.respond "**Name:** Gold Rathian / リオレイア希少種 (Rioreia Kishou Shu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-HC_Gold_Rathian_Render_002.png/revision/latest?cb=20140817141831"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906210831426027620/goldrathiang.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gold Rathian / リオレイア希少種 (Rioreia Kishou Shu)
     **Title:** Gold Fire Wyvern / 金火竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Water <:zwater:902635559967686756>

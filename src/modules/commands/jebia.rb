@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Akura_Jebia do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c4/FrontierGen-Akura_Jebia_Render_001.png/revision/latest?cb=20140906054814"
-    msg.respond "**Name:** Akura Jebia / アクラ・ジェビア
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c4/FrontierGen-Akura_Jebia_Render_001.png/revision/latest?cb=20140906054814"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906220551750692934/akurajebia.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Akura Jebia / アクラ・ジェビア
     **Title:** Ash Crystal Scorpion / 灰晶蠍
     **Rank:** HR1-4
     **Weak to:** None
@@ -58,8 +60,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Akura_Jebia_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/68/FrontierGen-HC_Akura_Jebia_Render_001.png/revision/latest?cb=20140423212651"
-    msg.respond "**Name:** Akura Jebia / アクラ・ジェビア
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/68/FrontierGen-HC_Akura_Jebia_Render_001.png/revision/latest?cb=20140423212651"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906220551750692934/akurajebia.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Akura Jebia / アクラ・ジェビア
     **Title:** Ash Crystal Scorpion / 灰晶蠍
     **Rank:** HR5
     **Weak to:** None
@@ -113,8 +117,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Akura_Jebia_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fa/FrontierGen-Akura_Jebia_Render_002.png/revision/latest?cb=20141228122037"
-    msg.respond "**Name:** Akura Jebia / アクラ・ジェビア
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fa/FrontierGen-Akura_Jebia_Render_002.png/revision/latest?cb=20141228122037"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906220551750692934/akurajebia.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Akura Jebia / アクラ・ジェビア
     **Title:** Ash Crystal Scorpion / 灰晶蠍
     **Rank:** G-Rank
     **Weak to:** None

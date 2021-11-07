@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Pokaradon do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/74/FrontierGen-Pokaradon_Render_001.png/revision/latest?cb=20140821061325"
-    msg.respond "**Name:** Pokaradon / ポカラドン
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/74/FrontierGen-Pokaradon_Render_001.png/revision/latest?cb=20140821061325"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906257385889353768/pokaradon.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Pokaradon / ポカラドン
     **Title:** Frozen Sea Beast / 凍海獣
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>

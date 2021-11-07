@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Kutku do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8f/MHF1-Yian_Kut-Ku_Render_001_%28Edited%29.png/revision/latest?cb=20140112190741"
-    msg.respond "**Name:** Yian Kut-Ku / イャンクック (Iyankukku)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8f/MHF1-Yian_Kut-Ku_Render_001_%28Edited%29.png/revision/latest?cb=20140112190741"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906315876381368320/yiankut-ku.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yian Kut-Ku / イャンクック (Iyankukku)
     **Title:** Strange Bird / 怪鳥
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kutku_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-HC_Yian_Kut-Ku_Render_001_%28Edited%29.png/revision/latest?cb=20140119100346"
-    msg.respond "**Name:** Yian Kut-Ku / イャンクック (Iyankukku)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-HC_Yian_Kut-Ku_Render_001_%28Edited%29.png/revision/latest?cb=20140119100346"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906316159450755082/yiankut-kuhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yian Kut-Ku / イャンクック (Iyankukku)
     **Title:** Strange Bird / 怪鳥
     **Rank:** HR5
     **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kutku_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/2ndGen-Yian_Kut-Ku_Render_001.png/revision/latest?cb=20150304080521"
-    msg.respond "**Name:** Yian Kut-Ku / イャンクック (Iyankukku)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/2ndGen-Yian_Kut-Ku_Render_001.png/revision/latest?cb=20150304080521"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906315876381368320/yiankut-ku.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yian Kut-Ku / イャンクック (Iyankukku)
     **Title:** Strange Bird / 怪鳥
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>

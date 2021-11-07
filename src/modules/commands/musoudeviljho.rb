@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Deviljho do |msg|
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904480483180695612/8a224a1cgy1fn695i0srbj20kg0c5guq-removebg-preview.png"
-    msg.respond "**Name:** Starving Deviljho / 極み喰らうイビルジョー
+        # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904480483180695612/8a224a1cgy1fn695i0srbj20kg0c5guq-removebg-preview.png"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906234847033446410/starvingdeviljho.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Starving Deviljho / 極み喰らうイビルジョー
     **Title:** Terrifying Violent Wyvern / 恐暴竜
     **Rank:** Musou
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>

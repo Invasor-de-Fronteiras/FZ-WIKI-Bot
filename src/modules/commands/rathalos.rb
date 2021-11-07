@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Rathalos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/MHF1-Rathalos_Render_001.png/revision/latest?cb=20201202211244"
-    msg.respond "**Name:** Rathalos / リオレウス (Rioreusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/MHF1-Rathalos_Render_001.png/revision/latest?cb=20201202211244"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906259196717174814/rathalos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rathalos / リオレウス (Rioreusu)
     **Title:** Fire Wyvern / 火竜
     **Rank:** HR1-4
     **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rathalos_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/71/FrontierGen-HC_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115185525"
-    msg.respond "**Name:** Rathalos / リオレウス (Rioreusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/71/FrontierGen-HC_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115185525"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906259652688355398/rathaloshr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rathalos / リオレウス (Rioreusu)
     **Title:** Fire Wyvern / 火竜
     **Rank:** HR5
     **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rathalos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
-    msg.respond "**Name:** Rathalos / リオレウス (Rioreusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906259423931015178/rathalosg.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rathalos / リオレウス (Rioreusu)
     **Title:** Fire Wyvern / 火竜
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

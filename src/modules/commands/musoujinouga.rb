@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Jinouga do |msg|
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904470155743076412/8a224a1cjw1f23dnw7epwj20dc0auq4k-removebg-preview.png"
-    msg.respond "**Name:** Howling Zinogre / 極み吼えるジンオウガ
+        # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904470155743076412/8a224a1cjw1f23dnw7epwj20dc0auq4k-removebg-preview.png"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906237520344399872/howlingzinogre.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Howling Zinogre / 極み吼えるジンオウガ
     **Title:** Thunder Wolf Wyvern / 雷狼竜
     **Rank:** Musou
     **Weak to:** Ice <:zice:902635629471469638>

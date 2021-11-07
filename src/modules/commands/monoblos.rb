@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Monoblos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/2ndGen-Monoblos_Render_001.png/revision/latest?cb=20150303011107"
-    msg.respond "**Name:** Monoblos / モノブロス (Monoburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/2ndGen-Monoblos_Render_001.png/revision/latest?cb=20150303011107"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906233626788782120/monoblos.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Monoblos / モノブロス (Monoburosu)
     **Title:** One Horned Wyvern / 一角竜
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Monoblos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/81/FrontierGen-HC_Monoblos_Render_001.png/revision/latest?cb=20140112104905"
-    msg.respond "**Name:** Monoblos / モノブロス (Monoburosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/81/FrontierGen-HC_Monoblos_Render_001.png/revision/latest?cb=20140112104905"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906233862257008710/monoblosg.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Monoblos / モノブロス (Monoburosu)
     **Title:** One Horned Wyvern / 一角竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

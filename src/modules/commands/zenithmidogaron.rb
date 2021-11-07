@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Midogaron do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-Zenith_Midogaron_Render_001.png/revision/latest?cb=20170705201731"
-    msg.respond "**Name:** Zenith Midogaron / 辿異種ミドガロン
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-Zenith_Midogaron_Render_001.png/revision/latest?cb=20170705201731"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906345042342473759/zenith_midogaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Midogaron / 辿異種ミドガロン
     **Title:** Explosion Wolf / 爆狼
     **Rank:** Zenith
     **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>

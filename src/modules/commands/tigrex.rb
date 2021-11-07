@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Tigrex do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/2ndGen-Tigrex_Render_001.png/revision/latest?cb=20150303003930"
-    msg.respond "**Name:** Tigrex / ティガレックス (Tigarekkusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/2ndGen-Tigrex_Render_001.png/revision/latest?cb=20150303003930"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286996266299463/tigrex.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Tigrex / ティガレックス (Tigarekkusu)
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Tigrex_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5c/FrontierGen-HC_Tigrex_Render_001_%28Edited%29.png/revision/latest?cb=20140119100226"
-    msg.respond "**Name:** Tigrex / ティガレックス (Tigarekkusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5c/FrontierGen-HC_Tigrex_Render_001_%28Edited%29.png/revision/latest?cb=20140119100226"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286996266299463/tigrex.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Tigrex / ティガレックス (Tigarekkusu)
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** HR5
     **Weak to:** Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
@@ -67,8 +71,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Tigrex_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/2ndGen-Tigrex_Render_002.png/revision/latest?cb=20150303004546"
-    msg.respond "**Name:** Tigrex / ティガレックス (Tigarekkusu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/2ndGen-Tigrex_Render_002.png/revision/latest?cb=20150303004546"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286996266299463/tigrex.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Tigrex / ティガレックス (Tigarekkusu)
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>

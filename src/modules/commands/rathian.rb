@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Rathian do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/2ndGen-Rathian_Render_001.png/revision/latest?cb=20150502101406"
-    msg.respond "**Name:** Rathian / リオレイア (Rioreia)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/2ndGen-Rathian_Render_001.png/revision/latest?cb=20150502101406"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906260483110227988/rathian.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rathian / リオレイア (Rioreia)
     **Title:** Female Fire Wyvern / 雌火竜
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rathian_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/60/FrontierGen-HC_Rathian_Custom_Render_001.png/revision/latest?cb=20210519033149"
-    msg.respond "**Name:** Rathian / リオレイア (Rioreia)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/60/FrontierGen-HC_Rathian_Custom_Render_001.png/revision/latest?cb=20210519033149"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906260741085077504/rathianhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rathian / リオレイア (Rioreia)
     **Title:** Female Fire Wyvern / 雌火竜
     **Rank:** HR5
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Rathian_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4d/MHF2-Rathian_Render_001.png/revision/latest?cb=20150303011408"
-    msg.respond "**Name:** Rathian / リオレイア (Rioreia)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4d/MHF2-Rathian_Render_001.png/revision/latest?cb=20150303011408"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906260483110227988/rathian.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rathian / リオレイア (Rioreia)
     **Title:** Female Fire Wyvern / 雌火竜
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>

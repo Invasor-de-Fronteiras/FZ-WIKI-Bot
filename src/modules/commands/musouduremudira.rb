@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Duremudira do |msg|
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904439625915981884/maxresdefault-removebg-preview.png"
-    msg.respond "**Name:** Arrogant Duremudira / 極み傲るドゥレムディラ
+        # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904439625915981884/maxresdefault-removebg-preview.png"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906235521326518302/duremudiramusou.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Arrogant Duremudira / 極み傲るドゥレムディラ
     **Title:** Guardian of Sky Corridor / 天廊の番人
     **Rank:** Musou
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gypceros do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/1stGen-Gypceros_Render_001.gif/revision/latest?cb=20131228011523"
-    msg.respond "**Name:** Gypceros / ゲリョス (Geryosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/1stGen-Gypceros_Render_001.gif/revision/latest?cb=20131228011523"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906216706219835482/gypceros.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gypceros / ゲリョス (Geryosu)
     **Title:** Strange Poison Bird / 毒怪鳥
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gypceros_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3c/FrontierGen-HC_Gypceros_Render_001.png/revision/latest?cb=20140906151333"
-    msg.respond "**Name:** Gypceros / ゲリョス (Geryosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3c/FrontierGen-HC_Gypceros_Render_001.png/revision/latest?cb=20140906151333"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906216706219835482/gypceros.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gypceros / ゲリョス (Geryosu)
     **Title:** Strange Poison Bird / 毒怪鳥
     **Rank:** HR5
     **Weak to:** Fire <:zfire:902602768525717534>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gypceros_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/MHF2-Gypceros_Render_001.png/revision/latest?cb=20150303002937"
-    msg.respond "**Name:** Gypceros / ゲリョス (Geryosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/MHF2-Gypceros_Render_001.png/revision/latest?cb=20150303002937"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906216706219835482/gypceros.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gypceros / ゲリョス (Geryosu)
     **Title:** Strange Poison Bird / 毒怪鳥
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534>

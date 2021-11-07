@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Midogaron do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4f/FrontierGen-Midogaron_Render_001.png/revision/latest?cb=20140909082705"
-    msg.respond "**Name:** Midogaron / ミドガロン (Midogaron)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4f/FrontierGen-Midogaron_Render_001.png/revision/latest?cb=20140909082705"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906231781831884810/midogaron.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Midogaron / ミドガロン
     **Title:** Explosion Wolf / 爆狼
     **Rank:** G-Rank
     **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>

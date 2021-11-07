@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Fatalis do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/27/FrontierGen-Fatalis_Custom_Render_001.png/revision/latest?cb=20210519195605"
-    msg.respond "**Name:** Fatalis / ミラボレアス (Miraboreasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/27/FrontierGen-Fatalis_Custom_Render_001.png/revision/latest?cb=20210519195605"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906205763830177792/blackfatalis.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Fatalis / ミラボレアス (Miraboreasu)
     **Title:** Black Dragon / 黒龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
@@ -24,8 +26,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Fatalis_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Conquest_War_Fatalis_Custom_Render_001.png/revision/latest?cb=20210520021542"
-    msg.respond "**Name:** Fatalis / ミラボレアス (Miraboreasu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Conquest_War_Fatalis_Custom_Render_001.png/revision/latest?cb=20210520021542"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906206047763587092/blackfatalisg.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Fatalis / ミラボレアス (Miraboreasu)
     **Title:** Black Dragon / 黒龍
     **Rank:** G-Rank-Conquest
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>

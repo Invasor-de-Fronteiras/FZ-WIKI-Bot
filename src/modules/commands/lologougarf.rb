@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Lolo_Gougarf do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/FrontierGen-Lolo_Gougarf_Render_001.png/revision/latest?cb=20140817174038"
-    msg.respond "**Name:** Lolo Gougarf / ロロ・ゴウガルフ (Lolo Gougarufu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/FrontierGen-Lolo_Gougarf_Render_001.png/revision/latest?cb=20140817174038"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906229755358105680/lologougarf.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Lolo Gougarf / ロロ・ゴウガルフ
     **Title:** Red Fighting Beast / 赤闘獣
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756>
@@ -41,8 +43,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Lolo_Gougarf_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/FrontierGen-Lolo_Gougarf_Render_001.png/revision/latest?cb=20140817174038"
-    msg.respond "**Name:** Lolo Gougarf / ロロ・ゴウガルフ (Lolo Gougarufu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/FrontierGen-Lolo_Gougarf_Render_001.png/revision/latest?cb=20140817174038"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906229755358105680/lologougarf.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Lolo Gougarf / ロロ・ゴウガルフ
     **Title:** Red Fighting Beast / 赤闘獣
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

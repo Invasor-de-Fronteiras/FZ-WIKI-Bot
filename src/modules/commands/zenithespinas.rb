@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Espinas do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/dd/FrontierGen-Zenith_Espinas_Render_001.png/revision/latest?cb=20160909113709"
-    msg.respond "**Name:** Zenith_Espinas / 辿異種エスピナス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/dd/FrontierGen-Zenith_Espinas_Render_001.png/revision/latest?cb=20160909113709"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906338907086540810/zenith_espinas.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith_Espinas / 辿異種エスピナス
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** Zenith
     **Weak to:** Ice <:zice:902635629471469638>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Rebidiora do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/63/FrontierGen-Rebidiora_Render_002.png/revision/latest?cb=20140404222258"
-    msg.respond "**Name:** Rebidiora / レビディオラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/63/FrontierGen-Rebidiora_Render_002.png/revision/latest?cb=20140404222258"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906263602950991943/rebidiora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Rebidiora / レビディオラ
     **Title:** Thunder Pole Dragon / 雷極龍
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>, Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>

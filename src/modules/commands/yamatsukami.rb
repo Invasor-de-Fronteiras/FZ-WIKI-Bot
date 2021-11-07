@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Yamatsukami do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/2ndGen-Yama_Tsukami_Render_002.png/revision/latest?cb=20150304001404"
-    msg.respond "**Name:** Yamatsukami / ヤマツカミ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/2ndGen-Yama_Tsukami_Render_002.png/revision/latest?cb=20150304001404"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yamatsukami / ヤマツカミ
     **Title:** Floating Mountain Dragon / 浮岳龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
@@ -24,8 +26,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Yamatsukami_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/de/FrontierGen-Yama_Tsukami_Render_001.png/revision/latest?cb=20140307150015"
-    msg.respond "**Name:** Yamatsukami / ヤマツカミ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/de/FrontierGen-Yama_Tsukami_Render_001.png/revision/latest?cb=20140307150015"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Yamatsukami / ヤマツカミ
     **Title:** Floating Mountain Dragon / 浮岳龍
     **Rank:** HR5-Goushu
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>

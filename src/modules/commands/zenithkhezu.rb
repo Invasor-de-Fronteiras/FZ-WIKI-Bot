@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Khezu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/67/FrontierGen-Zenith_Khezu_Render_001.png/revision/latest?cb=20160909135221"
-    msg.respond "**Name:** Zenith Khezu / 辿異種フルフル
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/67/FrontierGen-Zenith_Khezu_Render_001.png/revision/latest?cb=20160909135221"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906344283882291210/zenith_khezu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Khezu / 辿異種フルフル
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:902602768525717534>

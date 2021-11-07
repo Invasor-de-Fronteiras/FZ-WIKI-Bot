@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Guanzorumu do |msg|
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904405200004087880/EMDcrU-UUAEr0kh-removebg-preview.png"
-    msg.respond "**Name:** Ruler Guanzorumu / 極み統べるグァンゾルム
+        # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904405200004087880/EMDcrU-UUAEr0kh-removebg-preview.png"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906237074288558100/rulingguanzorumu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Ruler Guanzorumu / 極み統べるグァンゾルム
     **Title:** Emperor Conqueror Dragon / 帝征龍
     **Rank:** Musou
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Shantien do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Xiang_Tien_Render_001.png/revision/latest?cb=20140906081507"
-    msg.respond "**Name:** Shantien / シャンティエン (Shantien)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Xiang_Tien_Render_001.png/revision/latest?cb=20140906081507"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906277102440050758/shantien.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Shantien / シャンティエン (Shantien)
     **Title:** Heavenly Flying Dragon / 天翔龍
     **Rank:** G-Rank-Conquest
     **Weak to:** Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>

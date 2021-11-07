@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gravios do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/2ndGen-Gravios_Render_001.png/revision/latest?cb=20150303002203"
-    msg.respond "**Name:** Gravios / グラビモス (Gurabimosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/2ndGen-Gravios_Render_001.png/revision/latest?cb=20150303002203"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906212705201975346/gravios.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gravios / グラビモス (Gurabimosu)
     **Title:** Armor Wyvern / 鎧竜
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gravios_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/FrontierGen-HC_Gravios_Render_001.png/revision/latest?cb=20140902010731"
-    msg.respond "**Name:** Gravios / グラビモス (Gurabimosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/FrontierGen-HC_Gravios_Render_001.png/revision/latest?cb=20140902010731"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906212705201975346/gravios.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gravios / グラビモス (Gurabimosu)
     **Title:** Armor Wyvern / 鎧竜
     **Rank:** HR5
     **Weak to:** Water <:zwater:902635559967686756>
@@ -67,8 +71,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gravios_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5e/FrontierGen-Gravios_Render_002.png/revision/latest?cb=20140906144706"
-    msg.respond "**Name:** Gravios / グラビモス (Gurabimosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5e/FrontierGen-Gravios_Render_002.png/revision/latest?cb=20140906144706"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906212705201975346/gravios.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gravios / グラビモス (Gurabimosu)
     **Title:** Armor Wyvern / 鎧竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

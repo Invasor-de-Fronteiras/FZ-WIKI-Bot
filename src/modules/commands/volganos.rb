@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Volganos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/2ndGen-Lavasioth_Render_001.png/revision/latest?cb=20150303083223"
-    msg.respond "**Name:** Volganos / Lavasioth / ヴォルガノス (Voruganosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/2ndGen-Lavasioth_Render_001.png/revision/latest?cb=20150303083223"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906292397137346580/lavasioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Volganos / Lavasioth / ヴォルガノス (Voruganosu)
     **Title:** Lava Wyvern / 溶岩竜
     **Rank:** HR1-4
     **Weak to:** Water <:zwater:902635559967686756>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Volganos_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2c/FrontierGen-HC_Lavasioth_Render_001_%28Edited%29.png/revision/latest?cb=20140119100411"
-    msg.respond "**Name:** Volganos / Lavasioth / ヴォルガノス (Voruganosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2c/FrontierGen-HC_Lavasioth_Render_001_%28Edited%29.png/revision/latest?cb=20140119100411"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906292649374416966/lavasiothhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Volganos / Lavasioth / ヴォルガノス (Voruganosu)
     **Title:** Lava Wyvern / 溶岩竜
     **Rank:** HR5
     **Weak to:** Water <:zwater:902635559967686756>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Volganos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Lavasioth_Render_001.png/revision/latest?cb=20140906062818"
-    msg.respond "**Name:** Volganos / Lavasioth / ヴォルガノス (Voruganosu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Lavasioth_Render_001.png/revision/latest?cb=20140906062818"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906292397137346580/lavasioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Volganos / Lavasioth / ヴォルガノス (Voruganosu)
     **Title:** Lava Wyvern / 溶岩竜
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756>

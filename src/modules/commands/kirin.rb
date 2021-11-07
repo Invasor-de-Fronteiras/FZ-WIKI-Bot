@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
       
       command :Kirin do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f7/FrontierGen-HC_Kirin_Render_001.png/revision/latest?cb=20140902023953"
-    msg.respond "**Name:** Kirin / キリン
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f7/FrontierGen-HC_Kirin_Render_001.png/revision/latest?cb=20140902023953"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227111621189722/kirin.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kirin / キリン
     **Title:** Phantom Beast / 幻獣
     **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
     **Ailments:** Thunderblight <:zthunder:902635597305372752> and Paralysis <:zpara:902638465680814161>

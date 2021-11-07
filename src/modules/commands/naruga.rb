@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Nargacuga do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/2ndGen-Nargacuga_Render_001.png/revision/latest?cb=20150303084110"
-    msg.respond "**Name:** Nargacuga / ナルガクルガ (Narugakuruga)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/2ndGen-Nargacuga_Render_001.png/revision/latest?cb=20150303084110"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240355794575370/nargacuga.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Nargacuga / ナルガクルガ (Narugakuruga)
     **Title:** Swift Wyvern / 迅竜
     **Rank:** HR5-Exotic
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Nargacuga_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Nargacuga_Render_001.png/revision/latest?cb=20160415160532"
-    msg.respond "**Name:** Nargacuga / ナルガクルガ (Narugakuruga)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Nargacuga_Render_001.png/revision/latest?cb=20160415160532"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240355794575370/nargacuga.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Nargacuga / ナルガクルガ (Narugakuruga)
     **Title:** Swift Wyvern / 迅竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>

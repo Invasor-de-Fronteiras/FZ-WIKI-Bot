@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Rukodiora do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-Zenith_Rukodiora_Render_001.png/revision/latest?cb=20170705201845"
-    msg.respond "**Name:** Zenith Rukodiora / 辿異種ルコディオラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-Zenith_Rukodiora_Render_001.png/revision/latest?cb=20170705201845"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906346796324892732/zenith_rukodiora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Rukodiora / 辿異種ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** Zenith
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638> (Rage Mode)

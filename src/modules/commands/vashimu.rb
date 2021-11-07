@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Akura_Vashimu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1e/FrontierGen-Akura_Vashimu_Render_001.png/revision/latest?cb=20140906052718"
-    msg.respond "**Name:** Akura Vashimu / アクラ・ヴァシム
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1e/FrontierGen-Akura_Vashimu_Render_001.png/revision/latest?cb=20140906052718"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906291587238223922/akuravashimu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Akura Vashimu / アクラ・ヴァシム
     **Title:** Tail Crystal Scorpion / 尾晶蠍
     **Rank:** HR1-4
     **Weak to:** None
@@ -58,8 +60,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Akura_Vashimu_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-HC_Akura_Vashimu_Render_001.png/revision/latest?cb=20140817111724"
-    msg.respond "**Name:** Akura Vashimu / アクラ・ヴァシム
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-HC_Akura_Vashimu_Render_001.png/revision/latest?cb=20140817111724"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906291587238223922/akuravashimu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Akura Vashimu / アクラ・ヴァシム
     **Title:** Tail Crystal Scorpion / 尾晶蠍
     **Rank:** HR5
     **Weak to:** None
@@ -113,8 +117,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Akura_Vashimu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/FrontierGen-Akura_Vashimu_Render_002.png/revision/latest?cb=20140118154626"
-    msg.respond "**Name:** Akura Vashimu / アクラ・ヴァシム
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/FrontierGen-Akura_Vashimu_Render_002.png/revision/latest?cb=20140118154626"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906291587238223922/akuravashimu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Akura Vashimu / アクラ・ヴァシム
     **Title:** Tail Crystal Scorpion / 尾晶蠍
     **Rank:** G-Rank
     **Weak to:** None

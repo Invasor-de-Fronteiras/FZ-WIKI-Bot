@@ -3,8 +3,9 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Giaorugu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/af/FrontierGen-Giaorugu_Render_001.png/revision/latest?cb=20131228104455"
-        msg.respond "
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/af/FrontierGen-Giaorugu_Render_001.png/revision/latest?cb=20131228104455"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906208739495903282/giaorugu.png"
+        msg.respond "***Based on Cutting Damage!***
     **Name:** Giaorugu / ギアオルグ
     **Title:** Ice Fierce Wyvern / 氷獰竜
     **Rank:** G-Rank

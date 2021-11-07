@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Red_Volganos do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a7/FrontierGen-Lavasioth_Subspecies_Render_001.png/revision/latest?cb=20140906064452"
-    msg.respond "**Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種 (Voruganosu Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a7/FrontierGen-Lavasioth_Subspecies_Render_001.png/revision/latest?cb=20140906064452"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264732946804806/redlavasioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種 (Voruganosu Ashu)
     **Title:** Crimson Lava Wyvern / 紅溶岩竜
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Red_Volganos_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8a/FrontierGen-HC_Lavasioth_Subspecies_Render_001.png/revision/latest?cb=20151208210235"
-    msg.respond "**Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種 (Voruganosu Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8a/FrontierGen-HC_Lavasioth_Subspecies_Render_001.png/revision/latest?cb=20151208210235"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264993299853423/redlavasiothhr5.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種 (Voruganosu Ashu)
     **Title:** Crimson Lava Wyvern / 紅溶岩竜
     **Rank:** HR5
     **Weak to:** Dragon <:zdragon:902635658819018783>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Red_Volganos_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ae/FrontierGen-Lavasioth_Subspecies_Render_002.png/revision/latest?cb=20140118103421"
-    msg.respond "**Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種 (Voruganosu Ashu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ae/FrontierGen-Lavasioth_Subspecies_Render_002.png/revision/latest?cb=20140118103421"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264732946804806/redlavasioth.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種 (Voruganosu Ashu)
     **Title:** Crimson Lava Wyvern / 紅溶岩竜
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783>

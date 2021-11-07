@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Harudomerugu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d6/FrontierGen-Zenith_Harudomerugu_Render_001.png/revision/latest?cb=20190123052134"
-    msg.respond "**Name:** Zenith Harudomerugu / 辿異種ハルドメルグ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d6/FrontierGen-Zenith_Harudomerugu_Render_001.png/revision/latest?cb=20190123052134"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906342821835976734/zenith_harudomerugu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Harudomerugu / 辿異種ハルドメルグ
     **Title:** Silver Controlling Dragon / 司銀龍
     **Rank:** Zenith
     **Weak to:** Black Flame and Dragon <:zdragon:902635658819018783>

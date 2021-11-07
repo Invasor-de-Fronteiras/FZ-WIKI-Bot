@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Toridcless do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Zenith_Toridcless_Render_001.png/revision/latest?cb=20180119074300"
-    msg.respond "**Name:** Zenith Toridcless  / 辿異種トリドクレス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Zenith_Toridcless_Render_001.png/revision/latest?cb=20180119074300"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906349185698238474/zenith_toridcless.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Toridcless  / 辿異種トリドクレス
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** Zenith
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

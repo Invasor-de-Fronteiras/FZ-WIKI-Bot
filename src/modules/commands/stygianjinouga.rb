@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Stygian_Jinouga do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/MH3G-Jinouga_Subspecies.png/revision/latest?cb=20160709015951"
-    msg.respond "**Name:** Stygian Jinouga / Stygian Zinogre / ジンオウガ亜種
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/MH3G-Jinouga_Subspecies.png/revision/latest?cb=20160709015951"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906283733915672646/stygianzinogre.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Stygian Jinouga / Stygian Zinogre / ジンオウガ亜種
     **Title:** Hell Wolf Wyvern / 獄狼竜
     **Rank:** HR5-Exotic
     **Weak to:**Thunder <:zthunder:902635597305372752>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Stygian_Jinouga_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/42/FrontierGen-Stygian_Zinogre_Render_001.png/revision/latest?cb=20160709020537"
-    msg.respond "**Name:** Stygian Jinouga / Stygian Zinogre / ジンオウガ亜種
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/42/FrontierGen-Stygian_Zinogre_Render_001.png/revision/latest?cb=20160709020537"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906283733915672646/stygianzinogre.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Stygian Jinouga / Stygian Zinogre / ジンオウガ亜種
     **Title:** Hell Wolf Wyvern / 獄狼竜
     **Rank:** G-Rank-Exotic
     **Weak to:**Thunder <:zthunder:902635597305372752>

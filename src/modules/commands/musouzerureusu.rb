@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Musou_Zerureusu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bb/FrontierGen-Sparkling_Zerureusu_Render_001.png/revision/latest?cb=20200319135310"
-    msg.respond "**Name:** Sparkling Zerureusu / 極み耀くゼルレウス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bb/FrontierGen-Sparkling_Zerureusu_Render_001.png/revision/latest?cb=20200319135310"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906239356816203776/zerureusumusou.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Sparkling Zerureusu / 極み耀くゼルレウス
     **Title:** Bright Field Wyvern / 輝界竜
     **Rank:** Musou
     **Weak to:** Dark <:zdragon:902635658819018783> <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>

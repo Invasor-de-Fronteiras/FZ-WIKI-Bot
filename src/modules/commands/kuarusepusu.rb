@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Kuarusepusu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Kuarusepusu_Render_002.png/revision/latest?cb=20140831152606"
-    msg.respond "**Name:** Kuarusepusu / クアルセプス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Kuarusepusu_Render_002.png/revision/latest?cb=20140831152606"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227552555782154/kuarusepusu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kuarusepusu / クアルセプス
     **Title:** Crystal Wyvern / 晶竜
     **Rank:** HR1-4
     **Weak to:** Light and Fire <:zfire:902602768525717534>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kuarusepusu_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Kuarusepusu_Render_001.png/revision/latest?cb=20141118220620"
-    msg.respond "**Name:** Kuarusepusu / クアルセプス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Kuarusepusu_Render_001.png/revision/latest?cb=20141118220620"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227552555782154/kuarusepusu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kuarusepusu / クアルセプス
     **Title:** Crystal Wyvern / 晶竜
     **Rank:** HR5-Goushu
     **Weak to:** Light and Fire <:zfire:902602768525717534>
@@ -43,8 +47,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kuarusepusu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/Kuarusepusu.png/revision/latest?cb=20120523192041"
-    msg.respond "**Name:** Kuarusepusu / クアルセプス
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/Kuarusepusu.png/revision/latest?cb=20120523192041"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227552555782154/kuarusepusu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kuarusepusu / クアルセプス
     **Title:** Crystal Wyvern / 晶竜
     **Rank:** G-Rank
     **Weak to:** Light and Fire <:zfire:902602768525717534>

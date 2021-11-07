@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Toa_Tesukatora do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Toa_Tesukatora_Render_001.png/revision/latest?cb=20160108134719"
-    msg.respond "**Name:** Toa Tesukatora / トア・テスカトラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Toa_Tesukatora_Render_001.png/revision/latest?cb=20160108134719"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906287578339246150/toatesukatora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Toa Tesukatora / トア・テスカトラ
     **Title:** Frozen King Dragon / 凍王龍
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
@@ -24,8 +26,10 @@ module Bot::DiscordCommands
   end
 
     command :Toa_Tesukatora_G do |msg|
-      msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Toa_Tesukatora_Render_001.png/revision/latest?cb=20160108134719"
-  msg.respond "**Name:** Toa Tesukatora / トア・テスカトラ
+      # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Toa_Tesukatora_Render_001.png/revision/latest?cb=20160108134719"
+      msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906287578339246150/toatesukatora.png"
+  msg.respond "***Based on Cutting Damage!***
+  **Name:** Toa Tesukatora / トア・テスカトラ
   **Title:** Frozen King Dragon / 凍王龍
   **Rank:** G-Rank
   **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>

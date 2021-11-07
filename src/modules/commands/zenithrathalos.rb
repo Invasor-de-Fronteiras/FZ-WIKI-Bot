@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Zenith_Rathalos do |msg|
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
         msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
-    msg.respond "**Name:** Zenith Rathalos / 辿異種リオレウス
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Zenith Rathalos / 辿異種リオレウス
     **Title:** Fire Wyvern / 火竜
     **Rank:** Zenith
     **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>

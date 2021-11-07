@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Kushal_Daora do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9d/FrontierGen-Kushala_Daora_Render_001.png/revision/latest?cb=20140907125051"
-    msg.respond "**Name:** Kushala Daora / クシャルダオラ (Kusharudaora)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9d/FrontierGen-Kushala_Daora_Render_001.png/revision/latest?cb=20140907125051"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228334982225970/kushaladaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kushala Daora / クシャルダオラ (Kusharudaora)
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kushal_Daora_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/14/FrontierGen-HC_Kushala_Daora_Render_001.png/revision/latest?cb=20140810162851"
-    msg.respond "**Name:** Kushala Daora / クシャルダオラ (Kusharudaora)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/14/FrontierGen-HC_Kushala_Daora_Render_001.png/revision/latest?cb=20140810162851"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228334982225970/kushaladaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kushala Daora / クシャルダオラ (Kusharudaora)
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR5-Goushu
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
@@ -67,8 +71,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Kushal_Daora_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Kushala_Daora_Render_003.png/revision/latest?cb=20141214142406"
-    msg.respond "**Name:** Kushala Daora / クシャルダオラ (Kusharudaora)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Kushala_Daora_Render_003.png/revision/latest?cb=20141214142406"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228334982225970/kushaladaora.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Kushala Daora / クシャルダオラ (Kusharudaora)
     **Title:** Steel Dragon / 鋼龍
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>

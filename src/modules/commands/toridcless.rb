@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Toridcless do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7f/FrontierGen-Toridcless_Render_001.png/revision/latest?cb=20151208185412"
-    msg.respond "**Name:** Toridcless / トリドクレス (Toridokuresu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7f/FrontierGen-Toridcless_Render_001.png/revision/latest?cb=20151208185412"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906288388972363826/toridcless.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Toridcless / トリドクレス (Toridokuresu)
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** HR5-Goushu
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Toridcless_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f5/FrontierGen-Toridcless_Render_002.png/revision/latest?cb=20151208185508"
-    msg.respond "**Name:** Toridcless / トリドクレス (Toridokuresu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f5/FrontierGen-Toridcless_Render_002.png/revision/latest?cb=20151208185508"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906288388972363826/toridcless.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Toridcless / トリドクレス (Toridokuresu)
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** G-Rank
     **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Forokururu do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/97/FrontierGen-Forokururu_Render_001.png/revision/latest?cb=20140423210157"
-    msg.respond "**Name:** Forokururu / フォロクルル (Forokururu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/97/FrontierGen-Forokururu_Render_001.png/revision/latest?cb=20140423210157"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906206480510906378/forokururu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Forokururu / フォロクルル (Forokururu)
     **Title:** Flower Phoenix Bird / 華鳳鳥
     **Rank:** HR5-Goushu
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
@@ -23,8 +25,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Forokururu_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-Forokururu_Render_002.png/revision/latest?cb=20140423210453"
-    msg.respond "**Name:** Forokururu / フォロクルル (Forokururu)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-Forokururu_Render_002.png/revision/latest?cb=20140423210453"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906206480510906378/forokururu.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Forokururu / フォロクルル (Forokururu)
     **Title:** Flower Phoenix Bird / 華鳳鳥
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>

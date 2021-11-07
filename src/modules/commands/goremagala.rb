@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Gore_Magala do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1e/MH4-Gore_Magala_Render_001.png/revision/latest?cb=20140120060906"
-    msg.respond "**Name:** Gore Magala / ゴア・マガラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1e/MH4-Gore_Magala_Render_001.png/revision/latest?cb=20140120060906"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211554524028958/goremagala.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gore Magala / ゴア・マガラ
     **Title:** Black Eclipse Wyvern / 黒蝕竜
     **Rank:** HR5-Exotic
     **Weak to:** Fire <:zfire:902602768525717534>, Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Gore_Magala_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-True_Frenzy_Gore_Magala_Render_001.png/revision/latest?cb=20161021044840"
-    msg.respond "**Name:** Gore Magala / ゴア・マガラ
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-True_Frenzy_Gore_Magala_Render_001.png/revision/latest?cb=20161021044840"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211554524028958/goremagala.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Gore Magala / ゴア・マガラ
     **Title:** Black Eclipse Wyvern / 黒蝕竜
     **Rank:** G-Rank-Exotic
     **Weak to:** Fire <:zfire:902602768525717534>, Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>

@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :White_Fatalis do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2f/2ndGen-White_Fatalis_Render_001.png/revision/latest?cb=20130502195549"
-    msg.respond "**Name:** White Fatalis / ミラボレアス(祖龍)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2f/2ndGen-White_Fatalis_Render_001.png/revision/latest?cb=20130502195549"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906295143110426684/whitefatalis.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** White Fatalis / ミラボレアス(祖龍)
     **Title:** Ancestral Dragon / 祖龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :White_Fatalis_G do |msg|
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904450553915011172/FrontierGen-G_White_Fatalis_Screenshot_003-removebg-preview.png"
-    msg.respond "**Name:** White Fatalis / ミラボレアス(祖龍)
+        # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904450553915011172/FrontierGen-G_White_Fatalis_Screenshot_003-removebg-preview.png"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906295519867981834/whitefatalisg.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** White Fatalis / ミラボレアス(祖龍)
     **Title:** Ancestral Dragon / 祖龍
     **Rank:** G-Rank-Road
     **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>

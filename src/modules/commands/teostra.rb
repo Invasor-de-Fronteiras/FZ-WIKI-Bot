@@ -3,8 +3,10 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
 
       command :Teostra do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-Teostra_Render_001.png/revision/latest?cb=20141214141347"
-    msg.respond "**Name:** Teostra / テオ・テスカトル (Teo Tesukatoru)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-Teostra_Render_001.png/revision/latest?cb=20141214141347"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286128225730641/teostra.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Teostra / テオ・テスカトル (Teo Tesukatoru)
     **Title:** Flame King Dragon / 炎王龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:902635559967686756>
@@ -35,8 +37,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Teostra_HR do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c8/FrontierGen-Supremacy_Teostra_Render_001.png/revision/latest?cb=20140821073202"
-    msg.respond "**Name:** Teostra / テオ・テスカトル (Teo Tesukatoru)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c8/FrontierGen-Supremacy_Teostra_Render_001.png/revision/latest?cb=20140821073202"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286128225730641/teostra.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Teostra / テオ・テスカトル (Teo Tesukatoru)
     **Title:** Flame King Dragon / 炎王龍
     **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:902635559967686756>
     **Ailments:** None
@@ -92,8 +96,10 @@ module Bot::DiscordCommands
     ```"
       end
       command :Teostra_G do |msg|
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/64/FrontierGen-Supremacy_Teostra_Render_002.png/revision/latest?cb=20140821092411"
-    msg.respond "**Name:** Teostra / テオ・テスカトル (Teo Tesukatoru)
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/64/FrontierGen-Supremacy_Teostra_Render_002.png/revision/latest?cb=20140821092411"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286417834025050/teostrag.png"
+    msg.respond "***Based on Cutting Damage!***
+    **Name:** Teostra / テオ・テスカトル (Teo Tesukatoru)
     **Title:** Flame King Dragon / 炎王龍
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:902635559967686756>
