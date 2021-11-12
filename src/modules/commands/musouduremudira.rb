@@ -13,15 +13,15 @@ module Bot::DiscordCommands
     **Ailments:** Corrupted Poison <:zdurepoison:902638577668722708>
     **Elements:** Ice <:zice:902635629471469638>
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          25    30     30     10       5     0    20    25   100  
-    \n   Belly         10    15     10     10       5     0     5     5     0  
-    \n   Back          15    10     15     10       5     0     5     5     0  
-    \n   Tail          30    25     25     10       5     0    15    15     0  
-    \n   Forelegs      15    20     10     10       5     0    10     5     0  
-    \n   Hindlegs      15    15     10     10       5     0    10     5     0  
-    \n   Wings         25    20     15     10       5     0    15    20     0 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          25    30     30     10       5     0    20    25   100
+    \n   Belly         10    15     10     10       5     0     5     5     0
+    \n   Back          15    10     15     10       5     0     5     5     0
+    \n   Tail          30    25     25     10       5     0    15    15     0
+    \n   Forelegs      15    20     10     10       5     0    10     5     0
+    \n   Hindlegs      15    15     10     10       5     0    10     5     0
+    \n   Wings         25    20     15     10       5     0    15    20     0
     ```"
       end
     end

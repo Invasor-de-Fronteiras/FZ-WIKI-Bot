@@ -14,19 +14,19 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          15    20     10      0      10     5    10    15   100  
-    \n   Neck          20    15     15      0      10     5    10    10     0  
-    \n   Back          10    10      5      0       5     5    10     5     0  
-    \n   Belly         15    25     25      0       5     5     5    30     0  
-    \n   Tail          20    10     15      0       5     5     5    20     0  
-    \n   Wings         10    10     10      0       5     5    10    10     0  
-    \n   Legs           5    10      5      0       5     5     5     5     0 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                  Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          15    20     10      0      10     5    10    15   100
+    \n   Neck          20    15     15      0      10     5    10    10     0
+    \n   Back          10    10      5      0       5     5    10     5     0
+    \n   Belly         15    25     25      0       5     5     5    30     0
+    \n   Tail          20    10     15      0       5     5     5    20     0
+    \n   Wings         10    10     10      0       5     5    10    10     0
+    \n   Legs           5    10      5      0       5     5     5     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                  Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          35    35     25      0      10     5    15    15   100
     \n   Neck          20    15     15      0      10     5    10    10     0
     \n   Back          15    15      5      0       5     5    10    30     0

@@ -13,15 +13,15 @@ module Bot::DiscordCommands
     **Ailments:** Extreme Waterblight <:zwater:902635559967686756>
     **Elements:** Water <:zwater:902635559967686756>
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          25    35     25     15       0    15     5     5   100  
-    \n   Neck          35    30     30     20       0    20     5     5     0  
-    \n   Back          20    15     15     10       0    10     5     5     0  
-    \n   Belly         30    25     35     20       0    20     5     5     0  
-    \n   Tail          30    20     25     15       0    15     5     5     0  
-    \n   Wings         25    25     30     15       0    15     5     5     0  
-    \n   Legs          25    20     30      5       0     5     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          25    35     25     15       0    15     5     5   100
+    \n   Neck          35    30     30     20       0    20     5     5     0
+    \n   Back          20    15     15     10       0    10     5     5     0
+    \n   Belly         30    25     35     20       0    20     5     5     0
+    \n   Tail          30    20     25     15       0    15     5     5     0
+    \n   Wings         25    25     30     15       0    15     5     5     0
+    \n   Legs          25    20     30      5       0     5     0     0     0
         
     ```"
       end

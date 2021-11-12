@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          50    45     35     25       0    15    30     5   100  
-    \n   Body          25    25     25     10       0     5    10     5     0  
-    \n   Wingclaw      30    30     30     25       0    15    30     5     0  
-    \n   Forelegs      35    35     35     10       0     5    10     5     0  
-    \n   Hindlegs      32    32     25     10       0     5    10     5     0  
-    \n   Wings         20    26     20     15       0    10    20     0     0  
-    \n   Tail          35    35     30     10       0    10    15     5     0  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          50    45     35     25       0    15    30     5   100
+    \n   Body          25    25     25     10       0     5    10     5     0
+    \n   Wingclaw      30    30     30     25       0    15    30     5     0
+    \n   Forelegs      35    35     35     10       0     5    10     5     0
+    \n   Hindlegs      32    32     25     10       0     5    10     5     0
+    \n   Wings         20    26     20     15       0    10    20     0     0
+    \n   Tail          35    35     30     10       0    10    15     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                                 Frenzy
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          55    50     40     30       0    15    30     5   100  
-    \n   Body          25    25     25     10       0     5    10     5     0  
-    \n   Wingclaw      30    30     30     30       0    15    30     5     0  
-    \n   Forelegs      35    35     35     10       0     5    10     5     0  
-    \n   Hindlegs      32    32     25     10       0     5    10     5     0  
-    \n   Wings         20    26     20     15       0    10    20     0     0  
-    \n   Tail          35    35     30     10       0    10    15     5     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          55    50     40     30       0    15    30     5   100
+    \n   Body          25    25     25     10       0     5    10     5     0
+    \n   Wingclaw      30    30     30     30       0    15    30     5     0
+    \n   Forelegs      35    35     35     10       0     5    10     5     0
+    \n   Hindlegs      32    32     25     10       0     5    10     5     0
+    \n   Wings         20    26     20     15       0    10    20     0     0
+    \n   Tail          35    35     30     10       0    10    15     5     0
     ```"
       end
       command :Shagaru_G do |msg|
@@ -48,26 +48,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          28    25     28     15       0    15    20     5   100  
-    \n   Body          19    19     17      5       0     5     5     5     0  
-    \n   Wingclaw      21    21     25     10       0    15    15     5     0  
-    \n   Forelegs      15    15     15      5       0     5     5     5     0  
-    \n   Hindlegs      12    12     12      5       0     5     5     5     0  
-    \n   Wings         20    20     18     15       0     5     5     0     0  
-    \n   Tail          25    17     28     10       0     5     5     5     0  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          28    25     28     15       0    15    20     5   100
+    \n   Body          19    19     17      5       0     5     5     5     0
+    \n   Wingclaw      21    21     25     10       0    15    15     5     0
+    \n   Forelegs      15    15     15      5       0     5     5     5     0
+    \n   Hindlegs      12    12     12      5       0     5     5     5     0
+    \n   Wings         20    20     18     15       0     5     5     0     0
+    \n   Tail          25    17     28     10       0     5     5     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                                 Frenzy
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    33     35     25       0    15    25     5   100  
-    \n   Body          19    19     17      5       0     5     5     5     0  
-    \n   Wingclaw      21    21     25     15       0    15    15     5     0  
-    \n   Forelegs      15    15     15      5       0     5     5     5     0  
-    \n   Hindlegs      12    12     12      5       0     5     5     5     0  
-    \n   Wings         20    20     18     15       0     5     5     0     0  
-    \n   Tail          25    17     28     10       0     5     5     5     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    33     35     25       0    15    25     5   100
+    \n   Body          19    19     17      5       0     5     5     5     0
+    \n   Wingclaw      21    21     25     15       0    15    15     5     0
+    \n   Forelegs      15    15     15      5       0     5     5     5     0
+    \n   Hindlegs      12    12     12      5       0     5     5     5     0
+    \n   Wings         20    20     18     15       0     5     5     0     0
+    \n   Tail          25    17     28     10       0     5     5     5     0
     ```"
     msg.respond "```
     \n                               True Frenzy								

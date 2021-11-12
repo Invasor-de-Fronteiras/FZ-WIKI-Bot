@@ -14,19 +14,19 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          60    40     40      0      10    10    10    10   100  
-    \n   Neck          50    30     50     10      20    20    20    20     0  
-    \n   Back          25    30     30      0      10    10    10    10     0  
-    \n   Belly         55    55     70     10      20    20    20    20     0  
-    \n   Tail          40    30     25      0      10    10    10    10     0  
-    \n   Wings         25    20     25      0      10    10    10    10     0  
-    \n   Legs          45    40     50      0      10    10    10    10     0  
-    \n                             ---------------
-    \n                                 Phase 1									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          60    40     40      0      10    10    10    10   100
+    \n   Neck          50    30     50     10      20    20    20    20     0
+    \n   Back          25    30     30      0      10    10    10    10     0
+    \n   Belly         55    55     70     10      20    20    20    20     0
+    \n   Tail          40    30     25      0      10    10    10    10     0
+    \n   Wings         25    20     25      0      10    10    10    10     0
+    \n   Legs          45    40     50      0      10    10    10    10     0
+    \n
+    \n                                 Phase 1
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          50    40     40      0      10    10    10    10   100
     \n   Neck          50    30     40     10      20    20    20    20     0
     \n   Back          25    30     30      0      10    10    10    10     0
@@ -94,19 +94,19 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          60    40     40      0      10    10    10    10   100  
-    \n   Neck          50    30     50     10      20    20    20    20     0  
-    \n   Back          25    30     30      0      10    10    10    10     0  
-    \n   Belly         55    55     70     10      20    20    20    20     0  
-    \n   Tail          40    30     25      0      10    10    10    10     0  
-    \n   Wings         25    20     25      0      10    10    10    10     0  
-    \n   Legs          45    40     50      0      10    10    10    10     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          60    40     40      0      10    10    10    10   100
+    \n   Neck          50    30     50     10      20    20    20    20     0
+    \n   Back          25    30     30      0      10    10    10    10     0
+    \n   Belly         55    55     70     10      20    20    20    20     0
+    \n   Tail          40    30     25      0      10    10    10    10     0
+    \n   Wings         25    20     25      0      10    10    10    10     0
+    \n   Legs          45    40     50      0      10    10    10    10     0
     \n
-    \n                                 Phase 1									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n                                 Phase 1
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          50    40     40      0      10    10    10    10   100
     \n   Neck          50    30     40     10      20    20    20    20     0
     \n   Back          25    30     30      0      10    10    10    10     0
@@ -186,19 +186,19 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          60    40     40      0      10    10    10    10   100  
-    \n   Neck          50    30     50     10      20    20    20    20     0  
-    \n   Back          25    30     30      0      10    10    10    10     0  
-    \n   Belly         55    55     70     10      20    20    20    20     0  
-    \n   Tail          40    30     25      0      10    10    10    10     0  
-    \n   Wings         25    20     25      0      10    10    10    10     0  
-    \n   Legs          45    40     50      0      10    10    10    10     0  
-    \n                             ---------------
-    \n                                 Phase 1									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          60    40     40      0      10    10    10    10   100
+    \n   Neck          50    30     50     10      20    20    20    20     0
+    \n   Back          25    30     30      0      10    10    10    10     0
+    \n   Belly         55    55     70     10      20    20    20    20     0
+    \n   Tail          40    30     25      0      10    10    10    10     0
+    \n   Wings         25    20     25      0      10    10    10    10     0
+    \n   Legs          45    40     50      0      10    10    10    10     0
+    \n
+    \n                                 Phase 1
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          50    40     40      0      10    10    10    10   100
     \n   Neck          50    30     40     10      20    20    20    20     0
     \n   Back          25    30     30      0      10    10    10    10     0

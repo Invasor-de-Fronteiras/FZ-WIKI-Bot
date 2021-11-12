@@ -14,24 +14,24 @@ module Bot::DiscordCommands
     **Elements:** Water <:zwater:902635559967686756>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    40     30     15      10    25     0    20   100  
-    \n   Body          25    10     10     15       5    10     0    10     0  
-    \n   Shell         20    25     15      0       5    15     0    10     0  
-    \n   Legs          20    25     10      0       5    15     0    10     0  
-    \n   Claw          25    25     15     30       5     5     0    10     0  
-    \n   Arms          25    30     15     15       5     5     0    10     0         
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    40     30     15      10    25     0    20   100
+    \n   Body          25    10     10     15       5    10     0    10     0
+    \n   Shell         20    25     15      0       5    15     0    10     0
+    \n   Legs          20    25     10      0       5    15     0    10     0
+    \n   Claw          25    25     15     30       5     5     0    10     0
+    \n   Arms          25    30     15     15       5     5     0    10     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                              Broken Claw
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    40     30     15      10    25     0    20   100  
-    \n   Body          25    10     10     15       5    10     0    10     0  
-    \n   Shell         20    25     15      0       5    15     0    10     0  
-    \n   Legs          20    25     10      0       5    15     0    10     0  
-    \n   Claw          40    40     35     30       5     5     0    10     0  
-    \n   Arms          25    30     15     15       5     5     0    10     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    40     30     15      10    25     0    20   100
+    \n   Body          25    10     10     15       5    10     0    10     0
+    \n   Shell         20    25     15      0       5    15     0    10     0
+    \n   Legs          20    25     10      0       5    15     0    10     0
+    \n   Claw          40    40     35     30       5     5     0    10     0
+    \n   Arms          25    30     15     15       5     5     0    10     0
     ```"
     msg.respond "```
     \n                                Guarding

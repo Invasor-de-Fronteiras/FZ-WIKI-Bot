@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** Ice <:zice:902635629471469638>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    30     25     20       0    10     5     0   100  
-    \n   R.Leg         15    15     10     15       0     5    10     0     0  
-    \n   L.Leg         15    15     10     15       0     5    10     0     0  
-    \n   Ice Tail      15    20     10     50       0    10     5     0     0  
-    \n   Body          20    25     20     10       0     5     5     0     0  
-    \n   Tail          25    20     15     20       0    10     5     0     0  
-    \n   Tail Apex     30    25     20     25       0     5    10     0     0   
-    \n 
-    \n                                 Rage 1									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    30     30     20       0    10     5     0   100  
-    \n   R.Leg         15    15     10     15       0     5    10     0     0  
-    \n   L.Leg         15    15     10     15       0     5    10     0     0  
-    \n   Ice Tail      20    25     15     50       0    10     5     0     0  
-    \n   Body          25    30     25     10       0     5     5     0     0  
-    \n   Tail          30    25     20     25       0    10     5     0     0  
-    \n   Tail Apex     35    30     25     30       0     5    10     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    30     25     20       0    10     5     0   100
+    \n   R.Leg         15    15     10     15       0     5    10     0     0
+    \n   L.Leg         15    15     10     15       0     5    10     0     0
+    \n   Ice Tail      15    20     10     50       0    10     5     0     0
+    \n   Body          20    25     20     10       0     5     5     0     0
+    \n   Tail          25    20     15     20       0    10     5     0     0
+    \n   Tail Apex     30    25     20     25       0     5    10     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage 1
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    30     30     20       0    10     5     0   100
+    \n   R.Leg         15    15     10     15       0     5    10     0     0
+    \n   L.Leg         15    15     10     15       0     5    10     0     0
+    \n   Ice Tail      20    25     15     50       0    10     5     0     0
+    \n   Body          25    30     25     10       0     5     5     0     0
+    \n   Tail          30    25     20     25       0    10     5     0     0
+    \n   Tail Apex     35    30     25     30       0     5    10     0     0
     ```"
     msg.respond "```
     \n                                 Rage 2								

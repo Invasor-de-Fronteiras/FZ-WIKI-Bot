@@ -6,7 +6,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904048955141283870/8a224a1cgy1gbu04xc28qj20px0c50vh-removebg-preview.png"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906232698488631296/miru.png"
         msg.respond "***Based on Cutting Damage! Hybrid Mode (White)***
-        **Name:** Mysterious Mi Ru / 妖し化けるミ・ル
+    **Name:** Mysterious Mi Ru / 妖し化けるミ・ル
     **Title:** Black Fox Wyvern / 黒狐竜
     **Rank:** Musou
     **Weak to:** Fire <:zfire:902602768525717534> (Fore Arms), Water <:zwater:902635559967686756> (Rear Legs), Thunder <:zthunder:902635597305372752> (Spine), Ice <:zice:902635629471469638> (Belly) and Dragon <:zdragon:902635658819018783> (Tail)
@@ -15,26 +15,26 @@ module Bot::DiscordCommands
     msg.respond "
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    40     40      0       0     0     0     0   100  
-    \n   Forelegs      30    30     25      0       0     0     0     0     0  
-    \n   Hindlegs      30    30     25      0       0     0     0     0     0  
-    \n   Belly         30    30     25      0       0     0     0     0     0  
-    \n   Back          30    30     25      0       0     0     0     0     0  
-    \n   Tail          30    30     25      0       0     0     0     0     0  
-    \n   Tail Tip      40    35     40      0       0     0     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    40     40      0       0     0     0     0   100
+    \n   Forelegs      30    30     25      0       0     0     0     0     0
+    \n   Hindlegs      30    30     25      0       0     0     0     0     0
+    \n   Belly         30    30     25      0       0     0     0     0     0
+    \n   Back          30    30     25      0       0     0     0     0     0
+    \n   Tail          30    30     25      0       0     0     0     0     0
+    \n   Tail Tip      40    35     40      0       0     0     0     0     0
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                             Speed Mode (Blue)
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    40     40     10      10    10    10    10   100  
-    \n   Forelegs      50    50     45     30       0     0     0     0     0  
-    \n   Hindlegs      30    30     25      0      30     0     0     0     0  
-    \n   Belly         25    25     15      0       0     0     0    30     0  
-    \n   Back          30    30     25      0       0    30     0     0     0  
-    \n   Tail          30    30     25      0       0     0    30     0     0  
-    \n   Tail Tip      40    30     40     10      10    10    10    10     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    40     40     10      10    10    10    10   100
+    \n   Forelegs      50    50     45     30       0     0     0     0     0
+    \n   Hindlegs      30    30     25      0      30     0     0     0     0
+    \n   Belly         25    25     15      0       0     0     0    30     0
+    \n   Back          30    30     25      0       0    30     0     0     0
+    \n   Tail          30    30     25      0       0     0    30     0     0
+    \n   Tail Tip      40    30     40     10      10    10    10    10     0
     ```"
     msg.respond "```
     \n                             Power Mode (Red)							

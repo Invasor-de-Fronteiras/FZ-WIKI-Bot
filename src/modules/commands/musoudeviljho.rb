@@ -14,24 +14,24 @@ module Bot::DiscordCommands
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    22     18     20      20    30    20    20   100  
-    \n   Chest         41    41     39     15      15    25    15    15     0  
-    \n   Body          15    15     15     20      20    30    20    20     0  
-    \n   Forelegs      18    18     21     15      15    25    15    15     0  
-    \n   Hindlegs      20    20     14     20      20    30    20    20     0  
-    \n   Tail          18    15     18     20      20    35    20    20     0  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                  Rage																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          41    46     39      0       0     0     0     0   120  
-    \n   Chest         34    32     32     15      15    25    15    15     0  
-    \n   Body          14    14     11     20      20    30    20    20     0  
-    \n   Forelegs      18    18     21     15      15    25    15    15     0  
-    \n   Hindlegs      19    19     14     20      20    30    20    20     0  
-    \n   Tail          17    15     18     20      20    35    20    20     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    22     18     20      20    30    20    20   100
+    \n   Chest         41    41     39     15      15    25    15    15     0
+    \n   Body          15    15     15     20      20    30    20    20     0
+    \n   Forelegs      18    18     21     15      15    25    15    15     0
+    \n   Hindlegs      20    20     14     20      20    30    20    20     0
+    \n   Tail          18    15     18     20      20    35    20    20     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                  Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          41    46     39      0       0     0     0     0   120
+    \n   Chest         34    32     32     15      15    25    15    15     0
+    \n   Body          14    14     11     20      20    30    20    20     0
+    \n   Forelegs      18    18     21     15      15    25    15    15     0
+    \n   Hindlegs      19    19     14     20      20    30    20    20     0
+    \n   Tail          17    15     18     20      20    35    20    20     0
     ```"
       end
     end

@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    25     30      0      30     5    10    10   100  
-    \n   Neck          20    10     15      0      20     5     5    10     0  
-    \n   Back          10    10     15      0      30     5    10    15     0  
-    \n   Belly         45    35     40      0       5     5    30     5     0  
-    \n   Tail          25    20     15      0       5     5    25     5     0  
-    \n   Wings         10    15     10      0      10     5    15     5     0  
-    \n   Legs          20    20     35      0       5     5     5     5     0  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                  Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          40    60     20      0      40     5    15    15   100  
-    \n   Neck          60    20     20      0      30     5     5    15     0  
-    \n   Back          50    40     60      0      35     5    10    25     0  
-    \n   Belly         50    40     20      0      15     5    35     5     0  
-    \n   Tail          40    20     15      0       5     5    40    10     0  
-    \n   Wings         35    30     15      0      10     5    25     5     0  
-    \n   Legs          30    25     25      0       5     5    10    10     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    25     30      0      30     5    10    10   100
+    \n   Neck          20    10     15      0      20     5     5    10     0
+    \n   Back          10    10     15      0      30     5    10    15     0
+    \n   Belly         45    35     40      0       5     5    30     5     0
+    \n   Tail          25    20     15      0       5     5    25     5     0
+    \n   Wings         10    15     10      0      10     5    15     5     0
+    \n   Legs          20    20     35      0       5     5     5     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                  Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          40    60     20      0      40     5    15    15   100
+    \n   Neck          60    20     20      0      30     5     5    15     0
+    \n   Back          50    40     60      0      35     5    10    25     0
+    \n   Belly         50    40     20      0      15     5    35     5     0
+    \n   Tail          40    20     15      0       5     5    40    10     0
+    \n   Wings         35    30     15      0      10     5    25     5     0
+    \n   Legs          30    25     25      0       5     5    10    10     0
     ```"
     msg.respond "```
     \n                               Charging							
@@ -60,26 +60,26 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    25     25      0      30     5    10    10   100  
-    \n   Neck          20    10     15      0      20     5     5    10     0  
-    \n   Back          10    10     15      0      30     5    10    15     0  
-    \n   Belly         35    30     30      0       5     5    30     5     0  
-    \n   Tail          25    20     15      0       5     5    25     5     0  
-    \n   Wings         10    15     10      0      10     5    15     5     0  
-    \n   Legs          20    20     30      0       5     5     5     5     0   
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                  Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    60     20      0      40     5    15    15   100  
-    \n   Neck          40    20     20      0      30     5     5    15     0  
-    \n   Back          30    30     60      0      35     5    10    25     0  
-    \n   Belly         35    40     15      0      15     5    35     5     0  
-    \n   Tail          40    20     15      0       5     5    40    10     0  
-    \n   Wings         25    25      5      0      10     5    25     5     0  
-    \n   Legs          30    25     25      0       5     5    10    10     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    25     25      0      30     5    10    10   100
+    \n   Neck          20    10     15      0      20     5     5    10     0
+    \n   Back          10    10     15      0      30     5    10    15     0
+    \n   Belly         35    30     30      0       5     5    30     5     0
+    \n   Tail          25    20     15      0       5     5    25     5     0
+    \n   Wings         10    15     10      0      10     5    15     5     0
+    \n   Legs          20    20     30      0       5     5     5     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                  Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    60     20      0      40     5    15    15   100
+    \n   Neck          40    20     20      0      30     5     5    15     0
+    \n   Back          30    30     60      0      35     5    10    25     0
+    \n   Belly         35    40     15      0      15     5    35     5     0
+    \n   Tail          40    20     15      0       5     5    40    10     0
+    \n   Wings         25    25      5      0      10     5    25     5     0
+    \n   Legs          30    25     25      0       5     5    10    10     0
     ```"
     msg.respond "```
     \n                               Charging							

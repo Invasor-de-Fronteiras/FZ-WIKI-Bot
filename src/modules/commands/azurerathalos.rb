@@ -6,7 +6,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/MHG-Azure_Rathalos_Render_002.png/revision/latest?cb=20141116105848"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904780748106641468/azurerathalos.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Azure Rathalos / リオレウス亜種 (Rioreusu Ashu)
+    **Name:** Azure Rathalos / リオレウス亜種
     **Title:** Azure Fire Wyvern / 蒼火竜
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
@@ -28,7 +28,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/df/FrontierGen-HC_Azure_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115191049"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904781051187068928/azurerathaloshr5.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Azure Rathalos / リオレウス亜種 (Rioreusu Ashu)
+    **Name:** Azure Rathalos / リオレウス亜種
     **Title:** Azure Fire Wyvern / 蒼火竜
     **Rank:** HR5
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
@@ -50,7 +50,7 @@ module Bot::DiscordCommands
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/MHF1-Azure_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140112114616"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904780748106641468/azurerathalos.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Azure Rathalos / リオレウス亜種 (Rioreusu Ashu)
+    **Name:** Azure Rathalos / リオレウス亜種
     **Title:** Azure Fire Wyvern / 蒼火竜
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>

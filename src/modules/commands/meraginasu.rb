@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** Darkness
     **Weak Spots:** ```
     \n                              Normal/Searching
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    50     25     10       5    20     0     0   100  
-    \n   Neck          20    25     15     10       5     5     0     0     0  
-    \n   Back          20    20     15     10       5     5     0     0     0  
-    \n   Belly         30    35     15     10       5     5     0     0     0  
-    \n   Tail          50    20     25     10       5    20     0     0     0  
-    \n   Wings         20    20     15     10       5     5     0     0     0  
-    \n   Legs          25    25     25     10       5     5     0     0     0         
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                Target Found																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    50     30     15       5    20     0     0   100  
-    \n   Neck          25    30     20     15       5     5     0     0     0  
-    \n   Back          25    25     20     15       5     5     0     0     0  
-    \n   Belly         35    40     20     15       5     5     0     0     0  
-    \n   Tail          50    30     30     10       5    20     0     0     0  
-    \n   Wings         25    25     20     15       5     5     0     0     0  
-    \n   Legs          25    30     25     10       5     5     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    50     25     10       5    20     0     0   100
+    \n   Neck          20    25     15     10       5     5     0     0     0
+    \n   Back          20    20     15     10       5     5     0     0     0
+    \n   Belly         30    35     15     10       5     5     0     0     0
+    \n   Tail          50    20     25     10       5    20     0     0     0
+    \n   Wings         20    20     15     10       5     5     0     0     0
+    \n   Legs          25    25     25     10       5     5     0     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                Target Found
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    50     30     15       5    20     0     0   100
+    \n   Neck          25    30     20     15       5     5     0     0     0
+    \n   Back          25    25     20     15       5     5     0     0     0
+    \n   Belly         35    40     20     15       5     5     0     0     0
+    \n   Tail          50    30     30     10       5    20     0     0     0
+    \n   Wings         25    25     20     15       5     5     0     0     0
+    \n   Legs          25    30     25     10       5     5     0     0     0
     ```"
     msg.respond "```
     \n                            Target Found (Rage)
@@ -60,26 +60,26 @@ module Bot::DiscordCommands
     **Elements:** Darkness
     **Weak Spots:** ```
     \n                              Normal/Searching
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          25    50     20     10       5    20     0     0   100  
-    \n   Neck          20    20     10     10       5     5     0     0     0  
-    \n   Back          15    15     10     10       5     5     0     0     0  
-    \n   Belly         20    25     10     10       5     5     0     0     0  
-    \n   Tail          50    30     25     10       5    20     0     0     0  
-    \n   Wings         15    20     10     10       5     5     0     0     0  
-    \n   Legs          15    25     20     10       5     5     0     0     0           
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                Target Found																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    50     25     15       5    20     0     0   100  
-    \n   Neck          25    25     15     15       5     5     0     0     0  
-    \n   Back          20    20     15     15       5     5     0     0     0  
-    \n   Belly         25    30     15     15       5     5     0     0     0  
-    \n   Tail          50    35     30     10       5    20     0     0     0  
-    \n   Wings         20    25     15     15       5     5     0     0     0  
-    \n   Legs          20    30     20     10       5     5     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          25    50     20     10       5    20     0     0   100
+    \n   Neck          20    20     10     10       5     5     0     0     0
+    \n   Back          15    15     10     10       5     5     0     0     0
+    \n   Belly         20    25     10     10       5     5     0     0     0
+    \n   Tail          50    30     25     10       5    20     0     0     0
+    \n   Wings         15    20     10     10       5     5     0     0     0
+    \n   Legs          15    25     20     10       5     5     0     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                Target Found
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    50     25     15       5    20     0     0   100
+    \n   Neck          25    25     15     15       5     5     0     0     0
+    \n   Back          20    20     15     15       5     5     0     0     0
+    \n   Belly         25    30     15     15       5     5     0     0     0
+    \n   Tail          50    35     30     10       5    20     0     0     0
+    \n   Wings         20    25     15     15       5     5     0     0     0
+    \n   Legs          20    30     20     10       5     5     0     0     0
     ```"
     msg.respond "```
     \n                            Target Found (Rage)

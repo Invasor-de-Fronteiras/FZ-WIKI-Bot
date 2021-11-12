@@ -14,24 +14,24 @@ module Bot::DiscordCommands
     **Elements:** Thunder <:zthunder:902635597305372752> (Final Form)
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    55     35     35      15     0     0    20   100  
-    \n   Body          40    45     25     30      15     0     0    20     0  
-    \n   Legs          45    40     35     30      20     0     0    25     0  
-    \n   R.Claw        35    50     40     25      20     0     0    25     0  
-    \n   L.Claw        50    35     45     25      20     0     0    20     0  
-    \n   Tail          40    25     30     20      15     0     0    20     0         
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                               Orange Shell									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    60     40     25      15     0     0    20   100  
-    \n   Body          45    45     25     20      15     0     0    25     0  
-    \n   Legs          50    40     35     20      20     0     0    30     0  
-    \n   R.Claw        40    50     50     15      20     0     0    25     0  
-    \n   L.Claw        50    40     55     15      20     0     0    25     0  
-    \n   Tail          40    25     30     15      15     0     0    20     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    55     35     35      15     0     0    20   100
+    \n   Body          40    45     25     30      15     0     0    20     0
+    \n   Legs          45    40     35     30      20     0     0    25     0
+    \n   R.Claw        35    50     40     25      20     0     0    25     0
+    \n   L.Claw        50    35     45     25      20     0     0    20     0
+    \n   Tail          40    25     30     20      15     0     0    20     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                               Orange Shell
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    60     40     25      15     0     0    20   100
+    \n   Body          45    45     25     20      15     0     0    25     0
+    \n   Legs          50    40     35     20      20     0     0    30     0
+    \n   R.Claw        40    50     50     15      20     0     0    25     0
+    \n   L.Claw        50    40     55     15      20     0     0    25     0
+    \n   Tail          40    25     30     15      15     0     0    20     0
     ```"
     msg.respond "```
     \n                                Blue Shell																
@@ -56,24 +56,24 @@ module Bot::DiscordCommands
     **Elements:** Thunder <:zthunder:902635597305372752> (Final Form)
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          25    55     25     25       5     0     0    10   100  
-    \n   Body          35    40     15     20       5     0     0    10     0  
-    \n   Legs          40    35     25     20      10     0     0    15     0  
-    \n   R.Claw        25    40     30     15      10     0     0    15     0  
-    \n   L.Claw        40    25     35     15      10     0     0    10     0  
-    \n   Tail          30    15     20     10       5     0     0    10     0        
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                               Orange Shell									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    60     30     15       5     0     0    10   100  
-    \n   Body          40    45     20     10       5     0     0    15     0  
-    \n   Legs          45    40     30     10      10     0     0    20     0  
-    \n   R.Claw        30    45     35      5      10     0     0    15     0  
-    \n   L.Claw        45    30     40      5      10     0     0    15     0  
-    \n   Tail          35    20     25      5       5     0     0    10     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          25    55     25     25       5     0     0    10   100
+    \n   Body          35    40     15     20       5     0     0    10     0
+    \n   Legs          40    35     25     20      10     0     0    15     0
+    \n   R.Claw        25    40     30     15      10     0     0    15     0
+    \n   L.Claw        40    25     35     15      10     0     0    10     0
+    \n   Tail          30    15     20     10       5     0     0    10     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                               Orange Shell
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    60     30     15       5     0     0    10   100
+    \n   Body          40    45     20     10       5     0     0    15     0
+    \n   Legs          45    40     30     10      10     0     0    20     0
+    \n   R.Claw        30    45     35      5      10     0     0    15     0
+    \n   L.Claw        45    30     40      5      10     0     0    15     0
+    \n   Tail          35    20     25      5       5     0     0    10     0
     ```"
     msg.respond "```
     \n                                Blue Shell																

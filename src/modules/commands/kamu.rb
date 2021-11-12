@@ -14,17 +14,17 @@ module Bot::DiscordCommands
     **Elements:** Ice <:zice:902635629471469638> (G-Rank Only)
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    40     20     10      30    10     0     0   100  
-    \n   Back          25    35     30      5      20    10     0     0     0  
-    \n   Body          30    25     20      5      10    10     0     0     0  
-    \n   Legs          25    25     20      5      30    10     0     0     0  
-    \n   Tail          35    25     30     10      10    10     0     0     0       
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                 Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    40     20     10      30    10     0     0   100
+    \n   Back          25    35     30      5      20    10     0     0     0
+    \n   Body          30    25     20      5      10    10     0     0     0
+    \n   Legs          25    25     20      5      30    10     0     0     0
+    \n   Tail          35    25     30     10      10    10     0     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          40    45     30     15      30    10     0     0   100
     \n   Back          50    60     40      5       0    10     0     0     0
     \n   Body          30    30     25     20      10    10     0     0     0
@@ -54,17 +54,17 @@ module Bot::DiscordCommands
     **Elements:** Ice <:zice:902635629471469638> (G-Rank Only)
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          25    30     15     10      20     5     0     0   100
     \n   Back          30    25     30      5      15     5     0     0     0
     \n   Body          25    25     15      5      10     5     0     0     0
     \n   Legs          25    15     15      5      30     5     0     0     0
-    \n   Tail          30    30     20     10      10     5     0     0     0  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                 Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Tail          30    30     20     10      10     5     0     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          30    35     25     10      25     5     0    20   100
     \n   Back          40    45     30     15       0     5     0    30     0
     \n   Body          25    20     20      5      25     5     0   -30     0
@@ -94,17 +94,17 @@ module Bot::DiscordCommands
     **Elements:** Ice <:zice:902635629471469638> (G-Rank Only)
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          35    40     20     10      30    10     0     0   100
     \n   Back          25    35     30      5      20    10     0     0     0
     \n   Body          30    25     20      5      10    10     0     0     0
     \n   Legs          25    25     20      5      30    10     0     0     0
     \n   Tail          35    25     30     10      10    10     0     0     0
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                 Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          40    45     30     15      30    10     0     0   100
     \n   Back          50    60     40      5       0    10     0     0     0
     \n   Body          30    30     25     20      10    10     0     0     0
@@ -112,27 +112,27 @@ module Bot::DiscordCommands
     \n   Tail          45    30     30     15      20    10     0     0     0
     ```"
     msg.respond "```
-    \n                                Roaring									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n                                Roaring
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          40    45      5     15      30    10     0     0   100
     \n   Back          50    60      5      5       0    10     0     0     0
     \n   Body          30    30      5     20      10    10     0     0     0
     \n   Legs          25    25      5      5      40    10     0     0     0
     \n   Tail          45    30      5     15      20    10     0     0     0
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                Ice Clad								
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                Ice Clad
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          30    35     15     20      30    10     0     0   100
     \n   Back          20    30     25     10      20    10     0     0     0
     \n   Body          25    20     15     10      10    10     0     0     0
     \n   Legs          15    15      5     80       0     0     0   -20     0
     \n   Tail          30    20     25     20      10    10     0     0     0
-    \n
-    \n                             Ice Clad (Rage)								
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                             Ice Clad (Rage)
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          20    25      5     20      30    10     0     0   100
     \n   Back          10    20     15     10      20    10     0     0     0
     \n   Body          15    10      5     10      10    10     0     0     0

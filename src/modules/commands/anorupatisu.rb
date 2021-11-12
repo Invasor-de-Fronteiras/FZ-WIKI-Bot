@@ -6,7 +6,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7c/FrontierGen-Anorupatisu_Render_002.png/revision/latest?cb=20140819101554"
         msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/904525638310965288/anorupatisu.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Anorupatisu / アノルパティス (Anorupatisu)
+    **Name:** Anorupatisu / アノルパティス
     **Title:** Violent Saw Wyvern / 暴鋸竜
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
@@ -14,19 +14,19 @@ module Bot::DiscordCommands
     **Elements:** Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    50     40     20       0    40     0     5   100  
-    \n   Neck          30    25     25     20       0    10     0     5     0  
-    \n   Body          50    40     20     20       0    25     0     5     0  
-    \n   Wings         30    30     30     20       0    15     0     5     0  
-    \n   Legs          35    35     35     25       0    15     0     5     0  
-    \n   Tail          30    25     30     20       0    10     0     5     0  
-    \n   Tail Tip      50    30     45     20       0    35     0     5     0 
-    \n
-    \n                                  Rage																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    50     40     20       0    40     0     5   100
+    \n   Neck          30    25     25     20       0    10     0     5     0
+    \n   Body          50    40     20     20       0    25     0     5     0
+    \n   Wings         30    30     30     20       0    15     0     5     0
+    \n   Legs          35    35     35     25       0    15     0     5     0
+    \n   Tail          30    25     30     20       0    10     0     5     0
+    \n   Tail Tip      50    30     45     20       0    35     0     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                  Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          25    55     45     25       0    45     0     5   100
     \n   Neck          30    25     25     20       0    10     0     5     0
     \n   Body          55    45     25     20       0    30     0     5     0

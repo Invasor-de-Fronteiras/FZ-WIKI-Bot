@@ -14,17 +14,17 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          25    30     30      0      20     5     0    20   100  
-    \n   Back          20    15     30      0      15     5     0    15     0  
-    \n   Body          15    20     10      0      10     5     0    10     0  
-    \n   Legs          25    25     25      0      20     5     0    15     0  
-    \n   Tail          30    20     20      0      10     5     0    15     0 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                 Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          25    30     30      0      20     5     0    20   100
+    \n   Back          20    15     30      0      15     5     0    15     0
+    \n   Body          15    20     10      0      10     5     0    10     0
+    \n   Legs          25    25     25      0      20     5     0    15     0
+    \n   Tail          30    20     20      0      10     5     0    15     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          30    35     30      0      20     5     0    25   100
     \n   Back          25    20     35      0      15     5     0    15     0
     \n   Body          10    15      5      0      10     5     0    10     0

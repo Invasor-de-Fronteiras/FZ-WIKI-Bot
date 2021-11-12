@@ -14,19 +14,19 @@ module Bot::DiscordCommands
     **Elements:** Thunder <:zthunder:902635597305372752>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    30     15      5      20     0    10     0   100  
-    \n   Chest         25    10     10     20      10     0     5     0     0  
-    \n   Back          10    10     25     15      10     0     5     0     0  
-    \n   Wings         15    10     10      0      15     0    20     0     0  
-    \n   Legs          15    20     10      5      10     0    10     0     0  
-    \n   Tail Armor    30    30     30      0      20     0    20     0     0  
-    \n   Tail          20    10     10      0      10     0     5     0     0 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    30     15      5      20     0    10     0   100
+    \n   Chest         25    10     10     20      10     0     5     0     0
+    \n   Back          10    10     25     15      10     0     5     0     0
+    \n   Wings         15    10     10      0      15     0    20     0     0
+    \n   Legs          15    20     10      5      10     0    10     0     0
+    \n   Tail Armor    30    30     30      0      20     0    20     0     0
+    \n   Tail          20    10     10      0      10     0     5     0     0
     \n
-    \n                              Thunder Clad									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n                              Thunder Clad
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          30    35     25      5      20     0    10     0   100
     \n   Chest         35    15     15     20      10     0     5     0     0
     \n   Back          20    20     35     15      10     0     5     0     0

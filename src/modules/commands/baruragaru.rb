@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** Water <:zwater:902635559967686756>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    40     25      0       0    10     5     0   100  
-    \n   Tongue        50    50     50      0       0    20     5     0     0  
-    \n   Neck          40    30     20      0       0    10     5     0     0  
-    \n   Body          20    25     30      0       0     5     5     0     0  
-    \n   Forelegs      25    20     15      0       0     0     5     0     0  
-    \n   Hindlegs      20    25     15      0       0     0     5     0     0  
-    \n   Tail          30    20     40      0       0    15     5     0     0           
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    40     25      0       0    10     5     0   100
+    \n   Tongue        50    50     50      0       0    20     5     0     0
+    \n   Neck          40    30     20      0       0    10     5     0     0
+    \n   Body          20    25     30      0       0     5     5     0     0
+    \n   Forelegs      25    20     15      0       0     0     5     0     0
+    \n   Hindlegs      20    25     15      0       0     0     5     0     0
+    \n   Tail          30    20     40      0       0    15     5     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                             Bleeding Tongue
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          45    50     35     25       0    10    15     0   100  
-    \n   Tongue        60    60     60     35       0    10    10     0     0  
-    \n   Neck          50    40     30     25       0    10    10     0     0  
-    \n   Body          30    35     40     20       0    10    10     0     0  
-    \n   Forelegs      35    30     25     15       0     5     5     0     0  
-    \n   Hindlegs      30    35     25     15       0     5     5     0     0  
-    \n   Tail          40    30     50     30       0    15    10     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          45    50     35     25       0    10    15     0   100
+    \n   Tongue        60    60     60     35       0    10    10     0     0
+    \n   Neck          50    40     30     25       0    10    10     0     0
+    \n   Body          30    35     40     20       0    10    10     0     0
+    \n   Forelegs      35    30     25     15       0     5     5     0     0
+    \n   Hindlegs      30    35     25     15       0     5     5     0     0
+    \n   Tail          40    30     50     30       0    15    10     0     0
     ```"
     msg.respond "```
     \n                              Fluid Stored
@@ -71,26 +71,26 @@ module Bot::DiscordCommands
     **Elements:** Water <:zwater:902635559967686756>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    40     25      0       0    10     5     0   100  
-    \n   Tongue        50    50     50      0       0    20     5     0     0  
-    \n   Neck          40    30     20      0       0    10     5     0     0  
-    \n   Body          20    25     30      0       0     5     5     0     0  
-    \n   Forelegs      25    20     15      0       0     0     5     0     0  
-    \n   Hindlegs      20    25     15      0       0     0     5     0     0  
-    \n   Tail          30    20     40      0       0    15     5     0     0            
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    40     25      0       0    10     5     0   100
+    \n   Tongue        50    50     50      0       0    20     5     0     0
+    \n   Neck          40    30     20      0       0    10     5     0     0
+    \n   Body          20    25     30      0       0     5     5     0     0
+    \n   Forelegs      25    20     15      0       0     0     5     0     0
+    \n   Hindlegs      20    25     15      0       0     0     5     0     0
+    \n   Tail          30    20     40      0       0    15     5     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                             Bleeding Tongue
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          45    50     35     25       0    10    15     0   100  
-    \n   Tongue        60    60     60     35       0    10    10     0     0  
-    \n   Neck          50    40     30     25       0    10    10     0     0  
-    \n   Body          30    35     40     20       0    10    10     0     0  
-    \n   Forelegs      35    30     25     15       0     5     5     0     0  
-    \n   Hindlegs      30    35     25     15       0     5     5     0     0  
-    \n   Tail          40    30     50     30       0    15    10     0     0 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          45    50     35     25       0    10    15     0   100
+    \n   Tongue        60    60     60     35       0    10    10     0     0
+    \n   Neck          50    40     30     25       0    10    10     0     0
+    \n   Body          30    35     40     20       0    10    10     0     0
+    \n   Forelegs      35    30     25     15       0     5     5     0     0
+    \n   Hindlegs      30    35     25     15       0     5     5     0     0
+    \n   Tail          40    30     50     30       0    15    10     0     0
     ```"
     msg.respond "```
     \n                              Fluid Stored

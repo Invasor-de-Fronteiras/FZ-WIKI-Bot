@@ -6,7 +6,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Gogomoa_Render_001.png/revision/latest?cb=20140106201408"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Gogomoa / ゴゴモア (Gogomoa)
+    **Name:** Gogomoa / ゴゴモア
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
@@ -14,17 +14,17 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          70    80     60     10       5    10     0    15   100  
-    \n   Forelegs      60    60     40     10       5    10     0    15     0  
-    \n   Hindlegs      50    45     45     10       5    10     0    15     0  
-    \n   Body          40    45     50     10       5    10     0    15     0  
-    \n   Tail          70    60     80     15       5    10     0    20     0        
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                            Counter: Damage x4																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          70    80     60     10       5    10     0    15   100
+    \n   Forelegs      60    60     40     10       5    10     0    15     0
+    \n   Hindlegs      50    45     45     10       5    10     0    15     0
+    \n   Body          40    45     50     10       5    10     0    15     0
+    \n   Tail          70    60     80     15       5    10     0    20     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                            Counter: Damage x4
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          210  240     60     10       5    10     0    15   200
     \n   Forelegs      180  180     40     10       5    10     0    15     0
     \n   Hindlegs      150  135     45     10       5    10     0    15     0
@@ -46,7 +46,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-HC_Gogomoa_Render_001.png/revision/latest?cb=20140821070646"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Gogomoa / ゴゴモア (Gogomoa)
+    **Name:** Gogomoa / ゴゴモア
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** HR5-Goushu
     **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
@@ -54,17 +54,17 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          40    50     30      5       0     5     0    10   100
     \n   Forelegs      35    30     20      5       0     5     0    10     0
     \n   Hindlegs      25    35     20      5       0     5     0    10     0
     \n   Body          35    40     25      5       0     5     0    10     0
     \n   Tail          40    30     45     10       0     5     0    15     0
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                            Counter: Damage x4																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                            Counter: Damage x4
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head         120   150     30      5       0     5     0    10   200
     \n   Forelegs     105    90     20      5       0     5     0    10     0
     \n   Hindlegs      75   105     20      5       0     5     0    10     0
@@ -86,7 +86,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Gogomoa_Render_002.png/revision/latest?cb=20140106195051"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Gogomoa / ゴゴモア (Gogomoa)
+    **Name:** Gogomoa / ゴゴモア
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
@@ -94,17 +94,17 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          35    40     30     10       5    10     0    20   100
     \n   Forelegs      30    30     20     10       5    10     0    20     0
     \n   Hindlegs      25    20     20     10       5    10     0    20     0
     \n   Body          30    35     25     10       5    10     0    20     0
     \n   Tail          35    30     40     15       5    10     0    25     0
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                            Counter: Damage x4																		
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                            Counter: Damage x4
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head         105   120     30     10       5    10     0    20   200
     \n   Forelegs      90    90     20     10       5    10     0    20     0
     \n   Hindlegs      75    60     20     10       5    10     0    20     0

@@ -6,7 +6,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d8/3rdGen-Barioth_Render_001.png/revision/latest?cb=20150304014941"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904782030322163722/barioth.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Barioth / ベリオロス (Beriorosu)
+    **Name:** Barioth / ベリオロス
     **Title:** Ice Tusk Wyvern / 氷牙竜
     **Rank:** HR5-Exotic
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
@@ -28,7 +28,7 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/FrontierGen-Barioth_Render_001.png/revision/latest?cb=20151208190134"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904782030322163722/barioth.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Barioth / ベリオロス (Beriorosu)
+    **Name:** Barioth / ベリオロス
     **Title:** Ice Tusk Wyvern / 氷牙竜
     **Rank:** G-Rank-Exotic
     **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>

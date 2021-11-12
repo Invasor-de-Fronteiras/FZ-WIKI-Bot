@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** Fire <:zfire:902602768525717534>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    35     30      0      20     0    20    25   100  
-    \n   Neck          30    10     15      0      10     0     5     5     0  
-    \n   Back          10    15     15      0      10     0    10     5     0  
-    \n   Belly         20    25     10      0      10     0    10     5     0  
-    \n   Tail          30    15     20      0      10     0     5     5     0  
-    \n   Wings         20    15     10      0      10     0    10     5     0  
-    \n   Legs          15    15     10      0       5     0    10     5     0        
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    35     30      0      20     0    20    25   100
+    \n   Neck          30    10     15      0      10     0     5     5     0
+    \n   Back          10    15     15      0      10     0    10     5     0
+    \n   Belly         20    25     10      0      10     0    10     5     0
+    \n   Tail          30    15     20      0      10     0     5     5     0
+    \n   Wings         20    15     10      0      10     0    10     5     0
+    \n   Legs          15    15     10      0       5     0    10     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                           Broken Chest Stage 1
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    35     30      0      30     0    20    25   100  
-    \n   Neck          30    10     15      0      10     0     5     5     0  
-    \n   Back          15    20     20      0      25     0    15    10     0  
-    \n   Belly         25    30     15      0      25     0    15    10     0  
-    \n   Tail          30    15     20      0      10     0     5     5     0  
-    \n   Wings         20    20     10      0      10     0    10     5     0  
-    \n   Legs          15    15     10      0       5     0    10     5     0      
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    35     30      0      30     0    20    25   100
+    \n   Neck          30    10     15      0      10     0     5     5     0
+    \n   Back          15    20     20      0      25     0    15    10     0
+    \n   Belly         25    30     15      0      25     0    15    10     0
+    \n   Tail          30    15     20      0      10     0     5     5     0
+    \n   Wings         20    20     10      0      10     0    10     5     0
+    \n   Legs          15    15     10      0       5     0    10     5     0
     ```"
     msg.respond "```
     \n                           Broken Chest Stage 2

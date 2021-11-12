@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          15    40     20      0       0     0     0     0   150  
-    \n   R.Claw        15    35     15      0       0     0     0     0     0  
-    \n   L.Claw        15    35     15      0       0     0     0     0     0  
-    \n   Legs          25    25     10      0       0     0     0     0     0  
-    \n   Body          20    20     10      0       0     0     0     0     0  
-    \n   Tail          30     5     30      0       0     0     0     0     0  
-    \n   Crystal        5    40     40      0       0     0     0     0     0         
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                1x Break										
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    15     20      0       0     0     0     0   150  
-    \n   R.Claw        35    10     15      0       0     0     0     0     0  
-    \n   L.Claw        35    10     15      0       0     0     0     0     0  
-    \n   Legs          25    25     10      0       0     0     0     0     0  
-    \n   Body          20    20     10      0       0     0     0     0     0  
-    \n   Tail          30     5     30      0       0     0     0     0     0  
-    \n   Crystal        5    40     40      0       0     0     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          15    40     20      0       0     0     0     0   150
+    \n   R.Claw        15    35     15      0       0     0     0     0     0
+    \n   L.Claw        15    35     15      0       0     0     0     0     0
+    \n   Legs          25    25     10      0       0     0     0     0     0
+    \n   Body          20    20     10      0       0     0     0     0     0
+    \n   Tail          30     5     30      0       0     0     0     0     0
+    \n   Crystal        5    40     40      0       0     0     0     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                1x Break
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    15     20      0       0     0     0     0   150
+    \n   R.Claw        35    10     15      0       0     0     0     0     0
+    \n   L.Claw        35    10     15      0       0     0     0     0     0
+    \n   Legs          25    25     10      0       0     0     0     0     0
+    \n   Body          20    20     10      0       0     0     0     0     0
+    \n   Tail          30     5     30      0       0     0     0     0     0
+    \n   Crystal        5    40     40      0       0     0     0     0     0
     ```"
     msg.respond "```
     \n                                2x Break																	
@@ -71,26 +71,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          10    35     20      0       0     0    -5    15   150  
-    \n   R.Claw        15    35     15      0       0    20   -10     0     0  
-    \n   L.Claw        15    35     15     20       0     0    -5     0     0  
-    \n   Legs          25    25     10    -10       0   -10   -10   -10     0  
-    \n   Body          20    20     10    -10       0   -10    -5   -10     0  
-    \n   Tail          25     5     20      0       0     0   -10     0     0  
-    \n   Crystal        5    35     30      0       0     0    -5     0     0          
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                1x Break										
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    15     20      0       0     0    -5    20   150  
-    \n   R.Claw        35    10     15      0       0    25    -5     0     0  
-    \n   L.Claw        35    10     15     25       0     0    -5     0     0  
-    \n   Legs          25    25     10    -10       0   -10    -5   -10     0  
-    \n   Body          20    20     10    -15       0   -15    -5   -15     0  
-    \n   Tail          30     5     25      0       0     0    -5     0     0  
-    \n   Crystal        5    35     35      0       0     0    -5     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          10    35     20      0       0     0    -5    15   150
+    \n   R.Claw        15    35     15      0       0    20   -10     0     0
+    \n   L.Claw        15    35     15     20       0     0    -5     0     0
+    \n   Legs          25    25     10    -10       0   -10   -10   -10     0
+    \n   Body          20    20     10    -10       0   -10    -5   -10     0
+    \n   Tail          25     5     20      0       0     0   -10     0     0
+    \n   Crystal        5    35     30      0       0     0    -5     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                1x Break
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    15     20      0       0     0    -5    20   150
+    \n   R.Claw        35    10     15      0       0    25    -5     0     0
+    \n   L.Claw        35    10     15     25       0     0    -5     0     0
+    \n   Legs          25    25     10    -10       0   -10    -5   -10     0
+    \n   Body          20    20     10    -15       0   -15    -5   -15     0
+    \n   Tail          30     5     25      0       0     0    -5     0     0
+    \n   Crystal        5    35     35      0       0     0    -5     0     0
     ```"
     msg.respond "```
     \n                                2x Break																	
@@ -128,26 +128,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          15    40     20      0       0     0     0     0   150  
-    \n   R.Claw        15    35     15      0       0     0     0     0     0  
-    \n   L.Claw        15    35     15      0       0     0     0     0     0  
-    \n   Legs          25    25     10      0       0     0     0     0     0  
-    \n   Body          20    20     10      0       0     0     0     0     0  
-    \n   Tail          30     5     40      0       0     0     0     0     0  
-    \n   Crystal        5    40     60      0       0     0     0     0     0          
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                1x Break										
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    15     20      0       0     0     0     0   150  
-    \n   R.Claw        35    15     15      0       0     0     0     0     0  
-    \n   L.Claw        35    15     15      0       0     0     0     0     0  
-    \n   Legs          25    25     10      0       0     0     0     0     0  
-    \n   Body          20    20     10      0       0     0     0     0     0  
-    \n   Tail          30     5     40      0       0     0     0     0     0  
-    \n   Crystal        5    40     60      0       0     0     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          15    40     20      0       0     0     0     0   150
+    \n   R.Claw        15    35     15      0       0     0     0     0     0
+    \n   L.Claw        15    35     15      0       0     0     0     0     0
+    \n   Legs          25    25     10      0       0     0     0     0     0
+    \n   Body          20    20     10      0       0     0     0     0     0
+    \n   Tail          30     5     40      0       0     0     0     0     0
+    \n   Crystal        5    40     60      0       0     0     0     0     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                1x Break
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    15     20      0       0     0     0     0   150
+    \n   R.Claw        35    15     15      0       0     0     0     0     0
+    \n   L.Claw        35    15     15      0       0     0     0     0     0
+    \n   Legs          25    25     10      0       0     0     0     0     0
+    \n   Body          20    20     10      0       0     0     0     0     0
+    \n   Tail          30     5     40      0       0     0     0     0     0
+    \n   Crystal        5    40     60      0       0     0     0     0     0
     ```"
     msg.respond "```
     \n                                2x Break																	

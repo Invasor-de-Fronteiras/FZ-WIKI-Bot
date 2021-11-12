@@ -13,15 +13,15 @@ module Bot::DiscordCommands
     **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
     **Elements:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    45     25     20       5    10     0     5   100  
-    \n   Neck          25    15     20     10       5    10     0     5     0  
-    \n   Belly         50    40     15      0       5    30     0     5     0  
-    \n   Forelegs      40    30     20     10       5    10     0     5     0  
-    \n   Hindlegs      40    30     25     10       5    10     0     5     0  
-    \n   Back          25    35     35     15       5     0     0     5     0  
-    \n   Tail          15    25     20     15       5    10     0     5     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    45     25     20       5    10     0     5   100
+    \n   Neck          25    15     20     10       5    10     0     5     0
+    \n   Belly         50    40     15      0       5    30     0     5     0
+    \n   Forelegs      40    30     20     10       5    10     0     5     0
+    \n   Hindlegs      40    30     25     10       5    10     0     5     0
+    \n   Back          25    35     35     15       5     0     0     5     0
+    \n   Tail          15    25     20     15       5    10     0     5     0
     ```"
       end
       command :Kuarusepusu_HR do |msg|
@@ -35,15 +35,15 @@ module Bot::DiscordCommands
     **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
     **Elements:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    40     25     10       5     5     0     5   100  
-    \n   Neck          25    15     15      5       5     5     0     5     0  
-    \n   Belly         45    35     10      0       5    15     0     5     0  
-    \n   Forelegs      35    30     20      5       5     5     0     5     0  
-    \n   Hindlegs      35    30     20      5       5     5     0     5     0  
-    \n   Back          25    35     30     10       5     0     0     5     0  
-    \n   Tail          15    25     20     10       5     5     0     5     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    40     25     10       5     5     0     5   100
+    \n   Neck          25    15     15      5       5     5     0     5     0
+    \n   Belly         45    35     10      0       5    15     0     5     0
+    \n   Forelegs      35    30     20      5       5     5     0     5     0
+    \n   Hindlegs      35    30     20      5       5     5     0     5     0
+    \n   Back          25    35     30     10       5     0     0     5     0
+    \n   Tail          15    25     20     10       5     5     0     5     0
     ```"
       end
       command :Kuarusepusu_G do |msg|
@@ -57,15 +57,15 @@ module Bot::DiscordCommands
     **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
     **Elements:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    40     25     25       5     5     0     5   100  
-    \n   Neck          25    15     15     10       5     5     0     5     0  
-    \n   Belly         45    35     10      0       5    30     0     5     0  
-    \n   Forelegs      30    25     20      5       5    10     0     5     0  
-    \n   Hindlegs      30    30     20      5       5    10     0     5     0  
-    \n   Back          25    30     35     15       5     0     0     5     0  
-    \n   Tail          15    25     20     20       5     5     0     5     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    40     25     25       5     5     0     5   100
+    \n   Neck          25    15     15     10       5     5     0     5     0
+    \n   Belly         45    35     10      0       5    30     0     5     0
+    \n   Forelegs      30    25     20      5       5    10     0     5     0
+    \n   Hindlegs      30    30     20      5       5    10     0     5     0
+    \n   Back          25    30     35     15       5     0     0     5     0
+    \n   Tail          15    25     20     20       5     5     0     5     0
     ```"
       end
     end

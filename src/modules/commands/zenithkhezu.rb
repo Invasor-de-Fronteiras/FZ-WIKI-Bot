@@ -13,15 +13,15 @@ module Bot::DiscordCommands
     **Ailments:** Extreme Thunderblight <:zthunder:902635597305372752>
     **Elements:** Thunder <:zthunder:902635597305372752>
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    40     25     20       5     0     5     5   150  
-    \n   Neck          35    20     35     30       5     0     5     5     0  
-    \n   Back          15    25     10     10       5     0     5     5     0  
-    \n   Belly         40    40     40     50       5     0     5     5     0  
-    \n   Tail          30    10     20     15       5     0     5     5     0  
-    \n   Wings         25    20     15     15       5     0     5     5     0  
-    \n   Legs          20    25     10     10       5     0     5     5     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    40     25     20       5     0     5     5   150
+    \n   Neck          35    20     35     30       5     0     5     5     0
+    \n   Back          15    25     10     10       5     0     5     5     0
+    \n   Belly         40    40     40     50       5     0     5     5     0
+    \n   Tail          30    10     20     15       5     0     5     5     0
+    \n   Wings         25    20     15     15       5     0     5     5     0
+    \n   Legs          20    25     10     10       5     0     5     5     0
     ```"
       end
     end

@@ -14,17 +14,17 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    40     35      0      15     0     0    10   100  
-    \n   Forelegs      25    30     15      0      10     0     0     5     0  
-    \n   Hindlegs      30    25     20      0      15     0     0     5     0  
-    \n   Body          20    20     15      0      10     0     0     5     0  
-    \n   Tail          35    30     25      0      20     0     0    10     0         
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                 Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    40     35      0      15     0     0    10   100
+    \n   Forelegs      25    30     15      0      10     0     0     5     0
+    \n   Hindlegs      30    25     20      0      15     0     0     5     0
+    \n   Body          20    20     15      0      10     0     0     5     0
+    \n   Tail          35    30     25      0      20     0     0    10     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          35    45     40      0      35     0     0    15   150
     \n   Forelegs      30    35     20      0      20     0     0    10     0
     \n   Hindlegs      35    30     25      0      25     0     0    10     0
@@ -54,17 +54,17 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          30    40     35      0      15     0     0    10   100
     \n   Forelegs      25    30     15      0      10     0     0     5     0
     \n   Hindlegs      30    25     20      0      15     0     0     5     0
     \n   Body          20    20     15      0      10     0     0     5     0
     \n   Tail          35    30     25      0      20     0     0    10     0
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                 Rage									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                 Rage
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          35    45     40      0      35     0     0    15   150
     \n   Forelegs      30    35     20      0      20     0     0    10     0
     \n   Hindlegs      35    30     25      0      25     0     0    10     0

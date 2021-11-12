@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** Blast <:zblast:902638978598051912>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          25    30     25      5      15    10     5    20   100  
-    \n   Back          20    15     15      5      10    10     5     5     0  
-    \n   Spine         10    20      5      5       5    10     5     5     0  
-    \n   Belly         25    30     15      5      15    10     5    10     0  
-    \n   Forelegs      20    20     15      5      15    10     5    20     0  
-    \n   Hindlegs      10    15     15      5      10    10     5     5     0  
-    \n   Tail          25    15     20      5      15    10     5    20     0     
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n               Part destroyed or after triggering a blast				
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          30    40     30      5      20    10     5    30   100  
-    \n   Back          20    15     15      5      10    10     5     5     0  
-    \n   Spine         10    20      5      5       5    10     5     5     0  
-    \n   Belly         25    30     15      5      15    10     5    10     0  
-    \n   Forelegs      30    30     25      5      20    10     5    25     0  
-    \n   Hindlegs      10    15     15      5      10    10     5     5     0  
-    \n   Tail          35    20     25      5      20    10     5    25     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          25    30     25      5      15    10     5    20   100
+    \n   Back          20    15     15      5      10    10     5     5     0
+    \n   Spine         10    20      5      5       5    10     5     5     0
+    \n   Belly         25    30     15      5      15    10     5    10     0
+    \n   Forelegs      20    20     15      5      15    10     5    20     0
+    \n   Hindlegs      10    15     15      5      10    10     5     5     0
+    \n   Tail          25    15     20      5      15    10     5    20     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n               Part destroyed or after triggering a blast
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          30    40     30      5      20    10     5    30   100
+    \n   Back          20    15     15      5      10    10     5     5     0
+    \n   Spine         10    20      5      5       5    10     5     5     0
+    \n   Belly         25    30     15      5      15    10     5    10     0
+    \n   Forelegs      30    30     25      5      20    10     5    25     0
+    \n   Hindlegs      10    15     15      5      10    10     5     5     0
+    \n   Tail          35    20     25      5      20    10     5    25     0
     ```"
       end
     end

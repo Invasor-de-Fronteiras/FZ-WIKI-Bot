@@ -6,37 +6,37 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a7/FrontierGen-Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140906075100"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期 (Hipunokku Hanshoku-ki
+    **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期
     **Title:** Blue Sleep Bird / 蒼眠鳥
     **Rank:** HR1-4
     **Weak to:** Thunder <:zthunder:902635597305372752>
     **Ailments:** Sleep <:zsleep:902638414283821086> and Stun <:zstun:902639113948254238> (HC)
     **Elements:** None
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          70    60     50      5       5    10     5     5   100  
-    \n   Neck          50    40     40     10      10    10     5    10     0  
-    \n   Back          25    30     30      5       5    20     5     5     0  
-    \n   Belly         60    55     90      5       5    30     5     5     0  
-    \n   Tail          30    30     25      5       5    10     5     5     0  
-    \n   Wings         25    20     25     10      10    20     5    10     0  
-    \n   Legs          45    40     50      5       5    10     5     5     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          70    60     50      5       5    10     5     5   100
+    \n   Neck          50    40     40     10      10    10     5    10     0
+    \n   Back          25    30     30      5       5    20     5     5     0
+    \n   Belly         60    55     90      5       5    30     5     5     0
+    \n   Tail          30    30     25      5       5    10     5     5     0
+    \n   Wings         25    20     25     10      10    20     5    10     0
+    \n   Legs          45    40     50      5       5    10     5     5     0
     ```"
       end
       command :Bright_Hypnoc_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/FrontierGen-HC_Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140731052753"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期 (Hipunokku Hanshoku-ki
+    **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期
     **Title:** Blue Sleep Bird / 蒼眠鳥
     **Rank:** HR5
     **Weak to:** Thunder <:zthunder:902635597305372752>
     **Ailments:** Sleep <:zsleep:902638414283821086> and Stun <:zstun:902639113948254238> (HC)
     **Elements:** None
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          45    60     35      0       0    25     5     0   100
     \n   Neck          40    45     55     15      15    -5     5    15     0
     \n   Back          30    20     25      5       5    -5     5     5     0
@@ -50,15 +50,15 @@ module Bot::DiscordCommands
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-Breeding_Season_Hypnocatrice_Render_002.png/revision/latest?cb=20140906124530"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
     msg.respond "***Based on Cutting Damage!***
-    **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期 (Hipunokku Hanshoku-ki
+    **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期
     **Title:** Blue Sleep Bird / 蒼眠鳥
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:902635597305372752>
     **Ailments:** Sleep <:zsleep:902638414283821086> and Stun <:zstun:902639113948254238> (HC)
     **Elements:** None
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Head          45    45     40     15      15    35    15    15   100
     \n   Neck          40    30     35     20      20    20    15    20     0
     \n   Back          20    25     20     15      15    30    15    15     0

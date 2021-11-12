@@ -14,23 +14,23 @@ module Bot::DiscordCommands
     **Elements:** Thunder <:zthunder:902635597305372752> (Second Form)
     **Weak Spots:** ```
     \n                               Orange Shell
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          15    30     20     15       5     0     0    10   100  
-    \n   Body          10    15      5     10       5     0     0    15     0  
-    \n   Legs          15    10     10     10       5     0     0    20     0  
-    \n   R.Claw        25    20     20     15       5     0     0    10     0  
-    \n   L.Claw        25    20     20     15       5     0     0    10     0  
-    \n   Tail          20     5     15      5       5     0     0     5     0       
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n                                Blue Shell									
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    35     30      5      15     0     0    10   100  
-    \n   Body          15    20     10      5      15     0     0    10     0  
-    \n   Legs          20    15     15      5      20     0     0    15     0  
-    \n   R.Claw        30    25     25      5      20     0     0    15     0  
-    \n   L.Claw        30    25     25      5      20     0     0    10     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          15    30     20     15       5     0     0    10   100
+    \n   Body          10    15      5     10       5     0     0    15     0
+    \n   Legs          15    10     10     10       5     0     0    20     0
+    \n   R.Claw        25    20     20     15       5     0     0    10     0
+    \n   L.Claw        25    20     20     15       5     0     0    10     0
+    \n   Tail          20     5     15      5       5     0     0     5     0
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n                                Blue Shell
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    35     30      5      15     0     0    10   100
+    \n   Body          15    20     10      5      15     0     0    10     0
+    \n   Legs          20    15     15      5      20     0     0    15     0
+    \n   R.Claw        30    25     25      5      20     0     0    15     0
+    \n   L.Claw        30    25     25      5      20     0     0    10     0
     ```"
       end
     end

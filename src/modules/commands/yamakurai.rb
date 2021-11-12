@@ -14,26 +14,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          50    65     60     45       0     5    50     0     0  
-    \n   Back          35    25     35     35       0     5    25     0     0  
-    \n   Eyes          80    75     65     30       0    20    30    10     0  
-    \n   Body          60    65     35     25       0     5     5    10     0  
-    \n  Inside Mouth   70    65     55     15       0     0     5     0     0  
-    \n   Feelers       50    55     40     30       0     0    15     5     0  
-    \n   Tentacles     35    40     35     25       0     0    10     5     0   
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          50    65     60     45       0     5    50     0     0
+    \n   Back          35    25     35     35       0     5    25     0     0
+    \n   Eyes          80    75     65     30       0    20    30    10     0
+    \n   Body          60    65     35     25       0     5     5    10     0
+    \n  Inside Mouth   70    65     55     15       0     0     5     0     0
+    \n   Feelers       50    55     40     30       0     0    15     5     0
+    \n   Tentacles     35    40     35     25       0     0    10     5     0
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                                 Rage
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----  
-    \n   Head          50    65     60     45       0     5    50     0     0  
-    \n   Back          35    25     35     35       0     5    25     0     0  
-    \n   Eyes          80    75     65     30       0    20    30    10     0  
-    \n   Body          60    65     35     25       0     5     5    10     0  
-    \n  Inside Mouth   70    65     55     15       0     0     5     0     0  
-    \n   Feelers       50    55     40     30       0     0    15     5     0  
-    \n   Tentacles     35    40     35     25       0     0    10     5     0     
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          50    65     60     45       0     5    50     0     0
+    \n   Back          35    25     35     35       0     5    25     0     0
+    \n   Eyes          80    75     65     30       0    20    30    10     0
+    \n   Body          60    65     35     25       0     5     5    10     0
+    \n  Inside Mouth   70    65     55     15       0     0     5     0     0
+    \n   Feelers       50    55     40     30       0     0    15     5     0
+    \n   Tentacles     35    40     35     25       0     0    10     5     0
     ```"
     msg.respond "```
     \n                                肉質(紅葉)
@@ -60,26 +60,26 @@ module Bot::DiscordCommands
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          40    45     50     45       0     5    50     0     0  
-    \n   Back          20    10     25     35       0     5    25     0     0  
-    \n   Eyes          65    60     60     30       0    20    30    10     0  
-    \n   Body          45    50     30     25       0     5     5    10     0  
-    \n  Inside Mouth   60    55     45     15       0     0     5     0     0  
-    \n   Feelers       35    40     35     30       0     0    15     5     0  
-    \n   Tentacles     30    35     30     25       0     0    10     5     0    
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          40    45     50     45       0     5    50     0     0
+    \n   Back          20    10     25     35       0     5    25     0     0
+    \n   Eyes          65    60     60     30       0    20    30    10     0
+    \n   Body          45    50     30     25       0     5     5    10     0
+    \n  Inside Mouth   60    55     45     15       0     0     5     0     0
+    \n   Feelers       35    40     35     30       0     0    15     5     0
+    \n   Tentacles     30    35     30     25       0     0    10     5     0
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n                                 Rage
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----  
-    \n   Head          40    45     50     45       0     5    50     0     0  
-    \n   Back          20    10     25     35       0     5    25     0     0  
-    \n   Eyes          65    60     60     30       0    20    30    10     0  
-    \n   Body          45    50     30     25       0     5     5    10     0  
-    \n  Inside Mouth   60    55     45     15       0     0     5     0     0  
-    \n   Feelers       35    40     35     30       0     0    15     5     0  
-    \n   Tentacles     30    35     30     25       0     0    10     5     0     
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          40    45     50     45       0     5    50     0     0
+    \n   Back          20    10     25     35       0     5    25     0     0
+    \n   Eyes          65    60     60     30       0    20    30    10     0
+    \n   Body          45    50     30     25       0     5     5    10     0
+    \n  Inside Mouth   60    55     45     15       0     0     5     0     0
+    \n   Feelers       35    40     35     30       0     0    15     5     0
+    \n   Tentacles     30    35     30     25       0     0    10     5     0
     ```"
     msg.respond "```
     \n                                肉質(紅葉)

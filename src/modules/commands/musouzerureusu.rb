@@ -13,15 +13,15 @@ module Bot::DiscordCommands
     **Ailments:** (?)
     **Elements:** Light
     **Weak Spots:** ```
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          20    35     20      0      20     0    30    20   100  
-    \n   Neck          25    25     25      0      10     0     0    10     0  
-    \n   Back          15    20     15      0      10     0     0    10     0  
-    \n   Belly         25    30     20      0      10     0     0    20     0  
-    \n   Tail          35    20     25      0      20     0    25     5     0  
-    \n   Wings         25    20     35      0      20     0    25     5     0  
-    \n   Legs          20    20     15      0      10     0    15    15     0 
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          20    35     20      0      20     0    30    20   100
+    \n   Neck          25    25     25      0      10     0     0    10     0
+    \n   Back          15    20     15      0      10     0     0    10     0
+    \n   Belly         25    30     20      0      10     0     0    20     0
+    \n   Tail          35    20     25      0      20     0    25     5     0
+    \n   Wings         25    20     35      0      20     0    25     5     0
+    \n   Legs          20    20     15      0      10     0    15    15     0
     ```"
       end
     end

@@ -14,13 +14,13 @@ module Bot::DiscordCommands
     **Elements:** Ice <:zice:902635629471469638>
     **Weak Spots:** ```
     \n                                Standard
-    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-    \n   Head          35    45     26     25       0    10    20     0   100  
-    \n   Body          22    18     17     10       0     5     0     0     0  
-    \n   Wings         33    30     17     15       0     5    20     0     0  
-    \n   Forelegs      22    22     35     10       0     5     0     0     0  
-    \n   Hindlegs      23    22     18     15       0     5     0     0     0  
+    \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+    \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+    \n   Head          35    45     26     25       0    10    20     0   100
+    \n   Body          22    18     17     10       0     5     0     0     0
+    \n   Wings         33    30     17     15       0     5    20     0     0
+    \n   Forelegs      22    22     35     10       0     5     0     0     0
+    \n   Hindlegs      23    22     18     15       0     5     0     0     0
     \n   Tail          45    30     45     25       0    10    20     0     0
     ```" 
   end
@@ -37,14 +37,14 @@ module Bot::DiscordCommands
   **Elements:** Ice <:zice:902635629471469638>
   **Weak Spots:** ```
   \n                                Standard
-  \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
-  \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
-  \n   Head          30    40     21     25       0    10    20     0   100  
-  \n   Body          17    13     12     10       0     5     0     0     0  
-  \n   Wings         28    25     12     15       0     5    20     0     0  
-  \n   Forelegs      17    17     30     10       0     5     0     0     0  
-  \n   Hindlegs      18    17     13     15       0     5     0     0     0  
-  \n   Tail          40    25     40     25       0    10    20     0     0  
+  \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
+  \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
+  \n   Head          30    40     21     25       0    10    20     0   100
+  \n   Body          17    13     12     10       0     5     0     0     0
+  \n   Wings         28    25     12     15       0     5    20     0     0
+  \n   Forelegs      17    17     30     10       0     5     0     0     0
+  \n   Hindlegs      18    17     13     15       0     5     0     0     0
+  \n   Tail          40    25     40     25       0    10    20     0     0
   ```"
       end
     end
