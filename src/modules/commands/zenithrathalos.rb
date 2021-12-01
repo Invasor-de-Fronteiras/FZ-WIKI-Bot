@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Zenith_Rathalos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
-        msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906346209072001044/zenith_rathalos.png"
     msg.respond "***Based on Cutting Damage!***
     **Name:** Zenith Rathalos / 辿異種リオレウス
     **Title:** Fire Wyvern / 火竜
