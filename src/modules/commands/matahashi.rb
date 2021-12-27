@@ -4,10 +4,11 @@ module Bot::DiscordCommands
 
       command :Matahashi do |msg|
 
-      msg.respond "Durambouros enjoyer
-    Sommelier de mangás
+      msg.respond "´´´Durambouros enjoyer
+    Manga Sommelier
     GubLance Pr0
-    "
+    Horny Cosplayers Enjoyer
+    ´´´"
 
     end
   end

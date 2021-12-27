@@ -3,20 +3,20 @@ module Bot::DiscordCommands
     extend Discordrb::Commands::CommandContainer
     command :Elements do |msg|
       msg.respond "```
-mh!Blaze
-mh!Light
-mh!Thunder_Pole
-mh!Tenshou
-mh!Okiko
-mh!Kanade
-mh!Black_Flame
-mh!Dark
-mh!Crimson_Demon
-mh!Wind
-mh!Sound
-mh!Music
-mh!Burning_Zero
-mh!Emperors_Roar
+mhf!Blaze
+mhf!Light
+mhf!Thunder_Pole
+mhf!Tenshou
+mhf!Okiko
+mhf!Kanade
+mhf!Black_Flame
+mhf!Dark
+mhf!Crimson_Demon
+mhf!Wind
+mhf!Sound
+mhf!Music
+mhf!Burning_Zero
+mhf!Emperors_Roar
       ```"
     end
 
