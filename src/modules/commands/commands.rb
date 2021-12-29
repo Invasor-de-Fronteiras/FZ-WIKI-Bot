@@ -11,7 +11,7 @@ module Bot::DiscordCommands
             puts "#{event.timestamp}: #{event.user.name}: CMD: ping"
             nil
         end
-         command :Help do |msg|
+         command :Ajuda do |msg|
           msg.respond "```Para utilizar o bot use o prefixo mhf! seguido do nome do monstro. Ex: mhf!Abiorugu
 
 A letra inicial do monstro deve ser sempre maiúscula e quando houver espaço entre os nomes deve ser adicionado um _ no lugar. Ex: mhf!Yian_Garuga
