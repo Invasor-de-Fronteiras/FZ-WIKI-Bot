@@ -1,8 +1,8 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-      command :MaiLBG do |msg|
-        msg.respond "```Keoaruboru Speed Run when?```"
+      command :Kon do |msg|
+        msg.respond "```No idea, i never player Monster Hunter```"
       
       end
     end
