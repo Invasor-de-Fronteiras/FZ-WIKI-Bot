@@ -5,3 +5,4 @@ module Bot::DiscordCommands
         msg.respond "```“Hehe boi //Proceed to use SWAX//”```"
     end
   end
+end
