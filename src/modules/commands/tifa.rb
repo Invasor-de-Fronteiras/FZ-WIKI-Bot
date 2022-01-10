@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Tifa do |msg|
 
-      msg.respond "https://media.tenor.co/videos/7349b0ed35fa6536ca9b040b11cb738d/mp4"
+      msg.respond "https://media.discordapp.net/attachments/926651887153987614/930239777884749904/mp4_1.gif"
 
     end
   end
