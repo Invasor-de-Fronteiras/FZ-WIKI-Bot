@@ -24,7 +24,7 @@ Use mhf!Help to see this list.
             
 Use mhf!Elements to see the list of elements you can search.
             
-Please report any error or problem to Malckyor#8043.```"
+Please report any error or problem to Doragyurosu#5957 or Malckyor#8043.```"
         end          
     end
 end
