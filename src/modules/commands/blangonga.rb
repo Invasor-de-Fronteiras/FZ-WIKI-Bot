@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Blangonga / ドドブランゴ
     **Title:** Snow Lion / 雪獅子
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Snowman <:zsnowman:902639007761072178>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Snowman <:zsnowman:883124811746926592>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -29,9 +29,9 @@ module Bot::DiscordCommands
     **Name:** Blangonga / ドドブランゴ
     **Title:** Snow Lion / 雪獅子
     **Rank:** HR5
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Snowman <:zsnowman:902639007761072178>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Snowman <:zsnowman:883124811746926592>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -49,9 +49,9 @@ module Bot::DiscordCommands
     **Name:** Blangonga / ドドブランゴ
     **Title:** Snow Lion / 雪獅子
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Snowman <:zsnowman:902639007761072178>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Snowman <:zsnowman:883124811746926592>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

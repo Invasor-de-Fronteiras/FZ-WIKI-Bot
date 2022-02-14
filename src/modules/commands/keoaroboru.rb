@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Keoaruboru / ケオアルボル
     **Title:** Blazing Peak Dragon / 焔嶽龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

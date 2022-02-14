@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Daimyo Hermitaur / 辿異種ダイミョウザザミ
     **Title:** Shield Crab / 盾蟹
     **Rank:** Zenith
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Extreme Waterblight <:zwater:902635559967686756>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Extreme Waterblight <:zwater:883120128017965066>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

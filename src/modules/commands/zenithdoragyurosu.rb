@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Zenith Doragyurosu / 辿異種ドラギュロス
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** Zenith
-    **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
     **Ailments:** Extreme Dragonblight <:zdragon:902635658819018783>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```

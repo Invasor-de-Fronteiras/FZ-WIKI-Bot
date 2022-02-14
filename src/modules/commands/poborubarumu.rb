@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Poborubarumu / ポボルバルム
     **Title:** Creation Sound Wyvern / 創音竜
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Confusion <:zconfusion:902638633549430844>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Confusion <:confusion:883123403329003530>
     **Elements:** Kanade
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -31,8 +31,8 @@ module Bot::DiscordCommands
     **Name:** Poborubarumu / ポボルバルム
     **Title:** Creation Sound Wyvern / 創音竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Confusion <:zconfusion:902638633549430844>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Confusion <:confusion:883123403329003530>
     **Elements:** Kanade
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

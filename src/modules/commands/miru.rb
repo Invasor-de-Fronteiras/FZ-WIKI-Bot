@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Mi Ru  / ミ・ル(Mi Ru)Ｇ級Ｕｎｋｎｏｗｎ
     **Title:** Black Fox Wyvern / 黒狐竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> (Fore Arms), Water <:zwater:902635559967686756> (Rear Legs), Thunder <:zthunder:902635597305372752> (Spine), Ice <:zice:902635629471469638> (Belly) and Dragon <:zdragon:902635658819018783> (Tail)
-    **Ailments:** Crystallization <:zcrystal:902638945572114513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>"
+    **Weak to:** Fire <:zfire:883120156916744312> (Fore Arms), Water <:zwater:883120128017965066> (Rear Legs), Thunder <:zthunder:883120020312440852> (Spine), Ice <:zice:883119912283938816> (Belly) and Dragon <:zdragon:902635658819018783> (Tail)
+    **Ailments:** Crystallization <:crystal:883123660225908757> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>"
     msg.respond "
     **Weak Spots:** ```
     \n                                Standard

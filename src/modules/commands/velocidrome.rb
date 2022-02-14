@@ -8,8 +8,8 @@ module Bot::DiscordCommands
     msg.respond "***Based on Cutting Damage!***
     **Name:** Velocidrome / ドスランポス
     **Title:** Alpha Raptor / (?)
-    **Weak to:** Ice <:zice:902635629471469638>, Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Soiled <:zfart:902639051725758576>, Attack Down and Farcaster
+    **Weak to:** Ice <:zice:883119912283938816>, Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Soiled <:fart:883125077481246791>, Attack Down and Farcaster
     **Elements:** None
     **Weak Spots:** ```
     \n                                 HR1-4

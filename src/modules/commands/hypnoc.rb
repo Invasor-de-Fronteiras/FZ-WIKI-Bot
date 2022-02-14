@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Hypnocatrice / ヒプノック
     **Title:** Sleep Bird / 眠鳥
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -31,8 +31,8 @@ module Bot::DiscordCommands
     **Name:** Hypnocatrice / ヒプノック
     **Title:** Sleep Bird / 眠鳥
     **Rank:** HR5
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -53,8 +53,8 @@ module Bot::DiscordCommands
     **Name:** Hypnocatrice / ヒプノック
     **Title:** Sleep Bird / 眠鳥
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

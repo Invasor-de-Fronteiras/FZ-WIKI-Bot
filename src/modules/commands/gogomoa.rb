@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Gogomoa / ゴゴモア
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
-    **Ailments:** Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312> (HR1-4) and  Ice <:zice:883119912283938816> (HR1-5)
+    **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -49,8 +49,8 @@ module Bot::DiscordCommands
     **Name:** Gogomoa / ゴゴモア
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
-    **Ailments:** Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312> (HR1-4) and  Ice <:zice:883119912283938816> (HR1-5)
+    **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -89,8 +89,8 @@ module Bot::DiscordCommands
     **Name:** Gogomoa / ゴゴモア
     **Title:** Jumping Cardinal Beast / 跳緋獣
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> (HR1-4) and  Ice <:zice:902635629471469638> (HR1-5)
-    **Ailments:** Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312> (HR1-4) and  Ice <:zice:883119912283938816> (HR1-5)
+    **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

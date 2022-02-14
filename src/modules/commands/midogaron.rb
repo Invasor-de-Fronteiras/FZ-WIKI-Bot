@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Midogaron / ミドガロン
     **Title:** Explosion Wolf / 爆狼
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Stun <:zstun:902639113948254238>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Stun <:stun:883125464397398106>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

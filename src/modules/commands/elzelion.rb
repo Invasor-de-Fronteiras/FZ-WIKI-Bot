@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Eruzerion / エルゼリオン
     **Title:** Burning Zero Dragon / 灼零龍
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638>
-    **Ailments:** Fireblight <:zfire:902602768525717534> and Iceblight <:zice:902635629471469638>
-    **Elements:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312> and Ice <:zice:883119912283938816>
+    **Ailments:** Fireblight <:zfire:883120156916744312> and Iceblight <:zice:883119912283938816>
+    **Elements:** Fire <:zfire:883120156916744312> and Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

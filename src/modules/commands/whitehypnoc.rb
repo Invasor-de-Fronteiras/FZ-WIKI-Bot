@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** White Hypnoc / Silver Hypnocatrice / ヒプノック希少種
     **Title:** Pale Sleep Bird / 蒼白眠鳥
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -31,8 +31,8 @@ module Bot::DiscordCommands
     **Name:** White Hypnoc / Silver Hypnocatrice / ヒプノック希少種
     **Title:** Pale Sleep Bird / 蒼白眠鳥
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Rukodiora / ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638> (Rage Mode)
-    **Ailments:** Magnet <:zmagnet:902638765477068882>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Ailments:** Magnet <:zmagnet:883123524229820487>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Rukodiora / ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638> (Rage Mode)
-    **Ailments:** Magnet <:zmagnet:902638765477068882>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Ailments:** Magnet <:zmagnet:883123524229820487>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -77,8 +77,8 @@ module Bot::DiscordCommands
     **Name:** Rukodiora / ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638> (Rage Mode)
-    **Ailments:** Magnet <:zmagnet:902638765477068882>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Ailments:** Magnet <:zmagnet:883123524229820487>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard

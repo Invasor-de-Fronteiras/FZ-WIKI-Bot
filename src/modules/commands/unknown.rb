@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Unknown / Ｕｎｋｎｏｗｎ
     **Title:** Black Flying Wyvern / 黒飛竜
     **Rank:** HR1-4
-    **Weak to:** Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752>, Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>, Thunder <:zthunder:883120020312440852>, Ice <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -89,9 +89,9 @@ module Bot::DiscordCommands
     **Name:** Unknown / Ｕｎｋｎｏｗｎ
     **Title:** Black Flying Wyvern / 黒飛竜
     **Rank:** HR5-Supremacy
-    **Weak to:** Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752>, Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>, Thunder <:zthunder:883120020312440852>, Ice <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -181,9 +181,9 @@ module Bot::DiscordCommands
     **Name:** Unknown / Ｕｎｋｎｏｗｎ
     **Title:** Black Flying Wyvern / 黒飛竜
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756>, Thunder <:zthunder:902635597305372752>, Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>, Thunder <:zthunder:883120020312440852>, Ice <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

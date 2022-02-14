@@ -10,7 +10,7 @@ module Bot::DiscordCommands
     **Title:** Tail Crystal Scorpion / 尾晶蠍
     **Rank:** G-Rank
     **Weak to:** None
-    **Ailments:** Crystallization <:zcrystal:902638945572114513> and Extreme Paralysis <:zpara:902638465680814161>
+    **Ailments:** Crystallization <:crystal:883123660225908757> and Extreme Paralysis <:zpara:883122888692076545>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Silver Rathalos / リオレウス希少種
     **Title:** Silver Fire Wyvern / 銀火竜
     **Rank:** HR1-4
-    **Weak to:** Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Silver Rathalos / リオレウス希少種
     **Title:** Silver Fire Wyvern / 銀火竜
     **Rank:** HR5
-    **Weak to:** Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Silver Rathalos / リオレウス希少種
     **Title:** Silver Fire Wyvern / 銀火竜
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

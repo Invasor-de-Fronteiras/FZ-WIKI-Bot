@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Blue Yian Kut-Ku / イャンクック亜種
     **Title:** Blue Strange Bird / 青怪鳥
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
     **Ailments:** None 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Blue Yian Kut-Ku / イャンクック亜種
     **Title:** Blue Strange Bird / 青怪鳥
     **Rank:** HR5
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
     **Ailments:** None 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Blue Yian Kut-Ku / イャンクック亜種
     **Title:** Blue Strange Bird / 青怪鳥
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
     **Ailments:** None 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

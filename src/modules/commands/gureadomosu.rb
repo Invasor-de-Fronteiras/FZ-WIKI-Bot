@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Gureadomosu / グレアドモス
     **Title:** Water Fortress Wyvern / 水砦竜
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
     **Ailments:** (?)
-    **Elements:** Water <:zwater:902635559967686756>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Gureadomosu / グレアドモス
     **Title:** Water Fortress Wyvern / 水砦竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
     **Ailments:** (?)
-    **Elements:** Water <:zwater:902635559967686756>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

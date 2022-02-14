@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Goruganosu / ゴルガノス
     **Title:** Golden Piscine Wyvern / 黄金魚竜
     **Rank:** HR5-Goushu
-    **Weak to:** Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Teostra / テオ・テスカトル
     **Title:** Flame King Dragon / 炎王龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:902635559967686756>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:883120128017965066>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
+    **Elements:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -42,9 +42,9 @@ module Bot::DiscordCommands
     msg.respond "***Based on Cutting Damage!***
     **Name:** Teostra / テオ・テスカトル
     **Title:** Flame King Dragon / 炎王龍
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:902635559967686756>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:883120128017965066>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
+    **Elements:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
     **Weak Spots:** 
     **Rank:** HR5
     ```
@@ -101,9 +101,9 @@ module Bot::DiscordCommands
     **Name:** Teostra / テオ・テスカトル
     **Title:** Flame King Dragon / 炎王龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:902635559967686756>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:883120128017965066>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
+    **Elements:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

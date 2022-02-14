@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Lolo Gougarf / ロロ・ゴウガルフ
     **Title:** Red Fighting Beast / 赤闘獣
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Magnet <:zmagnet:902638765477068882> and Stun <:zstun:902639113948254238>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Magnet <:zmagnet:883123524229820487> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -49,8 +49,8 @@ module Bot::DiscordCommands
     **Name:** Lolo Gougarf / ロロ・ゴウガルフ
     **Title:** Red Fighting Beast / 赤闘獣
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Magnet <:zmagnet:902638765477068882> and Stun <:zstun:902639113948254238>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Magnet <:zmagnet:883123524229820487> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

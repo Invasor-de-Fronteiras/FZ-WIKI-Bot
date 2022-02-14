@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Anorupatisu / 辿異種アノルパティス
     **Title:** Violent Saw Wyvern / 暴鋸竜
     **Rank:** Zenith
-    **Weak to:** Thunder<:zthunder:902635597305372752> and Fire<:zfire:902602768525717534>
-    **Ailments:** Extreme Iceblight<:zice:902635629471469638> and Dragonblight<:zdragon:902635658819018783>
-    **Elements:** Ice<:zice:902635629471469638> and Dragon<:zdragon:902635658819018783>
+    **Weak to:** Thunder<:zthunder:883120020312440852> and Fire<:zfire:883120156916744312>
+    **Ailments:** Extreme Iceblight<:zice:883119912283938816> and Dragonblight<:zdragon:902635658819018783>
+    **Elements:** Ice<:zice:883119912283938816> and Dragon<:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

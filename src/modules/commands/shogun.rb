@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Shogun Ceanataur / ショウグンギザミ
     **Title:** Sickle Crab / 鎌蟹
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> (HC)
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> (HC)
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -41,9 +41,9 @@ module Bot::DiscordCommands
     **Name:** Shogun Ceanataur / ショウグンギザミ
     **Title:** Sickle Crab / 鎌蟹
     **Rank:** HR5
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> (HC)
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> (HC)
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -73,9 +73,9 @@ module Bot::DiscordCommands
     **Name:** Shogun Ceanataur / ショウグンギザミ
     **Title:** Sickle Crab / 鎌蟹
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> (HC)
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> (HC)
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

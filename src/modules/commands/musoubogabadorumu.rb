@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Bombardier Bogabadorumu / 極み襲うボガバドルム
     **Title:** Explosive Mist Wyvern / 爆霧竜
     **Rank:** Zenith
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Blastblight <:zblast:902638978598051912>
-    **Elements:** Blast <:zblast:902638978598051912>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Blastblight <:blast:883124772450476042>
+    **Elements:** Blast <:blast:883124772450476042>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

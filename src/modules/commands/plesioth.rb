@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Plesioth / ガノトトス
     **Title:** Water Wyvern / 水竜
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Plesioth / ガノトトス
     **Title:** Water Wyvern / 水竜
     **Rank:** HR5
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Plesioth / ガノトトス
     **Title:** Water Wyvern / 水竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

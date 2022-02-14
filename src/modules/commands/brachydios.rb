@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Brachydios / ブラキディオス
     **Title:** Crushing Wyvern / 砕竜
     **Rank:** HR5-Exotic
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Blastblight <:zblast:902638978598051912>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Blastblight <:blast:883124772450476042>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Brachydios / ブラキディオス
     **Title:** Crushing Wyvern / 砕竜
     **Rank:** G-Rank-Exotic
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Blastblight <:zblast:902638978598051912>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Blastblight <:blast:883124772450476042>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Dyuragaua / デュラガウア
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** HR1-4
-    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:902602768525717534> and Thunder<:zthunder:902635597305372752>
-    **Ailments:** Frostbite<:zfrost:902638810679087104>, Sleep<:zsleep:902638414283821086> and Stun<:zstun:902639113948254238>
-    **Elements:** Ice<:zice:902635629471469638>
+    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
+    **Ailments:** Frostbite<:frost:883123635764744212>, Sleep<:zsleep:883122848888143892> and Stun<:stun:883125464397398106>
+    **Elements:** Ice<:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -55,9 +55,9 @@ module Bot::DiscordCommands
     **Name:** Dyuragaua / デュラガウア
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** HR5
-    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:902602768525717534> and Thunder<:zthunder:902635597305372752>
-    **Ailments:** Frostbite<:zfrost:902638810679087104>, Sleep<:zsleep:902638414283821086> and Stun<:zstun:902639113948254238>
-    **Elements:** Ice<:zice:902635629471469638>
+    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
+    **Ailments:** Frostbite<:frost:883123635764744212>, Sleep<:zsleep:883122848888143892> and Stun<:stun:883125464397398106>
+    **Elements:** Ice<:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -101,9 +101,9 @@ module Bot::DiscordCommands
     **Name:** Dyuragaua / デュラガウア
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** G-Rank
-    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:902602768525717534> and Thunder<:zthunder:902635597305372752>
-    **Ailments:** Frostbite<:zfrost:902638810679087104>, Sleep<:zsleep:902638414283821086> and Stun<:zstun:902639113948254238>
-    **Elements:** Ice<:zice:902635629471469638>
+    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
+    **Ailments:** Frostbite<:frost:883123635764744212>, Sleep<:zsleep:883122848888143892> and Stun<:stun:883125464397398106>
+    **Elements:** Ice<:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

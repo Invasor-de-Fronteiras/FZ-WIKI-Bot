@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Toridcless  / 辿異種トリドクレス
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** Zenith
-    **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Extreme Thunderblight <:zthunder:902635597305372752>, Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Extreme Thunderblight <:zthunder:883120020312440852>, Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

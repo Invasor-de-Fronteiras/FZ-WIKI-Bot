@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Giaorugu / 辿異種ギアオルグ
     **Title:** Ice Fierce Wyvern / 氷獰竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Extreme Iceblight <:zice:902635629471469638>, Snowman <:zsnowman:902639007761072178> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Extreme Iceblight <:zice:883119912283938816>, Snowman <:zsnowman:883124811746926592> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Gasurabazura / ガスラバズラ
     **Title:** Angry Appearance Wyvern / 怒貌竜
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Stun <:zstun:902639113948254238>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Gasurabazura / ガスラバズラ
     **Title:** Angry Appearance Wyvern / 怒貌竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Stun <:zstun:902639113948254238>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Pokaradon / ポカラドン
     **Title:** Frozen Sea Beast / 凍海獣
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Stun <:zstun:902639113948254238> and Snowman <:zsnowman:902639007761072178>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Stun <:stun:883125464397398106> and Snowman <:zsnowman:883124811746926592>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

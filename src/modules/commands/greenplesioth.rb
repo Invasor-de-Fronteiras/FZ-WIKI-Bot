@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Green Plesioth / ガノトトス亜種
     **Title:** Green Water Wyvern / 翠水竜
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Ice <:zice:883119912283938816> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Green Plesioth / ガノトトス亜種
     **Title:** Green Water Wyvern / 翠水竜
     **Rank:** HR5
-    **Weak to:** Ice <:zice:902635629471469638> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Ice <:zice:883119912283938816> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Green Plesioth / ガノトトス亜種
     **Title:** Green Water Wyvern / 翠水竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Ice <:zice:883119912283938816> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Meraginasu / メラギナス
     **Title:** Black Drill Wyvern / 黒穿竜
     **Rank:** HR5-Goushu
-    **Weak to:** Light and Fire <:zfire:902602768525717534>
+    **Weak to:** Light and Fire <:zfire:883120156916744312>
     **Ailments:** None
     **Elements:** Darkness
     **Weak Spots:** ```
@@ -55,7 +55,7 @@ module Bot::DiscordCommands
     **Name:** Meraginasu / メラギナス
     **Title:** Black Drill Wyvern / 黒穿竜
     **Rank:** G-Rank
-    **Weak to:** Light and Fire <:zfire:902602768525717534>
+    **Weak to:** Light and Fire <:zfire:883120156916744312>
     **Ailments:** None
     **Elements:** Darkness
     **Weak Spots:** ```

@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期
     **Title:** Blue Sleep Bird / 蒼眠鳥
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Sleep <:zsleep:902638414283821086> and Stun <:zstun:902639113948254238> (HC)
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Sleep <:zsleep:883122848888143892> and Stun <:stun:883125464397398106> (HC)
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -31,8 +31,8 @@ module Bot::DiscordCommands
     **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期
     **Title:** Blue Sleep Bird / 蒼眠鳥
     **Rank:** HR5
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Sleep <:zsleep:902638414283821086> and Stun <:zstun:902639113948254238> (HC)
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Sleep <:zsleep:883122848888143892> and Stun <:stun:883125464397398106> (HC)
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -53,8 +53,8 @@ module Bot::DiscordCommands
     **Name:** Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期
     **Title:** Blue Sleep Bird / 蒼眠鳥
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Sleep <:zsleep:902638414283821086> and Stun <:zstun:902639113948254238> (HC)
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Sleep <:zsleep:883122848888143892> and Stun <:stun:883125464397398106> (HC)
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

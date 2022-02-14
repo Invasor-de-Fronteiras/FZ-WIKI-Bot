@@ -8,8 +8,8 @@ module Bot::DiscordCommands
     msg.respond "***Based on Cutting Damage!***
     **Name:** Gendrome / ドスゲネポス
     **Title:** Alpha Raptor / None
-    **Weak to:** Ice <:zice:902635629471469638>, Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238> (HC)
+    **Weak to:** Ice <:zice:883119912283938816>, Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106> (HC)
     **Elements:** None
     **Weak Spots:** ```
     \n                                 HR1-4

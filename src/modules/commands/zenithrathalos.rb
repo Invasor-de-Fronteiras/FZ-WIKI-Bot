@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Rathalos / 辿異種リオレウス
     **Title:** Fire Wyvern / 火竜
     **Rank:** Zenith
-    **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>
-    **Ailments:** Extreme Fireblight <:zfire:902602768525717534> and Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066> and Ice <:zice:883119912283938816>
+    **Ailments:** Extreme Fireblight <:zfire:883120156916744312> and Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

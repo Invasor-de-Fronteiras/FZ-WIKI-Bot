@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Toridcless / トリドクレス
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Toridcless / トリドクレス
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

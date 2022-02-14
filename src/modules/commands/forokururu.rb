@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Forokururu / フォロクルル
     **Title:** Flower Phoenix Bird / 華鳳鳥
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Blind <:zblind:902638675618332682>, Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161>, Defense Down <:zdefdown:902639079349420064> , Sleep <:zsleep:902638414283821086> and Soiled <:zfart:902639051725758576>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Blind <:blind:883123449978052679>, Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545>, Defense Down <:defdown:883125247551893514> , Sleep <:zsleep:883122848888143892> and Soiled <:fart:883125077481246791>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Forokururu / フォロクルル
     **Title:** Flower Phoenix Bird / 華鳳鳥
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Blind <:zblind:902638675618332682>, Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161>, Defense Down <:zdefdown:902639079349420064>, Sleep <:zsleep:902638414283821086> and Soiled <:zfart:902639051725758576>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Blind <:blind:883123449978052679>, Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545>, Defense Down <:defdown:883125247551893514>, Sleep <:zsleep:883122848888143892> and Soiled <:fart:883125077481246791>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

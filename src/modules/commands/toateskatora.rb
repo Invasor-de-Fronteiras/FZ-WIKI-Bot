@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Toa Tesukatora / トア・テスカトラ
     **Title:** Frozen King Dragon / 凍王龍
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Frostbite <:zfrost:902638810679087104>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Frostbite <:frost:883123635764744212>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -32,9 +32,9 @@ module Bot::DiscordCommands
   **Name:** Toa Tesukatora / トア・テスカトラ
   **Title:** Frozen King Dragon / 凍王龍
   **Rank:** G-Rank
-  **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
-  **Ailments:** Frostbite <:zfrost:902638810679087104>
-  **Elements:** Ice <:zice:902635629471469638>
+  **Weak to:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+  **Ailments:** Frostbite <:frost:883123635764744212>
+  **Elements:** Ice <:zice:883119912283938816>
   **Weak Spots:** ```
   \n                                Standard
   \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

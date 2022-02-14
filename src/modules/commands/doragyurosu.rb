@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Doragyurosu / ドラギュロス
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Doragyurosu / ドラギュロス
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** HR5-Supremacy
-    **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -100,8 +100,8 @@ module Bot::DiscordCommands
     **Name:** Doragyurosu / ドラギュロス
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard

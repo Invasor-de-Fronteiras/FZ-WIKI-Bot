@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Taikun Zamuza / タイクンザムザ
     **Title:** Multi-Shell Crab / 多殻蟹
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638> (1st Form), Ice <:zice:902635629471469638> and Fire <:zfire:902602768525717534> (2nd Form), Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638> (3rd Form)
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752> (Final Form)
+    **Weak to:** Fire <:zfire:883120156916744312> and Ice <:zice:883119912283938816> (1st Form), Ice <:zice:883119912283938816> and Fire <:zfire:883120156916744312> (2nd Form), Water <:zwater:883120128017965066> and Ice <:zice:883119912283938816> (3rd Form)
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852> (Final Form)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -51,9 +51,9 @@ module Bot::DiscordCommands
     **Name:** Taikun Zamuza / タイクンザムザ
     **Title:** Multi-Shell Crab / 多殻蟹
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534> and Ice <:zice:902635629471469638> (1st Form), Ice <:zice:902635629471469638> and Fire <:zfire:902602768525717534> (2nd Form), Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638> (3rd Form)
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752> (Final Form)
+    **Weak to:** Fire <:zfire:883120156916744312> and Ice <:zice:883119912283938816> (1st Form), Ice <:zice:883119912283938816> and Fire <:zfire:883120156916744312> (2nd Form), Water <:zwater:883120128017965066> and Ice <:zice:883119912283938816> (3rd Form)
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852> (Final Form)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

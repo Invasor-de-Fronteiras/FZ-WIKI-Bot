@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** White Monoblos / モノブロス亜種
     **Title:** White One Horn Wyvern / 白一角竜
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** White Monoblos / モノブロス亜種
     **Title:** White One Horn Wyvern / 白一角竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

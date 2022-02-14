@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Yamatsukami / ヤマツカミ
     **Title:** Floating Mountain Dragon / 浮岳龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
-    **Ailments:** Paralysis <:zpara:902638465680814161> (via Great Thunderbug)
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Ailments:** Paralysis <:zpara:883122888692076545> (via Great Thunderbug)
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -32,9 +32,9 @@ module Bot::DiscordCommands
     **Name:** Yamatsukami / ヤマツカミ
     **Title:** Floating Mountain Dragon / 浮岳龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
-    **Ailments:** Paralysis <:zpara:902638465680814161> (via Great Thunderbug)
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Ailments:** Paralysis <:zpara:883122888692076545> (via Great Thunderbug)
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

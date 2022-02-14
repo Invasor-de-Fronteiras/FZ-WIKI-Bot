@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Khezu / 辿異種フルフル
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** Zenith
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Extreme Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Extreme Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

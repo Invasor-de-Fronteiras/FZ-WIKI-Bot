@@ -10,8 +10,8 @@ module Bot::DiscordCommands
     **Title:** White Thorn Wyvern / 棘白竜
     **Rank:** HR5
     **Weak to:** Sound and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -56,8 +56,8 @@ module Bot::DiscordCommands
     **Title:** White Thorn Wyvern / 棘白竜
     **Rank:** G-Rank
     **Weak to:** Sound and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

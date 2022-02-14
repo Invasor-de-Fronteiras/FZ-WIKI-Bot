@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Farunokku / ファルノック
     **Title:** Thunder Bird / 傾雷鳥
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066> and Ice <:zice:883119912283938816>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

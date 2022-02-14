@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Black Gravios / グラビモス亜種
     **Title:** Black Armor Wyvern / 黒鎧竜
     **Rank:** HR1-4
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Black Gravios / グラビモス亜種
     **Title:** Black Armor Wyvern / 黒鎧竜
     **Rank:** HR5
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Black Gravios / グラビモス亜種
     **Title:** Black Armor Wyvern / 黒鎧竜
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

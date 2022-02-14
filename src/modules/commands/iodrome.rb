@@ -8,8 +8,8 @@ module Bot::DiscordCommands
     msg.respond "***Based on Cutting Damage!***
     **Name:** Iodrome / ドスイーオス
     **Title:** The Ioprey Leader / (?)
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Water <:zwater:902635559967686756>
-    **Ailments:** Poison <:zpoison:902638513097408513>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Water <:zwater:883120128017965066>
+    **Ailments:** Poison <:zpoison:883122917976719451>
     **Elements:** None
     **Weak Spots:** ```
     \n                                 HR1-4

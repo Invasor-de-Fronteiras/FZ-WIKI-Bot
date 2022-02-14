@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Garuba Daora / ガルバダオラ
     **Title:** Gold Dust Dragon / 金塵龍
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Crystallization <:zcrystal:902638945572114513>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Crystallization <:crystal:883123660225908757>
     **Elements:** Wind
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Garuba Daora / ガルバダオラ
     **Title:** Gold Dust Dragon / 金塵龍
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Crystallization <:zcrystal:902638945572114513>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Crystallization <:crystal:883123660225908757>
     **Elements:** Wind
     **Weak Spots:** ```
     \n                                Standard

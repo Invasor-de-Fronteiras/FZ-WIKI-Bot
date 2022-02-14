@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Amatsu / アマツマガツチ
     **Title:** Storm Dragon / 嵐龍
     **Rank:** HR5-Exotic
-    **Weak to:** Dragon<:zdragon:902635658819018783> and Fire<:zfire:902602768525717534>
-    **Ailments:** Waterblight<:zwater:902635559967686756> and Dragonblight<:zdragon:902635658819018783>
-    **Elements:** Water<:zwater:902635559967686756> and Dragon<:zdragon:902635658819018783>
+    **Weak to:** Dragon<:zdragon:902635658819018783> and Fire<:zfire:883120156916744312>
+    **Ailments:** Waterblight<:zwater:883120128017965066> and Dragonblight<:zdragon:902635658819018783>
+    **Elements:** Water<:zwater:883120128017965066> and Dragon<:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Amatsu / アマツマガツチ
     **Title:** Storm Dragon / 嵐龍
     **Rank:** G-Rank-Exotic
-    **Weak to:** Dragon<:zdragon:902635658819018783> and Fire<:zfire:902602768525717534>
-    **Ailments:** Waterblight<:zwater:902635559967686756> and Dragonblight<:zdragon:902635658819018783>
-    **Elements:** Water<:zwater:902635559967686756> and Dragon<:zdragon:902635658819018783>
+    **Weak to:** Dragon<:zdragon:902635658819018783> and Fire<:zfire:883120156916744312>
+    **Ailments:** Waterblight<:zwater:883120128017965066> and Dragonblight<:zdragon:902635658819018783>
+    **Elements:** Water<:zwater:883120128017965066> and Dragon<:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

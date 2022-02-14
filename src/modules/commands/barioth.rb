@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Barioth / ベリオロス
     **Title:** Ice Tusk Wyvern / 氷牙竜
     **Rank:** HR5-Exotic
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Iceblight <:zice:902635629471469638> and Snowman <:zsnowman:902639007761072178>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Iceblight <:zice:883119912283938816> and Snowman <:zsnowman:883124811746926592>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Barioth / ベリオロス
     **Title:** Ice Tusk Wyvern / 氷牙竜
     **Rank:** G-Rank-Exotic
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Iceblight <:zice:902635629471469638> and Snowman <:zsnowman:902639007761072178>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Iceblight <:zice:883119912283938816> and Snowman <:zsnowman:883124811746926592>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 

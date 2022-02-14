@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Plesioth / 辿異種ガノトトス
     **Title:** Water Wyvern / 水竜
     **Rank:** Zenith
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Extreme Waterblight <:zwater:902635559967686756>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Extreme Waterblight <:zwater:883120128017965066>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

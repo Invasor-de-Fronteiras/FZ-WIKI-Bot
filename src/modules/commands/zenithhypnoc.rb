@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Zenith Hypnocatrice / 辿異種ヒプノック
     **Title:** Sleep Bird / 眠鳥
     **Rank:** Zenith
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Extreme Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Extreme Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

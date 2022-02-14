@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Gravios / 辿異種グラビモス
     **Title:** Armor Wyvern / 鎧竜
     **Rank:** Zenith
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Extreme Fireblight <:zfire:902602768525717534>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Extreme Fireblight <:zfire:883120156916744312>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

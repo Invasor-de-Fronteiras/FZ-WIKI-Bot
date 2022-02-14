@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Congalala / ババコンガ
     **Title:** Pink Fur Beast / 桃毛獣
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Soiled <:zfart:902639051725758576>, Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534> (Specific Food Eaten)
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Soiled <:fart:883125077481246791>, Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312> (Specific Food Eaten)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -39,9 +39,9 @@ module Bot::DiscordCommands
     **Name:** Congalala / ババコンガ
     **Title:** Pink Fur Beast / 桃毛獣
     **Rank:** HR5
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Soiled <:zfart:902639051725758576>, Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534> (Specific Food Eaten)
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Soiled <:fart:883125077481246791>, Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312> (Specific Food Eaten)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -69,9 +69,9 @@ module Bot::DiscordCommands
     **Name:** Congalala / ババコンガ
     **Title:** Pink Fur Beast / 桃毛獣
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Soiled <:zfart:902639051725758576>, Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534> (Specific Food Eaten)
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Soiled <:fart:883125077481246791>, Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312> (Specific Food Eaten)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Nargacuga / ナルガクルガ
     **Title:** Swift Wyvern / 迅竜
     **Rank:** HR5-Exotic
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Nargacuga / ナルガクルガ
     **Title:** Swift Wyvern / 迅竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

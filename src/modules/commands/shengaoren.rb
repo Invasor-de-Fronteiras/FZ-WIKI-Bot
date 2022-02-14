@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Shen Gaoren / シェンガオレン
     **Title:** Fortress Crab / 砦蟹
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
     **Ailments:** None 
     **Elements:** None
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Shen Gaoren / シェンガオレン
     **Title:** Fortress Crab / 砦蟹
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
     **Ailments:** None 
     **Elements:** None
     **Weak Spots:** ```

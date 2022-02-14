@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Seregios / セルレギオス
     **Title:** Thousand Blade Wyvern / 千刃竜
     **Rank:** HR5-Exotic
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Bleeding <:zbleed:902638891067121705>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Bleeding <:bleed:883124203723825162>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Seregios / セルレギオス
     **Title:** Thousand Blade Wyvern / 千刃竜
     **Rank:** G-Rank-Exotic
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
-    **Ailments:** Bleeding <:zbleed:902638891067121705>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
+    **Ailments:** Bleeding <:bleed:883124203723825162>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

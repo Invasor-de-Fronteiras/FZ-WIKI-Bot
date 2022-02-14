@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Khezu / フルフル
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Khezu / フルフル
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR5
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Khezu / フルフル
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Stun <:zstun:902639113948254238>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

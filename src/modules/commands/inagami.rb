@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Inagami / イナガミ
     **Title:** Javon Dragon / 雅翁龍
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Inagami / イナガミ
     **Title:** Javon Dragon / 雅翁龍
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

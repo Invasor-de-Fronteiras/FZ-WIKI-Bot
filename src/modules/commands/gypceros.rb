@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Gypceros / ゲリョス
     **Title:** Strange Poison Bird / 毒怪鳥
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -31,8 +31,8 @@ module Bot::DiscordCommands
     **Name:** Gypceros / ゲリョス
     **Title:** Strange Poison Bird / 毒怪鳥
     **Rank:** HR5
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -53,8 +53,8 @@ module Bot::DiscordCommands
     **Name:** Gypceros / ゲリョス
     **Title:** Strange Poison Bird / 毒怪鳥
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Akantor / アカムトルム
     **Title:** Supremacy Wyvern / 覇竜
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752> (Enraged)
-    **Ailments:** Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852> (Enraged)
+    **Ailments:** Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Akantor / アカムトルム
     **Title:** Supremacy Wyvern / 覇竜
     **Rank:** HR5
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752> (Enraged)
-    **Ailments:** Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852> (Enraged)
+    **Ailments:** Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Akantor / アカムトルム
     **Title:** Supremacy Wyvern / 覇竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752> (Enraged)
-    **Ailments:** Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852> (Enraged)
+    **Ailments:** Defense Down <:defdown:883125247551893514>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

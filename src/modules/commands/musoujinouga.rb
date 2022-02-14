@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Howling Zinogre / 極み吼えるジンオウガ
     **Title:** Thunder Wolf Wyvern / 雷狼竜
     **Rank:** Musou
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

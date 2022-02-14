@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Jinouga / Zinogre / ジンオウガ
     **Title:** Thunder Wolf Wyvern / 雷狼竜
     **Rank:** HR5-Exotic
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Jinouga / Zinogre / ジンオウガ
     **Title:** Thunder Wolf Wyvern / 雷狼竜
     **Rank:** G-Rank-Exotic
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

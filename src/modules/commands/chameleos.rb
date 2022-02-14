@@ -10,7 +10,7 @@ module Bot::DiscordCommands
     **Title:** Mist Dragon / 霞龍
     **Rank:** HR1-4
     **Weak to:** Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Fatigue, Defense Down <:zdefdown:902639079349420064>  and Vocal Cord Paralysis <:zvocal:902638724557459457>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Fatigue, Defense Down <:defdown:883125247551893514>  and Vocal Cord Paralysis <:vocal:883123479459815445>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
     **Title:** Mist Dragon / 霞龍
     **Rank:** HR5-Goushu
     **Weak to:** Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Fatigue, Defense Down <:zdefdown:902639079349420064>  and Vocal Cord Paralysis <:zvocal:902638724557459457>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Fatigue, Defense Down <:defdown:883125247551893514>  and Vocal Cord Paralysis <:vocal:883123479459815445>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -78,7 +78,7 @@ module Bot::DiscordCommands
     **Title:** Mist Dragon / 霞龍
     **Rank:** G-Rank
     **Weak to:** Dragon <:zdragon:902635658819018783>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Fatigue, Defense Down <:zdefdown:902639079349420064> and Vocal Cord Paralysis <:zvocal:902638724557459457>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Fatigue, Defense Down <:defdown:883125247551893514> and Vocal Cord Paralysis <:vocal:883123479459815445>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard

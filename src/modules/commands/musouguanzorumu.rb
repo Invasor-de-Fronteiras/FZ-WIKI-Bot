@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Ruler Guanzorumu / 極み統べるグァンゾルム
     **Title:** Emperor Conqueror Dragon / 帝征龍
     **Rank:** Musou
-    **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
     **Ailments:** None 
-    **Elements:** Fire <:zfire:902602768525717534> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Shagaru Magala / シャガルマガラ
     **Title:** Heavenly Revolving / 天廻龍
     **Rank:** HR5-Exotic
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
-    **Ailments:** Frenzy Virus <:zfrenzy:902639203895083038>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Ailments:** Frenzy Virus <:frenzy:883124230357680199>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Shagaru Magala / シャガルマガラ
     **Title:** Heavenly Revolving / 天廻龍
     **Rank:** G-Rank-Exotic
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
-    **Ailments:** Frenzy Virus <:zfrenzy:902639203895083038>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Ailments:** Frenzy Virus <:frenzy:883124230357680199>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

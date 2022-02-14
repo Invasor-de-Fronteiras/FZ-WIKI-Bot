@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Monoblos / モノブロス
     **Title:** One Horned Wyvern / 一角竜
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Monoblos / モノブロス
     **Title:** One Horned Wyvern / 一角竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752> and Ice <:zice:902635629471469638>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Ice <:zice:883119912283938816>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

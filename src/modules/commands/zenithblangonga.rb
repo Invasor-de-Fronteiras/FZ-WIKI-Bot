@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Blangonga / 辿異種ドドブランゴ
     **Title:** Snow Lion / 雪獅子
     **Rank:** Zenith
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Extreme Iceblight <:zice:902635629471469638>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Extreme Iceblight <:zice:883119912283938816>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

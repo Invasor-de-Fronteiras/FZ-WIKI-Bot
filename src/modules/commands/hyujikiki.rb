@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Hyujikiki / ヒュジキキ
     **Title:** Needle Wyvern / 針纏竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Paralysis <:zpara:902638465680814161>, Poison <:zpoison:902638513097408513> and Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Paralysis <:zpara:883122888692076545>, Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

@@ -4,7 +4,6 @@ module Bot::DiscordCommands
       command :Rhobiusvoid do |msg|
         msg.respond "```to another 12 years of frontier, but read the pastebin first 
         - one-eyed fuck```"
-        msg.respond "https://pastebin.com/QqAwZSTC"
       
       end
     end

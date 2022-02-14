@@ -8,9 +8,9 @@ module Bot::DiscordCommands
     msg.respond "***Based on Cutting Damage!***
     **Name:** Kirin / キリン
     **Title:** Phantom Beast / 幻獣
-    **Weak to:** Fire <:zfire:902602768525717534> and Water <:zwater:902635559967686756>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                  HR1-4
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

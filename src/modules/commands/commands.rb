@@ -40,8 +40,7 @@ Qualquer erro ou problema relatar a Malckyor#8043 ou hantzu#8273.
         end
          command :Monsters do |msg|
           msg.respond "Lista completa com todos os monstros grandes, lembre-se de usar os sufixos **_HR** **_G** **Musou_** e **Zenith_** para encontrá-los! 
-```
-mhf!Abiorugu
+```mhf!Abiorugu
 mhf!Akantor
 mhf!Amatsu
 mhf!Anorupatisu
@@ -158,8 +157,7 @@ mhf!Yamatsukami
 mhf!Yian_Garuga
 mhf!Kutku
 mhf!Zenaserisu
-mhf!Zerureusu
-          ```"
+mhf!Zerureusu```"
         end   
     end
 end

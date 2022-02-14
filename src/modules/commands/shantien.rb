@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Shantien / シャンティエン
     **Title:** Heavenly Flying Dragon / 天翔龍
     **Rank:** Conquest
-    **Weak to:** Ice <:zice:902635629471469638> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Tenshou (Fire<:zfire:902602768525717534>, Thunder<:zthunder:902635597305372752> and Water<:zwater:902635559967686756>)
+    **Weak to:** Ice <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Tenshou (Fire<:zfire:883120156916744312>, Thunder<:zthunder:883120020312440852> and Water<:zwater:883120128017965066>)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

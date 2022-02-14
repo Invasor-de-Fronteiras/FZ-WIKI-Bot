@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Voljang / ヴォージャン
     **Title:** Crimson Lotus Lion / 紅蓮獅子
     **Rank:** HR5-Goushu
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Fireblight <:zfire:902602768525717534>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Fireblight <:zfire:883120156916744312>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -39,9 +39,9 @@ module Bot::DiscordCommands
     **Name:** Voljang / ヴォージャン
     **Title:** Crimson Lotus Lion / 紅蓮獅子
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Fireblight <:zfire:902602768525717534>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Fireblight <:zfire:883120156916744312>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

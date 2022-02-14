@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Rajang / ラージャン
     **Title:** Gold Lion / 金獅子
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638>
+    **Weak to:** Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -29,9 +29,9 @@ module Bot::DiscordCommands
     **Name:** Rajang / ラージャン
     **Title:** Gold Lion / 金獅子
     **Rank:** HR5
-    **Weak to:** Ice <:zice:902635629471469638>
+    **Weak to:** Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -49,9 +49,9 @@ module Bot::DiscordCommands
     **Name:** Rajang / ラージャン
     **Title:** Gold Lion / 金獅子
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638>
+    **Weak to:** Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

@@ -10,8 +10,8 @@ module Bot::DiscordCommands
     **Title:** Great Crag Wyvern / 大巌竜
     **Rank:** HR1-4
     **Weak to:** None
-    **Ailments:** Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -44,8 +44,8 @@ module Bot::DiscordCommands
     **Title:** Great Crag Wyvern / 大巌竜
     **Rank:** HR5
     **Weak to:** None
-    **Ailments:** Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -78,8 +78,8 @@ module Bot::DiscordCommands
     **Title:** Great Crag Wyvern / 大巌竜
     **Rank:** G-Rank
     **Weak to:** None
-    **Ailments:** Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -158,8 +158,8 @@ module Bot::DiscordCommands
     **Title:** Great Crag Wyvern / 大巌竜
     **Rank:** G-Rank
     **Weak to:** None
-    **Ailments:** Stun <:zstun:902639113948254238> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

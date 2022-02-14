@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Zenith Hyujikiki / 辿異種ヒュジキキ
     **Title:** Needle Wyvern / 針纏竜
     **Rank:** Zenith
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Paralysis <:zpara:902638465680814161> and Bleeding <:zbleed:902638891067121705>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Paralysis <:zpara:883122888692076545> and Bleeding <:bleed:883124203723825162>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

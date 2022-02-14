@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Espinas / エスピナス
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Espinas / エスピナス
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** HR5
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Espinas / エスピナス
     **Title:** Thorn Wyvern / 棘竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

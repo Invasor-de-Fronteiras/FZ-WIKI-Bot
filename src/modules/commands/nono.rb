@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Nono Orugaron / ノノ・オルガロン
     **Title:** Female Sound Wolf / 雌響狼 (Shikyōrō)
     **Rank:** HR1-4
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Stun <:zstun:902639113948254238> and Snowman <:zsnowman:902639007761072178> (G-Rank Only)
-    **Elements:** Ice <:zice:902635629471469638> (G-Rank Only)
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Stun <:stun:883125464397398106> and Snowman <:zsnowman:883124811746926592> (G-Rank Only)
+    **Elements:** Ice <:zice:883119912283938816> (G-Rank Only)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -49,9 +49,9 @@ module Bot::DiscordCommands
     **Name:** Nono Orugaron / ノノ・オルガロン
     **Title:** Female Sound Wolf / 雌響狼 (Shikyōrō)
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Stun <:zstun:902639113948254238> and Snowman <:zsnowman:902639007761072178> (G-Rank Only)
-    **Elements:** Ice <:zice:902635629471469638> (G-Rank Only)
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Stun <:stun:883125464397398106> and Snowman <:zsnowman:883124811746926592> (G-Rank Only)
+    **Elements:** Ice <:zice:883119912283938816> (G-Rank Only)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -89,9 +89,9 @@ module Bot::DiscordCommands
     **Name:** Nono Orugaron / ノノ・オルガロン
     **Title:** Female Sound Wolf / 雌響狼 (Shikyōrō)
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Stun <:zstun:902639113948254238> and Snowman <:zsnowman:902639007761072178> (G-Rank Only)
-    **Elements:** Ice <:zice:902635629471469638> (G-Rank Only)
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Stun <:stun:883125464397398106> and Snowman <:zsnowman:883124811746926592> (G-Rank Only)
+    **Elements:** Ice <:zice:883119912283938816> (G-Rank Only)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

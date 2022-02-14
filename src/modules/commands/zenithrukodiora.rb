@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Zenith Rukodiora / 辿異種ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** Zenith
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638> (Rage Mode)
-    **Ailments:** Magnet <:zmagnet:902638765477068882> and Extreme Dragonblight <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Ailments:** Magnet <:zmagnet:883123524229820487> and Extreme Dragonblight <:zdragon:902635658819018783>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard

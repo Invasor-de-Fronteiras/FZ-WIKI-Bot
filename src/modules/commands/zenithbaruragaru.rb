@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Baruragaru / 辿異種バルラガル
     **Title:** Blood Eating Wyvern / 喰血竜
     **Rank:** Zenith
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Extreme Waterblight <:zwater:902635559967686756> and Bleeding <:zbleed:902638891067121705>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Extreme Waterblight <:zwater:883120128017965066> and Bleeding <:bleed:883124203723825162>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Ray Gougarf / レイ・ゴウガルフ
     **Title:** Blue Fighting Beast / 青闘獣
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Magnet <:zmagnet:902638765477068882> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Magnet <:zmagnet:883123524229820487> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -39,8 +39,8 @@ module Bot::DiscordCommands
     **Name:** Ray Gougarf / レイ・ゴウガルフ
     **Title:** Blue Fighting Beast / 青闘獣
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Magnet <:zmagnet:902638765477068882> and Stun <:zstun:902639113948254238>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Magnet <:zmagnet:883123524229820487> and Stun <:stun:883125464397398106>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

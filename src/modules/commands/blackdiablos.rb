@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Black Diablos / ディアブロス亜種
     **Title:** Black Horn Wyvern / 黒角竜
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638>
+    **Weak to:** Ice <:zice:883119912283938816>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Black Diablos / ディアブロス亜種
     **Title:** Black Horn Wyvern / 黒角竜
     **Rank:** HR5
-    **Weak to:** Ice <:zice:902635629471469638>
+    **Weak to:** Ice <:zice:883119912283938816>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```
@@ -53,7 +53,7 @@ module Bot::DiscordCommands
     **Name:** Black Diablos / ディアブロス亜種
     **Title:** Black Horn Wyvern / 黒角竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638>
+    **Weak to:** Ice <:zice:883119912283938816>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

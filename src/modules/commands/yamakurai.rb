@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Yamakurai / ヤマクライ
     **Title:** Floating Peak Dragon / 浮峰龍
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -55,8 +55,8 @@ module Bot::DiscordCommands
     **Name:** Yamakurai / ヤマクライ
     **Title:** Floating Peak Dragon / 浮峰龍
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534>
-    **Ailments:** Poison <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161> and Sleep <:zsleep:902638414283821086>
+    **Weak to:** Fire <:zfire:883120156916744312>
+    **Ailments:** Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Sleep <:zsleep:883122848888143892>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

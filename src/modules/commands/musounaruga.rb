@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Blinking Nargacuga / 極み駆けるナルガクルガ
     **Title:** Swift Wyvern / 迅竜
     **Rank:** Musou
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Poison <:zpoison:902638513097408513>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Poison <:zpoison:883122917976719451>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

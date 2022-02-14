@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenaserisu / ゼナセリス
     **Title:** Cracking Water Wyvern / 裂水竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:902635597305372752>
-    **Ailments:** Waterblight <:zwater:902635559967686756>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
+    **Ailments:** Waterblight <:zwater:883120128017965066>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

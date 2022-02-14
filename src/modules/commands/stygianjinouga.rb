@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Stygian Jinouga / Stygian Zinogre / ジンオウガ亜種
     **Title:** Hell Wolf Wyvern / 獄狼竜
     **Rank:** HR5-Exotic
-    **Weak to:**Thunder <:zthunder:902635597305372752>
-    **Ailments:** Dragonblight <:zdragon:902635658819018783> and Dracophage Erosion <:zdracophage:902639151466299422>
+    **Weak to:**Thunder <:zthunder:883120020312440852>
+    **Ailments:** Dragonblight <:zdragon:902635658819018783> and Dracophage Erosion <:zerosion:883123230754349066>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Stygian Jinouga / Stygian Zinogre / ジンオウガ亜種
     **Title:** Hell Wolf Wyvern / 獄狼竜
     **Rank:** G-Rank-Exotic
-    **Weak to:**Thunder <:zthunder:902635597305372752>
-    **Ailments:** Dragonblight <:zdragon:902635658819018783> and Dracophage Erosion <:zdracophage:902639151466299422>
+    **Weak to:**Thunder <:zthunder:883120020312440852>
+    **Ailments:** Dragonblight <:zdragon:902635658819018783> and Dracophage Erosion <:zerosion:883123230754349066>
     **Elements:** Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard

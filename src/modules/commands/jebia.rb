@@ -10,7 +10,7 @@ module Bot::DiscordCommands
     **Title:** Ash Crystal Scorpion / 灰晶蠍
     **Rank:** HR1-4
     **Weak to:** None
-    **Ailments:** Crystallization <:zcrystal:902638945572114513> and Paralysis <:zpara:902638465680814161>
+    **Ailments:** Crystallization <:crystal:883123660225908757> and Paralysis <:zpara:883122888692076545>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
     **Title:** Ash Crystal Scorpion / 灰晶蠍
     **Rank:** HR5
     **Weak to:** None
-    **Ailments:** Crystallization <:zcrystal:902638945572114513> and Paralysis <:zpara:902638465680814161>
+    **Ailments:** Crystallization <:crystal:883123660225908757> and Paralysis <:zpara:883122888692076545>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -124,7 +124,7 @@ module Bot::DiscordCommands
     **Title:** Ash Crystal Scorpion / 灰晶蠍
     **Rank:** G-Rank
     **Weak to:** None
-    **Ailments:** Crystallization <:zcrystal:902638945572114513> and Paralysis <:zpara:902638465680814161>
+    **Ailments:** Crystallization <:crystal:883123660225908757> and Paralysis <:zpara:883122888692076545>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

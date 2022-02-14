@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Daimyo Hermitaur / ダイミョウザザミ
     **Title:** Shield Crab / 盾蟹
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
     **Ailments:** None
-    **Elements:** Water <:zwater:902635559967686756>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -52,9 +52,9 @@ module Bot::DiscordCommands
     **Name:** Daimyo Hermitaur / ダイミョウザザミ
     **Title:** Shield Crab / 盾蟹
     **Rank:** HR5
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
     **Ailments:** None
-    **Elements:** Water <:zwater:902635559967686756>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -95,9 +95,9 @@ module Bot::DiscordCommands
     **Name:** Daimyo Hermitaur / ダイミョウザザミ
     **Title:** Shield Crab / 盾蟹
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
     **Ailments:** None
-    **Elements:** Water <:zwater:902635559967686756>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

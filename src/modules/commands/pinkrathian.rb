@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Pink Rathian / リオレイア（亜種
     **Title:** Cherry Blossom Fire Wyvern / 桜火竜
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Pink Rathian / リオレイア（亜種）
     **Title:** Cherry Blossom Fire Wyvern / 桜火竜
     **Rank:** HR5
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Pink Rathian / リオレイア（亜種）
     **Title:** Cherry Blossom Fire Wyvern / 桜火竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Poison <:zpoison:902638513097408513>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Poison <:zpoison:883122917976719451>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

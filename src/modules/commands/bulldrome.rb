@@ -8,7 +8,7 @@ module Bot::DiscordCommands
     msg.respond "***Based on Cutting Damage!***
     **Name:** Bulldrome / ドスファンゴ
     **Title:** Great Boar / 大猪
-    **Weak to:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Thunder <:zthunder:883120020312440852>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

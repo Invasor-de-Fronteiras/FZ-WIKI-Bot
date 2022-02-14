@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Kushala Daora / クシャルダオラ
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Snowman <:zsnowman:902639007761072178> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Snowman <:zsnowman:883124811746926592> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Kushala Daora / クシャルダオラ
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Snowman <:zsnowman:902639007761072178> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Snowman <:zsnowman:883124811746926592> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Kushala Daora / クシャルダオラ
     **Title:** Steel Dragon / 鋼龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Snowman <:zsnowman:902639007761072178> and Defense Down <:zdefdown:902639079349420064>
-    **Elements:** Dragon <:zdragon:902635658819018783> and Ice <:zice:902635629471469638>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Snowman <:zsnowman:883124811746926592> and Defense Down <:defdown:883125247551893514>
+    **Elements:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

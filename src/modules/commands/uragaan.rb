@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Uragaan / ウラガンキン
     **Title:** Burst Hammer Wyvern / 爆鎚竜
     **Rank:** HR5-Exotic
-    **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Fireblight <:zfire:902602768525717534> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Fireblight <:zfire:883120156916744312> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Uragaan / ウラガンキン (Uragankin)
     **Title:** Burst Hammer Wyvern / 爆鎚竜
     **Rank:** G-Rank-Exotic
-    **Weak to:** Water <:zwater:902635559967686756> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Fireblight <:zfire:902602768525717534> and Sleep <:zsleep:902638414283821086>
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Fireblight <:zfire:883120156916744312> and Sleep <:zsleep:883122848888143892>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Berukyurosu / ベルキュロス
     **Title:** Dancing Thunder Wyvern / 舞雷竜
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Berukyurosu / ベルキュロス
     **Title:** Dancing Thunder Wyvern / 舞雷竜
     **Rank:** HR5-Goushu
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Berukyurosu / ベルキュロス
     **Title:** Dancing Thunder Wyvern / 舞雷竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638> and Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Ice <:zice:883119912283938816> and Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

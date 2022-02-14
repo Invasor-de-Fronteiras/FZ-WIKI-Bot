@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Red Khezu / フルフル（亜種）
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR1-4
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Red Khezu / フルフル（亜種）
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** HR5
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -53,9 +53,9 @@ module Bot::DiscordCommands
     **Name:** Red Khezu / フルフル（亜種）
     **Title:** Charging Wyvern / 帯電飛竜
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756>
-    **Ailments:** Paralysis <:zpara:902638465680814161>
-    **Elements:** Thunder <:zthunder:902635597305372752>
+    **Weak to:** Water <:zwater:883120128017965066>
+    **Ailments:** Paralysis <:zpara:883122888692076545>
+    **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

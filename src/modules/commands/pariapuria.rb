@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Pariapuria / パリアプリア
     **Title:** Swallowing Wyvern / 呑竜
     **Rank:** HR1-4
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Posion <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161>, Sleep <:zsleep:902638414283821086>, Soiled <:zfart:902639051725758576> and Stun <:zstun:902639113948254238>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Posion <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545>, Sleep <:zsleep:883122848888143892>, Soiled <:fart:883125077481246791> and Stun <:stun:883125464397398106>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -39,9 +39,9 @@ module Bot::DiscordCommands
     **Name:** Pariapuria / パリアプリア
     **Title:** Swallowing Wyvern / 呑竜
     **Rank:** HR5-Supremacy
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Posion <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161>, Sleep <:zsleep:902638414283821086>, Soiled <:zfart:902639051725758576> and Stun <:zstun:902639113948254238>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Posion <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545>, Sleep <:zsleep:883122848888143892>, Soiled <:fart:883125077481246791> and Stun <:stun:883125464397398106>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -69,9 +69,9 @@ module Bot::DiscordCommands
     **Name:** Pariapuria / パリアプリア
     **Title:** Swallowing Wyvern / 呑竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Posion <:zpoison:902638513097408513>, Paralysis <:zpara:902638465680814161>, Sleep <:zsleep:902638414283821086>, Soiled <:zfart:902639051725758576> and Stun <:zstun:902639113948254238>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Posion <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545>, Sleep <:zsleep:883122848888143892>, Soiled <:fart:883125077481246791> and Stun <:stun:883125464397398106>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

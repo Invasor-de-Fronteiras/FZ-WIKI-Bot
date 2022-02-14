@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Arrogant Duremudira / 極み傲るドゥレムディラ
     **Title:** Guardian of Sky Corridor / 天廊の番人
     **Rank:** Musou
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
-    **Ailments:** Corrupted Poison <:zdurepoison:902638577668722708>
-    **Elements:** Ice <:zice:902635629471469638>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Ailments:** Corrupted Poison <:durepoison:883123342914236446>
+    **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

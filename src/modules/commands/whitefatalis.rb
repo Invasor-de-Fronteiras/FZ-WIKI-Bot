@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** White Fatalis / ミラボレアス(祖龍)
     **Title:** Ancestral Dragon / 祖龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** White Fatalis / ミラボレアス(祖龍)
     **Title:** Ancestral Dragon / 祖龍
     **Rank:** G-Rank-Road
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:902602768525717534>
-    **Ailments:** Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Ailments:** Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

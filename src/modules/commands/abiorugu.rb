@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Defense Down <:zdefdown:902639079349420064> 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Defense Down <:defdown:883125247551893514> 
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -66,9 +66,9 @@ module Bot::DiscordCommands
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** HR5-Goushu
-    **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Defense Down <:zdefdown:902639079349420064> 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Defense Down <:defdown:883125247551893514> 
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -123,9 +123,9 @@ module Bot::DiscordCommands
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Defense Down <:zdefdown:902639079349420064> 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Defense Down <:defdown:883125247551893514> 
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -180,9 +180,9 @@ module Bot::DiscordCommands
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:902635629471469638>, Water <:zwater:902635559967686756> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Stun <:zstun:902639113948254238> and Defense Down <:zdefdown:902639079349420064> 
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Stun <:stun:883125464397398106> and Defense Down <:defdown:883125247551893514> 
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

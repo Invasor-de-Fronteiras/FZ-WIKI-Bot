@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Varusaburosu / ヴァルサブロス
     **Title:** Flame Horn Wyvern / 炎角竜
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:902635559967686756>
+    **Weak to:** Water <:zwater:883120128017965066>
     **Ailments:** None
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -55,9 +55,9 @@ module Bot::DiscordCommands
     **Name:** Varusaburosu / ヴァルサブロス
     **Title:** Flame Horn Wyvern / 炎角竜
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:902635559967686756>
+    **Weak to:** Water <:zwater:883120128017965066>
     **Ailments:** None
-    **Elements:** Fire <:zfire:902602768525717534>
+    **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

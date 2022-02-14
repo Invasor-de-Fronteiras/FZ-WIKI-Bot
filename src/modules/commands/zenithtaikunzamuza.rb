@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Zenith Taikun Zamuza / 辿異種タイクンザムザ
     **Title:** Multi-Shell Crab / 多殻蟹
     **Rank:** Zenith
-    **Weak to:** Ice <:zice:902635629471469638> and Fire <:zfire:902602768525717534> (1st Form), Water <:zwater:902635559967686756> and Ice <:zice:902635629471469638> (2nd Form)
-    **Ailments:** Extreme Thunderblight <:zthunder:902635597305372752>
-    **Elements:** Thunder <:zthunder:902635597305372752> (Second Form)
+    **Weak to:** Ice <:zice:883119912283938816> and Fire <:zfire:883120156916744312> (1st Form), Water <:zwater:883120128017965066> and Ice <:zice:883119912283938816> (2nd Form)
+    **Ailments:** Extreme Thunderblight <:zthunder:883120020312440852>
+    **Elements:** Thunder <:zthunder:883120020312440852> (Second Form)
     **Weak Spots:** ```
     \n                               Orange Shell
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

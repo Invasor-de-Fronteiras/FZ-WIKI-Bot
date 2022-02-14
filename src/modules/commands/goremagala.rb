@@ -9,8 +9,8 @@ module Bot::DiscordCommands
     **Name:** Gore Magala / ゴア・マガラ
     **Title:** Black Eclipse Wyvern / 黒蝕竜
     **Rank:** HR5-Exotic
-    **Weak to:** Fire <:zfire:902602768525717534>, Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Frenzy Virus <:zfrenzy:902639203895083038>
+    **Weak to:** Fire <:zfire:883120156916744312>, Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Frenzy Virus <:frenzy:883124230357680199>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard
@@ -43,8 +43,8 @@ module Bot::DiscordCommands
     **Name:** Gore Magala / ゴア・マガラ
     **Title:** Black Eclipse Wyvern / 黒蝕竜
     **Rank:** G-Rank-Exotic
-    **Weak to:** Fire <:zfire:902602768525717534>, Thunder <:zthunder:902635597305372752> and Dragon <:zdragon:902635658819018783>
-    **Ailments:** Frenzy Virus <:zfrenzy:902639203895083038>
+    **Weak to:** Fire <:zfire:883120156916744312>, Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Ailments:** Frenzy Virus <:frenzy:883124230357680199>
     **Elements:** None
     **Weak Spots:** ```
     \n                                Standard

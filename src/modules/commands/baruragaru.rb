@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Baruragaru / バルラガル
     **Title:** Blood Eating Wyvern / 喰血竜
     **Rank:** HR5-Goushu
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -66,9 +66,9 @@ module Bot::DiscordCommands
     **Name:** Baruragaru / バルラガル
     **Title:** Blood Eating Wyvern / 喰血竜
     **Rank:** G-Rank
-    **Weak to:** Fire <:zfire:902602768525717534> and Thunder <:zthunder:902635597305372752>
-    **Ailments:** Poison <:zpoison:902638513097408513> and Paralysis <:zpara:902638465680814161>
-    **Elements:** Water <:zwater:902635559967686756>
+    **Weak to:** Fire <:zfire:883120156916744312> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Poison <:zpoison:883122917976719451> and Paralysis <:zpara:883122888692076545>
+    **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
