@@ -16,8 +16,7 @@ mhf!Wind
 mhf!Sound
 mhf!Music
 mhf!Burning_Zero
-mhf!Emperors_Roar
-      ```"
+mhf!Emperors_Roar```"
     end
 
     command :Blaze do |msg|
