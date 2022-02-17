@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Toridcless / トリドクレス
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
     **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
@@ -43,7 +43,7 @@ module Bot::DiscordCommands
     **Name:** Toridcless / トリドクレス
     **Title:** Shining Thunder Bird / 照雷鳥
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Stun <:stun:883125464397398106> and Paralysis <:zpara:883122888692076545>
     **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```

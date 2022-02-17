@@ -20,7 +20,7 @@ mhf!Emperors_Roar```"
     end
 
     command :Blaze do |msg|
-      msg.respond "Blaze / 炎 = 70% <:zfire:883120156916744312> and 70% <:zdragon:902635658819018783>"
+      msg.respond "Blaze / 炎 = 70% <:zfire:883120156916744312> and 70% <:zdragon:883119756528476161>"
       msg.respond "There are currently no known monsters to have this Element and so far has been an exclusive Element for Weapons."
   end
   
@@ -30,7 +30,7 @@ mhf!Emperors_Roar```"
   end
   
   command :Thunder_Pole do |msg|
-      msg.respond "Thunder Pole / 雷極 = 70% <:zthunder:883120020312440852> and 70% <:zdragon:902635658819018783>"
+      msg.respond "Thunder Pole / 雷極 = 70% <:zthunder:883120020312440852> and 70% <:zdragon:883119756528476161>"
       msg.respond "The only known monster to have this element is Rebidiora."
   end
   
@@ -40,7 +40,7 @@ mhf!Emperors_Roar```"
   end
   
   command :Okiko do |msg|
-      msg.respond "Okiko / 熾凍 = 80% <:zfire:883120156916744312>, 80% <:zice:883119912283938816> and 40% <:zdragon:902635658819018783>"
+      msg.respond "Okiko / 熾凍 = 80% <:zfire:883120156916744312>, 80% <:zice:883119912283938816> and 40% <:zdragon:883119756528476161>"
       msg.respond "The only known monster to have this element is Disufiroa." 
   end
   
@@ -50,17 +50,17 @@ mhf!Emperors_Roar```"
   end
   
   command :Black_Flame do |msg|
-      msg.respond "Black Flame / 黒焔 = 50% <:zfire:883120156916744312> and 150% <:zdragon:902635658819018783>"
+      msg.respond "Black Flame / 黒焔 = 50% <:zfire:883120156916744312> and 150% <:zdragon:883119756528476161>"
       msg.respond "The only known monster to have this element is the G-Rank Fatalis."
   end
   
   command :Dark do |msg|
-      msg.respond "Darkness / 闇 = 80% <:zice:883119912283938816> and 80% <:zdragon:902635658819018783>"
+      msg.respond "Darkness / 闇 = 80% <:zice:883119912283938816> and 80% <:zdragon:883119756528476161>"
       msg.respond "The only known monster to have this element is Meraginasu."
   end
   
   command :Crimson_Demon do |msg|
-      msg.respond "Crimson Demon / 紅魔 = 150% <:zfire:883120156916744312> and 50% <:zdragon:902635658819018783>"
+      msg.respond "Crimson Demon / 紅魔 = 150% <:zfire:883120156916744312> and 50% <:zdragon:883119756528476161>"
       msg.respond " The only known monster to have this element is the G-Rank Crimson Fatalis."
   end
   
@@ -70,7 +70,7 @@ mhf!Emperors_Roar```"
   end
   
   command :Sound do |msg|
-      msg.respond "Sound / 響 = 100% <:zwater:883120128017965066> and 100% <:zdragon:902635658819018783>"
+      msg.respond "Sound / 響 = 100% <:zwater:883120128017965066> and 100% <:zdragon:883119756528476161>"
       msg.respond "There are currently no known monsters to have this Element and so far has been an exclusive Element for Weapons."
   end
   
@@ -84,7 +84,7 @@ mhf!Emperors_Roar```"
   end
   
   command :Emperors_Roar do |msg|
-      msg.respond "Emperor's Roar / 皇鳴 = 150% <:zthunder:883120020312440852> and 50% <:zdragon:902635658819018783>"
+      msg.respond "Emperor's Roar / 皇鳴 = 150% <:zthunder:883120020312440852> and 50% <:zdragon:883119756528476161>"
       msg.respond "The only known monster to have this element is White Fatalis."
   end
   end

@@ -11,7 +11,7 @@ module Bot::DiscordCommands
     **Rank:** HR1-4
     **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
     **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -45,7 +45,7 @@ module Bot::DiscordCommands
     **Rank:** HR5-Supremacy
     **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
     **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -102,7 +102,7 @@ module Bot::DiscordCommands
     **Rank:** G-Rank
     **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
     **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

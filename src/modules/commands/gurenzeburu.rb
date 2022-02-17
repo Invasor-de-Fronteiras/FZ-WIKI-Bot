@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Gurenzeburu / グレンゼブル
     **Title:** Barbarian Wyvern / 蛮竜
     **Rank:** HR1-4
-    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
     **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
@@ -43,7 +43,7 @@ module Bot::DiscordCommands
     **Name:** Gurenzeburu / グレンゼブル
     **Title:** Barbarian Wyvern / 蛮竜
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
     **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```
@@ -77,7 +77,7 @@ module Bot::DiscordCommands
     **Name:** Gurenzeburu / グレンゼブル
     **Title:** Barbarian Wyvern / 蛮竜
     **Rank:** G-Rank
-    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Paralysis <:zpara:883122888692076545> and Stun <:stun:883125464397398106>
     **Elements:** Water <:zwater:883120128017965066>
     **Weak Spots:** ```

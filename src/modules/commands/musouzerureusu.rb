@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Sparkling Zerureusu / 極み耀くゼルレウス
     **Title:** Bright Field Wyvern / 輝界竜
     **Rank:** Musou
-    **Weak to:** Dark <:zdragon:902635658819018783> <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dark <:zdragon:883119756528476161> <:zice:883119912283938816> and Dragon <:zdragon:883119756528476161>
     **Ailments:** (?)
     **Elements:** Light
     **Weak Spots:** ```

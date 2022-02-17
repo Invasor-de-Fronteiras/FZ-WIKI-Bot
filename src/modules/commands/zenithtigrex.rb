@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Zenith Tigrex / 辿異種ティガレックス
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** Zenith
-    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Bleeding <:bleed:883124203723825162>
     **Elements:** None
     **Weak Spots:** ```

@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** White Espinas / エスピナス希少種
     **Title:** White Thorn Wyvern / 棘白竜
     **Rank:** HR5
-    **Weak to:** Sound and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Sound and Dragon <:zdragon:883119756528476161>
     **Ailments:** Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Defense Down <:defdown:883125247551893514>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -55,7 +55,7 @@ module Bot::DiscordCommands
     **Name:** White Espinas / エスピナス希少種
     **Title:** White Thorn Wyvern / 棘白竜
     **Rank:** G-Rank
-    **Weak to:** Sound and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Sound and Dragon <:zdragon:883119756528476161>
     **Ailments:** Poison <:zpoison:883122917976719451>, Paralysis <:zpara:883122888692076545> and Defense Down <:defdown:883125247551893514>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```

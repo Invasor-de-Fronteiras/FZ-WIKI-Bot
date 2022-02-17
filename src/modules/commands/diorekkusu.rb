@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Diorekkusu / ディオレックス
     **Title:** Thunder Roaring Wyvern / 雷轟竜
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None 
     **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```
@@ -66,7 +66,7 @@ module Bot::DiscordCommands
     **Name:** Diorekkusu / ディオレックス
     **Title:** Thunder Roaring Wyvern / 雷轟竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None 
     **Elements:** Thunder <:zthunder:883120020312440852>
     **Weak Spots:** ```

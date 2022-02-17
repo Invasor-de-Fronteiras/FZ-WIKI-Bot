@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Tigrex / ティガレックス
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** HR1-4
-    **Weak to:** Thunder<:zthunder:883120020312440852> and Dragon<:zdragon:902635658819018783>
+    **Weak to:** Thunder<:zthunder:883120020312440852> and Dragon<:zdragon:883119756528476161>
     **Ailments:** Snowman<:zsnowman:883124811746926592>, Fireblight<:zfire:883120156916744312>, Waterblight<:zwater:883120128017965066> and Iceblight<:zice:883119912283938816>
     **Elements:** None
     **Weak Spots:** ```
@@ -43,7 +43,7 @@ module Bot::DiscordCommands
     **Name:** Tigrex / ティガレックス
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** HR5
-    **Weak to:** Thunder<:zthunder:883120020312440852> and Dragon<:zdragon:902635658819018783>
+    **Weak to:** Thunder<:zthunder:883120020312440852> and Dragon<:zdragon:883119756528476161>
     **Ailments:** Snowman<:zsnowman:883124811746926592>, Fireblight<:zfire:883120156916744312>, Waterblight<:zwater:883120128017965066> and Iceblight<:zice:883119912283938816>
     **Elements:** None
     **Weak Spots:** ```
@@ -77,7 +77,7 @@ module Bot::DiscordCommands
     **Name:** Tigrex / ティガレックス
     **Title:** Roaring Wyvern / 轟竜
     **Rank:** G-Rank
-    **Weak to:** Thunder<:zthunder:883120020312440852> and Dragon<:zdragon:902635658819018783>
+    **Weak to:** Thunder<:zthunder:883120020312440852> and Dragon<:zdragon:883119756528476161>
     **Ailments:** Snowman<:zsnowman:883124811746926592>, Fireblight<:zfire:883120156916744312>, Waterblight<:zwater:883120128017965066> and Iceblight<:zice:883119912283938816>
     **Elements:** None
     **Weak Spots:** ```

@@ -10,8 +10,8 @@ module Bot::DiscordCommands
     **Title:** Violent Saw Wyvern / 暴鋸竜
     **Rank:** Zenith
     **Weak to:** Thunder<:zthunder:883120020312440852> and Fire<:zfire:883120156916744312>
-    **Ailments:** Extreme Iceblight<:zice:883119912283938816> and Dragonblight<:zdragon:902635658819018783>
-    **Elements:** Ice<:zice:883119912283938816> and Dragon<:zdragon:902635658819018783>
+    **Ailments:** Extreme Iceblight<:zice:883119912283938816> and Dragonblight<:zdragon:883119756528476161>
+    **Elements:** Ice<:zice:883119912283938816> and Dragon<:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

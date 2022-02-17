@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Crimson Fatalis / ミラボレアス（紅龍）
     **Title:** Crimson Dragon / 紅龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:883120156916744312>
+    **Elements:** Dragon <:zdragon:883119756528476161>, Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Crimson Fatalis / ミラボレアス（紅龍）
     **Title:** Crimson Dragon / 紅龍
     **Rank:** G-Rank-Conquest
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:883120156916744312>
+    **Elements:** Dragon <:zdragon:883119756528476161>, Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

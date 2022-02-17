@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Azure Rathalos / リオレウス亜種
     **Title:** Azure Fire Wyvern / 蒼火竜
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Azure Rathalos / リオレウス亜種
     **Title:** Azure Fire Wyvern / 蒼火竜
     **Rank:** HR5
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -53,7 +53,7 @@ module Bot::DiscordCommands
     **Name:** Azure Rathalos / リオレウス亜種
     **Title:** Azure Fire Wyvern / 蒼火竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```

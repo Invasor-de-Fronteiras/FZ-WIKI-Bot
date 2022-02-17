@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Aruganosu / アルガノス
     **Title:** Silver Piscine Wyvern / 白銀魚竜
     **Rank:** HR5-Goushu
-    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Paralysis <:zpara:883122888692076545>
     **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```

@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Basarios / バサルモス
     **Title:** Rock Wyvern / 岩竜
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:883120128017965066>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Water <:zwater:883120128017965066>
     **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Basarios / バサルモス
     **Title:** Rock Wyvern / 岩竜
     **Rank:** HR5
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:883120128017965066>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Water <:zwater:883120128017965066>
     **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -53,7 +53,7 @@ module Bot::DiscordCommands
     **Name:** Basarios / バサルモス
     **Title:** Rock Wyvern / 岩竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Water <:zwater:883120128017965066>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Water <:zwater:883120128017965066>
     **Ailments:** Poison <:zpoison:883122917976719451> and Sleep <:zsleep:883122848888143892>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```

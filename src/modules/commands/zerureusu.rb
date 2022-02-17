@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Zerureusu / ゼルレウス
     **Title:** Bright Field Wyvern / 輝界竜
     **Rank:** HR5-Goushu
-    **Weak to:** Darkness and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Darkness and Dragon <:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** Light
     **Weak Spots:** ```
@@ -66,7 +66,7 @@ module Bot::DiscordCommands
     **Name:** Zerureusu / ゼルレウス
     **Title:** Bright Field Wyvern / 輝界竜
     **Rank:** G-Rank
-    **Weak to:** Darkness and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Darkness and Dragon <:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** Light
     **Weak Spots:** ```

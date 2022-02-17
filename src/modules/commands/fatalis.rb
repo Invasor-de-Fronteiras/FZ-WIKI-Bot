@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Fatalis / ミラボレアス
     **Title:** Black Dragon / 黒龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Fire <:zfire:883120156916744312>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:883120156916744312>
+    **Elements:** Dragon <:zdragon:883119756528476161>, Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -32,9 +32,9 @@ module Bot::DiscordCommands
     **Name:** Fatalis / ミラボレアス
     **Title:** Black Dragon / 黒龍
     **Rank:** G-Rank-Conquest
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Fire <:zfire:883120156916744312>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>, Fire <:zfire:883120156916744312> and Black Flame
+    **Elements:** Dragon <:zdragon:883119756528476161>, Fire <:zfire:883120156916744312> and Black Flame
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

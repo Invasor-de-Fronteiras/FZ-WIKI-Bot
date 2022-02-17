@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Zenith Harudomerugu / 辿異種ハルドメルグ
     **Title:** Silver Controlling Dragon / 司銀龍
     **Rank:** Zenith
-    **Weak to:** Black Flame and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Black Flame and Dragon <:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

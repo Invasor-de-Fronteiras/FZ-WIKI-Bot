@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Lao-Shan Lung / ラオシャンロン
     **Title:** Old Mountain Dragon / 老山龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -31,9 +31,9 @@ module Bot::DiscordCommands
     **Name:** Lao-Shan Lung / ラオシャンロン
     **Title:** Old Mountain Dragon / 老山龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----

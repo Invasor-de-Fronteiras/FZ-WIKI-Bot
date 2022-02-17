@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Guanzorumu / グァンゾルム
     **Title:** Emperor Conqueror Dragon / 帝征龍
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** None 
-    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -66,9 +66,9 @@ module Bot::DiscordCommands
     **Name:** Guanzorumu / グァンゾルム
     **Title:** Emperor Conqueror Dragon / 帝征龍
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** None 
-    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Yamatsukami / ヤマツカミ
     **Title:** Floating Mountain Dragon / 浮岳龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** Paralysis <:zpara:883122888692076545> (via Great Thunderbug)
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
     **Name:** Yamatsukami / ヤマツカミ
     **Title:** Floating Mountain Dragon / 浮岳龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** Paralysis <:zpara:883122888692076545> (via Great Thunderbug)
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```

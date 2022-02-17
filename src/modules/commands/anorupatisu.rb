@@ -11,7 +11,7 @@ module Bot::DiscordCommands
     **Rank:** G-Rank
     **Weak to:** Thunder <:zthunder:883120020312440852> and Fire <:zfire:883120156916744312>
     **Ailments:** Snowman <:zsnowman:883124811746926592> and Stun <:stun:883125464397398106>
-    **Elements:** Ice <:zice:883119912283938816> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Ice <:zice:883119912283938816> and Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

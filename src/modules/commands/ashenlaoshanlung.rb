@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Lao-Shan Lung / ラオシャンロン
     **Title:** Old Mountain Dragon / 老山龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Fire <:zfire:883120156916744312>
     **Ailments:** None
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O  
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- ----- 

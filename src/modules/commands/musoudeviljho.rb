@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Starving Deviljho / 極み喰らうイビルジョー
     **Title:** Terrifying Violent Wyvern / 恐暴竜
     **Rank:** Musou
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
-    **Ailments:** Defense Down <:defdown:883125247551893514> and Dragonblight <:zdragon:902635658819018783>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Thunder <:zthunder:883120020312440852>
+    **Ailments:** Defense Down <:defdown:883125247551893514> and Dragonblight <:zdragon:883119756528476161>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

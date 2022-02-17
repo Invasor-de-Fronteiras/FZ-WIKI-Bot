@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Disufiroa / ディスフィロア
     **Title:** Frozen Seraphim Dragon / 熾凍龍
     **Rank:** G-Rank-Conquest
-    **Weak to:** Fire <:zfire:883120156916744312> on Tail, Water <:zwater:883120128017965066>, Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Fire <:zfire:883120156916744312> on Tail, Water <:zwater:883120128017965066>, Thunder <:zthunder:883120020312440852> and Dragon <:zdragon:883119756528476161>
     **Ailments:** None
-    **Elements:** Okiko (Fire <:zfire:883120156916744312>, Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>)
+    **Elements:** Okiko (Fire <:zfire:883120156916744312>, Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>)
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

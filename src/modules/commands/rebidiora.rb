@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Rebidiora / レビディオラ
     **Title:** Thunder Pole Dragon / 雷極龍
     **Rank:** G-Rank
-    **Weak to:** Water <:zwater:883120128017965066>, Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Water <:zwater:883120128017965066>, Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** Magnet <:zmagnet:883123524229820487>
-    **Elements:** Thunder Pole <:zthunder:883120020312440852> <:zdragon:902635658819018783>
+    **Elements:** Thunder Pole <:zthunder:883120020312440852> <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

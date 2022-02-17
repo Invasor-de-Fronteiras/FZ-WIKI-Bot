@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Odibatorasu / オディバトラス
     **Title:** Cannon Rock Wyvern / 弩岩竜
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Thunder <:zthunder:883120020312440852>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```
@@ -43,7 +43,7 @@ module Bot::DiscordCommands
     **Name:** Odibatorasu / オディバトラス
     **Title:** Cannon Rock Wyvern / 弩岩竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Thunder <:zthunder:883120020312440852>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Thunder <:zthunder:883120020312440852>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

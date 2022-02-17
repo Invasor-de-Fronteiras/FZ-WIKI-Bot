@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Duremudira / ドゥレムディラ
     **Title:** Guardian of Sky Corridor / 天廊の番人
     **Rank:** Road and Tower
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Fire <:zfire:883120156916744312>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Fire <:zfire:883120156916744312>
     **Ailments:** Frostbite <:frost:883123635764744212> and Corrupted Poison <:durepoison:883123342914236446>
     **Elements:** Ice <:zice:883119912283938816>
     **Weak Spots:** ```

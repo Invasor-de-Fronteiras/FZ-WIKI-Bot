@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Dyuragaua / デュラガウア
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** HR1-4
-    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
+    **Weak to:** Dragon<:zdragon:883119756528476161>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
     **Ailments:** Frostbite<:frost:883123635764744212>, Sleep<:zsleep:883122848888143892> and Stun<:stun:883125464397398106>
     **Elements:** Ice<:zice:883119912283938816>
     **Weak Spots:** ```
@@ -55,7 +55,7 @@ module Bot::DiscordCommands
     **Name:** Dyuragaua / デュラガウア
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** HR5
-    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
+    **Weak to:** Dragon<:zdragon:883119756528476161>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
     **Ailments:** Frostbite<:frost:883123635764744212>, Sleep<:zsleep:883122848888143892> and Stun<:stun:883125464397398106>
     **Elements:** Ice<:zice:883119912283938816>
     **Weak Spots:** ```
@@ -101,7 +101,7 @@ module Bot::DiscordCommands
     **Name:** Dyuragaua / デュラガウア
     **Title:** Ice Fox Wyvern / 氷狐竜
     **Rank:** G-Rank
-    **Weak to:** Dragon<:zdragon:902635658819018783>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
+    **Weak to:** Dragon<:zdragon:883119756528476161>, Fire<:zfire:883120156916744312> and Thunder<:zthunder:883120020312440852>
     **Ailments:** Frostbite<:frost:883123635764744212>, Sleep<:zsleep:883122848888143892> and Stun<:stun:883125464397398106>
     **Elements:** Ice<:zice:883119912283938816>
     **Weak Spots:** ```

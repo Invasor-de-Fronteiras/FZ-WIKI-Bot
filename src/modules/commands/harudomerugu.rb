@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Harudomerugu / ハルドメルグ
     **Title:** Silver Controlling Dragon / 司銀龍
     **Rank:** HR5-Goushu
-    **Weak to:** Black Flame <:zfire:883120156916744312><:zdragon:902635658819018783>
+    **Weak to:** Black Flame <:zfire:883120156916744312><:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```
@@ -43,7 +43,7 @@ module Bot::DiscordCommands
     **Name:** Harudomerugu / ハルドメルグ
     **Title:** Silver Controlling Dragon / 司銀龍
     **Rank:** G-Rank
-    **Weak to:** Black Flame <:zfire:883120156916744312><:zdragon:902635658819018783>
+    **Weak to:** Black Flame <:zfire:883120156916744312><:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** None
     **Weak Spots:** ```

@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Lunastra / ナナ・テスカトリ
     **Title:** Flame Queen Dragon / 炎妃龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Lunastra / ナナ・テスカトリ
     **Title:** Flame Queen Dragon / 炎妃龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Lunastra / ナナ・テスカトリ
     **Title:** Flame Queen Dragon / 炎妃龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816>
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816>
     **Ailments:** None
-    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:902635658819018783>
+    **Elements:** Fire <:zfire:883120156916744312> and Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Rathalos / リオレウス
     **Title:** Fire Wyvern / 火竜
     **Rank:** HR1-4
-    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Rathalos / リオレウス
     **Title:** Fire Wyvern / 火竜
     **Rank:** HR5
-    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -53,7 +53,7 @@ module Bot::DiscordCommands
     **Name:** Rathalos / リオレウス
     **Title:** Fire Wyvern / 火竜
     **Rank:** G-Rank
-    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Ice <:zice:883119912283938816>, Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Stun <:stun:883125464397398106> and Poison <:zpoison:883122917976719451>
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```

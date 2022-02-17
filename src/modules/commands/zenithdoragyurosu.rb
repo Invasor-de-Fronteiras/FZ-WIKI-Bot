@@ -10,8 +10,8 @@ module Bot::DiscordCommands
     **Title:** Dark Thunder Wyvern / 冥雷竜
     **Rank:** Zenith
     **Weak to:** Fire <:zfire:883120156916744312> and Water <:zwater:883120128017965066>
-    **Ailments:** Extreme Dragonblight <:zdragon:902635658819018783>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Ailments:** Extreme Dragonblight <:zdragon:883119756528476161>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

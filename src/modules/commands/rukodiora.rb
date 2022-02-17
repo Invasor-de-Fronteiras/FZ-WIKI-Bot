@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Rukodiora / ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816> (Rage Mode)
     **Ailments:** Magnet <:zmagnet:883123524229820487>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Rukodiora / ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816> (Rage Mode)
     **Ailments:** Magnet <:zmagnet:883123524229820487>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Rukodiora / ルコディオラ
     **Title:** Magnetic Dragon / 極龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783> and Ice <:zice:883119912283938816> (Rage Mode)
+    **Weak to:** Dragon <:zdragon:883119756528476161> and Ice <:zice:883119912283938816> (Rage Mode)
     **Ailments:** Magnet <:zmagnet:883123524229820487>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

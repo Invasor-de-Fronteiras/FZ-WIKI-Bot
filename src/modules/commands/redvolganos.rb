@@ -9,7 +9,7 @@ module Bot::DiscordCommands
     **Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種
     **Title:** Crimson Lava Wyvern / 紅溶岩竜
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -31,7 +31,7 @@ module Bot::DiscordCommands
     **Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種
     **Title:** Crimson Lava Wyvern / 紅溶岩竜
     **Rank:** HR5
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```
@@ -53,7 +53,7 @@ module Bot::DiscordCommands
     **Name:** Red Lavasioth/ Red Volganos / ヴォルガノス亜種
     **Title:** Crimson Lava Wyvern / 紅溶岩竜
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** None
     **Elements:** Fire <:zfire:883120156916744312>
     **Weak Spots:** ```

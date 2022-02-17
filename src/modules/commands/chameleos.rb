@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Chameleos / オオナズチ
     **Title:** Mist Dragon / 霞龍
     **Rank:** HR1-4
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** Poison <:zpoison:883122917976719451>, Fatigue, Defense Down <:defdown:883125247551893514>  and Vocal Cord Paralysis <:vocal:883123479459815445>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Chameleos / オオナズチ
     **Title:** Mist Dragon / 霞龍
     **Rank:** HR5-Goushu
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** Poison <:zpoison:883122917976719451>, Fatigue, Defense Down <:defdown:883125247551893514>  and Vocal Cord Paralysis <:vocal:883123479459815445>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -77,9 +77,9 @@ module Bot::DiscordCommands
     **Name:** Chameleos / オオナズチ
     **Title:** Mist Dragon / 霞龍
     **Rank:** G-Rank
-    **Weak to:** Dragon <:zdragon:902635658819018783>
+    **Weak to:** Dragon <:zdragon:883119756528476161>
     **Ailments:** Poison <:zpoison:883122917976719451>, Fatigue, Defense Down <:defdown:883125247551893514> and Vocal Cord Paralysis <:vocal:883123479459815445>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O

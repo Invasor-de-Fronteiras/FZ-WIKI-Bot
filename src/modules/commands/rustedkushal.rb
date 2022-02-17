@@ -9,9 +9,9 @@ module Bot::DiscordCommands
     **Name:** Rusted Kushala Daora / 錆びたクシャルダオラ
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR1-4
-    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Iceblight <:zice:883119912283938816> and Defense Down <:defdown:883125247551893514>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
@@ -43,9 +43,9 @@ module Bot::DiscordCommands
     **Name:** Rusted Kushala Daora / 錆びたクシャルダオラ
     **Title:** Steel Dragon / 鋼龍
     **Rank:** HR5-Goushu
-    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:902635658819018783>
+    **Weak to:** Water <:zwater:883120128017965066> and Dragon <:zdragon:883119756528476161>
     **Ailments:** Iceblight <:zice:883119912283938816> and Defense Down <:defdown:883125247551893514>
-    **Elements:** Dragon <:zdragon:902635658819018783>
+    **Elements:** Dragon <:zdragon:883119756528476161>
     **Weak Spots:** ```
     \n                                Standard
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O
