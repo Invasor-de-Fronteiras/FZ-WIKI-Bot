@@ -23,6 +23,8 @@ Musou_ at the beginning of the monster's name will present its values ​​for 
 Use mhf!Help to see this list.
             
 Use mhf!Elements to see the list of elements you can search.
+
+Use mhf!Zenith_Sets to see some good Zenith mix sets, same to mhf!HR_Sets.
             
 Please report any error or problem to Doragyurosu#5957 or Malckyor#8043.```"
         end          
