@@ -2,7 +2,7 @@ module Bot::DiscordCommands
     module Monsters
         extend Discordrb::Commands::CommandContainer
           command(
-            :ping,
+            :Ping,
             bucket: :delay10,
             description: "Responds with response time",
             useage: "ping"
@@ -39,7 +39,7 @@ Qualquer erro ou problema relatar a Malckyor#8043 ou hantzu#8273.
           ```"
         end
          command :Monsters do |msg|
-          msg.respond "Lista completa com todos os monstros grandes, lembre-se de usar os sufixos **_HR** **_G** **Musou_** e **Zenith_** para encontrá-los! 
+          msg.respond "Complete list with all big monsters, remember to use the suffixes **_HR** **_G** **Musou_** and **Zenith_** to find them all! 
 ```mhf!Abiorugu
 mhf!Akantor
 mhf!Amatsu
