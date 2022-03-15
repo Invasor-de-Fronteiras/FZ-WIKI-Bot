@@ -11,18 +11,12 @@ module Bot::DiscordEvents
           event.message.react "🏳️‍🌈"
         end
 
-        message(contains: /(^|\s)hantzu($|\s)/i, bucket: [:delay1000]) do |event|
+        message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🧙‍♂️"
         end
         
-        message(contains: /(^|\s)corrompeu($|\s)/i, bucket: [:delay1000]) do |event|
+        message(contains: /(^|\s)corrompeu($|\s)/i, bucket: :delay1000) do |event|
           event.message.respond "#{event.user.name} bem vindo a tropa dos corrompedores de save 🤡🤡🤡"
         end
-
-        message(contains: /(^|\s)frontier($|\s)/i, bucket: [:delay1000]) do |event|
-          event.message.react "✨"
-        end
-
-      end
-      
+    end    
 end
