@@ -32,7 +32,7 @@ module Bot::DiscordEvents
         end
 
         message(contains: /(^|\s)Malck($|\s)/i, bucket: :delay1000) do |event|
-          event.message.react "👺 "
+          event.message.react "👺"
         end
 
         message(contains: /(^|\s)Naga($|\s)/i, bucket: :delay1000) do |event|

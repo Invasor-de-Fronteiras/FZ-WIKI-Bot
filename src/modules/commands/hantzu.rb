@@ -5,7 +5,7 @@ module Bot::DiscordCommands
       command :Hantzu do |msg|
 
       msg.respond "Can i feed my Halk with my tears?
-                                  v 0.0.0.38"
+                                  v 0.0.0.39"
 
     end
   end
