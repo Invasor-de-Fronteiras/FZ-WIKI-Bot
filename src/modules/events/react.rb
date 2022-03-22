@@ -8,7 +8,7 @@ module Bot::DiscordEvents
         end
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
-          event.message.respond "I wanna know my creator 🧙🏼"
+          event.message.respond "Did you mean Gatekeepzu?"
         end
         
         message(contains: /(^|\s)corrompeu($|\s)/i, bucket: :delay1000) do |event|
@@ -38,7 +38,9 @@ module Bot::DiscordEvents
         message(contains: /(^|\s)Matahashi($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🐐"
         end
-
+        message(contains: /(^|\s)dion($|\s)/i, bucket: :delay1000) do |event|
+          event.message.react "🍕"
+        end
 
     end    
 end
