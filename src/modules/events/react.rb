@@ -8,7 +8,7 @@ module Bot::DiscordEvents
         end
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
-          event.message.respond "Did you mean Gatekeepzu?"
+          event.message.respond "Did you mean Gatekeeptzu?"
         end
         
         message(contains: /(^|\s)corrompeu($|\s)/i, bucket: :delay1000) do |event|
