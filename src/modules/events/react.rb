@@ -42,6 +42,15 @@ module Bot::DiscordEvents
           event.message.react "🍕"
         end
 
+        message(contains: /(^|\s)dravise($|\s)/i, bucket: :delay1000) do |event|
+          event.message.react "🤡"
+        end
+
+        message(contains: /(^|\s)cheat shop($|\s)/i, bucket: :delay1000) do |event|
+          event.message.react "🤡"
+        end
+
+
     end    
 end
 
