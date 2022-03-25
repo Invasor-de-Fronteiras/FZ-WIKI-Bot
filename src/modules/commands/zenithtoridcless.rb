@@ -35,6 +35,7 @@ module Bot::DiscordCommands
     \n   Tail Armor    35    35     35      0      20     0    20     0     0
     \n   Tail          30    20     15      0      10     0     5     0     0
     ```"
+    puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
       end
     end
 end

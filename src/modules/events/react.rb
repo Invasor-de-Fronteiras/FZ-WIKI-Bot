@@ -5,6 +5,7 @@ module Bot::DiscordEvents
 
         message(contains: /(^|\s)frontier($|\s)/i, bucket: :delay10000) do |event|
           event.message.react "✨"
+          puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username} in the reign of the King #{event.server.owner.name}"
         end
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
@@ -43,7 +44,7 @@ module Bot::DiscordEvents
         end
 
         message(contains: /(^|\s)dravise($|\s)/i, bucket: :delay1000) do |event|
-          event.message.react "🤡"
+          event.message.react "🐉"
         end
 
         message(contains: /(^|\s)cheat shop($|\s)/i, bucket: :delay1000) do |event|

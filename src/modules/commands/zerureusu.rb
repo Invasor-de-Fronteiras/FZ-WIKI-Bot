@@ -58,6 +58,7 @@ module Bot::DiscordCommands
     \n   Wings         25    25     15      0      20     0    10     5     0  
     \n   Legs          40    30     25      0      10     0    30    15     0  
     ```"
+    puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
       end
       command :Zerureusu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Zerureusu_Render_003.png/revision/latest?cb=20140404222842"
@@ -127,6 +128,7 @@ module Bot::DiscordCommands
     \n   Wings         25    25     50      0      20     0    40     5     0  
     \n   Legs          40    30     25      0      10     0    30    15     0     
     ```"
+    puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
       end
     end
 end

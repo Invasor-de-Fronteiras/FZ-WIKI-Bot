@@ -1,7 +1,7 @@
 module Bot::DiscordCommands
   module Monsters
     extend Discordrb::Commands::CommandContainer
-    command :Elements do |msg|
+    command :Elements_List do |msg|
       msg.respond "```
 mhf!Blaze
 mhf!Light

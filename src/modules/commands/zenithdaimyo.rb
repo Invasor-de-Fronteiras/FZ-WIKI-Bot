@@ -96,6 +96,7 @@ module Bot::DiscordCommands
     \n   Claw          15    25     30     40      10    10     0    15     0  
     \n   Arms           5    15     15     15      10    10     0    15     0    
     ```"
+    puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
       end
     end
 end
