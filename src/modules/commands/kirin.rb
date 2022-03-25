@@ -33,16 +33,7 @@ module Bot::DiscordCommands
     \n   Body          20    20     15     10      10     0     5    10     0
     \n   Horn          60    50     50     20      20     0     5    15     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

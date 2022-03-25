@@ -41,16 +41,7 @@ module Bot::DiscordCommands
     \n   Legs          25    25      5      5      40    10     0     0     0
     \n   Tail          45    30      5     15      20    10     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Nono_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6d/FrontierGen-HC_Nono_Orugaron_Render_001.png/revision/latest?cb=20140810165236"
@@ -91,16 +82,7 @@ end
     \n   Legs          25    25      5      5      30     5     0   -20     0
     \n   Tail          35    30      5     10      20     5     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Nono_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0b/FrontierGen-Nono_Orugaron_Render_002.png/revision/latest?cb=20140906044820"
@@ -159,16 +141,7 @@ end
     \n   Legs          15    15      5     90       0     0     0   -30     0
     \n   Tail          20    10     15     20      10    10     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

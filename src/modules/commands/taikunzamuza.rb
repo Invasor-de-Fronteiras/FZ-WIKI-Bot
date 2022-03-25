@@ -43,16 +43,7 @@ module Bot::DiscordCommands
     \n   R.Claw        60    60     60      5      30     0     0    10     0  
     \n   L.Claw        70    55     60      5      30     0     0    10     0  
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Taikun_Zamuza_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/11/FrontierGen-Taikun_Zamuza_Render_002.png/revision/latest?cb=20140821094339"
@@ -95,16 +86,7 @@ end
     \n   R.Claw        45    55     35      5      20     0     0     5     0  
     \n   L.Claw        55    55     40      5      20     0     0     5     0  
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

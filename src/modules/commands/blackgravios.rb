@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Wings         20    20     20      0      20     5     0     0     0
     \n   Legs          15    25     20      0      30     5     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Black_Gravios_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d5/FrontierGen-HC_Black_Gravios_Render_001.png/revision/latest?cb=20140817142650"
@@ -79,16 +70,7 @@ end
     \n   Wings         30    30     30      0      20     5     0     0     0
     \n   Legs          25    35     30      0      30     5     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Black_Gravios_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/MH4-Black_Gravios_Render_001.png/revision/latest?cb=20140105235345"
@@ -123,16 +105,7 @@ end
     \n   Wings         20    20     20      0      20     5     0     0     0
     \n   Legs          15    25     20      0      30     5     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

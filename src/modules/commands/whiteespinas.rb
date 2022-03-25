@@ -47,16 +47,7 @@ module Bot::DiscordCommands
     \n   Wings         45    40     25      0      10     5    25    15     0  
     \n   Legs          30    35     35      0      15     5    10    10     0 
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :White_Espinas_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/aa/FrontierGen-HC_Espinas_Rare_Species_Render_001.png/revision/latest?cb=20140718113503"
@@ -103,16 +94,7 @@ end
     \n   Wings         40    35     15      0      10     5    15     5     0  
     \n   Legs          30    30     30      0       5     5     5     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

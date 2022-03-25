@@ -58,16 +58,7 @@ module Bot::DiscordCommands
     \n   Tail          35    30     30      0       5     5     0     5     0
     \n   Spines        55    60     45      0       5     5     0     5     0
     ```"
-    puts ">
 
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-    ╠══════════════════════════════════════════════════════════════════════╣
-    ║ by #{event.author.username}                                          ║
-    ║ in the reign of the King #{event.server.owner.name}                  ║
-    ╚══════════════════════════════════════════════════════════════════════╝
-    
-    <"
       end
       command :Abiorugu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-HC_Abiorugu_Render_001.png/revision/latest?cb=20150722094608"
@@ -125,16 +116,7 @@ module Bot::DiscordCommands
     \n   Tail          35    30     30      0       5     5     0     5     0
     \n   Spines        55    60     45      0       5     5     0     5     0
     ```"
-    puts ">
 
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-    ╠══════════════════════════════════════════════════════════════════════╣
-    ║ by #{event.author.username}                                          ║
-    ║ in the reign of the King #{event.server.owner.name}                  ║
-    ╚══════════════════════════════════════════════════════════════════════╝
-    
-    <"
       end
       command :Abiorugu_G do |msg|
       # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8b/FrontierGen-Abiorugu_Render_004.png/revision/latest/scale-to-width-down/185?cb=20140121152414"
@@ -192,16 +174,7 @@ module Bot::DiscordCommands
     \n   Tail          30    25     25      0       5     5     0     5     0
     \n   Spines        50    55     40      0       5     5     0     5     0
     ```"
-    puts ">
 
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-    ╠══════════════════════════════════════════════════════════════════════╣
-    ║ by #{event.author.username}                                          ║
-    ║ in the reign of the King #{event.server.owner.name}                  ║
-    ╚══════════════════════════════════════════════════════════════════════╝
-    
-    <"
     end
 
     command :Abiorugu_G do |msg|
@@ -260,16 +233,7 @@ module Bot::DiscordCommands
     \n   Tail          30    25     25      0       5     5     0     5     0
     \n   Spines        50    55     40      0       5     5     0     5     0
     ```"
-    puts ">
 
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-    ╠══════════════════════════════════════════════════════════════════════╣
-    ║ by #{event.author.username}                                          ║
-    ║ in the reign of the King #{event.server.owner.name}                  ║
-    ╚══════════════════════════════════════════════════════════════════════╝
-    
-    <"
     end
     end
 end

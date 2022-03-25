@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Hindlegs      24    24     24     10       5     5     0     0     0  
     \n   Tail          28    28     21     15       0    10     5     0     0    
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Barioth_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/FrontierGen-Barioth_Render_001.png/revision/latest?cb=20151208190134"
@@ -55,16 +46,7 @@ end
     \n   Hindlegs      24    24     24     10       5     5     0     0     0  
     \n   Tail          28    28     21     15       0    10     5     0     0    
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

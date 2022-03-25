@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Hindlegs      30    35     25      5       0    20    10     0     0
     \n   Wings         20    15     20      5       0    20    10     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Rusted_Kushal_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20140906152602"
@@ -79,16 +70,7 @@ end
     \n   Hindlegs      20    25     15      5       0   -15   -20     0     0
     \n   Wings         15    10     15      0       0    15    10     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

@@ -32,16 +32,7 @@ module Bot::DiscordCommands
     \n   R.Claw        30    25     25      5      20     0     0    15     0
     \n   L.Claw        30    25     25      5      20     0     0    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
       end
     end
 end

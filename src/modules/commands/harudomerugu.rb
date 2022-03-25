@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Hindlegs      30    30     25     30       0    15    30     0     0
     \n   R.Forelegs    50    50     40     40       0    15    45     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Harudomerugu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Harudomerugu_Render_003.png/revision/latest?cb=20200319135311"
@@ -79,16 +70,7 @@ end
     \n   Hindlegs      30    30     25     30       0    15    30     0     0
     \n   R.Forelegs    50    50     40     40       0    15    45     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Tail          30    30     25     20      20    20    20    20     0
     \n   Tail          30    30     25     20      20    20    20    20     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Violent_Raviente do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Violent_Laviente_Render_001.png/revision/latest?cb=20140731004101"
@@ -79,16 +70,7 @@ end
     \n   Tail          30    30     25     20      20    20    20    20     0
     \n   Tail          30    30     25     20      20    20    20    20     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Berserk_Raviente do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/FrontierGen-Berserk_Laviente_Render_001.png/revision/latest?cb=20151208191613"
@@ -169,16 +151,7 @@ end
     \n   Tail          30    30     25     15      15    15    15    15     0  
     \n   Tail          10    10     10      0       0     0     0     0     0 
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Musou_Raviente do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/17/FrontierGen-Berserk_Laviente_Render_002.png/revision/latest?cb=20151208192235"
@@ -259,16 +232,7 @@ end
     \n   Tail          15    15     10     15      15    15    15    15     0  
     \n   Tail          10    10     10      0       0     0     0     0     0  
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

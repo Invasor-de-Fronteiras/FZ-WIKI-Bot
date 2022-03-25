@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Wings         40    55     45      0      10    15    15    20     0
     \n   Legs          30    35     35      0       5    15    15    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Diablos_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2d/FrontierGen-HC_Diablos_Render_001_%28Edited%29.png/revision/latest?cb=20140114190237"
@@ -55,16 +46,7 @@ end
     \n   Wings         40    15     30      0      -5     0    -5     5     0
     \n   Legs          30    35     30     10      -5     0     0     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Diablos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/Diablos.png/revision/latest?cb=20091205202122"
@@ -87,16 +69,7 @@ end
     \n   Wings         40    45     35      0      10    15    15    10     0
     \n   Legs          30    35     25      0       5    15    10     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

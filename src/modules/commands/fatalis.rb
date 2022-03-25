@@ -24,16 +24,7 @@ module Bot::DiscordCommands
     \n   Wings         30    25     35     15       5     5    10    10     0
     \n   Body/Arms     35    35     30     15       5     5    20    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Fatalis_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Conquest_War_Fatalis_Custom_Render_001.png/revision/latest?cb=20210520021542"
@@ -91,16 +82,7 @@ end
     \n   Wings         40    40     50      0       0    15     0    10     0  
     \n   Body/Arms     30    50     30      0      30    15     0    10     0  
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

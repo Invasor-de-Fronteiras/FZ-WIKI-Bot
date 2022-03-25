@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Wings         60    50     50     10       0    30     0    20     0
     \n   Legs          40    45     50     20       0    20     0    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Monoblos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/81/FrontierGen-HC_Monoblos_Render_001.png/revision/latest?cb=20140112104905"
@@ -55,16 +46,7 @@ end
     \n   Wings         30    25     30     10       0    30     0    20     0
     \n   Legs          25    20     30     20       0    20     0    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

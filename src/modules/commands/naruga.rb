@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Tail          32    32     22      5       0    15    10     0     0
     \n   Tail Tip      20    20     25     25       5    30    10    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Nargacuga_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Nargacuga_Render_001.png/revision/latest?cb=20160415160532"
@@ -79,16 +70,7 @@ end
     \n   Tail          26    25     18      5       0    15    10     0     0
     \n   Tail Tip      18    18     22     25       5    30    10    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

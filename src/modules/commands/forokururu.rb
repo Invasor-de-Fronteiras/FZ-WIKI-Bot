@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Back          20    25     15      0      10     0     0     5     0
     \n   Tail          50    35     40      0       5    25     0    15     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Forokururu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-Forokururu_Render_002.png/revision/latest?cb=20140423210453"
@@ -55,16 +46,7 @@ end
     \n   Back          20    25     15      0      10     0     0     5     0
     \n   Tail          50    35     40      0       5    25     0    15     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

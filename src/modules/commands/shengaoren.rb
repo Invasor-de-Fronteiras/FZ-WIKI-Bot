@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Arms          20    20     20     25       5    15     0     5     0
     \n  Core/Inside    80    90     80     30       5    20   100     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Shen_Gaoren_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
@@ -55,16 +46,7 @@ end
     \n   Arms          30    20     15     10       5   -30    10     5     0
     \n  Core/Inside    60    60     70     10       5     0    20     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

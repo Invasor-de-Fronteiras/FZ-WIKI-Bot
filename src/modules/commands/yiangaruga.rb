@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Wing          10    40     10      0      20     0     5    10     0
     \n   Leg           25    25     25      0      15     0     5    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Yian_Garuga_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/db/FrontierGen-HC_Yian_Garuga_Render_001.png/revision/latest?cb=20140902020152"
@@ -55,16 +46,7 @@ end
     \n   Wing          25    25     10      0       0     0     0     0     0
     \n   Leg           20    20     20      0       0     0     0     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Yian_Garuga_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/2ndGen-Yian_Garuga_Render_002.png/revision/latest?cb=20150303013931"
@@ -87,16 +69,7 @@ end
     \n   Wing          10    40     10      0      30     0     5    10     0
     \n   Leg           35    35     35      0      15     0     5    10     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

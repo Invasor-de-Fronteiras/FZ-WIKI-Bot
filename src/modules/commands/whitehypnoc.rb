@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Wings         25    25     25     10       5     0     0    15     0
     \n   Legs          25    25     30      5       0     0     0     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :White_Hypnoc_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-HC_Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20151208205956"
@@ -55,16 +46,7 @@ end
     \n   Wings         15    15     25     10       5     0     0    20     0
     \n   Legs          15    15     30      5       0     0     0     5     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

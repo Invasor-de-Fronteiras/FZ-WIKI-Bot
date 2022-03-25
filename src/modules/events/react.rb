@@ -19,6 +19,16 @@ module Bot::DiscordEvents
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
           event.message.respond "Did you mean Gatekeeptzu?"
+          puts ">
+
+          ╔══════════════════════════════════════════════════════════════════════╗
+          ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+          ╠══════════════════════════════════════════════════════════════════════╣
+          ║ by #{event.author.username}                                          ║
+          ║ in the reign of the King #{event.server.owner.name}                  ║
+          ╚══════════════════════════════════════════════════════════════════════╝
+          
+          <"
         end
         
         message(contains: /(^|\s)corrompeu($|\s)/i, bucket: :delay1000) do |event|
@@ -43,6 +53,16 @@ module Bot::DiscordEvents
 
         message(contains: /(^|\s)Naga($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "💖"
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
         end
 
         message(contains: /(^|\s)Matahashi($|\s)/i, bucket: :delay1000) do |event|

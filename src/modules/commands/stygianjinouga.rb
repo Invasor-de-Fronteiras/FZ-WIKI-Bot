@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Top of Legs   24    24     22     10      20    15     0    20     0
     \n   Tail          20    23     10      5      25    25     0    17     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Stygian_Jinouga_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/42/FrontierGen-Stygian_Zinogre_Render_001.png/revision/latest?cb=20160709020537"
@@ -79,16 +70,7 @@ end
     \n   Top of Legs   19    19     17     10      15    15     0    15     0
     \n   Tail          15    18      5      5      20    25     0    17     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

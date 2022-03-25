@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Tail Armor    50    50     50      0      20     0    20     0     0
     \n   Tail          40    30     25      0      10     0     5     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Toridcless_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f5/FrontierGen-Toridcless_Render_002.png/revision/latest?cb=20151208185508"
@@ -79,16 +70,7 @@ end
     \n   Tail Armor    45    45     45      0      20     0    20     0     0
     \n   Tail          35    25     20      0      10     0     5     0     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

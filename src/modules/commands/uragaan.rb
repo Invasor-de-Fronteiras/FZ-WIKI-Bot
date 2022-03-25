@@ -35,16 +35,7 @@ module Bot::DiscordCommands
     \n   Tail          32    27     23      0      25     0    20    10     0
     \n   Tail Tip      20    22     10      0      35     5    25    15     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Uragaan_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3d/FrontierGen-Uragaan_Render_001.png/revision/latest?cb=20160122150906"
@@ -79,16 +70,7 @@ end
     \n   Tail          25    24     21      0      25     0    20    10     0
     \n   Tail Tip      15    17     10      0      35     5    25    15     0
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end

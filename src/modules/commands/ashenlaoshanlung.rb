@@ -23,16 +23,7 @@ module Bot::DiscordCommands
     \n   Belly         55    50     40     20       5    15    30     5     0  
     \n   Legs          32    37     25     20       5    15    20     5     0  
     ```"
-    puts ">
 
-    ╔══════════════════════════════════════════════════════════════════════╗
-    ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-    ╠══════════════════════════════════════════════════════════════════════╣
-    ║ by #{event.author.username}                                          ║
-    ║ in the reign of the King #{event.server.owner.name}                  ║
-    ╚══════════════════════════════════════════════════════════════════════╝
-    
-    <"
     
       end
     end

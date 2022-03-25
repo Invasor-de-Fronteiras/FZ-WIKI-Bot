@@ -58,16 +58,7 @@ module Bot::DiscordCommands
     \n   Belly         15    10     15      0      10    10    10     5     0  
     \n   Forelegs      40    30     35     10       0    25    20     0     0  
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
       command :Guanzorumu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
@@ -148,16 +139,7 @@ end
     \n   Belly         15    10     15      0      10    10    10     5     0  
     \n   Forelegs      40    30     35     10       0    25    20     0     0  
     ```"
-          puts ">
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ by #{event.author.username}                                          ║
-║ in the reign of the King #{event.server.owner.name}                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-<"
 end
     end
 end
