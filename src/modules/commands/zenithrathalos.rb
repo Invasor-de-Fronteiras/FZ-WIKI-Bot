@@ -23,7 +23,15 @@ module Bot::DiscordCommands
     \n   Wings         20    25     15      0      30     5    10    15     0
     \n   Legs          20    25     20      0      10     5     5    10     0
     ```"
-    puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
+    puts "
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+          
+          "
       end
     end
 end

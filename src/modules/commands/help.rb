@@ -27,7 +27,15 @@ Use mhf!Elements to see the list of all elements of the game.
 Use mhf!Zenith_Sets to see some good Zenith mix sets, same to mhf!HR_Sets.
             
 Please report any error or problem to Doragyurosu#5957 or Malckyor#8043.```"
-puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
+puts "
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+          
+          "
         end          
     end
 end

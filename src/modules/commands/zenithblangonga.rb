@@ -21,7 +21,15 @@ module Bot::DiscordCommands
     \n   Body          25    25     30     25       5    15     0     0     0
     \n   Tail          40    25     25     30       5    15     0     0     0
     ```"
-    puts "MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) by #{event.author.username}"
+    puts "
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+          
+          "
       end
     end
 end
