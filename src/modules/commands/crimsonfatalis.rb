@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Wings         10    10     10     10       5     5    10     5     0
     \n   Body/Arms     10    10     10     10       5     5    10     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Crimson_Fatalis_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-Crimson_Fatalis_Render_001.png/revision/latest?cb=20140511120421"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905173760737419375/crimsonfatalisg.png"
@@ -58,6 +68,16 @@ module Bot::DiscordCommands
     \n   Wings         50    20     10     -5       5     0    10     5     0
     \n   Body/Arms     20    40     20    -10      10     0    20     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

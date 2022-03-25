@@ -47,7 +47,17 @@ module Bot::DiscordCommands
     \n   Tail          20    15     20     15       0    10    25     0     0  
     \n   Tail Tip      60    50     35     10       0    15    20     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Dyuragaua_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/99/FrontierGen-HC_Dyuragaua_Render_001.png/revision/latest?cb=20140902025350"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906203003650990190/dyuragaua.png"
@@ -93,7 +103,17 @@ module Bot::DiscordCommands
     \n   Tail          15    10     15     10       0     5    20     0     0  
     \n   Tail Tip      50    40     25      5       0    10    15     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Dyuragaua_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/FrontierGen-Dyuragaua_Render_003.png/revision/latest?cb=20140906015649"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906203003650990190/dyuragaua.png"
@@ -139,6 +159,16 @@ module Bot::DiscordCommands
     \n   Tail          20    15     20     15       0    10    25     0     0  
     \n   Tail Tip      60    50     35     10       0    15    30     0     0    
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

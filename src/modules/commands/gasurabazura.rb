@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Tail          35    40     40      0       0    10     0     0     0
     \n   Back          50    30     60      0       0    10     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Gasurabazura_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7b/FrontierGen-Gasurabazura_Render_002.png/revision/latest?cb=20150722092854"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207752894959678/gasurabazura.png"
@@ -69,6 +79,16 @@ module Bot::DiscordCommands
     \n   Tail          25    30     30      0       0     5     0     0     0
     \n   Back          40    20     50      0       0     5     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

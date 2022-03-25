@@ -41,7 +41,17 @@ module Bot::DiscordCommands
     \n   Body          40    40     20      0      20     0     0    10     0
     \n   Tail          50    45     55      0      30     0     0    15     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Lolo_Gougarf_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/FrontierGen-Lolo_Gougarf_Render_001.png/revision/latest?cb=20140817174038"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906229755358105680/lologougarf.png"
@@ -81,6 +91,16 @@ module Bot::DiscordCommands
     \n   Body          40    40     20      0      20     0     0    10     0
     \n   Tail          50    45     55      0      30     0     0    15     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

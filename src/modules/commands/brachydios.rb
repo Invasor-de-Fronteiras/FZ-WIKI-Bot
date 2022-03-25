@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Tail          30    22     40      0      15    10     5    10     0
     \n   Tail Apex     17    10     10      0       5     5     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Brachydios_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/FrontierGen-Brachydios_Render_001.png/revision/latest?cb=20151009145415"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904795755447980082/brachydios.png"
@@ -45,6 +55,16 @@ module Bot::DiscordCommands
     \n   Tail          27    19     36      0      15    10     5    10     0
     \n   Tail Apex     15    10     10      0       5     5     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Top of Legs   30    25     25     10      10     0     5    15     0
     \n   Tail          21    19     10      7      10     0     5    12     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Jinouga_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHP3-Zinogre_Render_004.png/revision/latest?cb=20150722094135"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906221323074818059/zinogre.png"
@@ -69,6 +79,16 @@ module Bot::DiscordCommands
     \n   Top of Legs   27    27     22     10      10     0     5    15     0
     \n   Tail          15    13     10      7      10     0     5    12     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

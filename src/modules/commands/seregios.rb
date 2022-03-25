@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Hindlegs      35    30     30      0       5    20     5    15     0
     \n   Tail          30    25     20      0       5    10     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Seregios_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/FrontierGen-Seregios_Render_001.png/revision/latest?cb=20180330122417"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267827990822943/seregios.png"
@@ -69,6 +79,16 @@ module Bot::DiscordCommands
     \n   Hindlegs      35    30     30      0       5    15     5     5     0
     \n   Tail          25    15     15      0       5    10     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

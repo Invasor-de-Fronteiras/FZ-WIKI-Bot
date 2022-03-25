@@ -58,7 +58,17 @@ module Bot::DiscordCommands
     \n   Tail          40    20     50      0       0     0     0     0     0  
     \n   Crystal       20    50     80      0       0     0     0     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Akura_Vashimu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-HC_Akura_Vashimu_Render_001.png/revision/latest?cb=20140817111724"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906291587238223922/akuravashimu.png"
@@ -115,7 +125,17 @@ module Bot::DiscordCommands
     \n   Tail          35    15     40      5      30     5     0     5     0  
     \n   Crystal       15    45     70      5      20     5     0     5     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Akura_Vashimu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/FrontierGen-Akura_Vashimu_Render_002.png/revision/latest?cb=20140118154626"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906291587238223922/akuravashimu.png"
@@ -172,6 +192,16 @@ module Bot::DiscordCommands
     \n   Tail          40    20     60      0       0     0     0     0     0  
     \n   Crystal       20    50     80      0       0     0     0     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

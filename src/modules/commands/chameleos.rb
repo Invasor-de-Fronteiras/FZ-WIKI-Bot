@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Wings         10    10     15      0       0     5    20    10     0
     \n   Tail          15    15     15      0       0    10     5    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Chameleos_HR5 do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-HC_Chameleos_Render_001.png/revision/latest?cb=20140902033731"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905171486145413170/chameleos.png"
@@ -69,7 +79,17 @@ module Bot::DiscordCommands
     \n   Wings         15    30     15      5       0    25     0   -15     0
     \n   Tail          15    15     15      5       0     5    -5    15     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Chameleos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/MHO-Chameleos_Render_001.png/revision/latest?cb=20160609142207"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905171486145413170/chameleos.png"
@@ -103,6 +123,16 @@ module Bot::DiscordCommands
     \n   Wings         15    25     15      5       0    20    15    10     0
     \n   Tail          15    22     15      5       0    25     5    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

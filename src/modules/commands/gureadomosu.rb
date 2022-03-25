@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Wings         35    45     20     15       0    20     0     0     0
     \n   Legs          30    35     20     10       0    10     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Gureadomosu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-Gureadomosu_Render_002.png/revision/latest?cb=20150411043443"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215006255865906/gureadomosu.png"
@@ -45,6 +55,16 @@ module Bot::DiscordCommands
     \n   Wings         30    25     15     10       0    15     0     0     0
     \n   Legs          20    30     20      5       0     5     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

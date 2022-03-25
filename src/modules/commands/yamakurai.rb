@@ -47,7 +47,17 @@ module Bot::DiscordCommands
     \n   Feelers       50    55     40     30       0     0    15     5     0  
     \n   Tentacles     35    40     35     25       0     0    10     5     0   
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Yamakurai_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/13/Yama_Kurai.png/revision/latest?cb=20200319133104"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
@@ -93,6 +103,16 @@ module Bot::DiscordCommands
     \n   Feelers       35    40     35     30       0     0    15     5     0  
     \n   Tentacles     30    35     30     25       0     0    10     5     0   
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

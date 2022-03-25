@@ -47,7 +47,17 @@ module Bot::DiscordCommands
     \n   Wings         30    25     25      0      15     0     0     5     0  
     \n   Legs          30    30     15      0       0    15     0     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Varusaburosu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Varusaburosu_Render_002.png/revision/latest?cb=20150218152719"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290751506350141/varusaburosu.png"
@@ -93,6 +103,16 @@ module Bot::DiscordCommands
     \n   Wings         30    25     25      0      15     0     0     5     0  
     \n   Legs          30    30     10      0       0    15     0     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

@@ -33,7 +33,17 @@ module Bot::DiscordCommands
     \n   Claw          25    35     15      5       5    20     0    10     0
     \n   Arms          30    35     25      5       5    15     0    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Shogun_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/FrontierGen-HC_Shogun_Ceanataur_Render_001.png/revision/latest?cb=20140902022337"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282180475486228/shogunceanataurhr5.png"
@@ -65,7 +75,17 @@ module Bot::DiscordCommands
     \n   Claw          25    35     40     10       5     0    15    10     0
     \n   Arms          30    35     20      5       5     0     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Shogun_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150903093537"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906281644271497248/shogunceanataur.png"
@@ -97,6 +117,16 @@ module Bot::DiscordCommands
     \n   Claw          25    35     20      5       5    20     0    10     0
     \n   Arms          30    35     30      5       5    15     0    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

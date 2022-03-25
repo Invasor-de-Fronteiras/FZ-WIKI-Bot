@@ -58,7 +58,17 @@ module Bot::DiscordCommands
     \n   Hindlegs      20    25     15      0       0     0     5     0     0  
     \n   Tail          30    20     40     10       0     0     5     0     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Baruragaru_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Baruragaru_Render_003.png/revision/latest?cb=20140810155032"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904783129653436456/baruragaru.png"
@@ -115,6 +125,16 @@ module Bot::DiscordCommands
     \n   Hindlegs      20    25     15      0       0     0     5     0     0  
     \n   Tail          30    20     40     10       0     0     5     0     0   
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

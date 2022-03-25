@@ -41,7 +41,17 @@ module Bot::DiscordCommands
     \n   Body          140  135     50     10       5    10     0    15     0
     \n   Tail          245  195     80     15       5    10     0    20     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Gogomoa_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-HC_Gogomoa_Render_001.png/revision/latest?cb=20140821070646"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
@@ -81,7 +91,17 @@ module Bot::DiscordCommands
     \n   Body         125   160     25      5       0     5     0    10     0
     \n   Tail         140   105     45     10       0     5     0    15     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Gogomoa_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Gogomoa_Render_002.png/revision/latest?cb=20140106195051"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
@@ -121,6 +141,16 @@ module Bot::DiscordCommands
     \n   Body         105   140     25     10       5    10     0    20     0
     \n   Tail         140   105     40     15       5    10     0    25     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

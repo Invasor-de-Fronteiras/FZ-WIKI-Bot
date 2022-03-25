@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Wings         10    10     10     10       5     5    10    10     0
     \n   Body/Arms     10    10     10     10       5     5    10    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :White_Fatalis_G do |msg|
         # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904450553915011172/FrontierGen-G_White_Fatalis_Screenshot_003-removebg-preview.png"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906295519867981834/whitefatalisg.png"
@@ -69,6 +79,16 @@ module Bot::DiscordCommands
     \n   Wings         25    20     15     25       5    -5     5     5     0
     \n   Body/Arms     15    15     15     15       5   -10    15     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

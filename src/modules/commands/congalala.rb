@@ -31,7 +31,17 @@ module Bot::DiscordCommands
     \n   Body           5     5      5     18       0     0     0     0     0
     \n   Tail          35    30     15     15      10    10     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Congalala_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-HC_Congalala_Render_001.png/revision/latest?cb=20140114145541"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905172583538884659/congalalahr5.png"
@@ -61,7 +71,17 @@ module Bot::DiscordCommands
     \n   Body           5     5      5      0       0     0    15     0     0
     \n   Tail          50    35     20     15       0     5     5     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Congalala_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7c/2ndGen-Congalala_Render_001.png/revision/latest?cb=20150303041629"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905172255997300746/congalala.png"
@@ -91,6 +111,16 @@ module Bot::DiscordCommands
     \n   Body           5     5      5     50       0     0     0     0     0
     \n   Tail          20    20     20     15      10    10     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

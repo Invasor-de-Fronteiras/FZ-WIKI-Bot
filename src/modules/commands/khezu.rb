@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Wings         25    25     40     20       5     0     5     5     0
     \n   Legs          25    20     30     15       5     0     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Khezu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ea/FrontierGen-HC_Khezu_Render_001.png/revision/latest?cb=20140906152107"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226848822874172/khezuhr5.png"
@@ -45,7 +55,17 @@ module Bot::DiscordCommands
     \n   Wings         40    30     50      5       0     0     0     5     0
     \n   Legs          35    25     35      5       0     0    10     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Khezu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/98/Khezu.png/revision/latest?cb=20091210213628"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226605360304158/khezu.png"
@@ -67,6 +87,16 @@ module Bot::DiscordCommands
     \n   Wings         30    25     35     20       5     0     5     5     0
     \n   Legs          25    20     30     15       5     0     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

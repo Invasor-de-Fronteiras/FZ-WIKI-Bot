@@ -1,7 +1,7 @@
 module Bot::DiscordCommands
   module Monsters
     extend Discordrb::Commands::CommandContainer
-    command :Skills do |msg|
+    command :unga do |msg|
       msg.respond ""
     
     end

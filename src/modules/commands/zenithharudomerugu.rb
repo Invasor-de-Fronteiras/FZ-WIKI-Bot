@@ -35,15 +35,16 @@ module Bot::DiscordCommands
     \n   Hindlegs      20    20     20     20       0    15    20     0     0
     \n   R.Forelegs    30    30     30     25       0    15    35     0     0
     ```"
-    puts "
+          puts ">
+
 ╔══════════════════════════════════════════════════════════════════════╗
 ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║ by #{event.author.username}                                          ║
 ║ in the reign of the King #{event.server.owner.name}                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
-          
-          "
+
+<"
       end
     end
 end

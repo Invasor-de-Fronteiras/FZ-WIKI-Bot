@@ -33,7 +33,17 @@ module Bot::DiscordCommands
     \n   Hindlegs      35    32     25     10      10    15    15     5     0
     \n   Tail          38    35     30      5       5    20    20     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Deviljho_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e7/FrontierGen-Deviljho_Render_001.png/revision/latest?cb=20150722092623"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905177867531468810/deviljho.png"
@@ -65,6 +75,16 @@ module Bot::DiscordCommands
     \n   Hindlegs      25    22     18     10      10    15    15     5     0
     \n   Tail          27    25     21      5       5    20    20     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

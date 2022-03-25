@@ -58,7 +58,17 @@ module Bot::DiscordCommands
     \n   Forelegs      50    45     35      0       0     0    10    10     0  
     \n   Hindlegs      60    55     40      0       0     0    20    10     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Diorekkusu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-Diorekkusu_Render_002.png/revision/latest?cb=20140423203802"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200206415134801/diorex.png"
@@ -115,6 +125,16 @@ module Bot::DiscordCommands
     \n   Forelegs      50    45     35      0       0     0    10    10     0  
     \n   Hindlegs      60    55     40      0       0     0    20    10     0  
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

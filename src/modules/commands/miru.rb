@@ -105,6 +105,16 @@ module Bot::DiscordCommands
     \n   Tail          35    20     20      0       0     0    15     0     0  
     \n   Tail Tip      30    10     35      5       5     5     5     5     0   
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

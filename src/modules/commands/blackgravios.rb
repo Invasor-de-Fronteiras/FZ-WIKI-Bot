@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Wings         20    20     20      0      20     5     0     0     0
     \n   Legs          15    25     20      0      30     5     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Black_Gravios_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d5/FrontierGen-HC_Black_Gravios_Render_001.png/revision/latest?cb=20140817142650"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904788852672192622/blackgravios.png"
@@ -69,7 +79,17 @@ module Bot::DiscordCommands
     \n   Wings         30    30     30      0      20     5     0     0     0
     \n   Legs          25    35     30      0      30     5     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Black_Gravios_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/MH4-Black_Gravios_Render_001.png/revision/latest?cb=20140105235345"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904788852672192622/blackgravios.png"
@@ -103,6 +123,16 @@ module Bot::DiscordCommands
     \n   Wings         20    20     20      0      20     5     0     0     0
     \n   Legs          15    25     20      0      30     5     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

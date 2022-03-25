@@ -27,6 +27,16 @@ module Bot::DiscordCommands
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
     \n   Entirely      55    55     55     25       5    25     5    40   100
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

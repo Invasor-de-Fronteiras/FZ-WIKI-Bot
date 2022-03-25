@@ -5,15 +5,16 @@ module Bot::DiscordEvents
 
         message(contains: /(^|\s)frontier($|\s)/i, bucket: :delay5 ) do |event|
           event.message.react "✨"
-          puts "
+          puts ">
+
 ╔══════════════════════════════════════════════════════════════════════╗
 ║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║ by #{event.author.username}                                          ║
 ║ in the reign of the King #{event.server.owner.name}                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
-          
-          "
+
+<"
         end
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|

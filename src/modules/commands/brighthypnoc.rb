@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Wings         25    20     25     10      10    20     5    10     0
     \n   Legs          45    40     50      5       5    10     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Bright_Hypnoc_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/FrontierGen-HC_Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140731052753"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
@@ -45,7 +55,17 @@ module Bot::DiscordCommands
     \n   Wings         25    20     30      0       0     5     0     0     0
     \n   Legs          45    35     45      5       5     5     0     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Bright_Hypnoc_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-Breeding_Season_Hypnocatrice_Render_002.png/revision/latest?cb=20140906124530"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
@@ -67,6 +87,16 @@ module Bot::DiscordCommands
     \n   Wings         20    15     15     20      20    30    15    20     0
     \n   Legs          25    30     30     15      15    20    15    15     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

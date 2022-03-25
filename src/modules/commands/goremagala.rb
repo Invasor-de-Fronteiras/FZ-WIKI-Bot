@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Wings         20    26     20     15       0    10     5     0     0
     \n   Tail          45    45     40     10       0    10     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Gore_Magala_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-True_Frenzy_Gore_Magala_Render_001.png/revision/latest?cb=20161021044840"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211554524028958/goremagala.png"
@@ -69,6 +79,16 @@ module Bot::DiscordCommands
     \n   Wings         20    20     18     15       0     5     5     0     0
     \n   Tail          25    17     28     10       0     5     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

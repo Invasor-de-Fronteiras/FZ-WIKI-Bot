@@ -35,7 +35,17 @@ module Bot::DiscordCommands
     \n   Forelegs      35    40     10      5       0    10     5     5     0
     \n   Hindlegs      15    20     15      5       5     5    10     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Odibatorasu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/62/FrontierGen-HC_Odibatorasu_Render_001.png/revision/latest?cb=20160129144138"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906241405167493120/odibatorasu.png"
@@ -69,6 +79,16 @@ module Bot::DiscordCommands
     \n   Forelegs      30    36     10      5       0    10     5     5     0
     \n   Hindlegs      15    20     15      5       5     5    10     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

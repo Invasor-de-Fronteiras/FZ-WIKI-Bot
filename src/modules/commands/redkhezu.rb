@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Wings         25    25     35      5      20     0     5     5     0
     \n   Legs          25    20     30      5      15     0     5     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Red_Khezu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/FrontierGen-HC_Red_Khezu_Render_001.png/revision/latest?cb=20131225224806"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
@@ -67,6 +77,16 @@ module Bot::DiscordCommands
     \n   Wings         25    25     25      5      20     0     5     0     0
     \n   Legs          25    20     20      5      15     0    10     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

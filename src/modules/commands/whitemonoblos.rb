@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Wings         60    50     50      0      20    15     0    15     0
     \n   Legs          40    45     50      0      10    10     0    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :White_Monoblos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-HC_White_Monoblos_Render_001.png/revision/latest?cb=20150722095234"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296709821378600/whitemonoblos.png"
@@ -45,6 +55,16 @@ module Bot::DiscordCommands
     \n   Wings         45    25     30      0      30    15     0    20     0
     \n   Legs          25    25     30      0      20    10     0    10     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

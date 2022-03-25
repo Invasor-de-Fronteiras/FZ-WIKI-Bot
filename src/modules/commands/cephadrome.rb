@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Wings         40    50     60      0      10    10     5    15     0
     \n   Legs          35    30     35      0      15    10     5    20     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Cephadrome_HR do |msg|
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/84/FrontierGen-HC_Cephadrome_Render_001.png/revision/latest?cb=20140817144054"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905170496524529664/cephadromehr5.png"
@@ -45,7 +55,17 @@ module Bot::DiscordCommands
     \n   Wings         30    30     30     -5       5    15     5    15     0
     \n   Legs          35    30     35     -5       5     0    15     5     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Cephadrome_G do |msg|
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/66/2ndGen-Cephadrome_Render_001.png/revision/latest?cb=20150303005421"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905170068302864435/cephadrome.png"
@@ -67,6 +87,16 @@ module Bot::DiscordCommands
     \n   Wings         25    20     20      0      10    10     5    15     0
     \n   Legs          20    25     30      0      15    10     5    20     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end

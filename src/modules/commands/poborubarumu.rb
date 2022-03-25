@@ -23,7 +23,17 @@ module Bot::DiscordCommands
     \n   Tail          50    45     40     10       0    15     0     0     0
     \n  Wing Membr.    40    35     40      5       0    10     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
       command :Poborubarumu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/FrontierGen-Poborubarumu_Render_002.png/revision/latest?cb=20141118212429"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256825450651739/poborubarumu.png"
@@ -45,6 +55,16 @@ module Bot::DiscordCommands
     \n   Tail          45    40     35     10       0    15     0     0     0
     \n  Wing Membr.    35    30     30      5       0    10     0     0     0
     ```"
-      end
+          puts ">
+
+╔══════════════════════════════════════════════════════════════════════╗
+║ MHFZ WIKI was summoned to: #{event.server.name} (#{event.server.id}) ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ by #{event.author.username}                                          ║
+║ in the reign of the King #{event.server.owner.name}                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+<"
+end
     end
 end
