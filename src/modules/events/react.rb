@@ -84,6 +84,7 @@ module Bot::DiscordEvents
         message(contains: /(^|\s)Matahashi($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🐐"
         end
+        
         message(contains: /(^|\s)dion($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🍕"
         end
