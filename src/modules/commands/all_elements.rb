@@ -43,6 +43,6 @@ The only known monster to have this element is Eruzerion.
         
 Emperor's Roar / 皇鳴 = 150% <:zthunder:883120020312440852> and 50% <:zdragon:883119756528476161>
 The only known monster to have this element is White Fatalis."
-      end
     end
   end
+end

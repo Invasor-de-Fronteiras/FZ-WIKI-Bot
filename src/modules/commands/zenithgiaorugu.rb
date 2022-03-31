@@ -8,7 +8,7 @@ module Bot::DiscordCommands
         msg.respond "***Based on Cutting Damage!***
     **Name:** Zenith Giaorugu / 辿異種ギアオルグ
     **Title:** Ice Fierce Wyvern / 氷獰竜
-    **Rank:** G-Rank
+    **Rank:** Zenith
     **Weak to:** Fire <:zfire:883120156916744312>
     **Ailments:** Extreme Iceblight <:zice:883119912283938816>, Snowman <:zsnowman:883124811746926592> and Defense Down <:defdown:883125247551893514>
     **Elements:** Ice <:zice:883119912283938816>

@@ -3,7 +3,7 @@ module Bot::DiscordEvents
     
         extend Discordrb::EventContainer
 
-        message(contains: /(^|\s)frontier($|\s)/i, bucket: :delay5 ) do |event|
+        message(contains: /(^|\s)frontier($|\s)/i, bucket: :delay5) do |event|
           event.message.react "✨"
           puts ">
 
@@ -15,10 +15,10 @@ module Bot::DiscordEvents
 ╚══════════════════════════════════════════════════════════════════════╝
 
 <"
-        end
+    end
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
-          event.message.respond "He's not a problem anymore <:maiGun:919705122135744592>"
+          event.message.respond "Delete this #{event.author.username} <:maiGun:919705122135744592>"
           puts ">
 
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -96,8 +96,6 @@ module Bot::DiscordEvents
         message(contains: /(^|\s)cheat shop($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🤡"
         end
-
-
-    end    
+    end
 end
 
