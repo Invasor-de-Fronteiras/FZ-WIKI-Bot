@@ -2,7 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Lao_Shan do |msg|
+      command :老山龍 do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/MHF1-Lao-Shan_Lung_Render_001_%28Edited%29.png/revision/latest?cb=20140112193022"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228985845923931/lao-shanlung.png"
     msg.respond "***切削ダメージに基づく***
@@ -25,7 +25,7 @@ module Bot::DiscordCommands
     ```"
 
 end
-      command :Lao_Shan_HR do |msg|
+      command :老山龍_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/99/FrontierGen-Lao-Shan_Lung_Render_001.png/revision/latest?cb=20140105152418"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906229162879098940/lao-shanlunghr5.png"
     msg.respond "***切削ダメージに基づく***
