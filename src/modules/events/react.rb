@@ -51,6 +51,10 @@ module Bot::DiscordEvents
           event.message.react "🤡"
         end
 
+        message(contains: /(^|\s)mod shop($|\s)/i, bucket: :delay1000) do |event|
+          event.message.react "🤡"
+        end
+
     end
 end
 

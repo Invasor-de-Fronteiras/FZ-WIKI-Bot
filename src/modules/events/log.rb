@@ -72,7 +72,7 @@ SERVER ADM: #{event.server.owner.name} (#{event.server.owner.id})\n\n"
 end
 end
 
-message(contains: /(^|\s)launcher g10($|\s)/i) do |event|
+message(contains: /(^|\s)hex($|\s)/i) do |event|
 File.open('src/modules/events'"loggies.txt", "a") do |f|
 f << "(#{event.timestamp})
 MSG: #{event.message}
