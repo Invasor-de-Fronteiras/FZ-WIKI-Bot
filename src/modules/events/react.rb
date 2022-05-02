@@ -9,10 +9,7 @@ module Bot::DiscordEvents
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
           event.message.respond "You're going to Brazil #{event.author.username} <:maiGun:919705122135744592>"
-        end
-        
-        message(contains: /(^|\s)c.shop($|\s)/i, bucket: :delay1000) do |event|
-          event.message.react "🤡"
+          puts "Hantzu foi citado em #{event.server.name} por #{event.author.username}"
         end
 
         message(contains: /(^|\s)mai($|\s)/i, bucket: :delay1000) do |event|
@@ -47,11 +44,15 @@ module Bot::DiscordEvents
           event.message.react "🤡"
         end
 
-        message(contains: /(^|\s)cheat($|\s)/i, bucket: :delay1000) do |event|
+        message(contains: /(^|\s)clown shop($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🤡"
         end
 
         message(contains: /(^|\s)mod shop($|\s)/i, bucket: :delay1000) do |event|
+          event.message.react "🤡"
+        end
+                
+        message(contains: /(^|\s)c.shop($|\s)/i, bucket: :delay1000) do |event|
           event.message.react "🤡"
         end
 

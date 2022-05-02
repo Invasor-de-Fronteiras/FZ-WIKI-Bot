@@ -51,5 +51,14 @@ but nobody came....```"
     msg.respond "```to another 12 years of frontier, but read the pastebin first 
 - one-eyed fuck```"
     end
+
+    command :Doratrice do |msg|
+    msg.respond "https://i.pinimg.com/originals/87/47/ed/8747edcba997b719463ace3ac4bd301f.gif"
+    end
+
+    command :Seph do |msg|
+    msg.respond "https://www.youtube.com/watch?v=e5wyOJ_R1go&ab_channel=SephVII"
+    end
+        
   end
 end

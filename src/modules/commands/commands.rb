@@ -34,7 +34,7 @@ Use mhf!Help para ver essa lista.
 Use mhf!Monsters para ver a lista de monstros.
 
 Use mhf!Elements para ver a todos os elementos.
-Qualquer erro ou problema relatar a Malckyor#8043 ou hantzu#8273.
+Qualquer erro ou problema relatar a Malckyor#8043 ou Doratrice#5957.
           ```"
         end
          command :Monsters do |msg|
