@@ -11,9 +11,6 @@ module Bot::DiscordEvents
           event.message.respond "You're going to Brazil #{event.author.username} <:maiGun:919705122135744592>"
           puts "Hantzu foi citado em #{event.server.name} por #{event.author.username}"
           event.color = "#FF007"
-          event.bot.send_message(
-            channel=974720223078924288,
-            content=msg_parts.reject{ |s| s.nil? }.join(" "),
         end
 
         message(contains: /(^|\s)mai($|\s)/i, bucket: :delay1000) do |event|
