@@ -137,7 +137,15 @@ masters =
 'Hantzu',
 'Malckyor',
 'Dionmid',
-'Dionmid',
+'Yukino',
+'Deerby',
+'Chakratos',
+'Tyrannys',
+'SephVII',
+'Wish',
+'Haku',
+'Sera',
+'Henzeru X',
 'Matahashi']
 
 roles =
@@ -165,7 +173,7 @@ type =
 
 command :Hunt  do |event|
   event.channel.send_embed do |embed|
-    embed.description = "✉️ Noble hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{ranks.sample} #{type.sample} hunt. ✉️
+    embed.description = "✉️ Noble hunter, the #{roles.sample} #{masters.sample} requested a #{ranks.sample} #{monsters.sample} #{type.sample} hunt.💌
 
 P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
   end
