@@ -59,6 +59,14 @@ but nobody came....```"
     command :Seph do |msg|
     msg.respond "https://www.youtube.com/watch?v=e5wyOJ_R1go&ab_channel=SephVII"
     end
-        
+    
+    command :Afk do |msg|
+    msg.respond "Good job ruining everyone's night"
+    end
+
+    command :Wish do |msg|
+    msg.respond "https://images-ext-1.discordapp.net/external/Pw9n1UwNBimQhKtSV8axlEHIOzp4YKPj44OfKSY--IQ/https/media.tenor.com/NuXWFcBCWfcAAAPo/yoshi-fat.mp4"
+    end
+
   end
 end
