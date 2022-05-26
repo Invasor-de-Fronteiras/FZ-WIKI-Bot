@@ -120,8 +120,7 @@ module Bot::DiscordCommands
 'Yian Garuga',
 'Kutku',
 'Zenaserisu',
-'Zerureusu'
-        ]
+'Zerureusu']
 
 ranks =
 [
@@ -129,14 +128,31 @@ ranks =
 'High Rank',
 'Great Skill/Gou',
 'G Rank',
-'Zenith'
-        ]
+'Zenith']
 
-      command :Random  do |event|
-        event.channel.send embed do |embed|
-          embed.description = "#{monsters.sample} #{ranks.sample}"
-        end
-        nil
-      end
-    end
+masters =
+[
+'Luna',
+'Mai',
+'Hantzu',
+'Malckyor',
+'Dionmid',
+'Matahashi']
+
+type =
+[
+  'Hardcore',
+  'Unlimited',
+  'Normal']
+
+
+command :Hunt  do |event|
+  event.channel.send_embed do |embed|
+    embed.description = "Noble hunter, the Guild Master #{masters.sample} requested a #{monsters.sample} #{ranks.sample} #{type.sample} hunt. 
+
+P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
   end
+  nil
+end
+end
+end
