@@ -146,12 +146,14 @@ masters =
 'Haku',
 'Sera',
 'Henzeru X',
+'Fist',
+'Mizuki',
 'Matahashi']
 
 roles =
 [
 'Epic Hunter',
-'Guild Master',
+'Guild Scholar',
 'Kut-Ku Killer',
 'Village Hero',
 'Legendary Hunter',
@@ -161,6 +163,9 @@ roles =
 'Legendary Gatekeeper',
 'Heavy Drinker',
 'Arm Wrestler',
+'Chronic Procrastinator',
+'Famous Wyverian Eggs Sommelier',
+'File Stealer',
 'Master of Solitude',
 'Cheat Shop User']
 
@@ -176,8 +181,8 @@ command :Hunt  do |event|
     embed.description = "✉️ Noble hunter, the #{roles.sample} #{masters.sample} requested a #{ranks.sample} #{monsters.sample} #{type.sample} hunt. ✉️
 
 P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
-  end
-  nil
+end
+nil
 end
 end
 end
