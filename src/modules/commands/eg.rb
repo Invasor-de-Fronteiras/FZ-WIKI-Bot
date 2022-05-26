@@ -61,11 +61,11 @@ but nobody came....```"
     end
     
     command :Afk do |msg|
-    msg.respond "Good job ruining everyone's night"
+    msg.respond "Good job ruining everyone's night!"
     end
 
     command :Wish do |msg|
-    msg.respond "https://images-ext-1.discordapp.net/external/Pw9n1UwNBimQhKtSV8axlEHIOzp4YKPj44OfKSY--IQ/https/media.tenor.com/NuXWFcBCWfcAAAPo/yoshi-fat.mp4"
+    msg.respond "https://c.tenor.com/_qvQxLnUcLYAAAAC/yoshi-fat-yoshi.gif"
     end
 
   end
