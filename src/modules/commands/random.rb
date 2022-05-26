@@ -137,18 +137,35 @@ masters =
 'Hantzu',
 'Malckyor',
 'Dionmid',
+'Dionmid',
 'Matahashi']
+
+roles =
+[
+'Epic Hunter',
+'Guild Master',
+'Kut-Ku Killer',
+'Village Hero',
+'Legendary Hunter',
+'Expert Hunter',
+'Ace Hunter',
+'Monster Hunter Veteran with 3000 hours in each game',
+'Legendary Gatekeeper',
+'Heavy Drinker',
+'Arm Wrestler',
+'Master of Solitude',
+'Cheat Shop User']
 
 type =
 [
-  'Hardcore',
+  'HC',
   'Unlimited',
   'Normal']
 
 
 command :Hunt  do |event|
   event.channel.send_embed do |embed|
-    embed.description = "Noble hunter, the Guild Master #{masters.sample} requested a #{monsters.sample} #{ranks.sample} #{type.sample} hunt. 
+    embed.description = "✉️ Noble hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{ranks.sample} #{type.sample} hunt. ✉️
 
 P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
   end
