@@ -1,7 +1,7 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-      command :Guide do |msg|
+      command :Pastebin do |msg|
         msg.respond "Just read the pastebin"
         msg.respond "https://pastebin.com/QqAwZSTC"
       

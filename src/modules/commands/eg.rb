@@ -52,8 +52,8 @@ but nobody came....```"
 - one-eyed fuck```"
     end
 
-    command :Doratrice do |msg|
-    msg.respond "https://i.pinimg.com/originals/87/47/ed/8747edcba997b719463ace3ac4bd301f.gif"
+    command :Doratrice do |event|
+    event.send_file (File.open('src\modules\files\AHAHA.mp3', 'r'))
     end
 
     command :Seph do |msg|

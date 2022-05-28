@@ -27,6 +27,15 @@ Use mhf!Elements to see the list of all elements of the game.
 Use mhf!Zenith_Sets to see some good Zenith mix sets, same to mhf!HR_Sets.
             
 Please report any error or problem to Doratrice#5957 or Malckyor#8043.```"
+
+msg.respond "```Commands Available:
+mhf!Hunt -> Randomly generates a quest request.
+mhf!Servers -> Shows Public Servers where you can play.
+mhf!Status -> Shows bot Status.
+mhf!Pastebin -> Shows The link to the pastebin.
+mhf!Malck_Guide -> Shows the Malcks Guide to Armors progression until G Rank.
+mhf!Zenith_Sets -> Shows some good sets to start Zenith.
+```"
         end          
     end
 end
