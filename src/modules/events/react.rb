@@ -4,6 +4,7 @@ module Bot::DiscordEvents
         extend Discordrb::EventContainer
 
         message(contains: /(^|\s)frontier($|\s)/i, bucket: :delay5) do |event|
+          sleep(0.5)
           event.message.react "✨"
         end
 
@@ -15,50 +16,62 @@ module Bot::DiscordEvents
         end
 
         message(contains: /(^|\s)mai($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "⭐"
         end
 
         message(contains: /(^|\s)luna($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🌙"
         end
 
         message(contains: /(^|\s)Malck($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "👺"
         end
 
         message(contains: /(^|\s)Naga($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "💖"
         end
 
         message(contains: /(^|\s)Matahashi($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🐐"
         end
         
         message(contains: /(^|\s)dion($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🍕"
         end
 
         message(contains: /(^|\s)dravise($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🐉"
         end
 
         message(contains: /(^|\s)cheat shop($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🤡"
         end
 
         message(contains: /(^|\s)clown shop($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🤡"
         end
 
         message(contains: /(^|\s)mod shop($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🤡"
         end
                 
         message(contains: /(^|\s)c.shop($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🤡"
         end
 
         message(contains: /(^|\s)Doratrice($|\s)/i, bucket: :delay1000) do |event|
+          sleep(0.5)
           event.message.react "🧙‍♀"
         end
 
