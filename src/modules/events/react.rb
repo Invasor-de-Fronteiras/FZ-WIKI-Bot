@@ -9,7 +9,9 @@ module Bot::DiscordEvents
 
         message(contains: /(^|\s)hantzu($|\s)/i, bucket: :delay1000) do |event|
           event.message.respond "You're going to Brazil #{event.author.username} <:maiGun:919705122135744592>"
+          msg = event.message
           event.bot.user(397075844218224651).pm("Você foi citado em #{event.server.name} por #{event.author.username} as #{Time.now}")
+          event.bot.user(397075844218224651).pm("#{msg}")
         end
 
         message(contains: /(^|\s)mai($|\s)/i, bucket: :delay1000) do |event|
