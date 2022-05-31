@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Hantzu do |event|
       event.send "Can i feed my Halk with my tears?
-                            v 0.0.2.9m"
+                            v 0.0.2.9n"
 
 
     end

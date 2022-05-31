@@ -10,7 +10,7 @@ module Bot::DiscordEvents
         msg = event.message
         event.bot.channel(980254198694297640).send_message "```
 #{event.author.username} sent a message from #{event.server.name}: #{msg}```"
-#event.bot.channel(AAAAAAAAAAAAAAAAAAAAAA).send_message "```
+event.bot.channel(980956894875222036).send_message "```
 #{event.author.username} sent a message: #{msg}```"
       else
       end
@@ -26,20 +26,20 @@ module Bot::DiscordEvents
         msg = event.message
         event.bot.channel(980186945009356811).send_message "```
 #{event.author.username} sent a message from #{event.server.name}: #{msg}```"
-#event.bot.channel(AAAAAAAAAAAAAAAAAAAAAA).send_message "```
+event.bot.channel(980956894875222036).send_message "```
 #{event.author.username} sent a message from #{event.server.name}: #{msg}```"
       else
       end
       end
 
       message do |event|
-#MHFZ - Alternative - PewPew
+#Agrotakus
 aaa = event.channel
 if
-aaa  ==  "926651887153987614"
+aaa  ==  "980956894875222036"
 msg = event.message
 event.bot.channel(980254198694297640).send_message "```#{event.author.username} sent a message from #{event.server.name}: #{msg}```"
-#event.bot.channel(980186945009356811).send_message "```#{event.author.username} sent a message from #{event.server.name}: #{msg}```"
+event.bot.channel(980186945009356811).send_message "```#{event.author.username} sent a message from #{event.server.name}: #{msg}```"
 else
 end
 
