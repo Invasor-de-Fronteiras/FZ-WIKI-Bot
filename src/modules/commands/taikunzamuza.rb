@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Taikun_Zamuza do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/FrontierGen-Taikun_Zamuza_Render_001.png/revision/latest?cb=20140831164324"
@@ -52,7 +52,7 @@ module Bot::DiscordCommands
 end
       command :Taikun_Zamuza_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/11/FrontierGen-Taikun_Zamuza_Render_002.png/revision/latest?cb=20140821094339"

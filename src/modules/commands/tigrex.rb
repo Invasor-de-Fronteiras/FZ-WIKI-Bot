@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Tigrex do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/2ndGen-Tigrex_Render_001.png/revision/latest?cb=20150303003930"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Tigrex_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5c/FrontierGen-HC_Tigrex_Render_001_%28Edited%29.png/revision/latest?cb=20140119100226"
@@ -84,7 +84,7 @@ end
 end
       command :Tigrex_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/2ndGen-Tigrex_Render_002.png/revision/latest?cb=20150303004546"

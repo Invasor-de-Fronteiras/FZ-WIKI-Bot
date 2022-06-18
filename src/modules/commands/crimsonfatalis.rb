@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Crimson_Fatalis do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/1stGen_and_2ndGen-Crimson_Fatalis_Render_001.png/revision/latest?cb=20091107004531"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Crimson_Fatalis_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-Crimson_Fatalis_Render_001.png/revision/latest?cb=20140511120421"

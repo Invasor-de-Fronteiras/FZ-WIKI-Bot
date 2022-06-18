@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Dyuragaua do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/21/FrontierGen-Dyuragaua_Render_001.png/revision/latest?cb=20140903215114"
@@ -56,7 +56,7 @@ module Bot::DiscordCommands
 end
       command :Dyuragaua_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/99/FrontierGen-HC_Dyuragaua_Render_001.png/revision/latest?cb=20140902025350"
@@ -108,7 +108,7 @@ end
 end
       command :Dyuragaua_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/FrontierGen-Dyuragaua_Render_003.png/revision/latest?cb=20140906015649"

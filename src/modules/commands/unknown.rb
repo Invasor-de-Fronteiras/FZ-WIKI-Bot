@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Unknown do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_001.png/revision/latest?cb=20140324133338"
@@ -90,7 +90,7 @@ module Bot::DiscordCommands
 end
       command :Unknown_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/90/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_002.png/revision/latest?cb=20150701171719"
@@ -188,7 +188,7 @@ end
 end
       command :Unknown_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/74/FrontierGen-Unknown_%28Black_Flying_Wyvern%29_Render_003.png/revision/latest?cb=20171202165712"

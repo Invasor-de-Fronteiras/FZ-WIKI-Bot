@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Daimyo do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/2ndGen-Daimyo_Hermitaur_Render_001.png/revision/latest?cb=20150303033131"
@@ -53,7 +53,7 @@ module Bot::DiscordCommands
 end
       command :Daimyo_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Daimyo_Hermitaur_Render_001_%28Edited%29.png/revision/latest?cb=20140119100035"
@@ -102,7 +102,7 @@ end
 end
       command :Daimyo_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/2ndGen-Daimyo_Hermitaur_Render_001.png/revision/latest?cb=20150303033131"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Akura_Jebia do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c4/FrontierGen-Akura_Jebia_Render_001.png/revision/latest?cb=20140906054814"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Akura_Jebia_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/68/FrontierGen-HC_Akura_Jebia_Render_001.png/revision/latest?cb=20140423212651"
@@ -130,7 +130,7 @@ end
 end
       command :Akura_Jebia_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fa/FrontierGen-Akura_Jebia_Render_002.png/revision/latest?cb=20141228122037"

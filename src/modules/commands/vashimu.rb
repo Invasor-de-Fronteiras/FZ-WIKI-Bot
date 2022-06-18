@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Akura_Vashimu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1e/FrontierGen-Akura_Vashimu_Render_001.png/revision/latest?cb=20140906052718"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Akura_Vashimu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-HC_Akura_Vashimu_Render_001.png/revision/latest?cb=20140817111724"
@@ -130,7 +130,7 @@ end
 end
       command :Akura_Vashimu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/FrontierGen-Akura_Vashimu_Render_002.png/revision/latest?cb=20140118154626"

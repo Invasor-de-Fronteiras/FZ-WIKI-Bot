@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :White_Monoblos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/MHF1-White_Monoblos_Render_001_%28Edited%29.png/revision/latest?cb=20140112111447"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :White_Monoblos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-HC_White_Monoblos_Render_001.png/revision/latest?cb=20150722095234"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Kushal_Daora do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9d/FrontierGen-Kushala_Daora_Render_001.png/revision/latest?cb=20140907125051"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Kushal_Daora_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/14/FrontierGen-HC_Kushala_Daora_Render_001.png/revision/latest?cb=20140810162851"
@@ -84,7 +84,7 @@ end
 end
       command :Kushal_Daora_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Kushala_Daora_Render_003.png/revision/latest?cb=20141214142406"

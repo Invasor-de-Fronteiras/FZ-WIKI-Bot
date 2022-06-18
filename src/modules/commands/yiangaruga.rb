@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Yian_Garuga do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ad/2ndGen-Yian_Garuga_Render_001.png/revision/latest?cb=20150502101823"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Yian_Garuga_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/db/FrontierGen-HC_Yian_Garuga_Render_001.png/revision/latest?cb=20140902020152"
@@ -60,7 +60,7 @@ end
 end
       command :Yian_Garuga_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/2ndGen-Yian_Garuga_Render_002.png/revision/latest?cb=20150303013931"

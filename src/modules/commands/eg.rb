@@ -3,7 +3,7 @@ module Bot::DiscordCommands
     extend Discordrb::Commands::CommandContainer
     command :Haku do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```“Hehe boi //Proceed to use SWAX//”```"
@@ -12,7 +12,7 @@ end
 
     command :Lian do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```Follow me for more advices```"
@@ -22,7 +22,7 @@ end
 
     command :Luna do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```It just works```"
@@ -32,7 +32,7 @@ end
 
     command :Ninez do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```“Goku”```" 
@@ -41,7 +41,7 @@ end
 
     command :Packle do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```Someone called me?```"
@@ -51,7 +51,7 @@ end
 
     command :Tifa do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "https://media.discordapp.net/attachments/926651887153987614/930239777884749904/mp4_1.gif"
@@ -60,7 +60,7 @@ end
 
     command :Tyrannys do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```Check the pin and sub to my channel for epic content```"
@@ -70,7 +70,7 @@ end
 
     command :Wyxill do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```DETERMINATION...
@@ -80,7 +80,7 @@ but nobody came....```"
 
     command :Mai do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```porquê?```"
@@ -88,7 +88,7 @@ but nobody came....```"
 end
     command :Dionmid do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "WHERE THE FUCK IS BROMBEIS STREET?!?!?!"
@@ -98,7 +98,7 @@ end
 
     command :Rhobiusvoid do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "```to another 12 years of frontier, but read the pastebin first 
@@ -108,7 +108,7 @@ end
 
     command :Doratrice do |event|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     event.send_file (File.open('..\src\modules\files\AHAHA.mp3', 'r'))
@@ -117,7 +117,7 @@ end
 
     command :Seph do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "https://www.youtube.com/watch?v=e5wyOJ_R1go&ab_channel=SephVII"
@@ -126,7 +126,7 @@ end
     
     command :Afk do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "Good job ruining everyone's night!"
@@ -135,7 +135,7 @@ end
 
     command :Wish do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
     msg.respond "https://c.tenor.com/_qvQxLnUcLYAAAAC/yoshi-fat-yoshi.gif"

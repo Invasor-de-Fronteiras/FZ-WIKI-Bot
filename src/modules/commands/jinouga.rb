@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Jinouga do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         #msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/FrontierGen-Zinogre_Render_001.png/revision/latest?cb=20150722093909"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Jinouga_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHP3-Zinogre_Render_004.png/revision/latest?cb=20150722094135"

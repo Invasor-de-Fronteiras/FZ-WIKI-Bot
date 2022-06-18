@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Fatalis do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/27/FrontierGen-Fatalis_Custom_Render_001.png/revision/latest?cb=20210519195605"
@@ -33,7 +33,7 @@ module Bot::DiscordCommands
 end
       command :Fatalis_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Conquest_War_Fatalis_Custom_Render_001.png/revision/latest?cb=20210520021542"

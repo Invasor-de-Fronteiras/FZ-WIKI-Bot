@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Diorekkusu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/FrontierGen-Diorekkusu_Render_001.png/revision/latest?cb=20140423203343"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Diorekkusu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-Diorekkusu_Render_002.png/revision/latest?cb=20140423203802"

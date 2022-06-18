@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Voljang do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
@@ -40,7 +40,7 @@ module Bot::DiscordCommands
 end
       command :Voljang_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"

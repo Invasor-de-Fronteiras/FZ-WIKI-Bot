@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Purple_Gypceros do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/69/MHF1-Purple_Gypceros_Render_001_%28Edited%29.png/revision/latest?cb=20140112111944"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Purple_Gypceros_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/aa/FrontierGen-HC_Purple_Gypceros_Render_001.png/revision/latest?cb=20140718113038"
@@ -60,7 +60,7 @@ end
 end
       command :Purple_Gypceros_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f6/Purple_Gypceros_MH4_Render.png/revision/latest?cb=20131127092510"

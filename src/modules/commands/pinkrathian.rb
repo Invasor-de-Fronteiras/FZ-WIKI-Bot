@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Pink_Rathian do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/da/MHF1-Pink_Rathian_Render_001.png/revision/latest?cb=20140112101623"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Pink_Rathian_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0f/FrontierGen-HC_Pink_Rathian_Render_001.png/revision/latest?cb=20140731045735"
@@ -60,7 +60,7 @@ end
 end
       command :Pink_Rathian_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c8/MHSP-Pink_Rathian_Render_001.png/revision/latest?cb=20151121101123"

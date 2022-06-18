@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Gogomoa do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Gogomoa_Render_001.png/revision/latest?cb=20140106201408"
@@ -50,7 +50,7 @@ module Bot::DiscordCommands
 end
       command :Gogomoa_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-HC_Gogomoa_Render_001.png/revision/latest?cb=20140821070646"
@@ -96,7 +96,7 @@ end
 end
       command :Gogomoa_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Gogomoa_Render_002.png/revision/latest?cb=20140106195051"

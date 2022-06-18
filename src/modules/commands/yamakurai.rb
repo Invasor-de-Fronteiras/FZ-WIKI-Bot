@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Yamakurai do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/33/FrontierGen-Yama_Kurai_Render_001.png/revision/latest?cb=20150722092130"
@@ -56,7 +56,7 @@ module Bot::DiscordCommands
 end
       command :Yamakurai_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/13/Yama_Kurai.png/revision/latest?cb=20200319133104"

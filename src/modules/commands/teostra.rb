@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Teostra do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-Teostra_Render_001.png/revision/latest?cb=20141214141347"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Teostra_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c8/FrontierGen-Supremacy_Teostra_Render_001.png/revision/latest?cb=20140821073202"
@@ -108,7 +108,7 @@ end
 end
       command :Teostra_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/64/FrontierGen-Supremacy_Teostra_Render_002.png/revision/latest?cb=20140821092411"

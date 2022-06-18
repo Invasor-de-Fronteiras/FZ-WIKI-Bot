@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Gurenzeburu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/28/FrontierGen-Gurenzeburu_Render_001.png/revision/latest?cb=20140903095449"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Gurenzeburu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/FrontierGen-HC_Gurenzeburu_Render_001.png/revision/latest?cb=20140906150313"
@@ -84,7 +84,7 @@ end
 end
       command :Gurenzeburu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/90/FrontierGen-Gurenzeburu_Render_002.png/revision/latest?cb=20140903174343"

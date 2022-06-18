@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Basarios do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/MH1-Basarios_Render_001.gif/revision/latest?cb=20131228022601"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Basarios_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/FrontierGen-HC_Basarios_Render_001_%28Edited%29.png/revision/latest?cb=20140114184037"
@@ -60,7 +60,7 @@ end
 end
       command :Basarios_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f8/MHF2-Basarios_Render_001.png/revision/latest?cb=20150303010124"

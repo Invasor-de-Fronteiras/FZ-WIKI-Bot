@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Green_Plesioth do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/MH3U-Green_Plesioth_Render_001.png/revision/latest?cb=20130127182555"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Green_Plesioth_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Green_Plesioth_Render_001.png/revision/latest?cb=20150411025452"
@@ -60,7 +60,7 @@ end
 end
       command :Green_Plesioth_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Green_Plesioth_Render_001.png/revision/latest?cb=20150411025452"

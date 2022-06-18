@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Berukyurosu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/FrontierGen-Berukyurosu_Render_001.png/revision/latest?cb=20140906080828"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Berukyurosu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Berukyurosu_Render_001.png/revision/latest?cb=20140821065353"
@@ -84,7 +84,7 @@ end
 end
       command :Berukyurosu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-Berukyurosu_Render_002.png/revision/latest?cb=20140118122811"

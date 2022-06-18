@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Congalala do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7c/2ndGen-Congalala_Render_001.png/revision/latest?cb=20150303041629"
@@ -40,7 +40,7 @@ module Bot::DiscordCommands
 end
       command :Congalala_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-HC_Congalala_Render_001.png/revision/latest?cb=20140114145541"
@@ -76,7 +76,7 @@ end
 end
       command :Congalala_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7c/2ndGen-Congalala_Render_001.png/revision/latest?cb=20150303041629"

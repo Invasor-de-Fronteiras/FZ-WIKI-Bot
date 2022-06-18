@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Inagami do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/FrontierGen-Inagami_Render_001.png/revision/latest?cb=20140718120741"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Inagami_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/ba/FrontierGen-Inagami_Render_003.png/revision/latest?cb=20140726105312"

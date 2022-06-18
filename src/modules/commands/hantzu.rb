@@ -4,11 +4,11 @@ module Bot::DiscordCommands
 
       command :Hantzu do |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
       else
       msg.send "Can i feed my Halk with my tears?
-                            v 0.0.2.9q"
+                            v 0.0.3.0"
 
       end
     end

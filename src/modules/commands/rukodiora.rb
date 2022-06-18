@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Rukodiora do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fb/FrontierGen-Rukodiora_Render_001.png/revision/latest?cb=20131231173829"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Rukodiora_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/24/FrontierGen-Rukodiora_Render_004.png/revision/latest?cb=20160709020453"
@@ -84,7 +84,7 @@ end
 end
       command :Rukodiora_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2c/FrontierGen-Rukodiora_Render_003.png/revision/latest?cb=20140731005911"

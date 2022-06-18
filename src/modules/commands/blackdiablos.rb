@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Black_Diablos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1c/MHF1-Black_Diablos_Render_001_%28Edited%29.png/revision/latest?cb=20140112105944"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Black_Diablos_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fd/FrontierGen-HC_Black_Diablos_Render_001.png/revision/latest?cb=20140831212408"
@@ -60,7 +60,7 @@ end
 end
       command :Black_Diablos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/26/MH4U-Black_Diablos_Render_001.png/revision/latest?cb=20140908182320"

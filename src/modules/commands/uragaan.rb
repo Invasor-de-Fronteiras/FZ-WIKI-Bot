@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Uragaan do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/3rdGen-Uragaan_Render_001.png/revision/latest?cb=20150304044409"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Uragaan_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3d/FrontierGen-Uragaan_Render_001.png/revision/latest?cb=20160122150906"

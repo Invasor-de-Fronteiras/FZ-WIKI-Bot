@@ -3,7 +3,7 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
         command :Ravi do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
             msg.respond "```Great Slaying Chat Commands

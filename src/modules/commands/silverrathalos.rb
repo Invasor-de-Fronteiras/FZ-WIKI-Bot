@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Silver_Rathalos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/MHF1-Silver_Rathalos_Render_001.png/revision/latest?cb=20150303050317"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Silver_Rathalos_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-HC_Silver_Rathalos_Render_002.png/revision/latest?cb=20140423213326"
@@ -60,7 +60,7 @@ end
 end
       command :Silver_Rathalos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/MH4-Silver_Rathalos_Render_001.png/revision/latest?cb=20140116225450"

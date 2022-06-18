@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Farunokku do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/FrontierGen-Farunokku_Render_002.png/revision/latest?cb=20140118114323"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Baruragaru do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/68/FrontierGen-Baruragaru_Render_001.png/revision/latest?cb=20140810153856"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Baruragaru_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Baruragaru_Render_003.png/revision/latest?cb=20140810155032"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Akantor do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/18/2ndGen-Akantor_Render_001.png/revision/latest?cb=20150304010024"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Akantor_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e9/FrontierGen-HC_Akantor_Render_001_%28Edited%29.png/revision/latest?cb=20140119095939"
@@ -84,7 +84,7 @@ end
 end  
       command :Akantor_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/Akantor.png/revision/latest?cb=20130611071547"

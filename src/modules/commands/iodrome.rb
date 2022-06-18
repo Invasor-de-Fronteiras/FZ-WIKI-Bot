@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Iodrome do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/25/MH1-Iodrome_and_Ioprey_Render_001.gif/revision/latest?cb=20131228013925"

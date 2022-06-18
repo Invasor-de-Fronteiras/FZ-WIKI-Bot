@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Bright_Hypnoc do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a7/FrontierGen-Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140906075100"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Bright_Hypnoc_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/FrontierGen-HC_Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140731052753"
@@ -60,7 +60,7 @@ end
 end
       command :Bright_Hypnoc_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-Breeding_Season_Hypnocatrice_Render_002.png/revision/latest?cb=20140906124530"

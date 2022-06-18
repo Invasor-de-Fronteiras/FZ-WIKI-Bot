@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Malck do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
 

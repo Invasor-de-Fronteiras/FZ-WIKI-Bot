@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Black_Gravios do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/df/MHF1-Black_Gravios_Render_001.png/revision/latest?cb=20140112101418"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Black_Gravios_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d5/FrontierGen-HC_Black_Gravios_Render_001.png/revision/latest?cb=20140817142650"
@@ -84,7 +84,7 @@ end
 end
       command :Black_Gravios_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/MH4-Black_Gravios_Render_001.png/revision/latest?cb=20140105235345"

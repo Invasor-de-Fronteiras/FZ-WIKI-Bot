@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Ashen_Lao_Shan do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8f/MHF1-Ashen_Lao-Shan_Lung_Render_001.png/revision/latest?cb=20140112102232"

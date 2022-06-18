@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Shagaru do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MH4-Shagaru_Magala_Render_001.png/revision/latest?cb=20150303004807"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Shagaru_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/FrontierGen-Shagaru_Magala_%28True_Frenzy_Mode%29_Render_001.png/revision/latest?cb=20170407121850"

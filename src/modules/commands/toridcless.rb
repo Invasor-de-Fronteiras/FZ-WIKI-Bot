@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Toridcless do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7f/FrontierGen-Toridcless_Render_001.png/revision/latest?cb=20151208185412"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Toridcless_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f5/FrontierGen-Toridcless_Render_002.png/revision/latest?cb=20151208185508"

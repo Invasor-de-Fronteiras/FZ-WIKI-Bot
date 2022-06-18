@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Poborubarumu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Poborubarumu_Render_001.png/revision/latest?cb=20141118212106"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Poborubarumu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/FrontierGen-Poborubarumu_Render_002.png/revision/latest?cb=20141118212429"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Rathian do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/2ndGen-Rathian_Render_001.png/revision/latest?cb=20150502101406"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Rathian_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/60/FrontierGen-HC_Rathian_Custom_Render_001.png/revision/latest?cb=20210519033149"
@@ -60,7 +60,7 @@ end
 end
       command :Rathian_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4d/MHF2-Rathian_Render_001.png/revision/latest?cb=20150303011408"

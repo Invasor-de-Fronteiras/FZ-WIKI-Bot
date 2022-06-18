@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Odibatorasu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/ff/FrontierGen-Odibatorasu_Render_001.png/revision/latest?cb=20140821085756"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Odibatorasu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/62/FrontierGen-HC_Odibatorasu_Render_001.png/revision/latest?cb=20160129144138"

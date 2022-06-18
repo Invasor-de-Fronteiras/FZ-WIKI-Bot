@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Stygian_Jinouga do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/MH3G-Jinouga_Subspecies.png/revision/latest?cb=20160709015951"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Stygian_Jinouga_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/42/FrontierGen-Stygian_Zinogre_Render_001.png/revision/latest?cb=20160709020537"

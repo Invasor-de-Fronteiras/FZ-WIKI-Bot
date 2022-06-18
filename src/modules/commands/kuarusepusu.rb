@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Kuarusepusu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Kuarusepusu_Render_002.png/revision/latest?cb=20140831152606"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Kuarusepusu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Kuarusepusu_Render_001.png/revision/latest?cb=20141118220620"
@@ -60,7 +60,7 @@ end
 end
       command :Kuarusepusu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/Kuarusepusu.png/revision/latest?cb=20120523192041"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Pariapuria do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Pariapuria_Render_001.png/revision/latest?cb=20140810150419"
@@ -40,7 +40,7 @@ module Bot::DiscordCommands
 end
       command :Pariapuria_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/29/FrontierGen-Supremacy_Pariapuria_Render_001.png/revision/latest?cb=20180209190326"
@@ -76,7 +76,7 @@ end
 end
       command :Pariapuria_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-HC_Pariapuria_Render_001.png/revision/latest?cb=20140112104307"

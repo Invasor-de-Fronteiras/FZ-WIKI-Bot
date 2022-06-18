@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Seregios do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/24/MH4U-Seregios_Render_001.png/revision/latest?cb=20140906113402"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Seregios_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/FrontierGen-Seregios_Render_001.png/revision/latest?cb=20180330122417"

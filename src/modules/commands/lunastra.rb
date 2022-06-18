@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Lunastra do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a4/2ndGen-Lunastra_Render_001.png/revision/latest?cb=20150303040807"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Lunastra_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/FrontierGen-HC_Lunastra_Render_001.png/revision/latest?cb=20141118215930"
@@ -84,7 +84,7 @@ end
 end
       command :Lunastra_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f8/MHW-Lunastra_Render_001.png/revision/latest?cb=20180530122508"

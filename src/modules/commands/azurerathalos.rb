@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Azure_Rathalos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/MHG-Azure_Rathalos_Render_002.png/revision/latest?cb=20141116105848"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Azure_Rathalos_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/df/FrontierGen-HC_Azure_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115191049"
@@ -60,7 +60,7 @@ end
 end
       command :Azure_Rathalos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/MHF1-Azure_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140112114616"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Cephadrome do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/1stGen-Cephadrome_and_Cephalos_Render_001.gif/revision/latest?cb=20131228064833"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Cephadrome_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/84/FrontierGen-HC_Cephadrome_Render_001.png/revision/latest?cb=20140817144054"
@@ -60,7 +60,7 @@ end
 end
       command :Cephadrome_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/66/2ndGen-Cephadrome_Render_001.png/revision/latest?cb=20150303005421"

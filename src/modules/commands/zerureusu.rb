@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Zerureusu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bd/FrontierGen-Zerureusu_Render_001.png/revision/latest?cb=20140324133444"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Zerureusu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Zerureusu_Render_003.png/revision/latest?cb=20140404222842"

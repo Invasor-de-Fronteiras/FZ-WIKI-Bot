@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Musou_Mi_Ru do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904048955141283870/8a224a1cgy1gbu04xc28qj20px0c50vh-removebg-preview.png"

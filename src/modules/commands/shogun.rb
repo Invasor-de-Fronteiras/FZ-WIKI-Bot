@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Shogun do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/2ndGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150303032835"
@@ -42,7 +42,7 @@ module Bot::DiscordCommands
 end
       command :Shogun_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/FrontierGen-HC_Shogun_Ceanataur_Render_001.png/revision/latest?cb=20140902022337"
@@ -80,7 +80,7 @@ end
 end
       command :Shogun_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150903093537"

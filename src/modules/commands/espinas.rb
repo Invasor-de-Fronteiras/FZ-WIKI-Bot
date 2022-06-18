@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Espinas do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-Espinas_Render_002.png/revision/latest?cb=20140906060229"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Espinas_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-HC_Espinas_Render_001.png/revision/latest?cb=20140902030252"
@@ -84,7 +84,7 @@ end
 end
       command :Espinas_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/eb/FrontierGen-Espinas_Render_004.png/revision/latest?cb=20131223200842"

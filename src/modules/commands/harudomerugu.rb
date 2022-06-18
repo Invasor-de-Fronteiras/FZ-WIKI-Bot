@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Harudomerugu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/32/FrontierGen-Harudomerugu_Render_001.png/revision/latest?cb=20150411032524"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Harudomerugu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Harudomerugu_Render_003.png/revision/latest?cb=20200319135311"

@@ -4,7 +4,7 @@ module Bot::DiscordCommands
       
       command :Raviente do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/09/FrontierGen-Laviente_Render_001.png/revision/latest?cb=20140906030804"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Violent_Raviente do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Violent_Laviente_Render_001.png/revision/latest?cb=20140731004101"
@@ -84,7 +84,7 @@ end
 end
       command :Berserk_Raviente do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/FrontierGen-Berserk_Laviente_Render_001.png/revision/latest?cb=20151208191613"
@@ -170,7 +170,7 @@ end
 end
       command :Musou_Raviente do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/17/FrontierGen-Berserk_Laviente_Render_002.png/revision/latest?cb=20151208192235"

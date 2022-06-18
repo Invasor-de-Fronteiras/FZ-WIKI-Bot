@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :White_Hypnoc do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20140906074340"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :White_Hypnoc_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-HC_Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20151208205956"

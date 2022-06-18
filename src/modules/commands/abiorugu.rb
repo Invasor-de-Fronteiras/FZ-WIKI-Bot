@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Abiorugu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
         else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Abiorugu_Render_001.png/revision/latest/scale-to-width-down/350?cb=20140831155147"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Abiorugu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-HC_Abiorugu_Render_001.png/revision/latest?cb=20150722094608"
@@ -130,7 +130,7 @@ end
 end
       command :Abiorugu_G do  |msg|
       server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.send "🤡"
         else
       # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8b/FrontierGen-Abiorugu_Render_004.png/revision/latest/scale-to-width-down/185?cb=20140121152414"

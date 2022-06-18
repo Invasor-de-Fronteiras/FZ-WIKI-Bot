@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Ray_Gougarf do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
@@ -40,7 +40,7 @@ module Bot::DiscordCommands
 end
       command :Ray_Gougarf_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"

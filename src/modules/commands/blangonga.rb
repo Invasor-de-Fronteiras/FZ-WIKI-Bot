@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Blangonga do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/02/2ndGen-Blangonga_and_Blango_Render_001.png/revision/latest?cb=20150303040204"
@@ -30,7 +30,7 @@ module Bot::DiscordCommands
 end
       command :Blangonga_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e9/FrontierGen-HC_Blangonga_Render_001_%28Edited%29.png/revision/latest?cb=20140116152209"
@@ -56,7 +56,7 @@ end
 end
       command :Blangonga_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/Blangonga.png/revision/latest?cb=20091208195306"

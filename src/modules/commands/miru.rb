@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Mi_Ru do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Mi_Ru_Render_001.png/revision/latest?cb=20200319135311"

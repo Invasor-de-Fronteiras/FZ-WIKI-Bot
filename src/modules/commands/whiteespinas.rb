@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :White_Espinas do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/91/FrontierGen-Espinas_Rare_Species_Render_001.png/revision/latest?cb=20140118104031"
@@ -56,7 +56,7 @@ module Bot::DiscordCommands
 end
       command :White_Espinas_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/aa/FrontierGen-HC_Espinas_Rare_Species_Render_001.png/revision/latest?cb=20140718113503"

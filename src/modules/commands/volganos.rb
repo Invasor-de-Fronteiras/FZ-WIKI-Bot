@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Volganos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/2ndGen-Lavasioth_Render_001.png/revision/latest?cb=20150303083223"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Volganos_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2c/FrontierGen-HC_Lavasioth_Render_001_%28Edited%29.png/revision/latest?cb=20140119100411"
@@ -60,7 +60,7 @@ end
 end
       command :Volganos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Lavasioth_Render_001.png/revision/latest?cb=20140906062818"

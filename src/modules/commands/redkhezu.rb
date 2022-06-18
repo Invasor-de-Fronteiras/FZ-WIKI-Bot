@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Red_Khezu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0d/MHF1-Red_Khezu_Render_001_%28Edited%29.png/revision/latest?cb=20140114145511"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Red_Khezu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/FrontierGen-HC_Red_Khezu_Render_001.png/revision/latest?cb=20131225224806"
@@ -59,7 +59,7 @@ end
     end
       command :Red_Khezu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/MH4-Red_Khezu_Render_001.png/revision/latest?cb=20140106095810"

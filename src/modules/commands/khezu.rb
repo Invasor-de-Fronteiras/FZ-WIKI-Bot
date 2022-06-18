@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Khezu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/MHF2-Khezu_Render_001.png/revision/latest?cb=20150303010414"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Khezu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ea/FrontierGen-HC_Khezu_Render_001.png/revision/latest?cb=20140906152107"
@@ -60,7 +60,7 @@ end
 end
       command :Khezu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/98/Khezu.png/revision/latest?cb=20091210213628"

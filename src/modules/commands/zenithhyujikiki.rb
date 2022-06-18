@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Zenith_Hyujikiki do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b3/FrontierGen-Zenith_Hyujikiki_Render_001.png/revision/latest?cb=20170424072622"

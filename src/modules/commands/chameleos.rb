@@ -4,7 +4,7 @@ module Bot::DiscordCommands
       
       command :Chameleos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/dd/2ndGen-Chameleos_Render_001.png/revision/latest?cb=20150303014403"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Chameleos_HR5 do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-HC_Chameleos_Render_001.png/revision/latest?cb=20140902033731"
@@ -84,7 +84,7 @@ end
 end
       command :Chameleos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/MHO-Chameleos_Render_001.png/revision/latest?cb=20160609142207"

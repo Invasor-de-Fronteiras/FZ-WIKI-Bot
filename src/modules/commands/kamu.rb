@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Kamu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ec/FrontierGen-Kamu_Orugaron_Render_001.png/revision/latest?cb=20140906032225"
@@ -50,7 +50,7 @@ module Bot::DiscordCommands
 end
       command :Kamu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/FrontierGen-HC_Kamu_Orugaron_Render_001.png/revision/latest?cb=20140810164506"
@@ -96,7 +96,7 @@ end
 end
       command :Kamu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-Kamu_Orugaron_Render_005.png/revision/latest?cb=20140906042337"

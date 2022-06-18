@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :White_Fatalis do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2f/2ndGen-White_Fatalis_Render_001.png/revision/latest?cb=20130502195549"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :White_Fatalis_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904450553915011172/FrontierGen-G_White_Fatalis_Screenshot_003-removebg-preview.png"

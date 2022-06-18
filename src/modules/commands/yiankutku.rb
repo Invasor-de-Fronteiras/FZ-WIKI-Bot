@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Kutku do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8f/MHF1-Yian_Kut-Ku_Render_001_%28Edited%29.png/revision/latest?cb=20140112190741"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Kutku_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-HC_Yian_Kut-Ku_Render_001_%28Edited%29.png/revision/latest?cb=20140119100346"
@@ -60,7 +60,7 @@ end
 end
       command :Kutku_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/2ndGen-Yian_Kut-Ku_Render_001.png/revision/latest?cb=20150304080521"

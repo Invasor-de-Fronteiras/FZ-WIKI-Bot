@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Brachydios do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/MH3U-Brachydios_Render_001.png/revision/latest?cb=20140102172145"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Brachydios_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/FrontierGen-Brachydios_Render_001.png/revision/latest?cb=20151009145415"

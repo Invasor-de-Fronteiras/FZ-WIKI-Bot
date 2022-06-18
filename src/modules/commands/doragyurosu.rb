@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Doragyurosu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Doragyurosu_Render_001.png/revision/latest?cb=20140903210832"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Doragyurosu_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/05/FrontierGen-Supremacy_Doragyurosu_Render_001.png/revision/latest?cb=20140821081442"
@@ -107,7 +107,7 @@ end
 end
       command :Doragyurosu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f0/FrontierGen-HC_Doragyurosu_Render_001.png/revision/latest?cb=20140831213142"

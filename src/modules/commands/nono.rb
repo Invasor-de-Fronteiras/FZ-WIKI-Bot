@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Nono do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c6/FrontierGen-Nono_Orugaron_Render_001.png/revision/latest?cb=20140906043219"
@@ -50,7 +50,7 @@ module Bot::DiscordCommands
 end
       command :Nono_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6d/FrontierGen-HC_Nono_Orugaron_Render_001.png/revision/latest?cb=20140810165236"
@@ -96,7 +96,7 @@ end
 end
       command :Nono_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0b/FrontierGen-Nono_Orugaron_Render_002.png/revision/latest?cb=20140906044820"

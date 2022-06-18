@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Guanzorumu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
@@ -67,7 +67,7 @@ module Bot::DiscordCommands
 end
       command :Guanzorumu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"

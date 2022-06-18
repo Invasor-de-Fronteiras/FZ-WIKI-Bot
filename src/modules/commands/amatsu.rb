@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Amatsu do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHP3-Amatsu_Render_001.png/revision/latest?cb=20140513014804"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Amatsu_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/35/FrontierGen-Amatsu_Render_001.png/revision/latest?cb=20171013102238"

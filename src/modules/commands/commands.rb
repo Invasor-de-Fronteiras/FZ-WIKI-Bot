@@ -13,7 +13,7 @@ module Bot::DiscordCommands
         end
          command :Ajuda do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
           msg.respond "```Para utilizar o bot use o prefixo mhf! seguido do nome do monstro. Ex: mhf!Abiorugu
@@ -44,7 +44,7 @@ Qualquer erro ou problema relatar a Malckyor#8043 ou Doratrice#5957.
         end
          command :Monsters do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
           msg.respond "Complete list with all big monsters, remember to use the suffixes **_HR** **_G** **Musou_** and **Zenith_** to find them all! 

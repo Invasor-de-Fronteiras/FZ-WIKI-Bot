@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Rathalos do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/MHF1-Rathalos_Render_001.png/revision/latest?cb=20201202211244"
@@ -32,7 +32,7 @@ module Bot::DiscordCommands
 end
       command :Rathalos_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/71/FrontierGen-HC_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115185525"
@@ -60,7 +60,7 @@ end
 end
       command :Rathalos_G do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"

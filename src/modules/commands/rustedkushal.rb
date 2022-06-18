@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Rusted_Kushal do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/2ndGen-Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20150303073214"
@@ -44,7 +44,7 @@ module Bot::DiscordCommands
 end
       command :Rusted_Kushal_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20140906152602"

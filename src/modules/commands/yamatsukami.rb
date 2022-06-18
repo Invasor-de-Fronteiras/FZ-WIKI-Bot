@@ -4,7 +4,7 @@ module Bot::DiscordCommands
 
       command :Yamatsukami do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/2ndGen-Yama_Tsukami_Render_002.png/revision/latest?cb=20150304001404"
@@ -33,7 +33,7 @@ module Bot::DiscordCommands
 end
       command :Yamatsukami_HR do  |msg|
         server = msg.server
-        if server == "819985425678204958"
+        if server == "932712097517822012"
           msg.respond "🤡"
   else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/de/FrontierGen-Yama_Tsukami_Render_001.png/revision/latest?cb=20140307150015"
