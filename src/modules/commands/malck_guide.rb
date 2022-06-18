@@ -3,7 +3,7 @@ module Bot::DiscordCommands
       extend Discordrb::Commands::CommandContainer
       command :Malck_Guide do |event|
         event.respond "Some good sets from LR to HR"
-        event.send_file (File.open('mai-bot-mhfz\src\modules\files\MSG.pdf', 'r'))
+        event.send_file (File.open('app\src\modules\files\MSG.pdf', 'r'))
       end
     end
   end

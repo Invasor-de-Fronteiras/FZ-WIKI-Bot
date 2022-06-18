@@ -2,13 +2,13 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Hantzu do |event|
-      server == event.server
-      if server = "819985425678204958"
-      event.send "🤡"
+      command :Hantzu do |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
       else
-      event.send "Can i feed my Halk with my tears?
-                            v 0.0.2.9o"
+      msg.send "Can i feed my Halk with my tears?
+                            v 0.0.2.9p"
 
       end
     end
