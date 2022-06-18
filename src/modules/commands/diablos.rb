@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Diablos do |msg|
+      command :Diablos do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bb/2ndGen-Diablos_Render_001.png/revision/latest?cb=20150304003211"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906199107054481408/diablos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          30    35     35      0       5    15    15    10     0
     ```"
 
+      end
 end
-      command :Diablos_HR do |msg|
+      command :Diablos_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2d/FrontierGen-HC_Diablos_Render_001_%28Edited%29.png/revision/latest?cb=20140114190237"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906199380179177503/diabloshr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          30    35     30     10      -5     0     0     5     0
     ```"
 
+      end
 end
-      command :Diablos_G do |msg|
+      command :Diablos_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/Diablos.png/revision/latest?cb=20091205202122"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906199107054481408/diablos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          30    35     25      0       5    15    10     5     0
     ```"
 
+      end
 end
     end
 end

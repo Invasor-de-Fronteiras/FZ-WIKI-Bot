@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenith_Akura_Vashimu do |msg|
+      command :Zenith_Akura_Vashimu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Zenith_Akura_Vashimu_Render_001.png/revision/latest?cb=20161105120356"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906350381066514482/zenith_akuravashimu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -60,5 +64,6 @@ module Bot::DiscordCommands
     ```"
 
       end
+end
     end
 end

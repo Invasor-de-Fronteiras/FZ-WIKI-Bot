@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Rathian do |msg|
+      command :Rathian do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/2ndGen-Rathian_Render_001.png/revision/latest?cb=20150502101406"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906260483110227988/rathian.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          45    40     50      0       5    10     5     5     0
     ```"
 
+      end
 end
-      command :Rathian_HR do |msg|
+      command :Rathian_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/60/FrontierGen-HC_Rathian_Custom_Render_001.png/revision/latest?cb=20210519033149"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906260741085077504/rathianhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          30    50     35      0      -5    -5     0     0     0
     ```"
 
+      end
 end
-      command :Rathian_G do |msg|
+      command :Rathian_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4d/MHF2-Rathian_Render_001.png/revision/latest?cb=20150303011408"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906260483110227988/rathian.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          25    35     30      0       5    10     5     5     0
     ```"
 
+      end
 end
     end
 end

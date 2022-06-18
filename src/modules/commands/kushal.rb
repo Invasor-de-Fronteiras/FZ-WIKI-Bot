@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Kushal_Daora do |msg|
+      command :Kushal_Daora do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9d/FrontierGen-Kushala_Daora_Render_001.png/revision/latest?cb=20140907125051"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228334982225970/kushaladaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Wings         20    15     20      5       0    20    10     0     0
     ```"
 
+      end
 end
-      command :Kushal_Daora_HR do |msg|
+      command :Kushal_Daora_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/14/FrontierGen-HC_Kushala_Daora_Render_001.png/revision/latest?cb=20140810162851"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228334982225970/kushaladaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ end
     \n   Wings         15    10     15      0       0    15    10     0     0
     ```"
 
+      end
 end
-      command :Kushal_Daora_G do |msg|
+      command :Kushal_Daora_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Kushala_Daora_Render_003.png/revision/latest?cb=20141214142406"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228334982225970/kushaladaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -106,6 +120,7 @@ end
     \n   Wings         15    25     25      0       0    20    10     0     0
     ```"
 
+      end
 end
     end
 end

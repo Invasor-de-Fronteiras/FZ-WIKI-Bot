@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gypceros do |msg|
+      command :Gypceros do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a8/1stGen-Gypceros_Render_001.gif/revision/latest?cb=20131228011523"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906216706219835482/gypceros.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          25    25     30     10      10     0    10    10     0
     ```"
 
+      end
 end
-      command :Gypceros_HR do |msg|
+      command :Gypceros_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3c/FrontierGen-HC_Gypceros_Render_001.png/revision/latest?cb=20140906151333"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906216706219835482/gypceros.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          20    20     20      0       5     0     0     0     0
     ```"
 
+      end
 end
-      command :Gypceros_G do |msg|
+      command :Gypceros_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/MHF2-Gypceros_Render_001.png/revision/latest?cb=20150303002937"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906216706219835482/gypceros.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          25    30     30     10      10     0    10    10     0
     ```"
 
+      end
 end
     end
 end

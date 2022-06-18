@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Voljang do |msg|
+      command :Voljang do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906294032085434439/voljang.png"
     msg.respond "***Based on Cutting Damage!***
@@ -32,8 +36,13 @@ module Bot::DiscordCommands
     \n   Tail          35    30     25      0      15    25     0    25     0
     ```"
 
+      end
 end
-      command :Voljang_G do |msg|
+      command :Voljang_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cd/FrontierGen-Voljang_Render_001.png/revision/latest?cb=20160701073719"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906294032085434439/voljang.png"
     msg.respond "***Based on Cutting Damage!***
@@ -63,6 +72,7 @@ end
     \n   Tail          30    25     20      0      15    25     0    25     0
     ```"
 
+      end
 end
     end
 end

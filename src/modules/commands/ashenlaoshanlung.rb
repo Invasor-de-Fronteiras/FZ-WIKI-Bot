@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Ashen_Lao_Shan do |msg|
+      command :Ashen_Lao_Shan do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8f/MHF1-Ashen_Lao-Shan_Lung_Render_001.png/revision/latest?cb=20140112102232"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904779648729227274/ashenlao-shanlung.png"
     msg.respond "***Based on Cutting Damage!***
@@ -27,4 +31,5 @@ module Bot::DiscordCommands
     
       end
     end
+end
 end

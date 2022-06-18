@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Barioth do |msg|
+      command :Barioth do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d8/3rdGen-Barioth_Render_001.png/revision/latest?cb=20150304014941"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904782030322163722/barioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Tail          28    28     21     15       0    10     5     0     0    
     ```"
 
+      end
 end
-      command :Barioth_G do |msg|
+      command :Barioth_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3a/FrontierGen-Barioth_Render_001.png/revision/latest?cb=20151208190134"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904782030322163722/barioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,6 +56,7 @@ end
     \n   Tail          28    28     21     15       0    10     5     0     0    
     ```"
 
+      end
 end
     end
 end

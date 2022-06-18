@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Espinas do |msg|
+      command :Espinas do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-Espinas_Render_002.png/revision/latest?cb=20140906060229"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906204615371030548/espinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Legs          20    20     40      0       5     5     5    10     0
     ```"
 
+      end
 end
-      command :Espinas_HR do |msg|
+      command :Espinas_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-HC_Espinas_Render_001.png/revision/latest?cb=20140902030252"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906204615371030548/espinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ end
     \n   Legs          20    20     25      0       5    -5     0     5     0
     ```"
 
+      end
 end
-      command :Espinas_G do |msg|
+      command :Espinas_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/eb/FrontierGen-Espinas_Render_004.png/revision/latest?cb=20131223200842"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906204615371030548/espinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -106,6 +120,7 @@ end
     \n   Legs          20    30     30      0       5     5     5    10     0
     ```"
 
+      end
 end
-    end
+end
 end

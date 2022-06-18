@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Doragyurosu do |msg|
+      command :Doragyurosu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Doragyurosu_Render_001.png/revision/latest?cb=20140903210832"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906201564379754556/doragyurosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          55    35     40     15       5     0     0     0     0
     ```"
 
+      end
 end
-      command :Doragyurosu_HR do |msg|
+      command :Doragyurosu_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/05/FrontierGen-Supremacy_Doragyurosu_Render_001.png/revision/latest?cb=20140821081442"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906201564379754556/doragyurosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -94,8 +103,13 @@ end
     \n   Tail          55    35     20     15       5     0     0     0     0   
     ```"
 
+      end
 end
-      command :Doragyurosu_G do |msg|
+      command :Doragyurosu_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f0/FrontierGen-HC_Doragyurosu_Render_001.png/revision/latest?cb=20140831213142"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906201564379754556/doragyurosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -129,6 +143,7 @@ end
     \n   Tail          50    30     30     10       5     0     0     0     0
     ```"
 
+      end
 end
     end
 end

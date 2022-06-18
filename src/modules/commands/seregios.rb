@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Seregios do |msg|
+      command :Seregios do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/24/MH4U-Seregios_Render_001.png/revision/latest?cb=20140906113402"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267827990822943/seregios.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          30    25     20      0       5    10     5     5     0
     ```"
 
+      end
 end
-      command :Seregios_G do |msg|
+      command :Seregios_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/FrontierGen-Seregios_Render_001.png/revision/latest?cb=20180330122417"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267827990822943/seregios.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Tail          25    15     15      0       5    10     5     5     0
     ```"
 
+      end
 end
     end
 end

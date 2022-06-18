@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Yamatsukami do |msg|
+      command :Yamatsukami do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/2ndGen-Yama_Tsukami_Render_002.png/revision/latest?cb=20150304001404"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
     msg.respond "***Based on Cutting Damage!***
@@ -25,8 +29,13 @@ module Bot::DiscordCommands
     \n   Tentacles     50    40     20      0       0     0    20    30     0
     ```"
 
+      end
 end
-      command :Yamatsukami_HR do |msg|
+      command :Yamatsukami_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/de/FrontierGen-Yama_Tsukami_Render_001.png/revision/latest?cb=20140307150015"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906299336340693053/yamakurai.png"
     msg.respond "***Based on Cutting Damage!***
@@ -60,6 +69,7 @@ end
     \n   Tentacles     40    50     15      0       0    15    10     0     0
     ```"
 
+      end
 end
     end
 end

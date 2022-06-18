@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Anorupatisu do |msg|
+      command :Anorupatisu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7c/FrontierGen-Anorupatisu_Render_002.png/revision/latest?cb=20140819101554"
         msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/904525638310965288/anorupatisu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -37,5 +41,6 @@ module Bot::DiscordCommands
     ```"
 
       end
+end
     end
 end

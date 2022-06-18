@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenith_Gasurabazura do |msg|
+      command :Zenith_Gasurabazura do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/Frontier_Gen-Zenith_Gasurabazura_Render_001.png/revision/latest?cb=20180406162212"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906339632898244618/zenith_gasurabazura.png"
     msg.respond "***Based on Cutting Damage!***
@@ -37,5 +41,6 @@ module Bot::DiscordCommands
     ```"
 
       end
+end
     end
 end

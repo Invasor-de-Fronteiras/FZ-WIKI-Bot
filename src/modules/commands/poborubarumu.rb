@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Poborubarumu do |msg|
+      command :Poborubarumu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Poborubarumu_Render_001.png/revision/latest?cb=20141118212106"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256825450651739/poborubarumu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n  Wing Membr.    40    35     40      5       0    10     0     0     0
     ```"
 
+      end
 end
-      command :Poborubarumu_G do |msg|
+      command :Poborubarumu_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/FrontierGen-Poborubarumu_Render_002.png/revision/latest?cb=20141118212429"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256825450651739/poborubarumu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,6 +56,7 @@ end
     \n  Wing Membr.    35    30     30      5       0    10     0     0     0
     ```"
 
+      end
 end
     end
 end

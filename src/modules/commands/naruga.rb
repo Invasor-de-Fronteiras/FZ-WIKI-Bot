@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Nargacuga do |msg|
+      command :Nargacuga do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/2ndGen-Nargacuga_Render_001.png/revision/latest?cb=20150303084110"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240355794575370/nargacuga.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail Tip      20    20     25     25       5    30    10    10     0
     ```"
 
+      end
 end
-      command :Nargacuga_G do |msg|
+      command :Nargacuga_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Nargacuga_Render_001.png/revision/latest?cb=20160415160532"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906240355794575370/nargacuga.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Tail Tip      18    18     22     25       5    30    10    10     0
     ```"
 
+      end
 end
     end
 end

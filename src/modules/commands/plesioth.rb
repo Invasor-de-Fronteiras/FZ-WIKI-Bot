@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Plesioth do |msg|
+      command :Plesioth do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9f/2ndGen-Plesioth_Render_001.png/revision/latest?cb=20150304005157"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256156962459668/plesioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          50    40     30     10       0    10     5     5     0
     ```"
 
+      end
 end
-      command :Plesioth_HR do |msg|
+      command :Plesioth_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/48/FrontierGen-HC_Plesioth_Render_001_%28Edited%29.png/revision/latest?cb=20140115184648"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256420943593512/plesiothhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          40    35     30     -5       0     5    10     5     0
     ```"
 
+      end
 end
-      command :Plesioth_G do |msg|
+      command :Plesioth_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-Plesioth_Render_001.png/revision/latest?cb=20140118120510"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906256156962459668/plesioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          40    35     30      5       0     5     5     5     0
     ```"
 
+      end
 end
     end
 end

@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gasurabazura do |msg|
+      command :Gasurabazura do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b1/FrontierGen-Gasurabazura_Render_001.png/revision/latest?cb=20150722093611"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207752894959678/gasurabazura.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Back          50    30     60      0       0    10     0     5     0
     ```"
 
+      end
 end
-      command :Gasurabazura_G do |msg|
+      command :Gasurabazura_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7b/FrontierGen-Gasurabazura_Render_002.png/revision/latest?cb=20150722092854"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207752894959678/gasurabazura.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Back          40    20     50      0       0     5     0     5     0
     ```"
 
+      end
 end
     end
 end

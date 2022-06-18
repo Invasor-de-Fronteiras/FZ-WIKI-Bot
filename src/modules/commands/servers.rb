@@ -1,10 +1,12 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-      command :Servers do |msg|
+      command :Servers do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         msg.respond "Servers hosted by the community:
-
-<:allysexy:944007427865583646> This is Spectra's: https://discord.gg/YtbzG7pXaF
 
 ❤️ This is Not_52's: https://discord.gg/mPT76FNTES
         
@@ -14,3 +16,4 @@ module Bot::DiscordCommands
       end
     end
   end
+end

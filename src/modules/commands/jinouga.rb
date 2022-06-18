@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Jinouga do |msg|
+      command :Jinouga do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         #msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/FrontierGen-Zinogre_Render_001.png/revision/latest?cb=20150722093909"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906221323074818059/zinogre.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          21    19     10      7      10     0     5    12     0
     ```"
 
+      end
 end
-      command :Jinouga_G do |msg|
+      command :Jinouga_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/MHP3-Zinogre_Render_004.png/revision/latest?cb=20150722094135"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906221323074818059/zinogre.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Tail          15    13     10      7      10     0     5    12     0
     ```"
 
+      end
 end
     end
 end

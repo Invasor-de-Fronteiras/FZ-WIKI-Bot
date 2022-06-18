@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Harudomerugu do |msg|
+      command :Harudomerugu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/32/FrontierGen-Harudomerugu_Render_001.png/revision/latest?cb=20150411032524"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906217499626971176/harudomerugu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   R.Forelegs    50    50     40     40       0    15    45     0     0
     ```"
 
+      end
 end
-      command :Harudomerugu_G do |msg|
+      command :Harudomerugu_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Harudomerugu_Render_003.png/revision/latest?cb=20200319135311"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906217499626971176/harudomerugu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   R.Forelegs    50    50     40     40       0    15    45     0     0
     ```"
 
+      end
 end
     end
 end

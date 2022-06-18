@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gore_Magala do |msg|
+      command :Gore_Magala do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1e/MH4-Gore_Magala_Render_001.png/revision/latest?cb=20140120060906"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211554524028958/goremagala.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          45    45     40     10       0    10     5     5     0
     ```"
 
+      end
 end
-      command :Gore_Magala_G do |msg|
+      command :Gore_Magala_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-True_Frenzy_Gore_Magala_Render_001.png/revision/latest?cb=20161021044840"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211554524028958/goremagala.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Tail          25    17     28     10       0     5     5     5     0
     ```"
 
+      end
 end
     end
 end

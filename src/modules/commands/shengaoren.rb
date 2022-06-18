@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Shen_Gaoren do |msg|
+      command :Shen_Gaoren do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906278047190253578/shengaoren.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n  Core/Inside    80    90     80     30       5    20   100     5     0
     ```"
 
+      end
 end
-      command :Shen_Gaoren_HR do |msg|
+      command :Shen_Gaoren_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/2ndGen-Shen_Gaoren_Render_001.png/revision/latest?cb=20150303032439"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906277888704270406/shengaorenhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,6 +56,7 @@ end
     \n  Core/Inside    60    60     70     10       5     0    20     5     0
     ```"
 
+      end
 end
     end
 end

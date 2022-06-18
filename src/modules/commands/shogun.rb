@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Shogun do |msg|
+      command :Shogun do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b2/2ndGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150303032835"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906281644271497248/shogunceanataur.png"
     msg.respond "***Based on Cutting Damage!***
@@ -34,8 +38,13 @@ module Bot::DiscordCommands
     \n   Arms          30    35     25      5       5    15     0    10     0
     ```"
 
+      end
 end
-      command :Shogun_HR do |msg|
+      command :Shogun_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e4/FrontierGen-HC_Shogun_Ceanataur_Render_001.png/revision/latest?cb=20140902022337"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282180475486228/shogunceanataurhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -67,8 +76,13 @@ end
     \n   Arms          30    35     20      5       5     0     0     5     0
     ```"
 
+      end
 end
-      command :Shogun_G do |msg|
+      command :Shogun_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/77/MHGen-Shogun_Ceanataur_Render_001.png/revision/latest?cb=20150903093537"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906281644271497248/shogunceanataur.png"
     msg.respond "***Based on Cutting Damage!***
@@ -100,6 +114,7 @@ end
     \n   Arms          30    35     30      5       5    15     0    10     0
     ```"
 
+      end
 end
     end
 end

@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gogomoa do |msg|
+      command :Gogomoa do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Gogomoa_Render_001.png/revision/latest?cb=20140106201408"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
     msg.respond "***Based on Cutting Damage!***
@@ -42,8 +46,13 @@ module Bot::DiscordCommands
     \n   Tail          245  195     80     15       5    10     0    20     0
     ```"
 
+      end
 end
-      command :Gogomoa_HR do |msg|
+      command :Gogomoa_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/FrontierGen-HC_Gogomoa_Render_001.png/revision/latest?cb=20140821070646"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
     msg.respond "***Based on Cutting Damage!***
@@ -83,8 +92,13 @@ end
     \n   Tail         140   105     45     10       0     5     0    15     0
     ```"
 
+      end
 end
-      command :Gogomoa_G do |msg|
+      command :Gogomoa_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Gogomoa_Render_002.png/revision/latest?cb=20140106195051"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209197992075284/gogomoa.png"
     msg.respond "***Based on Cutting Damage!***
@@ -124,6 +138,7 @@ end
     \n   Tail         140   105     40     15       5    10     0    25     0
     ```"
 
+      end
 end
     end
 end

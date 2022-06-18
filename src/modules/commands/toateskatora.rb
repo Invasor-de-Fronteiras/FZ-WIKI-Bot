@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Toa_Tesukatora do |msg|
+      command :Toa_Tesukatora do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Toa_Tesukatora_Render_001.png/revision/latest?cb=20160108134719"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906287578339246150/toatesukatora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Tail          45    30     45     25       0    10    20     0     0
     ```" 
   end
+end
 
-    command :Toa_Tesukatora_G do |msg|
+    command :Toa_Tesukatora_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
       # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/87/FrontierGen-Toa_Tesukatora_Render_001.png/revision/latest?cb=20160108134719"
       msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906287578339246150/toatesukatora.png"
   msg.respond "***Based on Cutting Damage!***
@@ -49,4 +58,5 @@ module Bot::DiscordCommands
 
 end
     end
+end
 end

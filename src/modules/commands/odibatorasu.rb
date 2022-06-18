@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Odibatorasu do |msg|
+      command :Odibatorasu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/ff/FrontierGen-Odibatorasu_Render_001.png/revision/latest?cb=20140821085756"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906241405167493120/odibatorasu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Hindlegs      15    20     15      5       5     5    10     5     0
     ```"
 
+      end
 end
-      command :Odibatorasu_G do |msg|
+      command :Odibatorasu_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/62/FrontierGen-HC_Odibatorasu_Render_001.png/revision/latest?cb=20160129144138"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906241405167493120/odibatorasu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Hindlegs      15    20     15      5       5     5    10     5     0
     ```"
 
+      end
 end
     end
 end

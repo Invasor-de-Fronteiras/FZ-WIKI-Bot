@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
       
-      command :Chameleos do |msg|
+      command :Chameleos do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/dd/2ndGen-Chameleos_Render_001.png/revision/latest?cb=20150303014403"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905171486145413170/chameleos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          15    15     15      0       0    10     5    10     0
     ```"
 
+      end
 end
-      command :Chameleos_HR5 do |msg|
+      command :Chameleos_HR5 do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-HC_Chameleos_Render_001.png/revision/latest?cb=20140902033731"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905171486145413170/chameleos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ end
     \n   Tail          15    15     15      5       0     5    -5    15     0
     ```"
 
+      end
 end
-      command :Chameleos_G do |msg|
+      command :Chameleos_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/MHO-Chameleos_Render_001.png/revision/latest?cb=20160609142207"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905171486145413170/chameleos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -106,6 +120,7 @@ end
     \n   Tail          15    22     15      5       0    25     5    10     0
     ```"
 
+      end
 end
     end
 end

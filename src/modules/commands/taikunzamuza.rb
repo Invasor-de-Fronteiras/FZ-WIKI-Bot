@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Taikun_Zamuza do |msg|
+      command :Taikun_Zamuza do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8e/FrontierGen-Taikun_Zamuza_Render_001.png/revision/latest?cb=20140831164324"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906284727907020860/taikunzamuza.png"
     msg.respond "***Based on Cutting Damage!***
@@ -44,8 +48,13 @@ module Bot::DiscordCommands
     \n   L.Claw        70    55     60      5      30     0     0    10     0  
     ```"
 
+      end
 end
-      command :Taikun_Zamuza_HR do |msg|
+      command :Taikun_Zamuza_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/11/FrontierGen-Taikun_Zamuza_Render_002.png/revision/latest?cb=20140821094339"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906284727907020860/taikunzamuza.png"
     msg.respond "***Based on Cutting Damage!***
@@ -87,6 +96,7 @@ end
     \n   L.Claw        55    55     40      5      20     0     0     5     0  
     ```"
 
+      end
 end
     end
 end

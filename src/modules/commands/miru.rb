@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Mi_Ru do |msg|
+      command :Mi_Ru do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/07/FrontierGen-Mi_Ru_Render_001.png/revision/latest?cb=20200319135311"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906232698488631296/miru.png"
         msg.respond "***Based on Cutting Damage! Hybrid Mode (White)***
@@ -106,6 +110,7 @@ module Bot::DiscordCommands
     \n   Tail Tip      30    10     35      5       5     5     5     5     0   
     ```"
 
+      end
 end
     end
 end

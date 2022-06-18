@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Musou_Duremudira do |msg|
+      command :Musou_Duremudira do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904439625915981884/maxresdefault-removebg-preview.png"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906235521326518302/duremudiramusou.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,6 +28,7 @@ module Bot::DiscordCommands
     \n   Wings         25    20     15     10       5     0    15    20     0
     ```"
 
+      end
 end
     end
 end

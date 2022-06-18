@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Amatsu do |msg|
+      command :Amatsu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHP3-Amatsu_Render_001.png/revision/latest?cb=20140513014804"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904524368573517864/amatsu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -37,7 +41,12 @@ module Bot::DiscordCommands
     ```"
 
       end
-      command :Amatsu_G do |msg|
+end
+      command :Amatsu_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/35/FrontierGen-Amatsu_Render_001.png/revision/latest?cb=20171013102238"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904524938369728555/amatsug.png"
     msg.respond "***Based on Cutting Damage!***
@@ -75,4 +84,5 @@ module Bot::DiscordCommands
   
       end
     end
+end
 end

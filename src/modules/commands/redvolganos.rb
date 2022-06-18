@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Red_Volganos do |msg|
+      command :Red_Volganos do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a7/FrontierGen-Lavasioth_Subspecies_Render_001.png/revision/latest?cb=20140906064452"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264732946804806/redlavasioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          20    40     20      0       5     5    10     5     0
     ```"
 
+      end
 end
-      command :Red_Volganos_HR do |msg|
+      command :Red_Volganos_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8a/FrontierGen-HC_Lavasioth_Subspecies_Render_001.png/revision/latest?cb=20151208210235"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264993299853423/redlavasiothhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          40    50     30      0       5     5    10     5     0
     ```"
 
+      end
 end
-      command :Red_Volganos_G do |msg|
+      command :Red_Volganos_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ae/FrontierGen-Lavasioth_Subspecies_Render_002.png/revision/latest?cb=20140118103421"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264732946804806/redlavasioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          30    40     20      0       5     5    10     5     0
     ```"
 
+      end
 end
     end
 end

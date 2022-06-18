@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Kamu do |msg|
+      command :Kamu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ec/FrontierGen-Kamu_Orugaron_Render_001.png/revision/latest?cb=20140906032225"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906222414701142066/kamuorugaron.png"
     msg.respond "***Based on Cutting Damage!***
@@ -42,8 +46,13 @@ module Bot::DiscordCommands
     \n   Tail          45    30      5     15      20    10     0     0     0
     ```"
 
+      end
 end
-      command :Kamu_HR do |msg|
+      command :Kamu_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/FrontierGen-HC_Kamu_Orugaron_Render_001.png/revision/latest?cb=20140810164506"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906222414701142066/kamuorugaron.png"
     msg.respond "***Based on Cutting Damage!***
@@ -83,8 +92,13 @@ end
     \n   Tail          35    30      5     10      20     5     0     0     0
     ```"
 
+      end
 end
-      command :Kamu_G do |msg|
+      command :Kamu_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d4/FrontierGen-Kamu_Orugaron_Render_005.png/revision/latest?cb=20140906042337"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906222414701142066/kamuorugaron.png"
     msg.respond "***Based on Cutting Damage!***
@@ -142,6 +156,7 @@ end
     \n   Tail          20    10     15     20      10    10     0     0     0
     ```"
 
+      end
 end
     end
 end

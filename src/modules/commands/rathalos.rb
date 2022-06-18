@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Rathalos do |msg|
+      command :Rathalos do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/MHF1-Rathalos_Render_001.png/revision/latest?cb=20201202211244"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906259196717174814/rathalos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          45    50     40      0      10     5     5    20     0
     ```"
 
+      end
 end
-      command :Rathalos_HR do |msg|
+      command :Rathalos_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/71/FrontierGen-HC_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115185525"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906259652688355398/rathaloshr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          45    30     40      0       0     0    -5     0     0
     ```"
 
+      end
 end
-      command :Rathalos_G do |msg|
+      command :Rathalos_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906259423931015178/rathalosg.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          30    35     25      0      10     5     5    10     0
     ```"
 
+      end
 end
     end
 end

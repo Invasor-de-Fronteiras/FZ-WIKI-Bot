@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
       
-      command :Raviente do |msg|
+      command :Raviente do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/09/FrontierGen-Laviente_Render_001.png/revision/latest?cb=20140906030804"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906261880111263794/raviente.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          30    30     25     20      20    20    20    20     0
     ```"
 
+      end
 end
-      command :Violent_Raviente do |msg|
+      command :Violent_Raviente do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f4/FrontierGen-Violent_Laviente_Render_001.png/revision/latest?cb=20140731004101"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906261880111263794/raviente.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ end
     \n   Tail          30    30     25     20      20    20    20    20     0
     ```"
 
+      end
 end
-      command :Berserk_Raviente do |msg|
+      command :Berserk_Raviente do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/FrontierGen-Berserk_Laviente_Render_001.png/revision/latest?cb=20151208191613"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906262381355757629/berserkraviente.png"
     msg.respond "***Based on Cutting Damage!***
@@ -152,8 +166,13 @@ end
     \n   Tail          10    10     10      0       0     0     0     0     0 
     ```"
 
+      end
 end
-      command :Musou_Raviente do |msg|
+      command :Musou_Raviente do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/17/FrontierGen-Berserk_Laviente_Render_002.png/revision/latest?cb=20151208192235"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906262381355757629/berserkraviente.png"
     msg.respond "***Based on Cutting Damage!***
@@ -233,6 +252,7 @@ end
     \n   Tail          10    10     10      0       0     0     0     0     0  
     ```"
 
+      end
 end
     end
 end

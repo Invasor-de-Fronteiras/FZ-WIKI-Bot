@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gold_Rathian do |msg|
+      command :Gold_Rathian do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1f/MHF1-Gold_Rathian_Render_001.png/revision/latest?cb=20140112101913"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906209962739519508/goldrathian.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          25    40     50      0       5    10     0     5     0
     ```"
 
+      end
 end
-      command :Gold_Rathian_HR do |msg|
+      command :Gold_Rathian_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/37/FrontierGen-HC_Gold_Rathian_Render_001_%28Edited%29.png/revision/latest?cb=20140119100124"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906210433420120124/goldrathianhr5_g.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          25    30     30      5       0     5     0    25     0
     ```"
 
+      end
 end
-      command :Gold_Rathian_G do |msg|
+      command :Gold_Rathian_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-HC_Gold_Rathian_Render_002.png/revision/latest?cb=20140817141831"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906210831426027620/goldrathiang.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          25    40     45      0       5    10     0     5     0
     ```"
 
+      end
 end
     end
 end

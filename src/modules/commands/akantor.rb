@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Akantor do |msg|
+      command :Akantor do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/18/2ndGen-Akantor_Render_001.png/revision/latest?cb=20150304010024"
         msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/904521532687151125/akantor.png"
     msg.respond "***Based on Cutting Damage!***
@@ -37,7 +41,12 @@ module Bot::DiscordCommands
     ```"
 
       end
-      command :Akantor_HR do |msg|
+end
+      command :Akantor_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e9/FrontierGen-HC_Akantor_Render_001_%28Edited%29.png/revision/latest?cb=20140119095939"
         msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/904522911606526062/akantorhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ module Bot::DiscordCommands
     \n   Hindlegs      10    15     10     -5       0     5     0     0     0
     ```"
 
-      end  
-      command :Akantor_G do |msg|
+      end
+end  
+      command :Akantor_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/22/Akantor.png/revision/latest?cb=20130611071547"
         msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/904521532687151125/akantor.png"
     msg.respond "***Based on Cutting Damage!***
@@ -107,5 +121,6 @@ module Bot::DiscordCommands
     ```"
 
       end
+end
     end
 end

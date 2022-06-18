@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Pariapuria do |msg|
+      command :Pariapuria do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Pariapuria_Render_001.png/revision/latest?cb=20140810150419"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906243161079296020/pariapuria.png"
     msg.respond "***Based on Cutting Damage!***
@@ -32,8 +36,13 @@ module Bot::DiscordCommands
     \n   Tail          40    20     75     50       0    40     0     5     0
     ```"
 
+      end
 end
-      command :Pariapuria_HR do |msg|
+      command :Pariapuria_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/29/FrontierGen-Supremacy_Pariapuria_Render_001.png/revision/latest?cb=20180209190326"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906243161079296020/pariapuria.png"
     msg.respond "***Based on Cutting Damage!***
@@ -63,8 +72,13 @@ end
     \n   Tail          30    10     65     20       0    20     0     5     0
     ```"
 
+      end
 end
-      command :Pariapuria_G do |msg|
+      command :Pariapuria_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-HC_Pariapuria_Render_001.png/revision/latest?cb=20140112104307"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906243161079296020/pariapuria.png"
     msg.respond "***Based on Cutting Damage!***
@@ -94,6 +108,7 @@ end
     \n   Tail          55    20     55     50       0    40     0     5     0
     ```"
 
+      end
 end
     end
 end

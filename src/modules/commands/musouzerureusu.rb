@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Musou_Zerureusu do |msg|
+      command :Musou_Zerureusu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bb/FrontierGen-Sparkling_Zerureusu_Render_001.png/revision/latest?cb=20200319135310"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906239356816203776/zerureusumusou.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,6 +28,7 @@ module Bot::DiscordCommands
     \n   Legs          20    20     15      0      10     0    15    15     0
     ```"
 
+      end
 end
     end
 end

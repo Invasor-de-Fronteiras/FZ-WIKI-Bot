@@ -1,7 +1,11 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-        command :Ravi do |msg|
+        command :Ravi do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
             msg.respond "```Great Slaying Chat Commands
 
 1. !ravistart - In order to force the chosen Great Slaying to start.
@@ -28,4 +32,5 @@ The host should use the !setmultiplier command to 4 (because 4 x 4 = 16).
 
         end
     end
+end
 end

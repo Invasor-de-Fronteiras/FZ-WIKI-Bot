@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Akura_Jebia do |msg|
+      command :Akura_Jebia do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c4/FrontierGen-Akura_Jebia_Render_001.png/revision/latest?cb=20140906054814"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906220551750692934/akurajebia.png"
     msg.respond "***Based on Cutting Damage!***
@@ -59,8 +63,13 @@ module Bot::DiscordCommands
     \n   Crystal       20    50     80      0       0     0     0     0     0  
     ```"
 
+      end
 end
-      command :Akura_Jebia_HR do |msg|
+      command :Akura_Jebia_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/68/FrontierGen-HC_Akura_Jebia_Render_001.png/revision/latest?cb=20140423212651"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906220551750692934/akurajebia.png"
     msg.respond "***Based on Cutting Damage!***
@@ -117,8 +126,13 @@ end
     \n   Crystal       20    50     70      0       0     0     0     0     0  
     ```"
 
+      end
 end
-      command :Akura_Jebia_G do |msg|
+      command :Akura_Jebia_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fa/FrontierGen-Akura_Jebia_Render_002.png/revision/latest?cb=20141228122037"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906220551750692934/akurajebia.png"
     msg.respond "***Based on Cutting Damage!***
@@ -175,6 +189,7 @@ end
     \n   Crystal       20    40     70      0       0     0     0     0     0  
     ```"
 
+      end
 end
     end
 end

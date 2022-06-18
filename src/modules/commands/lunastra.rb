@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Lunastra do |msg|
+      command :Lunastra do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a4/2ndGen-Lunastra_Render_001.png/revision/latest?cb=20150303040807"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906230339393978408/lunastra.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Wings         20    15     20      0      20     5    10    10     0
     ```"
 
+      end
 end
-      command :Lunastra_HR do |msg|
+      command :Lunastra_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ef/FrontierGen-HC_Lunastra_Render_001.png/revision/latest?cb=20141118215930"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906230339393978408/lunastra.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ end
     \n   Wings         15    15     20      0       0     5    20     0     0
     ```"
 
+      end
 end
-      command :Lunastra_G do |msg|
+      command :Lunastra_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f8/MHW-Lunastra_Render_001.png/revision/latest?cb=20180530122508"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906230339393978408/lunastra.png"
     msg.respond "***Based on Cutting Damage!***
@@ -106,6 +120,7 @@ end
     \n   Wings         10    20     10      0       5     5     5     0     0
     ```"
 
+      end
 end
     end
 end

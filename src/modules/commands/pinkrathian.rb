@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Pink_Rathian do |msg|
+      command :Pink_Rathian do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/da/MHF1-Pink_Rathian_Render_001.png/revision/latest?cb=20140112101623"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906247765670101062/pinkrathian.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          50    45     60      0      10     5     5     5     0
     ```"
 
+      end
 end
-      command :Pink_Rathian_HR do |msg|
+      command :Pink_Rathian_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0f/FrontierGen-HC_Pink_Rathian_Render_001.png/revision/latest?cb=20140731045735"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906248030188089404/pinkrathianhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          55    40     50      5      15     5    10     5     0
     ```"
 
+      end
 end
-      command :Pink_Rathian_G do |msg|
+      command :Pink_Rathian_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c8/MHSP-Pink_Rathian_Render_001.png/revision/latest?cb=20151121101123"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906247765670101062/pinkrathian.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          25    35     35      0      10     5     5     5     0
     ```"
 
+      end
 end
     end
 end

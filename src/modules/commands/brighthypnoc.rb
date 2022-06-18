@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Bright_Hypnoc do |msg|
+      command :Bright_Hypnoc do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a7/FrontierGen-Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140906075100"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          45    40     50      5       5    10     5     5     0
     ```"
 
+      end
 end
-      command :Bright_Hypnoc_HR do |msg|
+      command :Bright_Hypnoc_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/FrontierGen-HC_Breeding_Season_Hypnocatrice_Render_001.png/revision/latest?cb=20140731052753"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,8 +56,13 @@ end
     \n   Legs          45    35     45      5       5     5     0     5     0
     ```"
 
+      end
 end
-      command :Bright_Hypnoc_G do |msg|
+      command :Bright_Hypnoc_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/FrontierGen-Breeding_Season_Hypnocatrice_Render_002.png/revision/latest?cb=20140906124530"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904796667461632010/breedingseasonhypnoc.png"
     msg.respond "***Based on Cutting Damage!***
@@ -70,6 +84,7 @@ end
     \n   Legs          25    30     30     15      15    20    15    15     0
     ```"
 
+      end
 end
     end
 end

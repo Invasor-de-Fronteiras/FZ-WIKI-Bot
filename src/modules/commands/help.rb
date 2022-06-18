@@ -1,7 +1,11 @@
 module Bot::DiscordCommands
     module Monsters
         extend Discordrb::Commands::CommandContainer
-        command :Help do |msg|
+        command :Help do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
             msg.respond "```To use the bot use the prefix mhf! followed by the monster's name. Ex: mhf!Abiorugu
 
 The monster's initial letter must always be capitalized and when there is space between the names a _ must be added instead. Ex: mhf!Yian_Garuga
@@ -38,4 +42,5 @@ mhf!Zenith_Sets -> Shows some good sets to start Zenith.
 ```"
         end          
     end
+end
 end

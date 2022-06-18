@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Velocidrome do |msg|
+      command :Velocidrome do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/15/MH1-Velocidrome_and_Velociprey_Render_001.gif/revision/latest?cb=20131226173151"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906291881539948544/velocidrome.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,6 +32,7 @@ module Bot::DiscordCommands
     \n   Entirely      60    60     60     20      20    20    10    30   100
     ```"
 
+      end
 end
     end
 end

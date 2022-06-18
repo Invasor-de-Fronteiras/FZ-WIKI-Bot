@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Abiorugu do |msg|
+      command :Abiorugu do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+        else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Abiorugu_Render_001.png/revision/latest/scale-to-width-down/350?cb=20140831155147"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/903891300720472114/abiorugu.png"
         msg.respond "***Based on Cutting Damage!***
@@ -60,7 +64,12 @@ module Bot::DiscordCommands
     ```"
 
       end
-      command :Abiorugu_HR do |msg|
+end
+      command :Abiorugu_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.send "🤡"
+        else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-HC_Abiorugu_Render_001.png/revision/latest?cb=20150722094608"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/903891300720472114/abiorugu.png"
         msg.respond "***Based on Cutting Damage!***
@@ -118,7 +127,12 @@ module Bot::DiscordCommands
     ```"
 
       end
-      command :Abiorugu_G do |msg|
+end
+      command :Abiorugu_G do  |msg|
+      server = msg.server
+        if server == "819985425678204958"
+          msg.send "🤡"
+        else
       # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8b/FrontierGen-Abiorugu_Render_004.png/revision/latest/scale-to-width-down/185?cb=20140121152414"
       msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/903891300720472114/abiorugu.png"
       msg.respond "***Based on Cutting Damage!***
@@ -177,4 +191,5 @@ module Bot::DiscordCommands
 
     end
     end
+end
 end

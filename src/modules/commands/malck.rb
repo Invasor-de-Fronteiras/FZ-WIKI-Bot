@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Malck do |msg|
+      command :Malck do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
 
       msg.respond "```You should use my patch, I'll teach you to value everything but I'll also make you a better hunter! Hear my words, embrace my challenges!```"
       
@@ -10,4 +14,5 @@ module Bot::DiscordCommands
 
     end
   end
+end
 end

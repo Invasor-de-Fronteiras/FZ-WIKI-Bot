@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Deviljho do |msg|
+      command :Deviljho do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/18/MH4-Deviljho_Render_001.png/revision/latest?cb=20140106020315"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905177867531468810/deviljho.png"
     msg.respond "***Based on Cutting Damage!***
@@ -34,8 +38,13 @@ module Bot::DiscordCommands
     \n   Tail          38    35     30      5       5    20    20     5     0
     ```"
 
+      end
 end
-      command :Deviljho_G do |msg|
+      command :Deviljho_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e7/FrontierGen-Deviljho_Render_001.png/revision/latest?cb=20150722092623"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905177867531468810/deviljho.png"
     msg.respond "***Based on Cutting Damage!***
@@ -67,6 +76,7 @@ end
     \n   Tail          27    25     21      5       5    20    20     5     0
     ```"
 
+      end
 end
     end
 end

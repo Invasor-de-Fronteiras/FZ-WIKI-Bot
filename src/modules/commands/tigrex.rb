@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Tigrex do |msg|
+      command :Tigrex do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/2ndGen-Tigrex_Render_001.png/revision/latest?cb=20150303003930"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286996266299463/tigrex.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Hindlegs      40    45     40      0       5    10     5     0     0
     ```"
 
+      end
 end
-      command :Tigrex_HR do |msg|
+      command :Tigrex_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5c/FrontierGen-HC_Tigrex_Render_001_%28Edited%29.png/revision/latest?cb=20140119100226"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286996266299463/tigrex.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,8 +80,13 @@ end
     \n   Hindlegs      30    40     30      0      15     0     0     5     0
     ```"
 
+      end
 end
-      command :Tigrex_G do |msg|
+      command :Tigrex_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5b/2ndGen-Tigrex_Render_002.png/revision/latest?cb=20150303004546"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286996266299463/tigrex.png"
     msg.respond "***Based on Cutting Damage!***
@@ -106,6 +120,7 @@ end
     \n   Hindlegs      35    40     40      0       5    10     5     0     0
     ```"
 
+      end
 end
     end
 end

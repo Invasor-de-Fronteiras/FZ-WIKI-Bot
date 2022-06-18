@@ -1,7 +1,11 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-      command :Elements do |msg|
+      command :Elements do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
 
 msg.respond "Blaze / 炎 = 70% <:zfire:883120156916744312> and 70% <:zdragon:883119756528476161>
 There are currently no known monsters to have this Element and so far has been an exclusive Element for Weapons.
@@ -45,4 +49,5 @@ Emperor's Roar / 皇鳴 = 150% <:zthunder:883120020312440852> and 50% <:zdragon:
 The only known monster to have this element is White Fatalis."
     end
   end
+end
 end

@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Ray_Gougarf do |msg|
+      command :Ray_Gougarf do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906262843349946458/raygougarf.png"
     msg.respond "***Based on Cutting Damage!***
@@ -32,8 +36,13 @@ module Bot::DiscordCommands
     \n   Tail          45    40     45     35       0     0     0    15     0
     ```"
 
+      end
 end
-      command :Ray_Gougarf_G do |msg|
+      command :Ray_Gougarf_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/53/FrontierGen-Ray_Gougarf_Render_001.png/revision/latest?cb=20140817173427"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906262843349946458/raygougarf.png"
     msg.respond "***Based on Cutting Damage!***
@@ -63,6 +72,7 @@ end
     \n   Tail          45    40     45     35       0     0     0    15     0
     ```"
 
+      end
 end
     end
 end

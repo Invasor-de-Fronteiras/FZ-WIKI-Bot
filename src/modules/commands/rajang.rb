@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Rajang do |msg|
+      command :Rajang do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fd/2ndGen-Rajang_Render_001.png/revision/latest?cb=20150303050008"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906258409400176670/rajang.png"
     msg.respond "***Based on Cutting Damage!***
@@ -22,8 +26,13 @@ module Bot::DiscordCommands
     \n   Tail          50    40     30      0       5     0     0    20     0
     ```"
 
+      end
 end
-      command :Rajang_HR do |msg|
+      command :Rajang_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/5a/FrontierGen-HC_Rajang_Render_001.png/revision/latest?cb=20131225051515"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906258665122709504/rajanghr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -43,8 +52,13 @@ end
     \n   Tail          50    45     20     -5       0    -5     5    10     0
     ```"
 
+      end
 end
-      command :Rajang_G do |msg|
+      command :Rajang_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/2ndGen-Rajang_Render_002.png/revision/latest?cb=20150303045649"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906258409400176670/rajang.png"
     msg.respond "***Based on Cutting Damage!***
@@ -64,6 +78,7 @@ end
     \n   Tail          50    45     40      0       5     0     0    40     0
     ```"
 
+      end
 end
     end
 end

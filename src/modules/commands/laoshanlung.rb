@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Lao_Shan do |msg|
+      command :Lao_Shan do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/MHF1-Lao-Shan_Lung_Render_001_%28Edited%29.png/revision/latest?cb=20140112193022"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906228985845923931/lao-shanlung.png"
     msg.respond "***Based on Cutting Damage!***
@@ -24,8 +28,13 @@ module Bot::DiscordCommands
     \n   Legs          32    37     25     20       5    15    20     5     0
     ```"
 
+      end
 end
-      command :Lao_Shan_HR do |msg|
+      command :Lao_Shan_HR do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/99/FrontierGen-Lao-Shan_Lung_Render_001.png/revision/latest?cb=20140105152418"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906229162879098940/lao-shanlunghr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -47,6 +56,7 @@ end
     \n   Legs          37    32     25     10      40     5    30     5     0
     ```"
 
+      end
 end
     end
 end

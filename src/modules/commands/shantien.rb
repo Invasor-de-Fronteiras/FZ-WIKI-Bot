@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Shantien do |msg|
+      command :Shantien do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Xiang_Tien_Render_001.png/revision/latest?cb=20140906081507"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906277102440050758/shantien.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,6 +40,7 @@ module Bot::DiscordCommands
     \n   Tail          30    40     45      0       0     0    30    20     0
     ```"
 
+      end
 end
     end
 end

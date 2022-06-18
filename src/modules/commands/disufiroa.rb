@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Disufiroa do |msg|
+      command :Disufiroa do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3b/FrontierGen-Disufiroa_Render_001.png/revision/latest?cb=20140404221621"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200727779696700/disufiroa.png"
     msg.respond "***Based on Cutting Damage!***
@@ -34,6 +38,7 @@ module Bot::DiscordCommands
     \n   Forelegs      25    30     15      0      15    10     5     0     0
     ```"
 
+      end
 end
     end
 end

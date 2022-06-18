@@ -2,7 +2,11 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Toridcless do |msg|
+      command :Toridcless do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/7f/FrontierGen-Toridcless_Render_001.png/revision/latest?cb=20151208185412"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906288388972363826/toridcless.png"
     msg.respond "***Based on Cutting Damage!***
@@ -36,8 +40,13 @@ module Bot::DiscordCommands
     \n   Tail          40    30     25      0      10     0     5     0     0
     ```"
 
+      end
 end
-      command :Toridcless_G do |msg|
+      command :Toridcless_G do  |msg|
+        server = msg.server
+        if server == "819985425678204958"
+          msg.respond "🤡"
+  else
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f5/FrontierGen-Toridcless_Render_002.png/revision/latest?cb=20151208185508"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906288388972363826/toridcless.png"
     msg.respond "***Based on Cutting Damage!***
@@ -71,6 +80,7 @@ end
     \n   Tail          35    25     20      0      10     0     5     0     0
     ```"
 
+      end
 end
     end
 end
