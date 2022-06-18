@@ -111,7 +111,7 @@ end
         if server == "819985425678204958"
           msg.send "🤡"
         else
-    event.send_file (File.open('app\src\modules\files\AHAHA.mp3', 'r'))
+    event.send_file (File.open('..\src\modules\files\AHAHA.mp3', 'r'))
     end
 end
 
