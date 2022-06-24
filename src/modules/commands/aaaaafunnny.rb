@@ -1,9 +1,7 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-      command :Idk do |event|
-
-        monsters =
+      monsters =
         [
 'Abiorugu',
 'Akantor',
@@ -124,20 +122,78 @@ module Bot::DiscordCommands
 'Zenaserisu',
 'Zerureusu']
 
-floors =
+ranks =
 [
-'1rs',
-'2nd',
-'3rd',
-'4th',
-'5th',
-'6th',
-'7th',
-'8th',
-'9th']
+'Low Rank',
+'High Rank',
+'Great Skill/Gou',
+'G Rank',
+'Zenith']
 
-        event.respond "Look at this cheat shop user with Zenith equipment and a maxed Ravi weapon dying to a #{monsters.sample} on the Roads #{floors.sample} floor."
-        event.send_file (File.open('src/modules/files/point.gif', 'r'))
-      end
-    end
-  end
+masters =
+[
+'Luna',
+'Mai',
+'Hantzu',
+'Malckyor',
+'Dionmid',
+'Yukino',
+'Deerby',
+'Chakratos',
+'Tyrannys',
+'SephVII',
+'Wish',
+'Haku',
+'Sera',
+'Henzeru X',
+'Fist',
+'Mizuki',
+'Matahashi']
+
+roles =
+[
+'Epic Hunter',
+'Great Mocorongo',
+'Father of Cheat Shop Users',
+'Schoolar od the first Cheat',
+'Snake Eater',
+'Guild Scholar',
+'Kut-Ku Killer',
+'Village Hero',
+'Legendary Hunter',
+'Expert Hunter',
+'Ace Hunter',
+'Monster Hunter Veteran with 3000 hours in each game',
+'Legendary Gatekeeper',
+'Heavy Drinker',
+'Arm Wrestler',
+'Chronic Procrastinator',
+'Famous Wyverian Eggs Sommelier',
+'File Stealer',
+'Master of Solitude',
+'Cheat Shop User']
+
+weapon =
+[
+  'Lance',
+  'Tonfas',
+  'Switch Axe',
+  'LBG',
+  'HBG',
+  'Bow',
+  'Hammer',
+  'SnS',
+  'GS',
+  'Long Sword']
+
+
+command :Hunt  do |event|
+  event.channel.send_embed do |embed|
+    embed.description = "✉️ Legendary hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{type.sample} hunt with #{weapon.sample}. ✉️
+
+P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
+end
+nil
+end
+end
+end
