@@ -187,7 +187,7 @@ weapon =
   'Long Sword']
 
 
-command :Hunt  do |event|
+command :idk  do |event|
   event.channel.send_embed do |embed|
     embed.description = "✉️ Legendary hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{type.sample} hunt with #{weapon.sample}. ✉️
 

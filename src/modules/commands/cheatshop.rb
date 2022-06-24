@@ -1,7 +1,7 @@
 module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
-      command :Idk do |event|
+      command :Cheat do |event|
 
         monsters =
         [
