@@ -122,14 +122,6 @@ module Bot::DiscordCommands
 'Zenaserisu',
 'Zerureusu']
 
-ranks =
-[
-'Low Rank',
-'High Rank',
-'Great Skill/Gou',
-'G Rank',
-'Zenith']
-
 masters =
 [
 'Luna',
@@ -155,7 +147,11 @@ roles =
 'Epic Hunter',
 'Great Mocorongo',
 'Father of Cheat Shop Users',
-'Schoolar od the first Cheat',
+'Schoolar of the first Cheat',
+'Mushroom Farmer',
+'Elder Dragon Cultist',
+'Wyvern Egg Dealer',
+'Master of Janky Controls',
 'Snake Eater',
 'Guild Scholar',
 'Kut-Ku Killer',
@@ -173,7 +169,7 @@ roles =
 'Master of Solitude',
 'Cheat Shop User']
 
-weapon =
+weapons =
 [
   'Lance',
   'Tonfas',
@@ -186,12 +182,15 @@ weapon =
   'GS',
   'Long Sword']
 
+type =
+[
+  'HC',
+  'Unlimited',
+  'Normal']
 
 command :idk  do |event|
   event.channel.send_embed do |embed|
-    embed.description = "✉️ Legendary hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{type.sample} hunt with #{weapon.sample}. ✉️
-
-P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
+    embed.description = "✉️ Legendary hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{type.sample} hunt with #{weapons.sample}. ✉️"
 end
 nil
 end
