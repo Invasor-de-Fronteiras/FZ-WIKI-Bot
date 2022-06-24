@@ -124,7 +124,19 @@ module Bot::DiscordCommands
 'Zenaserisu',
 'Zerureusu']
 
-        event.respond "Look at this cheat shop user with Zenith equipments dying to a #{monsters.sample} in the Roads 5th floor."
+floors =
+[
+'1rs',
+'2nd',
+'3rd',
+'4th',
+'5th',
+'6th',
+'7th',
+'8th',
+'9th']
+
+        event.respond "Look at this cheat shop user with Zenith equipments and a maxed Ravi weapon dying to a #{monsters.sample} in the Roads #{floors.sample} floor."
         event.send_file (File.open('src/modules/files/point.gif', 'r'))
       end
     end
