@@ -147,7 +147,7 @@ roles =
 'Epic Hunter',
 'Great Mocorongo',
 'Father of Cheat Shop Users',
-'Schoolar of the first Cheat',
+'Scholar of the first Cheat',
 'Mushroom Farmer',
 'Elder Dragon Cultist',
 'Wyvern Egg Dealer',

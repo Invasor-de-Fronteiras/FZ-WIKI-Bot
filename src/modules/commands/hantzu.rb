@@ -8,7 +8,7 @@ module Bot::DiscordCommands
           msg.respond "🤡"
       else
       msg.send "Can i feed my Halk with my tears?
-                            v 0.0.3.1h"
+                            v 0.0.3.1i"
 
       end
     end
