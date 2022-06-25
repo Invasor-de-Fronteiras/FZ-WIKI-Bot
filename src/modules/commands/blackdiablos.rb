@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Black_Diablos do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Black_Diablos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1c/MHF1-Black_Diablos_Render_001_%28Edited%29.png/revision/latest?cb=20140112105944"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904787183553105920/blackdiablos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          30    35     35      0      10    15    15     0     0
     ```"
 
-      end
 end
-      command :Black_Diablos_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Black_Diablos_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fd/FrontierGen-HC_Black_Diablos_Render_001.png/revision/latest?cb=20140831212408"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904787183553105920/blackdiablos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          35    30     30      0      10    15    15     0     0
     ```"
 
-      end
 end
-      command :Black_Diablos_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Black_Diablos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/26/MH4U-Black_Diablos_Render_001.png/revision/latest?cb=20140908182320"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904787183553105920/blackdiablos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          30    35     25      0       5     5    10     0     0
     ```"
 
-      end
 end
     end
 end

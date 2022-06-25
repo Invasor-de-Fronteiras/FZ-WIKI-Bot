@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Musou_Bogabadorumu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Musou_Bogabadorumu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Peerless_Bogabadorumu_Render_001.png/revision/latest?cb=20190620102327"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906694991609470996/musou_bogabadorumu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,7 +36,6 @@ module Bot::DiscordCommands
     \n   Tail          35    20     25      5      20    10     5    25     0
     ```"
 
-      end
 end
     end
 end

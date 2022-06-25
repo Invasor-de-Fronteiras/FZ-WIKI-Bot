@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :White_Monoblos do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :White_Monoblos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c7/MHF1-White_Monoblos_Render_001_%28Edited%29.png/revision/latest?cb=20140112111447"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296709821378600/whitemonoblos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          40    45     50      0      10    10     0    10     0
     ```"
 
-      end
 end
-      command :White_Monoblos_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :White_Monoblos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-HC_White_Monoblos_Render_001.png/revision/latest?cb=20150722095234"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296709821378600/whitemonoblos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,7 +47,6 @@ end
     \n   Legs          25    25     30      0      20    10     0    10     0
     ```"
 
-      end
 end
     end
 end

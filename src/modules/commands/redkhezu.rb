@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Red_Khezu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Red_Khezu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0d/MHF1-Red_Khezu_Render_001_%28Edited%29.png/revision/latest?cb=20140114145511"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          25    20     30      5      15     0     5     5     0
     ```"
 
-      end
 end
-      command :Red_Khezu_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Red_Khezu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/46/FrontierGen-HC_Red_Khezu_Render_001.png/revision/latest?cb=20131225224806"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,12 +47,7 @@ end
     \n   Legs          30    30     30      5      15     0     5     5     0
     ```" 
       end
-    end
-      command :Red_Khezu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Red_Khezu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/95/MH4-Red_Khezu_Render_001.png/revision/latest?cb=20140106095810"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906264088710119424/redkhezu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -83,7 +69,6 @@ end
     \n   Legs          25    20     20      5      15     0    10     0     0
     ```"
 
-      end
 end
     end
 end

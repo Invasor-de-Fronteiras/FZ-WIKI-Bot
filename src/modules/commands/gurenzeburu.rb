@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gurenzeburu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Gurenzeburu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/28/FrontierGen-Gurenzeburu_Render_001.png/revision/latest?cb=20140903095449"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215807858638888/gurenzeburu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Legs            30    20     30      0       0    10     0     0     0
     ```"
 
-      end
 end
-      command :Gurenzeburu_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Gurenzeburu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/FrontierGen-HC_Gurenzeburu_Render_001.png/revision/latest?cb=20140906150313"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215807858638888/gurenzeburu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -80,13 +71,8 @@ end
     \n   Legs            25    15     25      0       0     5     0     0     0
     ```"
 
-      end
 end
-      command :Gurenzeburu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Gurenzeburu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/90/FrontierGen-Gurenzeburu_Render_002.png/revision/latest?cb=20140903174343"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215807858638888/gurenzeburu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -120,7 +106,6 @@ end
     \n   Legs            30    30     30      0       0    20     0     0     0
     ```"
 
-      end
 end
     end
 end

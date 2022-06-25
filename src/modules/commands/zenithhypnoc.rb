@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenith_Hypnoc do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Zenith_Hypnoc do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/76/FrontierGen-Zenith_Hypnocatrice_Render_001.png/revision/latest?cb=20160909114532"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906343300385103912/zenith_hypnoc.png"
     msg.respond "***Based on Cutting Damage!***
@@ -29,6 +25,5 @@ module Bot::DiscordCommands
     ```"
 
       end
-end
     end
 end

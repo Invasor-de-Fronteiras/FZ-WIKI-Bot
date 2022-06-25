@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Meraginasu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Meraginasu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Meraginasu_Render_001.png/revision/latest?cb=20131220103725"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906231230943608863/meraginasu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -52,13 +48,8 @@ module Bot::DiscordCommands
     \n   Legs          30    40     25     10       5     5     0     0     0
     ```"
 
-      end
 end
-      command :Meraginasu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Meraginasu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/FrontierGen-Meraginasu_Render_003.png/revision/latest?cb=20140205154728"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906231230943608863/meraginasu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -104,7 +95,6 @@ end
     \n   Legs          25    35     20     10       5     5     0     0     0  
     ```"
 
-      end
 end
     end
 end

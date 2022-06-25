@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Varusaburosu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Varusaburosu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/ca/FrontierGen-Varusaburosu_Render_001.png/revision/latest?cb=20141119154945"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290751506350141/varusaburosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -52,13 +48,8 @@ module Bot::DiscordCommands
     \n   Legs          30    30     15      0       0    15     0     0     0  
     ```"
 
-      end
 end
-      command :Varusaburosu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Varusaburosu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/d1/FrontierGen-Varusaburosu_Render_002.png/revision/latest?cb=20150218152719"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290751506350141/varusaburosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -104,7 +95,6 @@ end
     \n   Legs          30    30     10      0       0    15     0     0     0  
     ```"
 
-      end
 end
     end
 end

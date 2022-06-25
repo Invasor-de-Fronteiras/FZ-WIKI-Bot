@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Crimson_Fatalis do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Crimson_Fatalis do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/ac/1stGen_and_2ndGen-Crimson_Fatalis_Render_001.png/revision/latest?cb=20091107004531"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905173311900770304/crimsonfatalis.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Body/Arms     10    10     10     10       5     5    10     5     0
     ```"
 
-      end
 end
-      command :Crimson_Fatalis_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Crimson_Fatalis_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-Crimson_Fatalis_Render_001.png/revision/latest?cb=20140511120421"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905173760737419375/crimsonfatalisg.png"
     msg.respond "***Based on Cutting Damage!***
@@ -69,7 +60,6 @@ end
     \n   Body/Arms     20    40     20    -10      10     0    20     5     0
     ```"
 
-      end
 end
     end
 end

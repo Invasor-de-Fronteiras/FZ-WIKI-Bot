@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenith_Inagami do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Zenith_Inagami do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/26/FrontierGen-Zenith_Inagami_Render_002.png/revision/latest?cb=20171027165301"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906343974938214418/zenith_inagami.png"
     msg.respond "***Based on Cutting Damage!***
@@ -41,6 +37,5 @@ module Bot::DiscordCommands
     ```"
 
       end
-end
     end
 end

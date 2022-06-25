@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :White_Hypnoc do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :White_Hypnoc do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/FrontierGen-Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20140906074340"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296200939077662/whitehypnoc.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          25    25     30      5       0     0     0     5     0
     ```"
 
-      end
 end
-      command :White_Hypnoc_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :White_Hypnoc_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/85/FrontierGen-HC_Silver_Hypnocatrice_Render_001.png/revision/latest?cb=20151208205956"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906296200939077662/whitehypnoc.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,7 +47,6 @@ end
     \n   Legs          15    15     30      5       0     0     0     5     0
     ```"
 
-      end
 end
     end
 end

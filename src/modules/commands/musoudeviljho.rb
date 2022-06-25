@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Musou_Deviljho do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Musou_Deviljho do |msg|
         # msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904480483180695612/8a224a1cgy1fn695i0srbj20kg0c5guq-removebg-preview.png"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906234847033446410/starvingdeviljho.png"
     msg.respond "***Based on Cutting Damage!***
@@ -38,7 +34,6 @@ module Bot::DiscordCommands
     \n   Tail          17    15     18     20      20    35    20    20     0
     ```"
 
-      end
 end
     end
 end

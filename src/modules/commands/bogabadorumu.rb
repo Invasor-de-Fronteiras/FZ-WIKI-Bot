@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Bogabadorumu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Bogabadorumu do |msg|
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906694377525612614/zenith_bogabadorumu.png"
     msg.respond "**Name:** Bogabadorumu / ボガバドルム
     **Title:** Explosive Mist Wyvern / 爆霧竜
@@ -38,7 +34,6 @@ module Bot::DiscordCommands
     \n   Tail          35    20     25      5      20    10     5    25     0    
     ```"
 
-      end
 end
     end
 end

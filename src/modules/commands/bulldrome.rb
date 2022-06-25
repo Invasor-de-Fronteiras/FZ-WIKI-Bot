@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Bulldrome do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Bulldrome do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0e/2ndGen-Bulldrome_Render_001.png/revision/latest?cb=20150303035543"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904797204760367164/bulldrome.png"
     msg.respond "***Based on Cutting Damage!***
@@ -35,7 +31,6 @@ module Bot::DiscordCommands
     \n   Body          40    30     40     50      20    30     0    10     0
     ```"
 
-      end
 end
     end
 end

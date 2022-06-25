@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Volganos do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Volganos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/52/2ndGen-Lavasioth_Render_001.png/revision/latest?cb=20150303083223"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906292397137346580/lavasioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          20    40     20      0      10     5     5     5     0
     ```"
 
-      end
 end
-      command :Volganos_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Volganos_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2c/FrontierGen-HC_Lavasioth_Render_001_%28Edited%29.png/revision/latest?cb=20140119100411"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906292649374416966/lavasiothhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          20    35     25      0       5     0    -5    15     0
     ```"
 
-      end
 end
-      command :Volganos_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Volganos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Lavasioth_Render_001.png/revision/latest?cb=20140906062818"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906292397137346580/lavasioth.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          25    25     35      0      10     5     5     5     0
     ```"
 
-      end
 end
     end
 end

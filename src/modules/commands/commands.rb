@@ -11,11 +11,7 @@ module Bot::DiscordCommands
             puts "#{event.timestamp}: #{event.user.name}: CMD: ping"
             nil
         end
-         command :Ajuda do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+         command :Ajuda do |msg|
           msg.respond "```Para utilizar o bot use o prefixo mhf! seguido do nome do monstro. Ex: mhf!Abiorugu
 
 A letra inicial do monstro deve ser sempre maiúscula e quando houver espaço entre os nomes deve ser adicionado um _ no lugar. Ex: mhf!Yian_Garuga
@@ -41,12 +37,7 @@ Use mhf!Elements para ver a todos os elementos.
 Qualquer erro ou problema relatar a Malckyor#8043 ou Doratrice#5957.
           ```"
         end
-        end
-         command :Monsters do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+         command :Monsters do |msg|
           msg.respond "Complete list with all big monsters, remember to use the suffixes **_HR** **_G** **Musou_** and **Zenith_** to find them all! 
 ```mhf!Abiorugu
 mhf!Akantor
@@ -168,5 +159,4 @@ mhf!Zenaserisu
 mhf!Zerureusu```"
         end   
     end
-end
 end

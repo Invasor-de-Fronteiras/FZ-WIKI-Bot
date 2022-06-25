@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenith_Rathalos do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Zenith_Rathalos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bc/Rathalos-2.png/revision/latest?cb=20091208203411"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906346209072001044/zenith_rathalos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -29,6 +25,5 @@ module Bot::DiscordCommands
     ```"
 
       end
-end
     end
 end

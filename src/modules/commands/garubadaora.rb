@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
       
-      command :Garuba_Daora do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Garuba_Daora do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/FrontierGen-Garuba_Daora_Render_001.png/revision/latest?cb=20140718114258"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207098474491914/garubadaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Wings         60    35     15      0       0    30     0     0     0
     ```"
 
-      end
 end
-      command :Garuba_Daora_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Garuba_Daora_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/FrontierGen-Garuba_Daora_Render_001.png/revision/latest?cb=20140718114258"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906207098474491914/garubadaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -80,7 +71,6 @@ end
     \n   Wings         60    35     15      0       0    30     0     0     0
     ```"
 
-      end
 end
     end
 end

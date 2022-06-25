@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Diorekkusu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Diorekkusu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/00/FrontierGen-Diorekkusu_Render_001.png/revision/latest?cb=20140423203343"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200206415134801/diorex.png"
     msg.respond "***Based on Cutting Damage!***
@@ -63,13 +59,8 @@ module Bot::DiscordCommands
     \n   Hindlegs      60    55     40      0       0     0    20    10     0  
     ```"
 
-      end
 end
-      command :Diorekkusu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Diorekkusu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/9b/FrontierGen-Diorekkusu_Render_002.png/revision/latest?cb=20140423203802"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906200206415134801/diorex.png"
     msg.respond "***Based on Cutting Damage!***
@@ -126,7 +117,6 @@ end
     \n   Hindlegs      60    55     40      0       0     0    20    10     0  
     ```"
 
-      end
 end
     end
 end

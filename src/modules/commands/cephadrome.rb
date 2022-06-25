@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Cephadrome do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Cephadrome do |msg|
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/44/1stGen-Cephadrome_and_Cephalos_Render_001.gif/revision/latest?cb=20131228064833"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905170068302864435/cephadrome.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          35    30     35      0      15    10     5    20     0
     ```"
 
-      end
 end
-      command :Cephadrome_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Cephadrome_HR do |msg|
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/84/FrontierGen-HC_Cephadrome_Render_001.png/revision/latest?cb=20140817144054"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905170496524529664/cephadromehr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          35    30     35     -5       5     0    15     5     0
     ```"
 
-      end
 end
-      command :Cephadrome_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Cephadrome_G do |msg|
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/66/2ndGen-Cephadrome_Render_001.png/revision/latest?cb=20150303005421"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/905170068302864435/cephadrome.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          20    25     30      0      15    10     5    20     0
     ```"
 
-      end
 end
     end
 end

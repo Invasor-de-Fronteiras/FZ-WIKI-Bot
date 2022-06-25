@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Azure_Rathalos do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Azure_Rathalos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3f/MHG-Azure_Rathalos_Render_002.png/revision/latest?cb=20141116105848"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904780748106641468/azurerathalos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -29,12 +25,7 @@ module Bot::DiscordCommands
     ```"
 
       end
-end
-      command :Azure_Rathalos_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Azure_Rathalos_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/df/FrontierGen-HC_Azure_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140115191049"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904781051187068928/azurerathaloshr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          50    40     50      0       0    10     5     0     0 
     ```"
 
-      end
 end
-      command :Azure_Rathalos_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Azure_Rathalos_G do |msg|
        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/MHF1-Azure_Rathalos_Render_001_%28Edited%29.png/revision/latest?cb=20140112114616"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904780748106641468/azurerathalos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          35    30     35      0       5    10     5     5     0 
     ```"
 
-      end
 end
     end
 end

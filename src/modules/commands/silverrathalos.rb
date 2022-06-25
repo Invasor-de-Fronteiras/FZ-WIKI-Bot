@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Silver_Rathalos do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Silver_Rathalos do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/1/1b/MHF1-Silver_Rathalos_Render_001.png/revision/latest?cb=20150303050317"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282943486521414/silverrathalos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          25    40     50      0      10    10     0     5     0
     ```"
 
-      end
 end
-      command :Silver_Rathalos_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Silver_Rathalos_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-HC_Silver_Rathalos_Render_002.png/revision/latest?cb=20140423213326"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906283177444782172/silverrathaloshr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          25    40     30      0       0     5    15    10     0
     ```"
 
-      end
 end
-      command :Silver_Rathalos_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Silver_Rathalos_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/39/MH4-Silver_Rathalos_Render_001.png/revision/latest?cb=20140116225450"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906282943486521414/silverrathalos.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          25    40     35      0       5    10     0     5     0
     ```"
 
-      end
 end
     end
 end

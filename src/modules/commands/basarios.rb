@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Basarios do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Basarios do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/0c/MH1-Basarios_Render_001.gif/revision/latest?cb=20131228022601"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904784664005345381/basarios.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          25    30     30     10      10    10    10    10     0    
     ```"
 
-      end
 end
-      command :Basarios_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Basarios_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c1/FrontierGen-HC_Basarios_Render_001_%28Edited%29.png/revision/latest?cb=20140114184037"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904784888073445396/basarioshr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          25    15     20     -5       0     0     0    -5     0
     ```"
 
-      end
 end
-      command :Basarios_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Basarios_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f8/MHF2-Basarios_Render_001.png/revision/latest?cb=20150303010124"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904784664005345381/basarios.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          35    35     30     10      25    10    10    10     0
     ```"
 
-      end
 end
     end
 end

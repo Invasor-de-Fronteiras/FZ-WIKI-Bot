@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Orange_Espinas do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Orange_Espinas do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/6c/FrontierGen-Espinas_Subspecies_Render_001.png/revision/latest?cb=20140906061556"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906242249665413190/orangeespinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -52,13 +48,8 @@ module Bot::DiscordCommands
     \n   Legs          20    20     30      5      10     5     0     5     0 
     ```"
 
-      end
 end
-      command :Orange_Espinas_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Orange_Espinas_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/38/FrontierGen-HC_Espinas_Subspecies_Render_001_%28Edited%29.png/revision/latest?cb=20140113192403"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906242249665413190/orangeespinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -104,13 +95,8 @@ end
     \n   Legs          40    40     25      0       5     5     0     5     0 
     ```"
 
-      end
 end
-      command :Orange_Espinas_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Orange_Espinas_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e0/FrontierGen-Espinas_Subspecies_Render_002.png/revision/latest?cb=20151208205830"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906242249665413190/orangeespinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -190,7 +176,6 @@ end
     \n   Legs          45    40     60      5      10     5     0     5     0  
     ```"
 
-      end
 end
     end
 end

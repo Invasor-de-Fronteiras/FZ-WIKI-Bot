@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Goruganosu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Goruganosu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/03/FrontierGen-Goruganosu_Render_001.png/revision/latest?cb=20130515203511"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906211875941916692/goruganosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,7 +24,6 @@ module Bot::DiscordCommands
     \n   Legs          40    25     20      0       0     0    10    25     0
     ```"
 
-      end
 end
     end
 end

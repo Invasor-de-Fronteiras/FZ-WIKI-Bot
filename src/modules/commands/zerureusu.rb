@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zerureusu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Zerureusu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/bd/FrontierGen-Zerureusu_Render_001.png/revision/latest?cb=20140324133444"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906351342841368646/zerureusu.png"
     msg.respond "***Based on Cutting Damage! Adapted to Cut***
@@ -64,12 +60,7 @@ module Bot::DiscordCommands
     ```"
 
       end
-end
-      command :Zerureusu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Zerureusu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Zerureusu_Render_003.png/revision/latest?cb=20140404222842"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906351342841368646/zerureusu.png"
     msg.respond "***Based on Cutting Damage! Adapted to Cut***
@@ -139,6 +130,5 @@ end
     ```"
 
       end
-end
     end
 end

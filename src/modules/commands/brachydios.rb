@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Brachydios do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Brachydios do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/MH3U-Brachydios_Render_001.png/revision/latest?cb=20140102172145"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904795755447980082/brachydios.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Tail Apex     17    10     10      0       5     5     0     5     0
     ```"
 
-      end
 end
-      command :Brachydios_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Brachydios_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/FrontierGen-Brachydios_Render_001.png/revision/latest?cb=20151009145415"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904795755447980082/brachydios.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,7 +47,6 @@ end
     \n   Tail Apex     15    10     10      0       5     5     0     5     0
     ```"
 
-      end
 end
     end
 end

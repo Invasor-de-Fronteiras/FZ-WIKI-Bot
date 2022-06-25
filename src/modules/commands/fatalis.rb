@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Fatalis do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Fatalis do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/27/FrontierGen-Fatalis_Custom_Render_001.png/revision/latest?cb=20210519195605"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906205763830177792/blackfatalis.png"
     msg.respond "***Based on Cutting Damage!***
@@ -29,13 +25,8 @@ module Bot::DiscordCommands
     \n   Body/Arms     35    35     30     15       5     5    20    10     0
     ```"
 
-      end
 end
-      command :Fatalis_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Fatalis_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/75/FrontierGen-Conquest_War_Fatalis_Custom_Render_001.png/revision/latest?cb=20210520021542"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906206047763587092/blackfatalisg.png"
     msg.respond "***Based on Cutting Damage!***
@@ -92,7 +83,6 @@ end
     \n   Body/Arms     30    50     30      0      30    15     0    10     0  
     ```"
 
-      end
 end
     end
 end

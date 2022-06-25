@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Midogaron do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Midogaron do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/4f/FrontierGen-Midogaron_Render_001.png/revision/latest?cb=20140909082705"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906231781831884810/midogaron.png"
     msg.respond "***Based on Cutting Damage!***
@@ -46,7 +42,6 @@ module Bot::DiscordCommands
     \n   Tail          35    30      5      0      10     5     0    20     0
     ```"
 
-      end
 end
     end
 end

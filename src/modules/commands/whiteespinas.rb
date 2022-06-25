@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :White_Espinas do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :White_Espinas do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/91/FrontierGen-Espinas_Rare_Species_Render_001.png/revision/latest?cb=20140118104031"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906294588082368542/whiteespinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -52,13 +48,8 @@ module Bot::DiscordCommands
     \n   Legs          30    35     35      0      15     5    10    10     0 
     ```"
 
-      end
 end
-      command :White_Espinas_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :White_Espinas_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/aa/FrontierGen-HC_Espinas_Rare_Species_Render_001.png/revision/latest?cb=20140718113503"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906294588082368542/whiteespinas.png"
     msg.respond "***Based on Cutting Damage!***
@@ -104,7 +95,6 @@ end
     \n   Legs          30    30     30      0       5     5     5     5     0
     ```"
 
-      end
 end
     end
 end

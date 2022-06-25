@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Uragaan do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Uragaan do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b9/3rdGen-Uragaan_Render_001.png/revision/latest?cb=20150304044409"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290092488917042/uragaan.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Tail Tip      20    22     10      0      35     5    25    15     0
     ```"
 
-      end
 end
-      command :Uragaan_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Uragaan_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/3d/FrontierGen-Uragaan_Render_001.png/revision/latest?cb=20160122150906"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906290092488917042/uragaan.png"
     msg.respond "***Based on Cutting Damage!***
@@ -80,7 +71,6 @@ end
     \n   Tail Tip      15    17     10      0      35     5    25    15     0
     ```"
 
-      end
 end
     end
 end

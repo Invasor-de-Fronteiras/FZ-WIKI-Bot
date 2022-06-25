@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Rusted_Kushal do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Rusted_Kushal do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/2ndGen-Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20150303073214"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267015839379466/rustedkushaladaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Wings         20    15     20      5       0    20    10     0     0
     ```"
 
-      end
 end
-      command :Rusted_Kushal_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Rusted_Kushal_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Rusted_Kushala_Daora_Render_001.png/revision/latest?cb=20140906152602"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906267015839379466/rustedkushaladaora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -80,7 +71,6 @@ end
     \n   Wings         15    10     15      0       0    15    10     0     0
     ```"
 
-      end
 end
     end
 end

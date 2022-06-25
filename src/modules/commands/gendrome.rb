@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gendrome do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Gendrome do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f1/MH1-Gendrome_and_Genprey_Render_001.gif/revision/latest?cb=20131226144302"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906208114649489438/gendrome.png"
     msg.respond "***Based on Cutting Damage!***
@@ -32,7 +28,6 @@ module Bot::DiscordCommands
     \n   Entirely      55    55     55     25       5    25     5    40   100
     ```"
 
-      end
 end
     end
 end

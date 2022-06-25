@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Stygian_Jinouga do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Stygian_Jinouga do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/b0/MH3G-Jinouga_Subspecies.png/revision/latest?cb=20160709015951"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906283733915672646/stygianzinogre.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Tail          20    23     10      5      25    25     0    17     0
     ```"
 
-      end
 end
-      command :Stygian_Jinouga_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Stygian_Jinouga_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/42/FrontierGen-Stygian_Zinogre_Render_001.png/revision/latest?cb=20160709020537"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906283733915672646/stygianzinogre.png"
     msg.respond "***Based on Cutting Damage!***
@@ -80,7 +71,6 @@ end
     \n   Tail          15    18      5      5      20    25     0    17     0
     ```"
 
-      end
 end
     end
 end

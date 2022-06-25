@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
       
-      command :Kirin do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Kirin do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/f7/FrontierGen-HC_Kirin_Render_001.png/revision/latest?cb=20140902023953"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227111621189722/kirin.png"
     msg.respond "***Based on Cutting Damage!***
@@ -38,7 +34,6 @@ module Bot::DiscordCommands
     \n   Horn          60    50     50     20      20     0     5    15     0
     ```"
 
-      end
 end
     end
 end

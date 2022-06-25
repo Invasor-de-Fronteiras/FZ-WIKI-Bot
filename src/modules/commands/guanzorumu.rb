@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Guanzorumu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Guanzorumu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906214457926107136/guanzorumu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -63,13 +59,8 @@ module Bot::DiscordCommands
     \n   Forelegs      40    30     35     10       0    25    20     0     0  
     ```"
 
-      end
 end
-      command :Guanzorumu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Guanzorumu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/92/FrontierGen-Guanzorumu_Render_001.png/revision/latest?cb=20160325101029"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906214457926107136/guanzorumu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -149,7 +140,6 @@ end
     \n   Forelegs      40    30     35     10       0    25    20     0     0  
     ```"
 
-      end
 end
     end
 end

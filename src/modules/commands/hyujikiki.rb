@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Hyujikiki do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Hyujikiki do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/31/FrontierGen-Hyujikiki_Render_003.png/revision/latest?cb=20140118104433"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906219098394996756/hyujikiki.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,7 +36,6 @@ module Bot::DiscordCommands
     \n   Tail Tip      10    10     10     50       0    20     0     0     0
     ```"
 
-      end
 end
     end
 end

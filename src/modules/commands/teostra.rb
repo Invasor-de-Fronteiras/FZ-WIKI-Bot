@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Teostra do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Teostra do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/FrontierGen-Teostra_Render_001.png/revision/latest?cb=20141214141347"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286128225730641/teostra.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Wings         20    15     20      0      10     5    10    20     0
     ```"
 
-      end
 end
-      command :Teostra_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Teostra_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/c8/FrontierGen-Supremacy_Teostra_Render_001.png/revision/latest?cb=20140821073202"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286128225730641/teostra.png"
     msg.respond "***Based on Cutting Damage!***
@@ -104,13 +95,8 @@ end
     \n   Wings         20    15     25      0      10     5    10    20     0  
     ```"
 
-      end
 end
-      command :Teostra_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Teostra_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/64/FrontierGen-Supremacy_Teostra_Render_002.png/revision/latest?cb=20140821092411"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906286417834025050/teostrag.png"
     msg.respond "***Based on Cutting Damage!***
@@ -156,7 +142,6 @@ end
     \n   Wings         20    25     25      0      20     5    15    10     0  
     ```"
 
-      end
 end
     end
 end

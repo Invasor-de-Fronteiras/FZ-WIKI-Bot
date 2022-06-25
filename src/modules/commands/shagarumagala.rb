@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Shagaru do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Shagaru do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/b/be/MH4-Shagaru_Magala_Render_001.png/revision/latest?cb=20150303004807"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906271130577432576/shagarumagala.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Tail          35    35     30     10       0    10    15     5     0
     ```"
 
-      end
 end
-      command :Shagaru_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Shagaru_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e6/FrontierGen-Shagaru_Magala_%28True_Frenzy_Mode%29_Render_001.png/revision/latest?cb=20170407121850"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906273216266399795/shagarumagalag.png"
     msg.respond "***Based on Cutting Damage!***
@@ -92,7 +83,6 @@ end
     \n   Tail          30    22     33     10       0     5     5     5     0  
     ```"
 
-      end
 end
     end
 end

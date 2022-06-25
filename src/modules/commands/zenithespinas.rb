@@ -2,13 +2,9 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenith_Espinas do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-        else
-    # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/dd/FrontierGen-Zenith_Espinas_Render_001.png/revision/latest?cb=20160909113709"
-    msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906338907086540810/zenith_espinas.png"
+      command :Zenith_Espinas do |msg|
+        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/d/dd/FrontierGen-Zenith_Espinas_Render_001.png/revision/latest?cb=20160909113709"
+        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906338907086540810/zenith_espinas.png"
     msg.respond "***Based on Cutting Damage!***
     **Name:** Zenith_Espinas / 辿異種エスピナス
     **Title:** Thorn Wyvern / 棘竜
@@ -41,6 +37,5 @@ module Bot::DiscordCommands
     ```"
 
       end
-end
     end
 end

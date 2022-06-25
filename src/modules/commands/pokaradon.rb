@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Pokaradon do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Pokaradon do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/7/74/FrontierGen-Pokaradon_Render_001.png/revision/latest?cb=20140821061325"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906257385889353768/pokaradon.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,7 +24,6 @@ module Bot::DiscordCommands
     \n   Back          15    25     20      0       5     5     0     5     0
     ```"
 
-      end
 end
     end
 end

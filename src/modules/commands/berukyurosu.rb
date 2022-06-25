@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Berukyurosu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Berukyurosu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/a1/FrontierGen-Berukyurosu_Render_001.png/revision/latest?cb=20140906080828"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904786476057894982/berukyurosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,13 +36,8 @@ module Bot::DiscordCommands
     \n   Tail          45    25     50      5      10     0     5    25     0
     ```"
 
-      end
 end
-      command :Berukyurosu_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Berukyurosu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/5/50/FrontierGen-HC_Berukyurosu_Render_001.png/revision/latest?cb=20140821065353"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904786476057894982/berukyurosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -80,13 +71,8 @@ end
     \n   Tail          45    25     50      5      10     0     5    25     0
     ```"
 
-      end
 end
-      command :Berukyurosu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Berukyurosu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/08/FrontierGen-Berukyurosu_Render_002.png/revision/latest?cb=20140118122811"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904786476057894982/berukyurosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -120,7 +106,6 @@ end
     \n   Tail          55    25     50      5      10     0     5    25     0
     ```"
 
-      end
 end
     end
 end

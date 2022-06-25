@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Kuarusepusu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Kuarusepusu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/FrontierGen-Kuarusepusu_Render_002.png/revision/latest?cb=20140831152606"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227552555782154/kuarusepusu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Tail          15    25     20     15       5    10     0     5     0
     ```"
 
-      end
 end
-      command :Kuarusepusu_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Kuarusepusu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/2b/FrontierGen-HC_Kuarusepusu_Render_001.png/revision/latest?cb=20141118220620"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227552555782154/kuarusepusu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Tail          15    25     20     10       5     5     0     5     0
     ```"
 
-      end
 end
-      command :Kuarusepusu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Kuarusepusu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/0/01/Kuarusepusu.png/revision/latest?cb=20120523192041"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906227552555782154/kuarusepusu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Tail          15    25     20     20       5     5     0     5     0
     ```"
 
-      end
 end
     end
 end

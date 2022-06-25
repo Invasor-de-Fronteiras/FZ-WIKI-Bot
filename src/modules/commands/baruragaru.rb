@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Baruragaru do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Baruragaru do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/68/FrontierGen-Baruragaru_Render_001.png/revision/latest?cb=20140810153856"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904783129653436456/baruragaru.png"
     msg.respond "***Based on Cutting Damage!***
@@ -63,13 +59,8 @@ module Bot::DiscordCommands
     \n   Tail          30    20     40     10       0     0     5     0     0  
     ```"
 
-      end
 end
-      command :Baruragaru_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Baruragaru_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/FrontierGen-Baruragaru_Render_003.png/revision/latest?cb=20140810155032"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/904783129653436456/baruragaru.png"
     msg.respond "***Based on Cutting Damage!***
@@ -126,7 +117,6 @@ end
     \n   Tail          30    20     40     10       0     0     5     0     0   
     ```"
 
-      end
 end
     end
 end

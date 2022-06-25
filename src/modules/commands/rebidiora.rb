@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Rebidiora do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Rebidiora do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/6/63/FrontierGen-Rebidiora_Render_002.png/revision/latest?cb=20140404222258"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906263602950991943/rebidiora.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,7 +36,6 @@ module Bot::DiscordCommands
     \n   Wings         45    35     35      0      30     0    15    10     0
     ```"
 
-      end
 end
     end
 end

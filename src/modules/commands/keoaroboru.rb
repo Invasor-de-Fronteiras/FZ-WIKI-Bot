@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Keoaruboru do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Keoaruboru do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/c/cc/FrontierGen-Keoaruboru_Render_001.png/revision/latest?cb=20170120045811"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906223325787877416/keoaruboru.png"
     msg.respond "***Based on Cutting Damage!***
@@ -40,7 +36,6 @@ module Bot::DiscordCommands
     \n   ??            45    45     40     10       0    10     5     5     0
     ```"
 
-      end
 end
     end
 end

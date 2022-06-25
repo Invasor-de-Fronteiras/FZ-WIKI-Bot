@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Zenaserisu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Zenaserisu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/a/af/FrontierGen-Zenaserisu_Render_001.png/revision/latest?cb=20160921063322"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906317289660481626/zenaserisu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -27,7 +23,6 @@ module Bot::DiscordCommands
     \n   Tail          35    15     25      0       0    25    15     0     0
     ```"
 
-      end
 end
     end
 end

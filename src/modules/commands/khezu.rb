@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Khezu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Khezu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/2/20/MHF2-Khezu_Render_001.png/revision/latest?cb=20150303010414"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226605360304158/khezu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          25    20     30     15       5     0     5     5     0
     ```"
 
-      end
 end
-      command :Khezu_HR do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Khezu_HR do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/ea/FrontierGen-HC_Khezu_Render_001.png/revision/latest?cb=20140906152107"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226848822874172/khezuhr5.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,13 +47,8 @@ end
     \n   Legs          35    25     35      5       0     0    10     5     0
     ```"
 
-      end
 end
-      command :Khezu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Khezu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/9/98/Khezu.png/revision/latest?cb=20091210213628"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906226605360304158/khezu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -84,7 +70,6 @@ end
     \n   Legs          25    20     30     15       5     0     5     5     0
     ```"
 
-      end
 end
     end
 end

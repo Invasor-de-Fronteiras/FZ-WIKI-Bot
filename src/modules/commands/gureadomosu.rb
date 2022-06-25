@@ -2,11 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Gureadomosu do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Gureadomosu do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/80/FrontierGen-Gureadomosu_Render_001.png/revision/latest?cb=20150411043939"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215006255865906/gureadomosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -28,13 +24,8 @@ module Bot::DiscordCommands
     \n   Legs          30    35     20     10       0    10     0     0     0
     ```"
 
-      end
 end
-      command :Gureadomosu_G do  |msg|
-        server = msg.server
-        if server == "932712097517822012"
-          msg.respond "🤡"
-  else
+      command :Gureadomosu_G do |msg|
         # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/FrontierGen-Gureadomosu_Render_002.png/revision/latest?cb=20150411043443"
         msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/906215006255865906/gureadomosu.png"
     msg.respond "***Based on Cutting Damage!***
@@ -56,7 +47,6 @@ end
     \n   Legs          20    30     20      5       0     5     0     0     0
     ```"
 
-      end
 end
     end
 end
