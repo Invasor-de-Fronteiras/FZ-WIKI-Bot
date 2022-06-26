@@ -54,6 +54,7 @@ but nobody came....```"
 
     command :Doratrice do |event|
     event.send_file (File.open('src/modules/files/AHAHA.mp3', 'r'))
+    event.send_file (File.open('src/modules/files/beatrice.gif', 'r'))
     end
 
     command :Seph do |msg|
