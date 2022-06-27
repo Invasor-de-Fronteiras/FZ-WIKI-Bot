@@ -2,7 +2,7 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
         command :Ravi do |msg|
-            msg.respond "```Great Slaying Chat Commands
+            msg.respond "```Great Slaying Chat Commands v1 (Use v2 below if your Ravi code is updated)
 
 1. !ravistart - In order to force the chosen Great Slaying to start.
 Or: choose >>>Leave Great Slaying<<< in order to... well, leave the Great Slaying. Everyone must do this if the host leaves.
@@ -24,8 +24,16 @@ Or: choose >>>Leave Great Slaying<<< in order to... well, leave the Great Slayin
 The host should use the !setmultiplier command to 4 (because 4 x 4 = 16).
 - Only the host should be using this command. As such, they should talk it over with the group they're going to do ravi with.
 - Don't set it higher than 32, since this may break things.
-- This command can only be run ONCE per posted Raviente! If the host used the wrong number, everyone must leave the Great Slaying!```"
+- This command can only be run ONCE per posted Raviente! If the host used the wrong number, everyone must leave the Great Slaying!```
+```Ravi Commands v2 Syntax (Use v1 if your Ravi code is outdated)
 
+!ravi start
+!ravi sm / !ravi setmultiplier (up to 32x now)
+!ravi cm / !ravi checkmultiplier
+!ravi rs (request sedation)
+!ravi ss (send sedation)
+!ravi sr (send resurrection)
+```"
         end
     end
 end

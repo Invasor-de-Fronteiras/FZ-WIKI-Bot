@@ -136,7 +136,7 @@ floors =
 '8th',
 '9th']
 
-        event.respond "Look at this cheat shop user with Zenith equipment and a maxed Ravi weapon dying to a #{monsters.sample} on the Roads #{floors.sample} floor."
+        event.respond "Look at this cheat shop user with Zenith equipment and a maxed Ravi weapon dying to a #{monsters.sample} on the #{floors.sample} floor of road."
         event.send_file (File.open('src/modules/files/point.gif', 'r'))
       end
     end
