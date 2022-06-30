@@ -58,7 +58,8 @@ but nobody came....```"
     end
 
     command :Seph do |msg|
-    msg.respond "https://www.youtube.com/watch?v=e5wyOJ_R1go&ab_channel=SephVII"
+    msg.send "Here, Seph's G Rank Rebalance"
+    msg.send "https://github.com/SephVII/MHFZ-SephVII-Adjustments-and-Changes"
     end
     
     command :Afk do |msg|
