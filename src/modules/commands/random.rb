@@ -122,14 +122,6 @@ module Bot::DiscordCommands
 'Zenaserisu',
 'Zerureusu']
 
-ranks =
-[
-'Low Rank',
-'High Rank',
-'Great Skill/Gou',
-'G Rank',
-'Zenith']
-
 masters =
 [
 'Luna',
@@ -153,6 +145,14 @@ masters =
 roles =
 [
 'Epic Hunter',
+'Great Mocorongo',
+'Father of Cheat Shop Users',
+'Scholar of the first Cheat',
+'Mushroom Farmer',
+'Elder Dragon Cultist',
+'Wyvern Egg Dealer',
+'Master of Janky Controls',
+'Snake Eater',
 'Guild Scholar',
 'Kut-Ku Killer',
 'Village Hero',
@@ -169,18 +169,33 @@ roles =
 'Master of Solitude',
 'Cheat Shop User']
 
+weapons =
+[
+  'Lance',
+  'Tonfas',
+  'Switch Axe',
+  'LBG',
+  'HBG',
+  'Bow',
+  'Hammer',
+  'SnS',
+  'GS',
+  'Long Sword']
+
 type =
 [
   'HC',
   'Unlimited',
   'Normal']
 
-
 command :Hunt  do |event|
   event.channel.send_embed do |embed|
-    embed.description = "✉️ Noble hunter, the #{roles.sample} #{masters.sample} requested a #{ranks.sample} #{monsters.sample} #{type.sample} hunt. ✉️
-
-P.S.: If you don't have enough rank or the monster doesn't belong to it, hunt the one you have access to."
+    embed.description = "✉️ Legendary hunter, the #{roles.sample} #{masters.sample} requested a #{monsters.sample} #{type.sample} hunt with #{weapons.sample}. ✉️"
+    embed.colour = 0xff8040
+    embed.author = Discordrb::Webhooks::EmbedAuthor.new(
+        name: event.author.display_name,
+        icon_url: event.author.avatar_url
+    )
 end
 nil
 end

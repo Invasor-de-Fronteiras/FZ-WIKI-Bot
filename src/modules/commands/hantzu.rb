@@ -2,14 +2,19 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Hantzu do |msg|
+      command :Hantzu do |event|
 
-      msg.send "Can i feed my Halk with my tears?
-                            v 0.0.3.9"
-                            #sleep(3.5)
-      msg.send "Help me to buy Sunbreak
-https://ko-fi.com/hantzu"                       
+      event.channel.send_embed do |embed|
+        embed.description = "Can i feed my Halk with my tears?
+                                        v 0.0.3.9b"
+        embed.colour = 0xff8040
+        embed.author = Discordrb::Webhooks::EmbedAuthor.new(
+            name: event.author.display_name,
+            icon_url: event.author.avatar_url
+        )
 
-    end
+                            
+   end
   end
+ end
 end
