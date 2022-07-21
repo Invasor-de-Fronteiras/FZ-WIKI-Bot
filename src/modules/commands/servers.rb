@@ -10,9 +10,9 @@ module Bot::DiscordCommands
         
 <:3712zerotwoheartlove:944841889495003147> This is EVE's: https://discord.gg/BSYusKW7Ps
 
-:flag_br: This is Ryuzaki's https://discord.gg/Agjkad7zdU
+:flag_br: This is Ryuzaki's https://discord.gg/Agjkad7zdU"
 
-<:ogduck:933526166676078672> This is Yasser's server: https://discord.gg/u9Jyenppx7 <:ogduck:933526166676078672> "
+#<:ogduck:933526166676078672> This is Yasser's server: https://discord.gg/u9Jyenppx7 <:ogduck:933526166676078672> 
       end
     end
   end
