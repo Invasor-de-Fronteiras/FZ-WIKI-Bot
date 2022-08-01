@@ -12,9 +12,11 @@ module Bot::DiscordCommands
 
 :flag_br: This is Ryuzaki's https://discord.gg/Agjkad7zdU
 
-<:ogduck:933526166676078672> This is Yasser's server: https://discord.gg/u9Jyenppx7 <:ogduck:933526166676078672>
+<:ogduck:933526166676078672> This is Spanner's server: https://discord.gg/u9Jyenppx7 <:ogduck:933526166676078672>
 
 :sunglasses: This is Keyroii's Server (EU): https://discord.gg/9SBdaGcdT8 :sunglasses: 
+
+:japan:  This is Hunter's Server (JP): https://discord.gg/5nu9gp75fY :japan: 
 "
       end
     end
