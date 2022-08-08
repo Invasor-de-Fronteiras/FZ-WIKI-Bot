@@ -7,7 +7,7 @@ module Bot::DiscordCommands
 <:allysexy:944007427865583646> This is Spectra's: https://discord.gg/YtbzG7pXaF
 
 ❤️ This is Not_52's: https://discord.gg/mPT76FNTES
-        
+
 <:3712zerotwoheartlove:944841889495003147> This is EVE's: https://discord.gg/BSYusKW7Ps
 
 :flag_br: This is Ryuzaki's https://discord.gg/Agjkad7zdU

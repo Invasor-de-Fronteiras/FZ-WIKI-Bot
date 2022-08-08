@@ -70,5 +70,9 @@ but nobody came....```"
     msg.respond "https://c.tenor.com/_qvQxLnUcLYAAAAC/yoshi-fat-yoshi.gif"
     end
 
+    command :Ferias do |msg|
+        msg.respond "https://xl3lackout.github.io/MHFZ-Ferias-English-Project/"
+        end
+    
   end
 end
