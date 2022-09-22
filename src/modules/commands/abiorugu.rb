@@ -2,10 +2,9 @@ module Bot::DiscordCommands
     module Monsters
       extend Discordrb::Commands::CommandContainer
 
-      command :Abiorugu do |msg|
-        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/3/34/FrontierGen-Abiorugu_Render_001.png/revision/latest/scale-to-width-down/350?cb=20140831155147"
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/903891300720472114/abiorugu.png"
-        msg.respond "***Based on Cutting Damage!***
+      command :Abiorugu do |event|
+        event.send_file (File.open('src/modules/files/hitzones/abiorugu.png', 'r'))
+        event.respond "***Based on Cutting Damage!***
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** HR1-4
@@ -35,7 +34,7 @@ module Bot::DiscordCommands
     \n   Tail          30    25     25      0       5     5     0     5     0
     \n   Spines        45    50     35      0       5     5     0     5     0
     ```"
-    msg.respond "```
+    event.respond "```
     \n                                 Rage 2								
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -60,10 +59,9 @@ module Bot::DiscordCommands
     ```"
 
       end
-      command :Abiorugu_HR do |msg|
-        # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/4/40/FrontierGen-HC_Abiorugu_Render_001.png/revision/latest?cb=20150722094608"
-        msg.respond  "https://cdn.discordapp.com/attachments/902336832069595197/903891300720472114/abiorugu.png"
-        msg.respond "***Based on Cutting Damage!***
+      command :Abiorugu_HR do |event|
+      event.send_file (File.open('src/modules/files/hitzones/abiorugu.png', 'r'))
+      event.respond "***Based on Cutting Damage!***
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** HR5-Goushu
@@ -93,7 +91,7 @@ module Bot::DiscordCommands
     \n   Tail          30    25     25      0       5     5     0     5     0
     \n   Spines        45    50     35      0       5     5     0     5     0
     ```"
-    msg.respond "```
+    event.respond "```
     \n                                 Rage 2								
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
@@ -118,10 +116,9 @@ module Bot::DiscordCommands
     ```"
 
       end
-      command :Abiorugu_G do |msg|
-      # msg.respond  "https://static.wikia.nocookie.net/monsterhunter/images/8/8b/FrontierGen-Abiorugu_Render_004.png/revision/latest/scale-to-width-down/185?cb=20140121152414"
-      msg.respond "https://cdn.discordapp.com/attachments/902336832069595197/903891300720472114/abiorugu.png"
-      msg.respond "***Based on Cutting Damage!***
+      command :Abiorugu_G do |event|
+      event.send_file (File.open('src/modules/files/hitzones/abiorugu.png', 'r'))
+      event.respond "***Based on Cutting Damage!***
     **Name:** Abiorugu / アビオルグ
     **Title:** Fierce Wyvern / 獰竜
     **Rank:** G-Rank
@@ -151,7 +148,7 @@ module Bot::DiscordCommands
     \n   Tail          25    20     20      0       5     5     0     5     0
     \n   Spines        40    45     30      0       5     5     0     5     0
     ```"
-    msg.respond "```
+    event.respond "```
     \n                                 Rage 2								
     \n   Hitzone      Cut   Imp   Shot   Fire   Water   Thu   Dra   Ice   K.O 
     \n  ------------ ----- ----- ------ ------ ------- ----- ----- ----- -----
