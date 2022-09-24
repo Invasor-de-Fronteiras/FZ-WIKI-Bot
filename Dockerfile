@@ -7,7 +7,6 @@ WORKDIR /usr/src/app
 RUN gem install bundler:2.3.19
 
 COPY Gemfile Gemfile.lock ./
-
 RUN bundle install
 
 COPY . .
