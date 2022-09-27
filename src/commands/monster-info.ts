@@ -1,3 +1,4 @@
+import { handleMonsterInteraction } from "#lib/functions/handleMonsterInteraction";
 import { ChatInputCommand, Command } from "@sapphire/framework";
 
 export class SlashCommand extends Command {
@@ -9,7 +10,7 @@ export class SlashCommand extends Command {
       return interaction.reply({ ephemeral: true, content: "Monster not found." });
     }
 
-    return interaction.reply({ ephemeral: true, content: monster.name });
+    return handleMonsterInteraction(monster, interaction);
   }
 
   public override registerApplicationCommands(registry: ChatInputCommand.Registry) {

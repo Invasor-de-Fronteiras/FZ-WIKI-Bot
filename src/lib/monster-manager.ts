@@ -13,7 +13,7 @@ interface Hitzone {
   ko: number;
 }
 
-interface Monster {
+export interface Monster {
   id: number;
   name: string;
   hitzones: Record<string, Record<string, Hitzone>>;
