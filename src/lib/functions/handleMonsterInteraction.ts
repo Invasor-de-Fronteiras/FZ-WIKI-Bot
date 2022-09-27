@@ -37,7 +37,7 @@ export function handleMonsterInteraction(
 
   const options = {
     embeds: [embed],
-    components: [components(monster)],
+    components: [components(monster, hitzone_name)],
   };
 
   if (interaction.isCommand()) {
@@ -48,7 +48,7 @@ export function handleMonsterInteraction(
   interaction.update(options);
 }
 
-const components = (monster: Monster) => {
+const components = (monster: Monster, currentHitzoneName: string) => {
   const row = new MessageActionRow();
 
   for (const hitzone in monster.hitzones) {
@@ -56,6 +56,7 @@ const components = (monster: Monster) => {
       new MessageButton()
         .setCustomId(makeHitboxCustomId(monster.id, hitzone))
         .setLabel(hitzone)
+        .setDisabled(currentHitzoneName === hitzone)
         .setStyle("SUCCESS"),
     );
   }
