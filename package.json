@@ -1,5 +1,5 @@
 {
-  "name": "fz-wiki-Bot",
+  "name": "fz-wiki-bot",
   "version": "1.0.0",
   "main": "dist/index.js",
   "author": "@sapphire",
@@ -7,7 +7,7 @@
     "@sapphire/decorators": "^4.3.8",
     "@sapphire/discord-utilities": "next",
     "@sapphire/discord.js-utilities": "next",
-    "@sapphire/framework": "next",
+    "@sapphire/framework": "^3.1.1",
     "@sapphire/plugin-logger": "next",
     "@sapphire/time-utilities": "^1.7.5",
     "@sapphire/type": "^2.2.4",

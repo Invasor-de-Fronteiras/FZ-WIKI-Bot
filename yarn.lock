@@ -93,7 +93,7 @@
   resolved "https://registry.yarnpkg.com/@sapphire/discord-utilities/-/discord-utilities-2.11.7-next.dc08606.0.tgz#464972a49b38098f189132e66a3714f21ac73b01"
   integrity sha512-CyxTBq/qin8T5UHHT7fHx+yETeJrA2BdNWA9c/pDbPrTq9XAphAEh57RWWZ48UpJQQ8UL3K1q9IUCoUrQdz2YA==
 
-"@sapphire/discord.js-utilities@^5.0.1":
+"@sapphire/discord.js-utilities@^5.0.0":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@sapphire/discord.js-utilities/-/discord.js-utilities-5.0.1.tgz#41f475c7b8964ba0b0e2dc5efc2482706db8780f"
   integrity sha512-J3PmnHW0c3Z8VylopSmQzQBunAiBmlMaPYxbeIRZB47xYiMTz/7bcVT9/8z6efprLyM2MdOdJrapoeArodU9CQ==
@@ -118,17 +118,17 @@
   resolved "https://registry.yarnpkg.com/@sapphire/duration/-/duration-1.0.0.tgz#baec4898ee71099093580db774474b25167150ff"
   integrity sha512-B+6nKYnBmIlqqbamcR4iBvbQHz6/Kq2JUVM0rA3lQ+aYUYDdcA1Spt66CKtPWwdTYEtSv0VY6Jv27WCtFNYTUg==
 
-"@sapphire/framework@next":
-  version "3.1.2-next.14ca5d5.0"
-  resolved "https://registry.yarnpkg.com/@sapphire/framework/-/framework-3.1.2-next.14ca5d5.0.tgz#b30c1f4b69b2363c314e86f1e8e8b2f61581529a"
-  integrity sha512-ftQLAnJxYbtPKbJ6nKOmS9MYlG9UXwfMM/pTWYZuQuLMqgVTIz3FfT75KYGWn3nlMblfAnXW5+EK1pu/3TOnaA==
+"@sapphire/framework@^3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@sapphire/framework/-/framework-3.1.1.tgz#e4ab18cc0c188fac3e6e776bb83cdfde488f3a58"
+  integrity sha512-dWWIhqFwVZ7nMJ6o7mIhgOAQhSfaue6IPyRSYhXuLEOU9uiQpLioXaYckVAVspRGAc5MqIalOV2htjQF2nCgjw==
   dependencies:
     "@discordjs/builders" "^0.16.0"
     "@sapphire/discord-utilities" "^2.11.6"
-    "@sapphire/discord.js-utilities" "^5.0.1"
-    "@sapphire/lexure" "^1.1.0"
+    "@sapphire/discord.js-utilities" "^5.0.0"
+    "@sapphire/lexure" "^1.0.2"
     "@sapphire/pieces" "^3.5.1"
-    "@sapphire/ratelimits" "^2.4.5"
+    "@sapphire/ratelimits" "^2.4.4"
     "@sapphire/result" "^2.4.1"
     "@sapphire/stopwatch" "^1.4.1"
     "@sapphire/utilities" "^3.9.3"
@@ -136,7 +136,7 @@
     object-hash "^3.0.0"
     tslib "^2.4.0"
 
-"@sapphire/lexure@^1.1.0":
+"@sapphire/lexure@^1.0.2":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@sapphire/lexure/-/lexure-1.1.0.tgz#95951d5cbd8b9321620440347b662acd6097c17e"
   integrity sha512-n7cdsrUwF7evuJO0RDlxogYs/5Jn6+Qc1vGd2ucfaz3ucqgBxw9dGRQFo3/x2gtxRb/3igRY0eqo7dAntbSgrw==
@@ -161,7 +161,7 @@
     colorette "^2.0.19"
     tslib "^2.4.0"
 
-"@sapphire/ratelimits@^2.4.5":
+"@sapphire/ratelimits@^2.4.4":
   version "2.4.5"
   resolved "https://registry.yarnpkg.com/@sapphire/ratelimits/-/ratelimits-2.4.5.tgz#40049436fcd3694acb8ddaf2eb61ea0963a0f9a0"
   integrity sha512-2wqpVPRaPUE+CWStLm6wGLj1uA4Ln/9qbH4Ue/eCHC6/R5lJz0+8nGD1LpiYOcyeVLTHbmwODGeD92obkPej2g==
