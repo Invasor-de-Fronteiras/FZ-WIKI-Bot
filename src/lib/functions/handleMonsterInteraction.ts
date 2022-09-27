@@ -1,20 +1,28 @@
 import { makeHitboxCustomId } from "#lib/constants";
 import type { Monster } from "#lib/monster-manager";
 import { getFirstKey } from "#lib/utils";
+import { container } from "@sapphire/framework";
 import {
   ButtonInteraction,
   CommandInteraction,
-  Interaction,
   MessageActionRow,
   MessageButton,
   MessageEmbed,
 } from "discord.js";
 
 export function handleMonsterInteraction(
-  monster: Monster,
-  interaction: CommandInteraction,
-  hitzone_name: String = getFirstKey(monster.hitzones),
+  monsterId: number,
+  interaction: CommandInteraction | ButtonInteraction,
+  hitzoneName?: String,
 ) {
+  const monster = container.monsterManager.getById(monsterId);
+
+  if (!monster) {
+    interaction.reply({ ephemeral: true, content: "Monster not found." });
+    return;
+  }
+
+  const hitzone_name = hitzoneName ?? getFirstKey(monster.hitzones);
   const hitzone = monster.hitzones[hitzone_name as keyof Monster["hitzones"]]!;
 
   const embed = new MessageEmbed().setTitle(monster.name).setColor("GREEN");
@@ -27,10 +35,17 @@ export function handleMonsterInteraction(
 
   embed.setFields({ name: "Hitzone: " + hitzone_name, value: x });
 
-  return interaction.reply({
+  const options = {
     embeds: [embed],
     components: [components(monster)],
-  });
+  };
+
+  if (interaction.isCommand()) {
+    interaction.reply(options);
+    return;
+  }
+
+  interaction.update(options);
 }
 
 const components = (monster: Monster) => {

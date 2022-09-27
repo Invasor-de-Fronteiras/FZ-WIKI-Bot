@@ -4,13 +4,8 @@ import { ChatInputCommand, Command } from "@sapphire/framework";
 export class SlashCommand extends Command {
   public async chatInputRun(interaction: Command.ChatInputInteraction) {
     const monsterId = interaction.options.getNumber("monster", true);
-    const monster = this.container.monsterManager.getById(monsterId);
 
-    if (!monster) {
-      return interaction.reply({ ephemeral: true, content: "Monster not found." });
-    }
-
-    return handleMonsterInteraction(monster, interaction);
+    return handleMonsterInteraction(monsterId, interaction);
   }
 
   public override registerApplicationCommands(registry: ChatInputCommand.Registry) {
