@@ -35,5 +35,8 @@
     "dev": "run-s build start",
     "watch:start": "tsc-watch --onSuccess \"node ./dist/index.js\"",
     "format": "prettier --write \"src/**/*.ts\""
+  },
+  "engines": {
+    "node": ">=16.17"
   }
 }
