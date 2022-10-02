@@ -13,10 +13,19 @@ interface Hitzone {
   ko: number;
 }
 
+type Rank = string;
+type MonsterPart = string;
+type MonsterMoment = string;
+
+export enum MonsterButtonType {
+  MonsterPart = "1",
+  MonsterMoment = "2",
+}
+
 export interface Monster {
   id: number;
   name: string;
-  hitzones: Record<string, Record<string, Hitzone>>;
+  hitzones: Record<Rank, Record<MonsterMoment, Record<MonsterPart, Hitzone>>>;
 }
 
 export class MonsterManager {

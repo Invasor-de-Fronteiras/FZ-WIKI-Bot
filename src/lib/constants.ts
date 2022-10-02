@@ -7,6 +7,8 @@ export enum InteractionCustomIds {
   HitboxButton = "HitboxBtn",
 }
 
-export const makeHitboxCustomId = (monsterId: number, hitzone: string) => {
-  return InteractionCustomIds.HitboxButton + ":" + monsterId + ":" + hitzone;
+export const makeHitboxCustomId = (monsterId: number, rank: string, moment?: string) => {
+  return (
+    InteractionCustomIds.HitboxButton + ":" + monsterId + ":" + rank + (moment ? ":" + moment : "")
+  );
 };

@@ -1,5 +1,5 @@
-import { makeHitboxCustomId } from "#lib/constants";
 import type { Monster } from "#lib/monster-manager";
+import { makeHitboxCustomId } from "#lib/constants";
 import { getFirstKey } from "#lib/utils";
 import { container } from "@sapphire/framework";
 import {
@@ -13,7 +13,8 @@ import {
 export function handleMonsterInteraction(
   monsterId: number,
   interaction: CommandInteraction | ButtonInteraction,
-  hitzoneName?: String,
+  rank?: string,
+  moment?: string,
 ) {
   const monster = container.monsterManager.getById(monsterId);
 
@@ -22,22 +23,26 @@ export function handleMonsterInteraction(
     return;
   }
 
-  const hitzone_name = hitzoneName ?? getFirstKey(monster.hitzones);
-  const hitzone = monster.hitzones[hitzone_name as keyof Monster["hitzones"]]!;
+  const rank_name = rank ?? getFirstKey(monster.hitzones);
+  const moment_name = moment ?? rank_name;
+  const hitzone = monster.hitzones[rank_name][moment_name];
 
   const embed = new MessageEmbed().setTitle(monster.name).setColor("GREEN");
 
-  let x = "";
+  let desc = "";
 
   for (const k in hitzone) {
-    x += `**${k}**: ${Object.values(hitzone[k]).join(",")}\n`;
+    desc += `**${k}**: ${Object.values(hitzone[k]).join(",")}\n`;
   }
 
-  embed.setFields({ name: "Hitzone: " + hitzone_name, value: x });
+  embed.setFields({ name: "Hitzone: " + rank_name, value: desc });
 
   const options = {
     embeds: [embed],
-    components: [components(monster, hitzone_name)],
+    components: [
+      ...rankComponents(monster, rank_name),
+      ...momentComponents(monster, rank_name, moment_name),
+    ],
   };
 
   if (interaction.isCommand()) {
@@ -48,18 +53,56 @@ export function handleMonsterInteraction(
   interaction.update(options);
 }
 
-const components = (monster: Monster, currentHitzoneName: string) => {
-  const row = new MessageActionRow();
+const rankComponents = (monster: Monster, currentRank: string): MessageActionRow[] => {
+  const rankRows: MessageActionRow[] = [];
 
-  for (const hitzone in monster.hitzones) {
+  let row = new MessageActionRow();
+
+  for (const rank in monster.hitzones) {
     row.addComponents(
       new MessageButton()
-        .setCustomId(makeHitboxCustomId(monster.id, hitzone))
-        .setLabel(hitzone)
-        .setDisabled(currentHitzoneName === hitzone)
+        .setCustomId(makeHitboxCustomId(monster.id, rank))
+        .setLabel(rank)
+        .setDisabled(currentRank === rank)
         .setStyle("SUCCESS"),
     );
+
+    if (row.components.length === 5) {
+      rankRows.push(row);
+      row = new MessageActionRow();
+    }
   }
 
-  return row;
+  if (row.components.length > 0) rankRows.push(row);
+
+  return rankRows;
+};
+
+const momentComponents = (
+  monster: Monster,
+  currentRank: string,
+  currentMoment: string,
+): MessageActionRow[] => {
+  const momentRows: MessageActionRow[] = [];
+
+  let row = new MessageActionRow();
+
+  for (const moment in monster.hitzones[currentRank]) {
+    row.addComponents(
+      new MessageButton()
+        .setCustomId(makeHitboxCustomId(monster.id, currentRank, moment))
+        .setLabel(moment)
+        .setDisabled(currentMoment === moment)
+        .setStyle("SECONDARY"),
+    );
+
+    if (row.components.length === 5) {
+      momentRows.push(row);
+      row = new MessageActionRow();
+    }
+  }
+
+  if (row.components.length > 0) momentRows.push(row);
+
+  return momentRows;
 };

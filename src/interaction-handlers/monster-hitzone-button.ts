@@ -9,8 +9,8 @@ import type { ButtonInteraction } from "discord.js";
 })
 export class AutocompleteHandler extends InteractionHandler {
   public override async run(interaction: ButtonInteraction) {
-    const [_customId, monsterId, hitzone] = interaction.customId.split(":");
-    return handleMonsterInteraction(Number(monsterId), interaction, hitzone);
+    const [_customId, monsterId, rank, moment] = interaction.customId.split(":");
+    return handleMonsterInteraction(Number(monsterId), interaction, rank, moment);
   }
 
   public override async parse(interaction: ButtonInteraction) {

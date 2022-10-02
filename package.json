@@ -37,6 +37,6 @@
     "format": "prettier --write \"src/**/*.ts\""
   },
   "engines": {
-    "node": ">=16.17"
+    "node": ">=16.16"
   }
 }
