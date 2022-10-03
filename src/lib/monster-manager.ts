@@ -22,15 +22,25 @@ export enum MonsterButtonType {
   MonsterMoment = "2",
 }
 
+export interface Weak {
+  element: string;
+  detail?: string;
+}
+
 export interface Monster {
   id: number;
   name: string;
+  title: string;
+  ailments: string[];
+  ranks: string[];
+  elements: string[];
+  weaks: Weak[];
   hitzones: Record<Rank, Record<MonsterMoment, Record<MonsterPart, Hitzone>>>;
 }
 
 export class MonsterManager {
   readonly #fuse = new Fuse(data, {
-    keys: ["name"],
+    keys: ["name", "title"],
   });
 
   readonly #monsters = new Map<number, Monster>();

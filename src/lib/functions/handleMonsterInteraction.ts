@@ -29,13 +29,29 @@ export function handleMonsterInteraction(
 
   const embed = new MessageEmbed().setTitle(monster.name).setColor("GREEN");
 
-  let desc = "";
+  let desc = "***Image Based on Cutting Damage!***\n";
 
+  desc += `**Name:** ${monster.name}\n`;
+  desc += `**Title:** ${monster.title}\n`;
+  desc += `**Rank:** TODO\n`;
+  desc += `**Weak to**: ${monster.weaks
+    .map((w) => {
+      let txt = w.element;
+      if (w.detail) txt += ` (${w.detail})`;
+      return txt;
+    })
+    .join(", ")}\n`;
+  desc += `**Ailments**: ${monster.ailments.join(", ")}\n`;
+  desc += `**Elements**: ${monster.ailments.join(", ")}`;
+
+  embed.setDescription(desc);
+
+  let hitzone_txt = "";
   for (const k in hitzone) {
-    desc += `**${k}**: ${Object.values(hitzone[k]).join(",")}\n`;
+    hitzone_txt += `**${k}**: ${Object.values(hitzone[k]).join(",")}\n`;
   }
 
-  embed.setFields({ name: "Hitzone: " + rank_name, value: desc });
+  embed.setFields({ name: "Hitzone: " + rank_name, value: hitzone_txt });
 
   const options = {
     embeds: [embed],
