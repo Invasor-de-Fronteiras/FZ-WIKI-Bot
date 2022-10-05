@@ -9,9 +9,9 @@
       "Defense Down"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -997,8 +997,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire",
@@ -2720,8 +2720,8 @@
       "Poison"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Water"
@@ -3657,9 +3657,9 @@
       "Paralysis"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Thunder"
@@ -4166,9 +4166,9 @@
       
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       
@@ -4435,9 +4435,9 @@
       "Sleep"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -5142,9 +5142,9 @@
       
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -5414,8 +5414,8 @@
       "Blastblight"
     ],
     "ranks":[
-      "G-Rank-Exotic",
-      "HR5-Exotic"
+      "HR5-Exotic",
+      "G-Rank-Exotic"
     ],
     "elements":[
       "Fire"
@@ -5869,9 +5869,9 @@
       
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       
@@ -5974,8 +5974,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Water"
@@ -6247,8 +6247,8 @@
       "Poison"
     ],
     "ranks":[
-      "HR5-Goushu",
       "HR1-4",
+      "HR5-Goushu",
       "G-Rank"
     ],
     "elements":[
@@ -6755,9 +6755,9 @@
       "Soiled"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -7396,9 +7396,9 @@
       
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Water"
@@ -8044,8 +8044,8 @@
       "Dragonblight"
     ],
     "ranks":[
-      "G-Rank-Exotic",
-      "HR5-Exotic"
+      "HR5-Exotic",
+      "G-Rank-Exotic"
     ],
     "elements":[
       "Dragon"
@@ -8348,9 +8348,9 @@
       
     ],
     "ranks":[
+      "HR1-4",
       "HR5",
-      "G-Rank",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       
@@ -10313,9 +10313,9 @@
       "Stun"
     ],
     "ranks":[
+      "HR1-4",
       "HR5",
-      "G-Rank",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Ice"
@@ -11244,9 +11244,9 @@
       "Paralysis"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -12288,8 +12288,8 @@
       "Defense Down"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -12478,8 +12478,8 @@
       "Crystallization"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Wind"
@@ -13171,9 +13171,9 @@
       "Paralysis"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       
@@ -13592,9 +13592,9 @@
       "Sleep"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5-Goushu",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       
@@ -14872,9 +14872,9 @@
       "Sleep"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -15647,8 +15647,8 @@
       
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Fire",
@@ -16661,9 +16661,9 @@
       "Stun"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5-Goushu",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Water"
@@ -17171,9 +17171,9 @@
       "Stun"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       
@@ -17439,8 +17439,8 @@
       
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       
@@ -17783,8 +17783,8 @@
       "Sleep"
     ],
     "ranks":[
-      "HR5",
       "HR1-4",
+      "HR5",
       "G-Rank"
     ],
     "elements":[
@@ -18584,9 +18584,9 @@
       "Poison"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       
@@ -18659,9 +18659,9 @@
       "Paralysis"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       
@@ -19981,8 +19981,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Ice"
@@ -21095,9 +21095,9 @@
       "Paralysis"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Thunder"
@@ -21236,8 +21236,8 @@
       "Stun"
     ],
     "ranks":[
-      "HR5-Goushu",
       "HR1-4",
+      "HR5-Goushu",
       "G-Rank"
     ],
     "elements":[
@@ -21507,8 +21507,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Ice",
@@ -22016,8 +22016,8 @@
       
     ],
     "ranks":[
-      "HR5-Goushu",
-      "HR1-4"
+      "HR1-4",
+      "HR5-Goushu"
     ],
     "elements":[
       "Dragon"
@@ -22203,8 +22203,8 @@
       "Stun"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       
@@ -22573,8 +22573,8 @@
       
     ],
     "ranks":[
-      "HR5-Goushu",
       "HR1-4",
+      "HR5-Goushu",
       "G-Rank"
     ],
     "elements":[
@@ -26366,8 +26366,8 @@
       "Poison"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Exotic"
+      "HR5-Exotic",
+      "G-Rank"
     ],
     "elements":[
       
@@ -26716,8 +26716,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Ice"
@@ -27723,8 +27723,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -28706,8 +28706,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5-Supremacy"
+      "HR5-Supremacy",
+      "G-Rank"
     ],
     "elements":[
       "Water"
@@ -29082,9 +29082,9 @@
       "Poison"
     ],
     "ranks":[
+      "HR1-4",
       "HR5",
-      "G-Rank",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -29626,8 +29626,8 @@
       "Confusion"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Kanade"
@@ -29926,9 +29926,9 @@
       "Poison"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       
@@ -30194,9 +30194,9 @@
       
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Thunder"
@@ -30397,9 +30397,9 @@
       "Poison"
     ],
     "ranks":[
+      "HR1-4",
       "HR5",
-      "G-Rank",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -30673,9 +30673,9 @@
       "Poison"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -32749,8 +32749,8 @@
       "Paralysis"
     ],
     "ranks":[
-      "HR5",
       "HR1-4",
+      "HR5",
       "G-Rank"
     ],
     "elements":[
@@ -33018,8 +33018,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -33285,9 +33285,9 @@
       "Magnet"
     ],
     "ranks":[
+      "HR1-4",
       "HR5-Goushu",
-      "G-Rank",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Dragon"
@@ -35298,8 +35298,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Water"
@@ -36014,8 +36014,8 @@
       "Dracophage Erosion"
     ],
     "ranks":[
-      "G-Rank-Exotic",
-      "HR5-Exotic"
+      "HR5-Exotic",
+      "G-Rank-Exotic"
     ],
     "elements":[
       "Dragon"
@@ -36359,8 +36359,8 @@
       "Paralysis"
     ],
     "ranks":[
-      "HR5-Goushu",
-      "HR1-4"
+      "HR1-4",
+      "HR5-Goushu"
     ],
     "elements":[
       "Thunder"
@@ -36793,8 +36793,8 @@
       
     ],
     "ranks":[
-      "HR5",
       "HR1-4",
+      "HR5",
       "Supremacy (HR6)",
       "G-Rank"
     ],
@@ -37544,9 +37544,9 @@
       "Iceblight"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       
@@ -38222,8 +38222,8 @@
       "Paralysis"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Thunder"
@@ -39877,8 +39877,8 @@
       "Sleep"
     ],
     "ranks":[
-      "G-Rank-Exotic",
-      "HR5-Exotic"
+      "HR5-Exotic",
+      "G-Rank-Exotic"
     ],
     "elements":[
       "Fire"
@@ -40225,8 +40225,8 @@
       
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -40729,8 +40729,8 @@
     ],
     "ranks":[
       "HR1-4",
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       
@@ -41704,9 +41704,9 @@
       "Soiled"
     ],
     "ranks":[
-      "G-Rank",
       "HR1-4",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       
@@ -42312,8 +42312,8 @@
       "Defense Down"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5"
+      "HR5",
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -43347,8 +43347,8 @@
       
     ],
     "ranks":[
-      "G-Rank",
-      "HR1-4"
+      "HR1-4",
+      "G-Rank"
     ],
     "elements":[
       
@@ -43535,8 +43535,8 @@
       "Sleep"
     ],
     "ranks":[
-      "G-Rank",
-      "HR5-Goushu"
+      "HR5-Goushu",
+      "G-Rank"
     ],
     "elements":[
       
@@ -44306,9 +44306,9 @@
       "Poison"
     ],
     "ranks":[
-      "G-Rank",
+      "HR1-4",
       "HR5",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
@@ -44574,9 +44574,9 @@
       
     ],
     "ranks":[
+      "HR1-4",
       "HR5",
-      "G-Rank",
-      "HR1-4"
+      "G-Rank"
     ],
     "elements":[
       "Fire"
