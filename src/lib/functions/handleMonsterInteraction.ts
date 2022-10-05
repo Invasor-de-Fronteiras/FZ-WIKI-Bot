@@ -10,6 +10,7 @@ import {
   MessageEmbed,
 } from "discord.js";
 import path from "path";
+import { getEmoji } from "#lib/emojis";
 
 export function handleMonsterInteraction(
   monsterId: number,
@@ -34,17 +35,16 @@ export function handleMonsterInteraction(
 
   desc += `**Name:** ${monster.name}\n`;
   desc += `**Title:** ${monster.title}\n`;
-  desc += `**Rank:** TODO\n`;
   desc += `**Weak to**: ${monster.weaks
     .map((w) => {
-      let txt = w.element;
+      let txt = getEmoji(w.element);
       if (w.detail) txt += ` (${w.detail})`;
       return txt;
     })
     .join(", ")}\n`;
 
-  desc += `**Ailments**: ${monster.ailments.join(", ")}\n`;
-  desc += `**Elements**: ${monster.ailments.join(", ")}`;
+  desc += `**Ailments**: ${monster.ailments.map((n) => getEmoji(n)).join(", ")}\n`;
+  desc += `**Elements**: ${monster.ailments.map((n) => getEmoji(n)).join(", ")}`;
 
   embed.setDescription(desc);
 
