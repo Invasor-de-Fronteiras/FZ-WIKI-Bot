@@ -1,7 +1,7 @@
 import data from "#assets/data.json";
 import Fuse from "fuse.js";
 
-interface Hitzone {
+export interface Hitzone {
   cutting: number;
   impact: number;
   shot: number;

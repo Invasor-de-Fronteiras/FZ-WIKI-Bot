@@ -1,6 +1,6 @@
-import type { Monster } from "#lib/monster-manager";
+import type { Hitzone, Monster } from "#lib/monster-manager";
 import { makeHitboxCustomId, srcDir } from "#lib/constants";
-import { getFirstKey } from "#lib/utils";
+import { codeBlockNum, getFirstKey } from "#lib/utils";
 import { container } from "@sapphire/framework";
 import {
   ButtonInteraction,
@@ -43,17 +43,43 @@ export function handleMonsterInteraction(
     })
     .join(", ")}\n`;
 
-  desc += `**Ailments**: ${monster.ailments.map((n) => getEmoji(n)).join(", ")}\n`;
-  desc += `**Elements**: ${monster.ailments.map((n) => getEmoji(n)).join(", ")}`;
+  desc += `**Ailments**: ${
+    monster.ailments.length ? monster.ailments.map((n) => getEmoji(n)).join(", ") : "None"
+  }\n`;
+  desc += `**Elements**: ${
+    monster.elements.length ? monster.elements.map((n) => getEmoji(n)).join(", ") : "None"
+  }\n`;
 
   embed.setDescription(desc);
 
-  let hitzone_txt = "";
+  let names: string = "";
+  let weapon: string = "";
+  let elements: string = "";
+
   for (const k in hitzone) {
-    hitzone_txt += `**${k}**: ${Object.values(hitzone[k]).join(",")}\n`;
+    names += `\`${k}\`\n`;
+
+    const parts = hitzone[k];
+    weapon += codeBlockNum([parts.cutting, parts.impact, parts.shot]) + `\n`;
+
+    elements +=
+      codeBlockNum([parts.fire, parts.water, parts.thunder, parts.dragon, parts.ice]) + "\n";
   }
 
-  embed.setFields({ name: "Hitzone: " + rank_name, value: hitzone_txt });
+  embed.setFields(
+    { name: "Hitzone", value: names, inline: true },
+
+    {
+      name: "Cut Imp Shot",
+      value: weapon,
+      inline: true,
+    },
+    {
+      name: "Fre Wtr Thu Dra Ice",
+      value: elements,
+      inline: true,
+    },
+  );
 
   const image_path = path.resolve(srcDir, "assets", "images", monster.image);
 

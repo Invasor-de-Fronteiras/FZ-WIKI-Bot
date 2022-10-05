@@ -1,5 +1,5 @@
 export const getEmoji = (name: string): string => {
-  const input = name.replace(/Extreme|\s|blight/gi, "");
+  const input = name?.replace(/Extreme|\s|blight/gi, "");
 
   switch (input) {
     case "zerosion":
