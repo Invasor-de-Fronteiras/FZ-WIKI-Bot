@@ -6,7 +6,6 @@ import {
   ButtonInteraction,
   CommandInteraction,
   MessageActionRow,
-  MessageAttachment,
   MessageButton,
   MessageEmbed,
 } from "discord.js";
@@ -57,7 +56,6 @@ export function handleMonsterInteraction(
   embed.setFields({ name: "Hitzone: " + rank_name, value: hitzone_txt });
 
   const image_path = path.resolve(srcDir, "assets", "images", monster.image);
-  // const attach = new MessageAttachment();
 
   const options = {
     files: [image_path],
