@@ -1503,17 +1503,20 @@
     "id":7,
     "title":"Storm Dragon / 嵐龍",
     "ailments":[
-      
+      "Water",
+      "Dragon"
     ],
     "ranks":[
       "HR5-Exotic",
       "G-Rank-Exotic"
     ],
     "elements":[
-      
+      "Waterblight",
+      "Dragonblight"
     ],
     "weaks":[
-      
+      "Dragon",
+      "Fire"
     ],
     "hitzones":{
       "Standard":{
@@ -10305,7 +10308,9 @@
     "id":71,
     "title":"Ice Fox Wyvern / 氷狐竜",
     "ailments":[
-      
+      "Frostbite",
+      "Sleep",
+      "Stun"
     ],
     "ranks":[
       "HR5",
@@ -10313,10 +10318,12 @@
       "HR1-4"
     ],
     "elements":[
-      
+      "Ice"
     ],
     "weaks":[
-      
+      "Dragon",
+      "Fire",
+      "Thunder"
     ],
     "hitzones":{
       "HR5":{
@@ -12475,7 +12482,7 @@
       "HR5-Goushu"
     ],
     "elements":[
-      
+      "Wind"
     ],
     "weaks":[
       {
@@ -23080,7 +23087,7 @@
       "G-Rank"
     ],
     "elements":[
-      
+      "Darkness"
     ],
     "weaks":[
       {
@@ -26243,12 +26250,12 @@
     }
   },
   {
-    "name":"Twinkling Zerereusu / Sparkling Zerureusu / 極み耀くゼルレウス",
+    "name":"Twinkling Zerureusu / Sparkling Zerureusu / 極み耀くゼルレウス",
     "image":"blinkingnargacuga.png",
     "id":165,
     "title":"Bright Field Wyvern / 輝界竜",
     "ailments":[
-      
+      "Light"
     ],
     "ranks":[
       "Musou"
@@ -49768,7 +49775,7 @@
     "id":306,
     "title":"Bright Field Wyvern / 輝界竜",
     "ailments":[
-      
+      "Light"
     ],
     "ranks":[
       "HR5-Goushu",
