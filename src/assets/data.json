@@ -34921,7 +34921,9 @@
       "Conquest"
     ],
     "elements":[
-      "Fire","Thunder","Water"
+      "Fire",
+      "Thunder",
+      "Water"
     ],
     "weaks":[
       {
@@ -37536,7 +37538,10 @@
     "id":239,
     "title":"Roaring Wyvern / 轟竜",
     "ailments":[
-      "Snowman","Fireblight","Waterblight","Iceblight"
+      "Snowman",
+      "Fireblight",
+      "Waterblight",
+      "Iceblight"
     ],
     "ranks":[
       "G-Rank",
@@ -37547,8 +37552,14 @@
       
     ],
     "weaks":[
-      {"element": "Thunder", "detail": null},
-      {"element": "Dragon", "detail": null}
+      {
+        "element":"Thunder",
+        "detail":null
+      },
+      {
+        "element":"Dragon",
+        "detail":null
+      }
     ],
     "hitzones":{
       "Standard":{
@@ -44925,19 +44936,25 @@
     "id":283,
     "title":"Violent Saw Wyvern / 暴鋸竜",
     "ailments":[
-      "Extreme Iceblight","Dragonblight"
+      "Extreme Iceblight",
+      "Dragonblight"
     ],
     "ranks":[
       "Zenith"
     ],
     "elements":[
-      "Ice","Dragon"
+      "Ice",
+      "Dragon"
     ],
     "weaks":[
-      {"element":"Thunder", "detail":null
-    },
-    {"element":"Fire", "detail":null
-    }
+      {
+        "element":"Thunder",
+        "detail":null
+      },
+      {
+        "element":"Fire",
+        "detail":null
+      }
     ],
     "hitzones":{
       "Zenith":{
@@ -49795,7 +49812,7 @@
       },
       {
         "element":"Darkness",
-        "detail": null
+        "detail":null
       }
     ],
     "hitzones":{
