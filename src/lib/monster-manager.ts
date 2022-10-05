@@ -30,6 +30,7 @@ export interface Weak {
 export interface Monster {
   id: number;
   name: string;
+  image: string;
   title: string;
   ailments: string[];
   ranks: string[];

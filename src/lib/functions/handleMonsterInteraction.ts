@@ -1,14 +1,16 @@
 import type { Monster } from "#lib/monster-manager";
-import { makeHitboxCustomId } from "#lib/constants";
+import { makeHitboxCustomId, srcDir } from "#lib/constants";
 import { getFirstKey } from "#lib/utils";
 import { container } from "@sapphire/framework";
 import {
   ButtonInteraction,
   CommandInteraction,
   MessageActionRow,
+  MessageAttachment,
   MessageButton,
   MessageEmbed,
 } from "discord.js";
+import path from "path";
 
 export function handleMonsterInteraction(
   monsterId: number,
@@ -41,6 +43,7 @@ export function handleMonsterInteraction(
       return txt;
     })
     .join(", ")}\n`;
+
   desc += `**Ailments**: ${monster.ailments.join(", ")}\n`;
   desc += `**Elements**: ${monster.ailments.join(", ")}`;
 
@@ -53,7 +56,11 @@ export function handleMonsterInteraction(
 
   embed.setFields({ name: "Hitzone: " + rank_name, value: hitzone_txt });
 
+  const image_path = path.resolve(srcDir, "assets", "images", monster.image);
+  // const attach = new MessageAttachment();
+
   const options = {
+    files: [image_path],
     embeds: [embed],
     components: [
       ...rankComponents(monster, rank_name),
