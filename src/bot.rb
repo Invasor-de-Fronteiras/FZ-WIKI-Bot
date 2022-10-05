@@ -5,11 +5,11 @@ require 'yaml'
 module Bot
   Dir['src/modules/*.rb'].each { |mod| load mod }
 
-  CONFIG = OpenStruct.new YAML.load_file 'data/config.yaml'
+  # CONFIG = OpenStruct.new YAML.load_file 'data/config.yaml'
 
-  BOT = Discordrb::Commands::CommandBot.new(client_id: CONFIG.client_id,
-                                            token: CONFIG.token,
-                                            prefix: CONFIG.prefix)
+  BOT = Discordrb::Commands::CommandBot.new(client_id: ENV['CLIENT_ID'],
+                                            token: ENV['DISCORD_TOKEN'],
+                                            prefix: ENV['PREFIX'])
 
   def self.load_modules(klass, path)
     new_module = Module.new
