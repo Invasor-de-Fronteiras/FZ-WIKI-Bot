@@ -1,14 +1,27 @@
-FROM ruby:2.7.5
+FROM node:16-bullseye-slim as builder
 
-RUN bundle config --global frozen 1
-
-WORKDIR /usr/src/app
-
-RUN gem install bundler:2.3.19
-
-COPY Gemfile Gemfile.lock ./
-RUN bundle install
+WORKDIR /app
 
 COPY . .
 
-CMD ["ruby", "run.rb"]
+RUN apt-get update && \
+  apt-get upgrade -y --no-install-recommends && \
+  apt-get install -y --no-install-recommends build-essential python3 && \
+  apt-get clean && \
+  rm -rf /var/lib/apt/lists/*
+
+RUN yarn install
+RUN yarn build
+
+FROM node:16-bullseye-slim AS runner
+
+WORKDIR /app
+
+COPY --from=builder /app .
+
+RUN addgroup --system --gid 1001 bot
+RUN adduser --system --uid 1001 bot
+
+USER bot
+
+CMD [ "yarn", "start" ]
