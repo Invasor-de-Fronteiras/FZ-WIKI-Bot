@@ -5593,7 +5593,7 @@
   },
   {
     "name":"Bright Hypnoc / Breeding Season Hypnocatrice / ヒプノック繁殖期",
-    "image":"zenith_hypnoc.png",
+    "image":"breedingseasonhypnoc.png",
     "id":39,
     "title":"Blue Sleep Bird / 蒼眠鳥",
     "ailments":[
@@ -19628,7 +19628,7 @@
   },
   {
     "name":"Jinouga / Zinogre / ジンオウガ",
-    "image":"giaorugu.png",
+    "image":"zinogre.png",
     "id":127,
     "title":"Thunder Wolf Wyvern / 雷狼竜",
     "ailments":[
@@ -22009,7 +22009,7 @@
   },
   {
     "name":"Lao-Shan Lung / ラオシャンロン",
-    "image":"ashen_lao_shan_lung.png",
+    "image":"lao-shanlung.png",
     "id":145,
     "title":"Old Mountain Dragon / 老山龍",
     "ailments":[
@@ -24993,7 +24993,7 @@
   },
   {
     "name":"Arrogant Duremudira / 極み傲るドゥレムディラ",
-    "image":"pariapuria.png",
+    "image":"duremudiramusou.png",
     "id":160,
     "title":"Guardian of Sky Corridor / 天廊の番人",
     "ailments":[
@@ -25473,7 +25473,7 @@
   },
   {
     "name":"Shifting Mi Ru / Mysterious Mi Ru / 妖し化けるミ・ル",
-    "image":"lao-shanlunghr5.png",
+    "image":"miru.png",
     "id":163,
     "title":"Black Fox Wyvern / 黒狐竜",
     "ailments":[
@@ -26251,7 +26251,7 @@
   },
   {
     "name":"Twinkling Zerureusu / Sparkling Zerureusu / 極み耀くゼルレウス",
-    "image":"blinkingnargacuga.png",
+    "image":"zerureusumusou.png",
     "id":165,
     "title":"Bright Field Wyvern / 輝界竜",
     "ailments":[
@@ -31119,7 +31119,7 @@
   },
   {
     "name":"Violent Raviente / ラヴィエンテ狂暴期",
-    "image":"berserkraviente.png",
+    "image":"raviente.png",
     "id":201,
     "title":"Great Crag Wyvern / 大巌竜",
     "ailments":[
@@ -44029,7 +44029,7 @@
     }
   },
   {
-    "name":"Yama Tsukami / ヤマツカミ",
+    "name":"Yamatsukami / ヤマツカミ",
     "image":"yamakurai.png",
     "id":274,
     "title":"Floating Mountain Dragon / 浮岳龍",
@@ -45549,7 +45549,7 @@
   },
   {
     "name":"Bogabadorumu / ボガバドルム",
-    "image":"musou_bogabadorumu.png",
+    "image":"zenith_bogabadorumu.png",
     "id":286,
     "title":"Explosive Mist Wyvern / 爆霧竜",
     "ailments":[

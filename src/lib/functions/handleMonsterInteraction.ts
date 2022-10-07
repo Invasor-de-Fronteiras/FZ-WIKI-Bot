@@ -101,6 +101,10 @@ export function handleMonsterInteraction(
 }
 
 const rankComponents = (monster: Monster, currentRank: string): MessageActionRow[] => {
+  if (Object.keys(monster.hitzones).length <= 1) {
+    return [];
+  }
+
   const rankRows: MessageActionRow[] = [];
 
   let row = new MessageActionRow();
@@ -130,6 +134,10 @@ const momentComponents = (
   currentRank: string,
   currentMoment: string,
 ): MessageActionRow[] => {
+  if (Object.keys(monster.hitzones[currentRank]).length <= 1) {
+    return [];
+  }
+
   const momentRows: MessageActionRow[] = [];
 
   let row = new MessageActionRow();
