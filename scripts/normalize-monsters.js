@@ -1,4 +1,4 @@
-const data = require("./src/assets/data.json");
+const data = require("../src/assets/data.json");
 const fs = require("node:fs");
 
 const newData = [];

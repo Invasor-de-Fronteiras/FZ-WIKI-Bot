@@ -12,6 +12,8 @@
     "@sapphire/time-utilities": "^1.7.5",
     "@sapphire/type": "^2.2.4",
     "@sapphire/utilities": "^3.9.1",
+    "@sentry/node": "^7.29.0",
+    "@sentry/tracing": "^7.29.0",
     "discord.js": "^13.10.2",
     "dotenv-cra": "^3.0.2",
     "fuse.js": "^6.6.2",
