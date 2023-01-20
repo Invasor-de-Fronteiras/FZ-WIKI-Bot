@@ -1,6 +1,6 @@
 import type { Interaction } from "discord.js";
 
-import { monsterGauge } from "./register";
+import { monsterCounter } from "./register";
 
 interface MonsterMetricsData {
   monster_id: string;
@@ -19,7 +19,7 @@ export const sendMonsterMetrics = (
   >,
   interaction: Pick<Interaction, "guildId" | "user" | "channelId">,
 ) => {
-  monsterGauge
+  monsterCounter
     .labels({
       monster_id: monster.monster_id,
       monster_name: monster.monster_name,
@@ -30,4 +30,5 @@ export const sendMonsterMetrics = (
       discord_user_id: interaction.user.id,
     })
     .inc();
+  console.debug("sends");
 };

@@ -6,9 +6,8 @@ register.setDefaultLabels({
   app: "FZ-WIKI-BOT",
 });
 
-client.collectDefaultMetrics({ register });
-
-export const monsterGauge = new client.Gauge({
+export const monsterCounter = new client.Counter({
+  registers: [register],
   name: "monster_info",
   help: "seen monsters",
   labelNames: [
