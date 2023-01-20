@@ -24,4 +24,6 @@ RUN adduser --system --uid 1001 bot
 
 USER bot
 
+EXPOSE 3001
+
 CMD [ "yarn", "start" ]

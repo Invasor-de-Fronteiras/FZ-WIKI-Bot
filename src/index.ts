@@ -2,6 +2,7 @@ import "./lib/setup";
 import { LogLevel, SapphireClient } from "@sapphire/framework";
 import * as Sentry from "@sentry/node";
 import "@sentry/tracing";
+import { startHttpServer } from "./metrics/http-server";
 
 Sentry.init({
   dsn: "https://033f53a97fd44e09878cb07711ee2747@o4504454242828288.ingest.sentry.io/4504454248333312",
@@ -29,6 +30,7 @@ const main = async () => {
   try {
     client.logger.info("Logging in");
     await client.login();
+    await startHttpServer();
     client.logger.info("logged in");
   } catch (error) {
     client.logger.fatal(error);

@@ -1,4 +1,4 @@
-import type { Hitzone, Monster } from "#lib/monster-manager";
+import type { Monster } from "#lib/monster-manager";
 import { makeHitboxCustomId, srcDir } from "#lib/constants";
 import { codeBlockNum, getFirstKey } from "#lib/utils";
 import { container } from "@sapphire/framework";
@@ -11,6 +11,7 @@ import {
 } from "discord.js";
 import path from "path";
 import { getEmoji } from "#lib/emojis";
+import { sendMonsterMetrics } from "../../metrics/send-monster-metrics";
 
 export function handleMonsterInteraction(
   monsterId: number,
@@ -28,6 +29,16 @@ export function handleMonsterInteraction(
   const rank_name = rank ?? getFirstKey(monster.hitzones);
   const moment_name = moment ?? rank_name;
   const hitzone = monster.hitzones[rank_name][moment_name];
+
+  sendMonsterMetrics(
+    {
+      monster_id: monsterId.toString(),
+      monster_name: monster.name,
+      monster_rank: rank_name,
+      monster_stage: moment_name,
+    },
+    interaction,
+  );
 
   const embed = new MessageEmbed().setTitle(monster.name).setColor("GREEN");
 
