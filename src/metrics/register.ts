@@ -2,13 +2,18 @@ import client, { Registry } from "prom-client";
 
 export const register = new Registry();
 
+const PROMETHEUS_PREFIX = "fz_wiki_bot";
+const SEPARATOR = "_";
+
 register.setDefaultLabels({
-  app: "FZ-WIKI-BOT",
+  app: PROMETHEUS_PREFIX,
 });
+
+client.collectDefaultMetrics({ register, prefix: PROMETHEUS_PREFIX });
 
 export const monsterCounter = new client.Counter({
   registers: [register],
-  name: "monster_info",
+  name: PROMETHEUS_PREFIX + SEPARATOR + "monster_info",
   help: "seen monsters",
   labelNames: [
     "monster_id",
