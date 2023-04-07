@@ -30,5 +30,4 @@ export const sendMonsterMetrics = (
       discord_user_id: interaction.user.id,
     })
     .inc();
-  console.debug("sends");
 };

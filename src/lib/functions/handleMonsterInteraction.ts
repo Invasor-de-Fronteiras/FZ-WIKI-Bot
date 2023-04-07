@@ -5,9 +5,10 @@ import { container } from "@sapphire/framework";
 import {
   ButtonInteraction,
   CommandInteraction,
-  MessageActionRow,
-  MessageButton,
-  MessageEmbed,
+  ActionRowBuilder,
+  ButtonBuilder,
+  EmbedBuilder,
+  ButtonStyle, 
 } from "discord.js";
 import path from "path";
 import { getEmoji } from "#lib/emojis";
@@ -40,7 +41,7 @@ export function handleMonsterInteraction(
     interaction,
   );
 
-  const embed = new MessageEmbed().setTitle(monster.name).setColor("GREEN");
+  const embed = new EmbedBuilder().setTitle(monster.name).setColor("Green");
 
   let desc = "***Image Based on Cutting Damage!***\n";
 
@@ -111,27 +112,27 @@ export function handleMonsterInteraction(
   interaction.update(options);
 }
 
-const rankComponents = (monster: Monster, currentRank: string): MessageActionRow[] => {
+const rankComponents = (monster: Monster, currentRank: string): ActionRowBuilder<ButtonBuilder>[] => {
   if (Object.keys(monster.hitzones).length <= 1) {
     return [];
   }
 
-  const rankRows: MessageActionRow[] = [];
+  const rankRows: ActionRowBuilder<ButtonBuilder>[] = [];
 
-  let row = new MessageActionRow();
+  let row = new ActionRowBuilder<ButtonBuilder>();
 
   for (const rank in monster.hitzones) {
     row.addComponents(
-      new MessageButton()
+      new ButtonBuilder()
         .setCustomId(makeHitboxCustomId(monster.id, rank))
         .setLabel(rank)
         .setDisabled(currentRank === rank)
-        .setStyle("SUCCESS"),
+        .setStyle(ButtonStyle.Success),
     );
 
     if (row.components.length === 5) {
       rankRows.push(row);
-      row = new MessageActionRow();
+      row = new ActionRowBuilder();
     }
   }
 
@@ -144,27 +145,27 @@ const momentComponents = (
   monster: Monster,
   currentRank: string,
   currentMoment: string,
-): MessageActionRow[] => {
+): ActionRowBuilder<ButtonBuilder>[] => {
   if (Object.keys(monster.hitzones[currentRank]).length <= 1) {
     return [];
   }
 
-  const momentRows: MessageActionRow[] = [];
+  const momentRows: ActionRowBuilder<ButtonBuilder>[] = [];
 
-  let row = new MessageActionRow();
+  let row = new ActionRowBuilder<ButtonBuilder>();
 
   for (const moment in monster.hitzones[currentRank]) {
     row.addComponents(
-      new MessageButton()
+      new ButtonBuilder()
         .setCustomId(makeHitboxCustomId(monster.id, currentRank, moment))
         .setLabel(moment)
         .setDisabled(currentMoment === moment)
-        .setStyle("SECONDARY"),
+        .setStyle(ButtonStyle.Secondary),
     );
 
     if (row.components.length === 5) {
       momentRows.push(row);
-      row = new MessageActionRow();
+      row = new ActionRowBuilder();
     }
   }
 

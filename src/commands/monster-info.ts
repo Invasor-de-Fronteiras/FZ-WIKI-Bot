@@ -1,8 +1,9 @@
 import { handleMonsterInteraction } from "#lib/functions/handleMonsterInteraction";
 import { ChatInputCommand, Command } from "@sapphire/framework";
+import type { ChatInputCommandInteraction } from "discord.js";
 
 export class SlashCommand extends Command {
-  public async chatInputRun(interaction: Command.ChatInputInteraction) {
+  public async chatInputRun(interaction: ChatInputCommandInteraction) {
     const monsterId = interaction.options.getNumber("monster", true);
 
     return handleMonsterInteraction(monsterId, interaction);
