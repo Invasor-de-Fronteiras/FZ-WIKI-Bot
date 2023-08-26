@@ -1,7 +1,0 @@
-global:
-  scrape_interval: 15s
-
-scrape_configs:
-  - job_name: "mhfz-wiki-discord-bot"
-    static_configs:
-      - targets: ["app:3001", "localhost:3001"]
